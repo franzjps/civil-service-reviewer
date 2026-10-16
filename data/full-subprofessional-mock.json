@@ -1,0 +1,2807 @@
+[
+  {
+    "id": "SUBMOCK-001",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of RAPID.",
+    "options": [
+      "fast",
+      "slow",
+      "heavy",
+      "late"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rapid means fast.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-002",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of ANCIENT.",
+    "options": [
+      "old",
+      "modern",
+      "historic",
+      "early"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modern is the opposite of ancient.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-003",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of ASSIST.",
+    "options": [
+      "refuse",
+      "delay",
+      "help",
+      "hide"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assist means to help.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-004",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of GENEROUS.",
+    "options": [
+      "kind",
+      "giving",
+      "helpful",
+      "selfish"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Selfish is the opposite of generous.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-005",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of SILENT.",
+    "options": [
+      "quiet",
+      "noisy",
+      "bright",
+      "busy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Silent means quiet or making no sound.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-006",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of EXPAND.",
+    "options": [
+      "increase",
+      "shrink",
+      "widen",
+      "extend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shrink is the opposite of expand.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-007",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of PURCHASE.",
+    "options": [
+      "sell",
+      "borrow",
+      "buy",
+      "return"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Purchase means to buy.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-008",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of INCLUDE.",
+    "options": [
+      "contain",
+      "admit",
+      "involve",
+      "exclude"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Exclude is the opposite of include.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-009",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of REPAIR.",
+    "options": [
+      "fix",
+      "break",
+      "lose",
+      "replace"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Repair means to fix something.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-010",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of VICTORY.",
+    "options": [
+      "success",
+      "defeat",
+      "prize",
+      "win"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Defeat is the opposite of victory.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-011",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of OBSERVE.",
+    "options": [
+      "forget",
+      "avoid",
+      "watch",
+      "change"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Observe means to watch carefully.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-012",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of MAXIMUM.",
+    "options": [
+      "highest",
+      "greatest",
+      "largest",
+      "minimum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Minimum is the opposite of maximum.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-013",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of DEPART.",
+    "options": [
+      "leave",
+      "arrive",
+      "remain",
+      "enter"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Depart means to leave.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-014",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of POLITE.",
+    "options": [
+      "courteous",
+      "rude",
+      "kind",
+      "respectful"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rude is the opposite of polite.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-015",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of SELECT.",
+    "options": [
+      "refuse",
+      "follow",
+      "choose",
+      "remove"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Select means to choose.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-016",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of ACCEPT.",
+    "options": [
+      "receive",
+      "approve",
+      "take",
+      "reject"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Reject is the opposite of accept.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-017",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of ORDINARY.",
+    "options": [
+      "usual",
+      "rare",
+      "special",
+      "strange"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ordinary means usual or common.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-018",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of INCREASE.",
+    "options": [
+      "grow",
+      "decrease",
+      "raise",
+      "add"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Decrease is the opposite of increase.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-019",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the synonym of PROTECT.",
+    "options": [
+      "harm",
+      "ignore",
+      "guard",
+      "expose"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Protect means to guard from harm.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-020",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the antonym of ARRIVE.",
+    "options": [
+      "reach",
+      "come",
+      "appear",
+      "depart"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Depart is the opposite of arrive.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-021",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The clerk ___ the letters each morning.",
+    "options": [
+      "sorts",
+      "sort",
+      "sorting",
+      "have sorted"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The singular subject clerk takes the verb sorts.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-022",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The employees ___ ready for the meeting.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The plural subject employees takes are.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-023",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Each student ___ an identification card.",
+    "options": [
+      "have",
+      "are having",
+      "has",
+      "were"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each is singular, so has is correct.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-024",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Mia and Carlo ___ the report yesterday.",
+    "options": [
+      "finishes",
+      "finishing",
+      "has finished",
+      "finished"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The past-time word yesterday calls for finished.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-025",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The boxes ___ beside the counter.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "be"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The plural subject boxes takes are.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-026",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "He ___ to work by bus every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The singular subject he takes goes in the simple present.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-027",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "We ___ the office last Friday.",
+    "options": [
+      "visit",
+      "visits",
+      "visited",
+      "visiting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Last Friday indicates the past tense visited.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-028",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The news ___ available on the agency website.",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "is"
+    ],
+    "correctAnswer": 3,
+    "explanation": "News is treated as a singular noun.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-029",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Neither the manager nor the assistants ___ late.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "has been"
+    ],
+    "correctAnswer": 0,
+    "explanation": "With neither/nor, the verb agrees with the nearer plural subject assistants.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-030",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "A pair of gloves ___ on the desk.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subject pair is singular.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-031",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The children ___ quietly in the library.",
+    "options": [
+      "reads",
+      "reading",
+      "read",
+      "has read"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The plural subject children takes read.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-032",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Please give the folder to Ben and ___.",
+    "options": [
+      "I",
+      "my",
+      "mine",
+      "me"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Me is the object of the preposition to.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-033",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The package ___ delivered this morning.",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The singular package takes was delivered.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-034",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "If she studies, she ___ the lesson.",
+    "options": [
+      "understood",
+      "will understand",
+      "understands yesterday",
+      "understanding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A real future condition uses will understand in the result clause.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-035",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "There ___ three chairs in the room.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "has"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The plural subject three chairs takes are.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-036",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "My brother is taller ___ I am.",
+    "options": [
+      "then",
+      "that",
+      "as",
+      "than"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Than is used in a comparison.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-037",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The team ___ its work before noon.",
+    "options": [
+      "completed",
+      "complete",
+      "completes yesterday",
+      "completing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Completed is the correct simple past form.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-038",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The woman ___ answered the phone is our supervisor.",
+    "options": [
+      "whom",
+      "who",
+      "which",
+      "whose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Who is the subject pronoun for the person answering.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-039",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "She ___ her report already.",
+    "options": [
+      "have submitted",
+      "submit",
+      "has submitted",
+      "submitting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The singular subject she takes has submitted.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-040",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "The forms were placed ___ the drawer.",
+    "options": [
+      "between",
+      "during",
+      "toward",
+      "inside"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Inside correctly indicates where the forms were placed.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-041",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Bird : nest :: bee : ___",
+    "options": [
+      "hive",
+      "feather",
+      "branch",
+      "wing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A nest is where a bird lives; a hive is where bees live.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-042",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Hand : glove :: foot : ___",
+    "options": [
+      "hat",
+      "sock",
+      "shirt",
+      "belt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A glove is worn on a hand; a sock is worn on a foot.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-043",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Day : sun :: night : ___",
+    "options": [
+      "cloud",
+      "rain",
+      "moon",
+      "wind"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sun is associated with day; the moon is associated with night.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-044",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Key : lock :: password : ___",
+    "options": [
+      "keyboard",
+      "screen",
+      "paper",
+      "account"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A key gives access to a lock; a password gives access to an account.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-045",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Painter : brush :: writer : ___",
+    "options": [
+      "pen",
+      "ruler",
+      "plate",
+      "hammer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A painter uses a brush; a writer uses a pen.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-046",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Fish : water :: bird : ___",
+    "options": [
+      "soil",
+      "air",
+      "sand",
+      "stone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fish live in water; birds move through the air.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-047",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Chef : kitchen :: teacher : ___",
+    "options": [
+      "market",
+      "garage",
+      "classroom",
+      "garden"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A chef commonly works in a kitchen; a teacher commonly works in a classroom.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-048",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Knife : cut :: pencil : ___",
+    "options": [
+      "pour",
+      "sweep",
+      "stitch",
+      "write"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A knife is used to cut; a pencil is used to write.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-049",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Puppy : dog :: kitten : ___",
+    "options": [
+      "cat",
+      "goat",
+      "horse",
+      "sheep"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A puppy is a young dog; a kitten is a young cat.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-050",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Page : book :: brick : ___",
+    "options": [
+      "roof",
+      "wall",
+      "window",
+      "road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pages make up a book; bricks can make up a wall.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-051",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 128 + 47?",
+    "options": [
+      "176",
+      "177",
+      "175",
+      "178"
+    ],
+    "correctAnswer": 2,
+    "explanation": "128 + 47 = 175.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-052",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 235 + 64?",
+    "options": [
+      "300",
+      "301",
+      "302",
+      "299"
+    ],
+    "correctAnswer": 3,
+    "explanation": "235 + 64 = 299.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-053",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 316 + 82?",
+    "options": [
+      "398",
+      "399",
+      "400",
+      "401"
+    ],
+    "correctAnswer": 0,
+    "explanation": "316 + 82 = 398.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-054",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 427 + 53?",
+    "options": [
+      "481",
+      "480",
+      "482",
+      "483"
+    ],
+    "correctAnswer": 1,
+    "explanation": "427 + 53 = 480.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-055",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 158 + 126?",
+    "options": [
+      "285",
+      "286",
+      "284",
+      "287"
+    ],
+    "correctAnswer": 2,
+    "explanation": "158 + 126 = 284.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-056",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 250 ? 75?",
+    "options": [
+      "176",
+      "177",
+      "178",
+      "175"
+    ],
+    "correctAnswer": 3,
+    "explanation": "250 ? 75 = 175.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-057",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 400 ? 168?",
+    "options": [
+      "232",
+      "233",
+      "234",
+      "235"
+    ],
+    "correctAnswer": 0,
+    "explanation": "400 ? 168 = 232.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-058",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 625 ? 240?",
+    "options": [
+      "386",
+      "385",
+      "387",
+      "388"
+    ],
+    "correctAnswer": 1,
+    "explanation": "625 ? 240 = 385.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-059",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 910 ? 315?",
+    "options": [
+      "596",
+      "597",
+      "595",
+      "598"
+    ],
+    "correctAnswer": 2,
+    "explanation": "910 ? 315 = 595.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-060",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 700 ? 286?",
+    "options": [
+      "415",
+      "416",
+      "417",
+      "414"
+    ],
+    "correctAnswer": 3,
+    "explanation": "700 ? 286 = 414.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-061",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 14 ? 6?",
+    "options": [
+      "84",
+      "85",
+      "86",
+      "87"
+    ],
+    "correctAnswer": 0,
+    "explanation": "14 ? 6 = 84.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-062",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 23 ? 4?",
+    "options": [
+      "93",
+      "92",
+      "94",
+      "95"
+    ],
+    "correctAnswer": 1,
+    "explanation": "23 ? 4 = 92.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-063",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 17 ? 8?",
+    "options": [
+      "137",
+      "138",
+      "136",
+      "139"
+    ],
+    "correctAnswer": 2,
+    "explanation": "17 ? 8 = 136.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-064",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 32 ? 5?",
+    "options": [
+      "161",
+      "162",
+      "163",
+      "160"
+    ],
+    "correctAnswer": 3,
+    "explanation": "32 ? 5 = 160.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-065",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 19 ? 9?",
+    "options": [
+      "171",
+      "172",
+      "173",
+      "174"
+    ],
+    "correctAnswer": 0,
+    "explanation": "19 ? 9 = 171.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-066",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 144 ? 12?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "144 ? 12 = 12.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-067",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 225 ? 15?",
+    "options": [
+      "16",
+      "17",
+      "15",
+      "18"
+    ],
+    "correctAnswer": 2,
+    "explanation": "225 ? 15 = 15.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-068",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 336 ? 14?",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "24"
+    ],
+    "correctAnswer": 3,
+    "explanation": "336 ? 14 = 24.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-069",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 420 ? 20?",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "420 ? 20 = 21.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-070",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 288 ? 16?",
+    "options": [
+      "19",
+      "18",
+      "20",
+      "21"
+    ],
+    "correctAnswer": 1,
+    "explanation": "288 ? 16 = 18.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-071",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 15% of 200?",
+    "options": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 is 200 ? 15/100 = 30.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-072",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 25% of 320?",
+    "options": [
+      "81",
+      "82",
+      "83",
+      "80"
+    ],
+    "correctAnswer": 3,
+    "explanation": "25% of 320 is 320 ? 25/100 = 80.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-073",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 10% of 450?",
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correctAnswer": 0,
+    "explanation": "10% of 450 is 450 ? 10/100 = 45.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-074",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 5% of 600?",
+    "options": [
+      "31",
+      "30",
+      "32",
+      "33"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5% of 600 is 600 ? 5/100 = 30.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-075",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Arithmetic",
+    "difficulty": "easy",
+    "question": "What is 30% of 240?",
+    "options": [
+      "73",
+      "74",
+      "72",
+      "75"
+    ],
+    "correctAnswer": 2,
+    "explanation": "30% of 240 is 240 ? 30/100 = 72.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-076",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Fractions",
+    "difficulty": "easy",
+    "question": "What is 1/2 + 1/4?",
+    "options": [
+      "2/6",
+      "1/4",
+      "2/3",
+      "3/4"
+    ],
+    "correctAnswer": 3,
+    "explanation": "1/2 = 2/4, and 2/4 + 1/4 = 3/4.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-077",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Fractions",
+    "difficulty": "easy",
+    "question": "What is 3/4 ? 1/4?",
+    "options": [
+      "1/2",
+      "1/4",
+      "2/3",
+      "3/8"
+    ],
+    "correctAnswer": 0,
+    "explanation": "3/4 ? 1/4 = 2/4 = 1/2.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-078",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Fractions",
+    "difficulty": "easy",
+    "question": "What is 2/3 of 18?",
+    "options": [
+      "6",
+      "12",
+      "9",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "explanation": "18 ? 3 ? 2 = 12.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-079",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Fractions",
+    "difficulty": "easy",
+    "question": "Which fraction is equal to 1/2?",
+    "options": [
+      "2/5",
+      "4/6",
+      "3/6",
+      "5/8"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3/6 simplifies to 1/2.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-080",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Ratio",
+    "difficulty": "easy",
+    "question": "A recipe uses 2 cups of rice for every 3 cups of water. How many cups of water are needed for 6 cups of rice?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "9"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The rice amount is tripled, so water is 3 ? 3 = 9 cups.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-081",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Ratio",
+    "difficulty": "easy",
+    "question": "The ratio of red to blue balls is 1:4. If there are 5 red balls, how many blue balls are there?",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "25"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each ratio part is 5, so blue balls = 4 ? 5 = 20.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-082",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Ratio",
+    "difficulty": "easy",
+    "question": "There are 12 girls and 8 boys in a group. What is the ratio of girls to boys in simplest form?",
+    "options": [
+      "2:3",
+      "3:2",
+      "12:8",
+      "4:3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Divide both parts of 12:8 by 4 to get 3:2.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-083",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "What is the average of 6, 8, and 10?",
+    "options": [
+      "7",
+      "9",
+      "8",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "explanation": "(6 + 8 + 10) ? 3 = 8.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-084",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "What is the average of 12, 14, 16, and 18?",
+    "options": [
+      "14",
+      "16",
+      "17",
+      "15"
+    ],
+    "correctAnswer": 3,
+    "explanation": "(12 + 14 + 16 + 18) ? 4 = 15.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-085",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "question": "A student scored 70, 80, and 90. What is the average score?",
+    "options": [
+      "80",
+      "75",
+      "85",
+      "90"
+    ],
+    "correctAnswer": 0,
+    "explanation": "(70 + 80 + 90) ? 3 = 80.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-086",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "question": "A rectangle is 8 cm long and 5 cm wide. What is its area?",
+    "options": [
+      "13 cm?",
+      "40 cm?",
+      "26 cm?",
+      "80 cm?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Area = length ? width = 8 ? 5 = 40 cm?.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-087",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "question": "A square has sides of 6 cm. What is its perimeter?",
+    "options": [
+      "12 cm",
+      "18 cm",
+      "24 cm",
+      "36 cm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Perimeter = 4 ? side = 4 ? 6 = 24 cm.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-088",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Geometry",
+    "difficulty": "easy",
+    "question": "A triangle has a base of 10 cm and height of 4 cm. What is its area?",
+    "options": [
+      "14 cm?",
+      "40 cm?",
+      "24 cm?",
+      "20 cm?"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Triangle area = 1/2 ? base ? height = 1/2 ? 10 ? 4 = 20 cm?.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-089",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Word Problems",
+    "difficulty": "easy",
+    "question": "A worker earns ?500 per day. How much does the worker earn in 6 days?",
+    "options": [
+      "?3,000",
+      "?2,500",
+      "?3,500",
+      "?4,000"
+    ],
+    "correctAnswer": 0,
+    "explanation": "?500 ? 6 = ?3,000.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-090",
+    "category": "numerical",
+    "level": "subprofessional",
+    "topic": "Word Problems",
+    "difficulty": "easy",
+    "question": "A bus leaves at 8:00 a.m. and arrives at 10:30 a.m. How long was the trip?",
+    "options": [
+      "2 hours",
+      "2 hours 30 minutes",
+      "3 hours",
+      "3 hours 30 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "From 8:00 to 10:30 is 2 hours and 30 minutes.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-091",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 2, 4, 6, 8, ?",
+    "options": [
+      "9",
+      "11",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The numbers increase by 2; 8 + 2 = 10.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-092",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 5, 10, 15, 20, ?",
+    "options": [
+      "22",
+      "24",
+      "30",
+      "25"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The numbers increase by 5; 20 + 5 = 25.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-093",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 1, 3, 5, 7, ?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The odd numbers increase by 2; the next is 9.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-094",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 10, 20, 30, 40, ?",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The numbers increase by 10; 40 + 10 = 50.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-095",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 3, 6, 12, 24, ?",
+    "options": [
+      "36",
+      "42",
+      "48",
+      "50"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each number is doubled; 24 ? 2 = 48.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-096",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 2, 5, 8, 11, ?",
+    "options": [
+      "13",
+      "15",
+      "16",
+      "14"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The numbers increase by 3; 11 + 3 = 14.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-097",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 20, 18, 16, 14, ?",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "15"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The numbers decrease by 2; 14 ? 2 = 12.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-098",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "24",
+      "36"
+    ],
+    "correctAnswer": 1,
+    "explanation": "These are squares 1?, 2?, 3?, 4?; the next is 5? = 25.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-099",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 7, 14, 21, 28, ?",
+    "options": [
+      "32",
+      "34",
+      "35",
+      "42"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The numbers increase by 7; 28 + 7 = 35.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-100",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 50, 45, 40, 35, ?",
+    "options": [
+      "25",
+      "32",
+      "34",
+      "30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The numbers decrease by 5; 35 ? 5 = 30.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-101",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 4, 8, 12, 16, ?",
+    "options": [
+      "20",
+      "18",
+      "22",
+      "24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The numbers increase by 4; 16 + 4 = 20.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-102",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 2, 4, 8, 16, ?",
+    "options": [
+      "24",
+      "32",
+      "30",
+      "34"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each number is doubled; 16 ? 2 = 32.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-103",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 9, 12, 15, 18, ?",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "24"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The numbers increase by 3; 18 + 3 = 21.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-104",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 100, 90, 80, 70, ?",
+    "options": [
+      "50",
+      "65",
+      "75",
+      "60"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The numbers decrease by 10; 70 ? 10 = 60.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-105",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What number comes next? 1, 2, 4, 7, 11, ?",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "17"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The increments are +1, +2, +3, +4; next add 5 to get 16.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-106",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What letter comes next? A, C, E, G, ?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The series skips one letter each time, so G is followed by I.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-107",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What letter comes next? B, D, F, H, ?",
+    "options": [
+      "I",
+      "K",
+      "J",
+      "L"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The series advances two letters each time; the next letter is J.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-108",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What letter comes next? Z, X, V, T, ?",
+    "options": [
+      "S",
+      "Q",
+      "P",
+      "R"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The letters move backward by two positions; T is followed by R.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-109",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What letter comes next? A, D, G, J, ?",
+    "options": [
+      "M",
+      "L",
+      "N",
+      "O"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The letters advance three positions each time; the next is M.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-110",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What letter comes next? C, F, I, L, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The letters advance three positions each time; the next is O.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-111",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Ana is taller than Ben. Ben is taller than Cara. Who is shortest?",
+    "options": [
+      "Ana",
+      "Ben",
+      "Cara",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The order is Ana, Ben, Cara from tallest to shortest.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-112",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Lee arrived before May. May arrived before Niko. Who arrived last?",
+    "options": [
+      "Lee",
+      "May",
+      "Cannot be determined",
+      "Niko"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The order is Lee, May, Niko. Niko arrived last.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-113",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "A is older than B, and B is older than C. Who is youngest?",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The age order is A, B, C from oldest to youngest.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-114",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Tom is ahead of Uma in a line. Vic is behind Uma. Who is first among the three?",
+    "options": [
+      "Uma",
+      "Tom",
+      "Vic",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The order is Tom, Uma, Vic. Tom is first.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-115",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Nia scored higher than Oli. Pat scored lower than Oli. Who scored highest?",
+    "options": [
+      "Oli",
+      "Pat",
+      "Nia",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nia scored above Oli, who scored above Pat.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-116",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "The blue box is heavier than the red box. The green box is heavier than the blue box. Which is heaviest?",
+    "options": [
+      "Blue",
+      "Red",
+      "Cannot be determined",
+      "Green"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Green is heavier than blue, and blue is heavier than red.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-117",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Kim finished after Jo but before Li. Who finished second?",
+    "options": [
+      "Kim",
+      "Jo",
+      "Li",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The order is Jo, Kim, Li, so Kim is second.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-118",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "A bus leaves before a train. A taxi leaves after the train. Which leaves first?",
+    "options": [
+      "Train",
+      "Bus",
+      "Taxi",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The bus leaves before the train, which leaves before the taxi.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-119",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Mara is shorter than Nina but taller than Oren. Who is shortest?",
+    "options": [
+      "Mara",
+      "Nina",
+      "Oren",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The height order is Nina, Mara, Oren.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-120",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "The library is north of the park. The school is south of the park. Which place is farthest north?",
+    "options": [
+      "Park",
+      "School",
+      "Cannot be determined",
+      "Library"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The library is north of the park, while the school is south.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-121",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which does not belong: apple, pear, carrot, peach?",
+    "options": [
+      "Carrot",
+      "Apple",
+      "Pear",
+      "Peach"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Carrot is a vegetable; the others are fruits.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-122",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which does not belong: bus, train, bicycle, table?",
+    "options": [
+      "Bus",
+      "Table",
+      "Train",
+      "Bicycle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A table is furniture; the others are means of transportation.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-123",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which does not belong: January, March, Monday, July?",
+    "options": [
+      "January",
+      "March",
+      "Monday",
+      "July"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Monday is a day of the week; the others are months.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-124",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which does not belong: 2, 4, 7, 8?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "7"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Seven is odd; the other numbers are even.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-125",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which does not belong: square, circle, triangle, spoon?",
+    "options": [
+      "Spoon",
+      "Square",
+      "Circle",
+      "Triangle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A spoon is a utensil; the others are geometric shapes.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-126",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "All nurses at a clinic wear identification badges. Lora is a nurse at the clinic. What follows?",
+    "options": [
+      "Lora is a doctor.",
+      "Lora wears an identification badge.",
+      "All badge wearers are nurses.",
+      "Lora manages the clinic."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rule applies to every nurse at the clinic, including Lora.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-127",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "Every completed form is signed. This form is complete. What follows?",
+    "options": [
+      "This form is approved.",
+      "Every signed form is complete.",
+      "This form is signed.",
+      "The form was submitted today."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The stated rule says completed forms are signed.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-128",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "All buses in the fleet are inspected monthly. Bus 12 is in the fleet. What follows?",
+    "options": [
+      "Bus 12 is new.",
+      "All inspected vehicles are buses.",
+      "Bus 12 is used daily.",
+      "Bus 12 is inspected monthly."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bus 12 belongs to the fleet, so the monthly inspection rule applies.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-129",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "No closed office accepts walk-in applications. Office A is closed today. What follows?",
+    "options": [
+      "Office A accepts no walk-in applications today.",
+      "Office A is permanently closed.",
+      "All applications are rejected.",
+      "Office A has no staff."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A closed office does not accept walk-ins under the stated rule.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-130",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "Some students ride the school bus. All school-bus riders arrive before 8 a.m. What follows?",
+    "options": [
+      "All students ride the bus.",
+      "Some students arrive before 8 a.m.",
+      "No student arrives early.",
+      "All early arrivals are students."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The students who ride the bus arrive before 8 a.m.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-131",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How many branches are there in the national government?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The three branches are executive, legislative, and judicial.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-132",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which branch of government implements and enforces laws?",
+    "options": [
+      "Legislative",
+      "Judicial",
+      "Electoral",
+      "Executive"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The executive branch implements and enforces laws.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-133",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which branch of government makes national laws?",
+    "options": [
+      "Legislative",
+      "Executive",
+      "Judicial",
+      "Local"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The legislative branch makes laws.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-134",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which branch interprets laws and decides cases?",
+    "options": [
+      "Executive",
+      "Judicial",
+      "Legislative",
+      "Administrative"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The judicial branch interprets laws and decides cases.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-135",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What is the capital city of the Philippines?",
+    "options": [
+      "Cebu City",
+      "Davao City",
+      "Manila",
+      "Baguio City"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manila is the capital city of the Philippines.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-136",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What is the currency of the Philippines?",
+    "options": [
+      "Yen",
+      "Ringgit",
+      "Baht",
+      "Philippine peso"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Philippine peso is the currency used in the Philippines.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-137",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What is the national language named in the Philippine Constitution?",
+    "options": [
+      "Filipino",
+      "English",
+      "Spanish",
+      "Cebuano"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Constitution names Filipino as the national language.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-138",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What are the colors of the Philippine flag?",
+    "options": [
+      "Blue, green, white, and red",
+      "Blue, red, white, and yellow",
+      "Red, black, and yellow",
+      "Green, white, and orange"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The flag features blue, red, and white with a yellow sun and stars.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-139",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How many stars appear on the Philippine flag?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The flag has three stars representing the main island groups.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-140",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How many rays does the sun on the Philippine flag have?",
+    "options": [
+      "Five",
+      "Seven",
+      "Ten",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The flag sun has eight rays.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-141",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "On what date is Philippine Independence Day celebrated?",
+    "options": [
+      "June 12",
+      "February 25",
+      "August 21",
+      "December 30"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Philippine Independence Day is celebrated on June 12.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-142",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "In what year was the current Philippine Constitution ratified?",
+    "options": [
+      "1973",
+      "1987",
+      "1986",
+      "1992"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The current Constitution was ratified in 1987.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-143",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which article of the 1987 Constitution contains the Bill of Rights?",
+    "options": [
+      "Article I",
+      "Article II",
+      "Article III",
+      "Article V"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Article III contains the Bill of Rights.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-144",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How many senators are in the Philippine Senate?",
+    "options": [
+      "12",
+      "18",
+      "30",
+      "24"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Senate is composed of 24 senators.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-145",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How long is a Philippine senator?s term of office?",
+    "options": [
+      "Six years",
+      "Three years",
+      "Four years",
+      "Eight years"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Senators serve six-year terms.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-146",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "How long is the term of office of a member of the House of Representatives?",
+    "options": [
+      "Two years",
+      "Three years",
+      "Four years",
+      "Six years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Members of the House serve three-year terms.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-147",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which constitutional commission administers elections?",
+    "options": [
+      "Commission on Audit",
+      "Civil Service Commission",
+      "Commission on Elections",
+      "Commission on Human Rights"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Commission on Elections administers elections.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-148",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which constitutional commission audits government funds?",
+    "options": [
+      "Commission on Elections",
+      "Civil Service Commission",
+      "National Library",
+      "Commission on Audit"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Commission on Audit audits government accounts and expenditures.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-149",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which agency is the central personnel agency of the Philippine government?",
+    "options": [
+      "Civil Service Commission",
+      "Commission on Audit",
+      "Commission on Elections",
+      "Department of Tourism"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Civil Service Commission is the central personnel agency of government.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-150",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which law is known as the Code of Conduct and Ethical Standards for Public Officials and Employees?",
+    "options": [
+      "Republic Act No. 9003",
+      "Republic Act No. 6713",
+      "Republic Act No. 10173",
+      "Republic Act No. 8749"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Republic Act No. 6713 sets ethical standards for public officials and employees.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-151",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which law is known as the Data Privacy Act of 2012?",
+    "options": [
+      "Republic Act No. 6713",
+      "Republic Act No. 9003",
+      "Republic Act No. 10173",
+      "Republic Act No. 7160"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Republic Act No. 10173 is the Data Privacy Act of 2012.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-152",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which law covers ecological solid waste management?",
+    "options": [
+      "Republic Act No. 6713",
+      "Republic Act No. 10173",
+      "Republic Act No. 7160",
+      "Republic Act No. 9003"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Republic Act No. 9003 is the Ecological Solid Waste Management Act.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-153",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What is the smallest local government unit in the Philippines?",
+    "options": [
+      "Barangay",
+      "Province",
+      "Region",
+      "Municipality"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The barangay is the smallest local government unit.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-154",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Who heads a barangay government?",
+    "options": [
+      "Governor",
+      "Punong barangay",
+      "Mayor",
+      "Congressional representative"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The punong barangay heads the barangay government.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-155",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which island is the largest in the Philippines by land area?",
+    "options": [
+      "Mindanao",
+      "Samar",
+      "Luzon",
+      "Palawan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Luzon is the largest Philippine island by land area.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-156",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which ocean lies east of the Philippines?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Philippines is bordered to the east by the Pacific Ocean.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-157",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What is the name of the Philippine national anthem?",
+    "options": [
+      "Lupang Hinirang",
+      "Bayan Ko",
+      "Pilipinas Kong Mahal",
+      "Magkaisa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lupang Hinirang is the national anthem.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-158",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Who wrote the novel Noli Me Tangere?",
+    "options": [
+      "Andres Bonifacio",
+      "Jose Rizal",
+      "Apolinario Mabini",
+      "Emilio Aguinaldo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jose Rizal wrote Noli Me Tangere.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-159",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Who is widely known as the national hero of the Philippines?",
+    "options": [
+      "Lapu-Lapu",
+      "Antonio Luna",
+      "Jose Rizal",
+      "Marcelo H. del Pilar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Jose Rizal is widely recognized as the national hero.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-160",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which Filipino leader is associated with the founding of the Katipunan?",
+    "options": [
+      "Jose Rizal",
+      "Manuel Quezon",
+      "Sergio Osme?a",
+      "Andres Bonifacio"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Andres Bonifacio founded and led the Katipunan.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-161",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What does recycling help reduce?",
+    "options": [
+      "The amount of waste sent to disposal sites",
+      "The number of trees planted",
+      "The supply of clean water",
+      "The amount of sunlight"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recycling diverts usable materials from disposal sites.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-162",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which action helps conserve water at home?",
+    "options": [
+      "Leaving taps running",
+      "Repairing leaking taps",
+      "Washing one item at a time under running water",
+      "Using a hose to sweep paths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Repairing leaks prevents unnecessary water loss.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-163",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "What should be done with household waste when local rules require separation?",
+    "options": [
+      "Mix it with river water",
+      "Burn it in the street",
+      "Separate it by type",
+      "Leave it in public spaces"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Separating waste supports proper handling and recycling.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-164",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which gas do plants take in from the air during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Plants take in carbon dioxide during photosynthesis.",
+    "points": 1
+  },
+  {
+    "id": "SUBMOCK-165",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "easy",
+    "question": "Which action most helps protect coral reefs?",
+    "options": [
+      "Avoid damaging coral and follow responsible boating rules",
+      "Collect live coral",
+      "Drop anchors directly on reefs",
+      "Dispose of plastic in the sea"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Avoiding physical damage helps protect coral reef habitats.",
+    "points": 1
+  }
+]

@@ -1,0 +1,21 @@
+.flashcard { perspective: 1200px; min-height: 330px; cursor: pointer; }
+.flashcard-inner { min-height: 330px; position: relative; transform-style: preserve-3d; transition: transform .45s ease; }
+.flashcard.is-flipped .flashcard-inner { transform: rotateY(180deg); }
+.flashcard-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border: 1px solid #dfe7f3; border-radius: .9rem; background: #fff; box-shadow: 0 1px 3px rgba(30, 58, 138, .06); padding: clamp(1.25rem, 4vw, 2.25rem); display: flex; flex-direction: column; justify-content: center; }
+.flashcard-face[hidden] { display: none !important; }
+.flashcard-back { transform: rotateY(180deg); background: #f8fbff; }
+.flashcard-prompt { font-size: clamp(1.15rem, 2.5vw, 1.6rem); white-space: pre-line; }
+.flashcard-choice { padding: .4rem .7rem; border: 1px solid #e5e7eb; border-radius: .5rem; }
+.flashcard-choice.missed { border-color: #dc2626; background: #fef2f2; }
+.flashcard-choice.answer { border-color: #16a34a; background: #dcfce7; }
+.rating-btn { min-width: 6.4rem; }
+.rating-again { --bs-btn-color: #b91c1c; --bs-btn-border-color: #fca5a5; }
+.rating-hard { --bs-btn-color: #b45309; --bs-btn-border-color: #fcd34d; }
+.rating-good { --bs-btn-color: #15803d; --bs-btn-border-color: #86efac; }
+.rating-easy { --bs-btn-color: #1d4ed8; --bs-btn-border-color: #93c5fd; }
+.achievement-item { min-height: 100%; border: 1px solid #dfe7f3; border-radius: .65rem; padding: .75rem; }
+.achievement-item.locked { opacity: .5; }
+.topic-row { display: grid; grid-template-columns: minmax(7rem, 1fr) 3fr 3rem; gap: .75rem; align-items: center; }
+@media (prefers-reduced-motion: reduce) {
+  .flashcard-inner { transition: none; }
+}

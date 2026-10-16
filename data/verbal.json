@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "MOCK-001",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to METICULOUS.",
+    "options": [
+      "Careless",
+      "Thorough",
+      "Hasty",
+      "Uncertain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Meticulous means extremely careful and attentive to detail.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-002",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to TRANSPARENT.",
+    "options": [
+      "Clear",
+      "Honest",
+      "Opaque",
+      "Visible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Opaque means not allowing light through; it is the opposite of transparent.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-003",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to CONCISE.",
+    "options": [
+      "Brief",
+      "Confusing",
+      "Detailed",
+      "Unrelated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Concise means expressing an idea clearly in few words; brief is closest.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-004",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to RELUCTANT.",
+    "options": [
+      "Unwilling",
+      "Hesitant",
+      "Eager",
+      "Cautious"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reluctant means unwilling or hesitant; eager expresses willingness.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-005",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to MITIGATE.",
+    "options": [
+      "Worsen",
+      "Lessen",
+      "Measure",
+      "Ignore"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To mitigate is to make something less severe or harmful.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-006",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to IMPLICIT.",
+    "options": [
+      "Unspoken",
+      "Indirect",
+      "Explicit",
+      "Possible"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Implicit is suggested but unstated; explicit is directly stated.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-007",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to FEASIBLE.",
+    "options": [
+      "Practical",
+      "Expensive",
+      "Doubtful",
+      "Immediate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Feasible means capable of being done; practical is the closest choice.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-008",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to FRUGAL.",
+    "options": [
+      "Thrifty",
+      "Economical",
+      "Wasteful",
+      "Moderate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Frugal means economical; wasteful describes the opposite behavior.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-009",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to RECTIFY.",
+    "options": [
+      "Correct",
+      "Postpone",
+      "Explain",
+      "Repeat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To rectify a problem is to correct or remedy it.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-010",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to VIGILANT.",
+    "options": [
+      "Alert",
+      "Watchful",
+      "Negligent",
+      "Attentive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vigilant means alert and watchful; negligent means failing to take proper care.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-011",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to CREDIBLE.",
+    "options": [
+      "Believable",
+      "Complicated",
+      "Unusual",
+      "Certain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Credible means able to be believed or trusted.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-012",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to DETERIORATE.",
+    "options": [
+      "Decline",
+      "Damage",
+      "Improve",
+      "Persist"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Deteriorate means to become worse; improve means to become better.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-013",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to ALLEVIATE.",
+    "options": [
+      "Relieve",
+      "Reveal",
+      "Prevent",
+      "Examine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Alleviate means to make a problem or burden less severe; relieve is closest.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-014",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to SCARCE.",
+    "options": [
+      "Limited",
+      "Rare",
+      "Abundant",
+      "Costly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Scarce means insufficient or hard to find; abundant means plentiful.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-015",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to ASSERTIVE.",
+    "options": [
+      "Confident",
+      "Aggressive",
+      "Timid",
+      "Indifferent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assertive describes expressing oneself confidently and directly.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-016",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to MANDATORY.",
+    "options": [
+      "Required",
+      "Compulsory",
+      "Optional",
+      "Formal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mandatory means required; optional means left to one's choice.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-017",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to INTEGRAL.",
+    "options": [
+      "Essential",
+      "Separate",
+      "Temporary",
+      "Additional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integral means necessary to make a whole complete; essential is closest.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-018",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to HOSTILE.",
+    "options": [
+      "Unfriendly",
+      "Resentful",
+      "Friendly",
+      "Defensive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hostile means unfriendly or antagonistic; friendly is its opposite.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-019",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word closest in meaning to AMBIGUOUS.",
+    "options": [
+      "Unclear",
+      "Accurate",
+      "Unimportant",
+      "Convincing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ambiguous means open to more than one interpretation or unclear.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-020",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Vocabulary",
+    "difficulty": "medium",
+    "question": "Choose the word opposite in meaning to CONSOLIDATE.",
+    "options": [
+      "Combine",
+      "Strengthen",
+      "Separate",
+      "Organize"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To consolidate is to combine into one; separate means divide apart.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-021",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Neither the director nor the assistants ___ available to answer the call.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With neither/nor, the verb agrees with the nearer subject, 'assistants,' which is plural.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-022",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Each of the reports ___ a summary of the findings.",
+    "options": [
+      "include",
+      "includes",
+      "including",
+      "have included"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Each' is singular, so it takes the singular verb 'includes'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-023",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The committee submitted ___ recommendation before the deadline.",
+    "options": [
+      "their",
+      "its",
+      "they're",
+      "it's"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Committee' is treated as a singular collective noun here, so the possessive pronoun is 'its'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-024",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The new procedure is more efficient ___ the former one.",
+    "options": [
+      "then",
+      "than",
+      "that",
+      "as"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comparisons using 'more' take 'than'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-025",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "By the time the meeting began, the guests ___ their seats.",
+    "options": [
+      "take",
+      "have taken",
+      "had taken",
+      "will take"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The earlier completed action takes the past perfect: 'had taken'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-026",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The officer, along with two clerks, ___ attending the seminar.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The subject is singular 'officer'; 'along with two clerks' does not change its number.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-027",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Please send the signed form to Ramon and ___.",
+    "options": [
+      "I",
+      "me",
+      "myself",
+      "mine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pronoun is the object of 'to', so the objective form 'me' is correct.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-028",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The records ___ securely in the archive every evening.",
+    "options": [
+      "stores",
+      "are stored",
+      "is storing",
+      "has stored"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The plural subject 'records' receives the present passive verb 'are stored'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-029",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "If the office ___ the figures earlier, it could have corrected the report.",
+    "options": [
+      "checks",
+      "checked",
+      "had checked",
+      "would check"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A past unreal condition uses 'if + past perfect': 'had checked'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-030",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The applicant ___ documents were missing returned the next day.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Whose' shows possession: the documents belonged to the applicant.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-031",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The clerk asked whether the visitors ___ the correct office.",
+    "options": [
+      "find",
+      "had found",
+      "will find",
+      "are finding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The past perfect describes an action completed before the clerk asked.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-032",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "There are ___ errors in this draft than in the first version.",
+    "options": [
+      "less",
+      "fewer",
+      "much",
+      "little"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Errors' are countable, so the comparative 'fewer' is appropriate.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-033",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The supervisor insisted that every employee ___ the safety briefing.",
+    "options": [
+      "attends",
+      "attend",
+      "attended",
+      "will attend"
+    ],
+    "correctAnswer": 1,
+    "explanation": "After 'insisted that' expressing a requirement, standard formal English uses the subjunctive base form 'attend'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-034",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Mara is the staff member ___ prepared the annual inventory.",
+    "options": [
+      "which",
+      "whose",
+      "whom",
+      "who"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Who' is the subject pronoun for the person performing the action.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-035",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The policy applies to all units, ___ those located outside the main office.",
+    "options": [
+      "include",
+      "included",
+      "including",
+      "includes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Including' correctly introduces examples of units covered by the policy.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-036",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The files were reviewed carefully, ___ several errors were still overlooked.",
+    "options": [
+      "because",
+      "although",
+      "yet",
+      "unless"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Yet' joins two contrasting independent clauses.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-037",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "One of the proposals ___ a shorter processing period.",
+    "options": [
+      "recommend",
+      "recommends",
+      "recommending",
+      "have recommended"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subject is 'one,' which is singular, so the verb is 'recommends'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-038",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The report was delayed ___ the data had not yet been verified.",
+    "options": [
+      "because",
+      "despite",
+      "whereas",
+      "unless"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Because' introduces the reason the report was delayed.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-039",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "Choose the correctly punctuated sentence.",
+    "options": [
+      "After the audit, the team prepared its findings.",
+      "After the audit the team, prepared its findings.",
+      "After, the audit the team prepared its findings.",
+      "After the audit; the team prepared its findings."
+    ],
+    "correctAnswer": 0,
+    "explanation": "An introductory phrase is followed by a comma; the remaining sentence is one independent clause.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-040",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "question": "The instructions were clear enough for the new staff to follow ___.",
+    "options": [
+      "them",
+      "it",
+      "their",
+      "they"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Them' is the object pronoun referring to the plural 'instructions'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-041",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Blueprint : building :: recipe : ___",
+    "options": [
+      "kitchen",
+      "meal",
+      "ingredient",
+      "cook"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A blueprint guides the creation of a building; a recipe guides the preparation of a meal.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-042",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Seed : plant :: egg : ___",
+    "options": [
+      "nest",
+      "bird",
+      "shell",
+      "feather"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A seed can develop into a plant, just as an egg can develop into a bird.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-043",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Editor : manuscript :: curator : ___",
+    "options": [
+      "museum",
+      "exhibit",
+      "visitor",
+      "ticket"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An editor works with a manuscript; a curator selects and manages an exhibit.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-044",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Compass : direction :: clock : ___",
+    "options": [
+      "time",
+      "number",
+      "alarm",
+      "calendar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A compass indicates direction; a clock indicates time.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-045",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Generous : giving :: cautious : ___",
+    "options": [
+      "careful",
+      "fearful",
+      "rapid",
+      "silent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Generous describes a tendency to give; cautious describes a tendency to act carefully.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-046",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Thermometer : temperature :: scale : ___",
+    "options": [
+      "weight",
+      "height",
+      "distance",
+      "volume"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A thermometer measures temperature; a scale measures weight.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-047",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Caterpillar : butterfly :: tadpole : ___",
+    "options": [
+      "frog",
+      "fish",
+      "lizard",
+      "snail"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A caterpillar matures into a butterfly; a tadpole matures into a frog.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-048",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Lock : key :: question : ___",
+    "options": [
+      "answer",
+      "paper",
+      "reader",
+      "problem"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A key opens a lock; an answer resolves a question.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-049",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Surgeon : operation :: judge : ___",
+    "options": [
+      "courtroom",
+      "verdict",
+      "lawyer",
+      "evidence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An operation is a central task performed by a surgeon; a verdict is a central decision made by a judge.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-050",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Drought : rainfall :: blackout : ___",
+    "options": [
+      "electricity",
+      "darkness",
+      "storm",
+      "candle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A drought is a shortage of rainfall; a blackout is a loss of electricity.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-051",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "question": "What does the expression \"keep someone in the loop\" mean?",
+    "options": [
+      "Exclude the person from a task",
+      "Keep the person informed",
+      "Ask the person to repeat work",
+      "Give the person a circular object"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To keep someone in the loop is to make sure they receive relevant updates.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-052",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "question": "If a plan is \"up in the air,\" it is:",
+    "options": [
+      "Already completed",
+      "Still undecided",
+      "Impossible to change",
+      "Widely publicized"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The idiom means a matter has not yet been settled or decided.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-053",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "question": "To \"get to the bottom of\" a complaint is to:",
+    "options": [
+      "Resolve its underlying cause",
+      "File it at the lowest shelf",
+      "Dismiss it quickly",
+      "Make it more complicated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The expression means to discover the real cause of something.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-054",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "question": "What does \"on the same page\" mean in a work discussion?",
+    "options": [
+      "Reading the same document page",
+      "Sharing the same understanding",
+      "Working in the same building",
+      "Following a written order"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The expression means people agree or understand a matter in the same way.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-055",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Idioms",
+    "difficulty": "medium",
+    "question": "If an office \"gets the ball rolling,\" it:",
+    "options": [
+      "Begins an activity",
+      "Stops a project",
+      "Corrects a mistake",
+      "Changes a deadline"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To get the ball rolling means to start something.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-056",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Completion",
+    "difficulty": "medium",
+    "question": "The memo was revised to make its instructions more ___ to employees.",
+    "options": [
+      "accessible",
+      "accessory",
+      "excessive",
+      "accidental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Accessible' means easy to understand or use, which fits the context.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-057",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Completion",
+    "difficulty": "medium",
+    "question": "Because the evidence was incomplete, the investigator avoided reaching a ___ conclusion.",
+    "options": [
+      "premature",
+      "timely",
+      "balanced",
+      "reasonable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A premature conclusion is reached before sufficient evidence is available.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-058",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Completion",
+    "difficulty": "medium",
+    "question": "The new filing system is intended to ___ duplicate entries.",
+    "options": [
+      "reduce",
+      "prolong",
+      "conceal",
+      "distribute"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reducing duplicate entries is the logical purpose of improving a filing system.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-059",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Completion",
+    "difficulty": "medium",
+    "question": "The spokesperson gave a ___ explanation, addressing each concern in turn.",
+    "options": [
+      "systematic",
+      "random",
+      "reluctant",
+      "fragmented"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A systematic explanation handles points in an organized way.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-060",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Completion",
+    "difficulty": "medium",
+    "question": "The two departments agreed to ___ their schedules to avoid overlapping activities.",
+    "options": [
+      "coordinate",
+      "contradict",
+      "postpone",
+      "separate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To coordinate schedules is to arrange them so they work together effectively.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-061",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The town library extended its evening hours during examination month. Attendance increased, especially among students who worked during the day.\" Why did evening hours help these students?",
+    "options": [
+      "They could visit after their daytime work",
+      "They no longer needed to study",
+      "The library stopped lending books",
+      "They were required to work at the library"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage says these students worked during the day, so later opening hours gave them another time to visit.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-062",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The town library extended its evening hours during examination month. Attendance increased, especially among students who worked during the day.\" What happened after the schedule changed?",
+    "options": [
+      "Attendance declined",
+      "Attendance increased",
+      "The library moved buildings",
+      "All visitors became students"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage directly states that attendance increased.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-063",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A clinic introduced numbered appointment cards. Patients were called in order, and staff could estimate waiting times more accurately.\" What was one result of the cards?",
+    "options": [
+      "Staff could estimate waits more accurately",
+      "Patients no longer needed appointments",
+      "The clinic reduced its opening hours",
+      "Doctors saw fewer patients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage explicitly connects the cards with more accurate waiting-time estimates.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-064",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A clinic introduced numbered appointment cards. Patients were called in order, and staff could estimate waiting times more accurately.\" What can be inferred about the calling process?",
+    "options": [
+      "Patients were called randomly",
+      "The numbers helped organize the order",
+      "Only emergency cases received cards",
+      "Cards were used to record diagnoses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Calling patients by their card numbers provides an orderly sequence.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-065",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The coastal village restored a strip of mangroves. The trees slowed waves during storms and provided shelter for young fish.\" Which benefit is described?",
+    "options": [
+      "Mangroves create stronger waves",
+      "Mangroves shelter young fish",
+      "Storms stop forming offshore",
+      "Fishing is no longer necessary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage states that the mangroves provide shelter for young fish.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-066",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The coastal village restored a strip of mangroves. The trees slowed waves during storms and provided shelter for young fish.\" Why might the restoration help protect the village during storms?",
+    "options": [
+      "The trees slow incoming waves",
+      "The trees prevent all rainfall",
+      "The trees redirect every storm",
+      "The trees raise the village above sea level"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage says the mangroves slow waves during storms.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-067",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"After the agency published service standards, it began recording how long each request took. Managers used the records to identify steps that caused delays.\" What was the purpose of recording processing times?",
+    "options": [
+      "To identify delay-causing steps",
+      "To prevent the public from making requests",
+      "To replace all service standards",
+      "To shorten every request automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Managers examined the records to find steps associated with delays.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-068",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"After the agency published service standards, it began recording how long each request took. Managers used the records to identify steps that caused delays.\" What did the agency publish?",
+    "options": [
+      "Service standards",
+      "Staff salaries",
+      "Private applications",
+      "A list of rejected requests"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first sentence says the agency published service standards.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-069",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A school garden began with vegetables that students could grow in recycled containers. Teachers used the garden to discuss plant growth, nutrition, and waste reduction.\" What was one instructional use of the garden?",
+    "options": [
+      "Discussing nutrition",
+      "Replacing classroom lessons",
+      "Selling containers to students",
+      "Reducing the school calendar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Teachers used the garden to discuss nutrition, among other topics.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-070",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A school garden began with vegetables that students could grow in recycled containers. Teachers used the garden to discuss plant growth, nutrition, and waste reduction.\" Why were recycled containers mentioned?",
+    "options": [
+      "They were used to grow vegetables",
+      "They were exchanged for textbooks",
+      "They kept the garden indoors",
+      "They were used to store harvested seeds only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage says the students grew vegetables in recycled containers.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-071",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A small business moved its weekly inventory check to the end of each workday. The change made it easier to compare recorded stock with actual stock before deliveries arrived.\" When did the business conduct the check?",
+    "options": [
+      "At the beginning of each month",
+      "At the end of each workday",
+      "Only after a delivery",
+      "Once each year"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage directly states that the check moved to the end of each workday.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-072",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A small business moved its weekly inventory check to the end of each workday. The change made it easier to compare recorded stock with actual stock before deliveries arrived.\" What could the comparison help the business notice?",
+    "options": [
+      "Differences between recorded and actual stock",
+      "The number of customers in other towns",
+      "Changes in employee schedules only",
+      "The price of future deliveries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparing the records with actual stock reveals discrepancies between them.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-073",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"Residents reported that the pedestrian crossing was difficult to see at night. The municipality repainted its markings and installed a brighter lamp nearby.\" What action addressed the visibility concern?",
+    "options": [
+      "Repainting the crossing and adding a lamp",
+      "Removing the crossing",
+      "Closing the road after dark",
+      "Building a second municipality office"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both measures were taken to make the crossing more visible.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-074",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"Residents reported that the pedestrian crossing was difficult to see at night. The municipality repainted its markings and installed a brighter lamp nearby.\" What prompted the municipality's action?",
+    "options": [
+      "A report from residents",
+      "A request from a private company",
+      "A decrease in daytime traffic",
+      "A change in the road's name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residents reported the visibility problem, prompting the improvements.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-075",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"An office began sending a checklist with each application form. Applicants made fewer trips to submit missing papers, although staff still reviewed every application.\" What changed after the checklist was introduced?",
+    "options": [
+      "Applicants made fewer trips for missing papers",
+      "Staff stopped reviewing applications",
+      "Applications were automatically approved",
+      "Forms were no longer required"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage reports fewer trips related to missing papers.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-076",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"An office began sending a checklist with each application form. Applicants made fewer trips to submit missing papers, although staff still reviewed every application.\" Which task remained with staff?",
+    "options": [
+      "Reviewing every application",
+      "Completing every applicant's form",
+      "Delivering papers to each home",
+      "Approving all applications automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage clarifies that staff continued to review every application.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-077",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The farmers' cooperative shared daily weather updates by text message. Members used the information to plan field work, but local conditions still varied from one farm to another.\" What is a limitation noted in the passage?",
+    "options": [
+      "Weather conditions can vary by farm",
+      "Members could not receive messages",
+      "The cooperative stopped sharing updates",
+      "Field work could not be planned"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage warns that local weather conditions differed among farms.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-078",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"The farmers' cooperative shared daily weather updates by text message. Members used the information to plan field work, but local conditions still varied from one farm to another.\" How did members use the updates?",
+    "options": [
+      "To plan field work",
+      "To set the national climate",
+      "To replace all farm inspections",
+      "To determine the cooperative's membership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage says members used the weather information to plan their work.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-079",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A museum offered free guided tours on the first Saturday of each month. Attendance rose on those days, while weekday visitor numbers remained about the same.\" When did attendance rise?",
+    "options": [
+      "On the first Saturdays with free tours",
+      "On every weekday",
+      "Only during school holidays",
+      "After the museum closed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Attendance rose on the days when the museum offered free guided tours.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-080",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "question": "Read: \"A museum offered free guided tours on the first Saturday of each month. Attendance rose on those days, while weekday visitor numbers remained about the same.\" What happened to weekday visitor numbers?",
+    "options": [
+      "They remained about the same",
+      "They doubled each week",
+      "They fell to zero",
+      "They rose more than Saturday attendance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The passage states that weekday visitor numbers remained about the same.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-081",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "The list of approved vendors are posted online.",
+      "The list of approved vendors is posted online.",
+      "The list of approved vendors were posted online.",
+      "The list of approved vendors have been posted online."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The subject is singular 'list', so the singular verb 'is' is required.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-082",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose the clearest and grammatically correct sentence.",
+    "options": [
+      "Having reviewed the file, the clerk sent a reply.",
+      "Having reviewed the file, a reply was sent by the clerk.",
+      "The file reviewed, the clerk a reply sent.",
+      "Having reviewed, the file was sent a reply."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The introductory phrase correctly modifies the clerk, who reviewed the file.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-083",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose the correctly written sentence.",
+    "options": [
+      "The applicants submitted there forms before noon.",
+      "The applicants submitted their forms before noon.",
+      "The applicants submitted they're forms before noon.",
+      "The applicants submitted them forms before noon."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Their' is the possessive form needed to show that the forms belong to the applicants.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-084",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose the sentence with correct punctuation.",
+    "options": [
+      "The office is closed today, however, online services remain available.",
+      "The office is closed today; however, online services remain available.",
+      "The office is closed today however; online services remain available.",
+      "The office; is closed today however online services remain available."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A semicolon separates the independent clauses; a comma follows the conjunctive adverb 'however'.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-085",
+    "category": "verbal",
+    "level": "professional",
+    "topic": "Sentence Correction",
+    "difficulty": "medium",
+    "question": "Choose the sentence that avoids an unclear pronoun reference.",
+    "options": [
+      "When Liza spoke to Mara, she offered to revise the draft.",
+      "Liza offered to revise the draft when she spoke to Mara.",
+      "When Liza spoke to Mara, Liza offered to revise the draft.",
+      "She offered to revise the draft when Liza spoke to Mara."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Repeating the name makes clear that Liza, not Mara, offered to revise the draft.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-001",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the word closest in meaning to HONEST.",
+    "options": [
+      "Truthful",
+      "Lazy",
+      "Rude",
+      "Clever"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honest means truthful and sincere.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-002",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the word opposite in meaning to GENEROUS.",
+    "options": [
+      "Kind",
+      "Selfish",
+      "Friendly",
+      "Wealthy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Generous means willing to give; selfish is its opposite.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-003",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Vocabulary",
+    "difficulty": "easy",
+    "question": "Choose the word closest in meaning to RAPID.",
+    "options": [
+      "Slow",
+      "Quick",
+      "Quiet",
+      "Heavy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rapid means happening quickly.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-004",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She not like coffee."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A singular subject takes 'doesn't' followed by the base verb.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-005",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Fill in the blank: The employees ____ their reports yesterday.",
+    "options": [
+      "submit",
+      "submitted",
+      "submitting",
+      "submits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Yesterday' requires the simple past tense: submitted.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-006",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Grammar",
+    "difficulty": "easy",
+    "question": "Choose the correct word: Neither of the clerks ____ late.",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Neither' is singular and takes 'was'.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-007",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Book is to read as song is to ____.",
+    "options": [
+      "Listen",
+      "Write",
+      "Paint",
+      "Eat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A book is read; a song is listened to.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-008",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Sentence Completion",
+    "difficulty": "easy",
+    "question": "The office closed early ____ the heavy rain.",
+    "options": [
+      "because of",
+      "although",
+      "unless",
+      "so that"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Because of' introduces the cause before a noun phrase.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-009",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "easy",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receeve",
+      "Recive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rule 'i before e except after c' gives 'receive'.",
+    "points": 1
+  },
+  {
+    "id": "SUB-V-010",
+    "category": "verbal",
+    "level": "subprofessional",
+    "topic": "Reading Comprehension",
+    "difficulty": "easy",
+    "question": "Read: 'Ana arrives at work at 8:00 a.m. every day, and she leaves at 5:00 p.m.' When does Ana leave work?",
+    "options": [
+      "8:00 a.m.",
+      "12:00 noon",
+      "5:00 p.m.",
+      "6:00 p.m."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage states she leaves at 5:00 p.m.",
+    "points": 1
+  }
+]

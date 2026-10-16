@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Examination · CSE Reviewer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/exam.css">
+</head>
+<body data-page="exam" class="no-sidebar">
+  <div class="main-area">
+    <header class="exam-bar d-flex flex-wrap align-items-center justify-content-between gap-2">
+      <div class="fw-semibold" id="examTitle">Examination</div>
+      <div class="d-flex align-items-center gap-3">
+        <span class="visually-hidden">Time remaining</span>
+        <span id="timer" class="timer" role="timer">--:--</span>
+        <button id="submitBtn" type="button" class="btn btn-light btn-sm fw-semibold">Submit exam</button>
+      </div>
+    </header>
+    <main id="main" class="content">
+      <div id="saveError" class="alert alert-danger d-none">Your result could not be saved (browser storage is unavailable or full). Free some space and try submitting again.</div>
+      <div class="row g-3">
+        <div class="col-12 col-lg-8">
+          <section class="card"><div class="card-body">
+            <div class="d-flex justify-content-between flex-wrap gap-2 mb-2">
+              <h2 class="h6 text-primary mb-0" id="qCounter"></h2>
+              <span class="small text-muted text-capitalize" id="qMeta"></span>
+            </div>
+            <p class="q-text" id="qText"></p>
+            <fieldset><legend class="visually-hidden">Answer choices</legend><div id="options"></div></fieldset>
+            <div class="d-flex flex-wrap gap-2 mt-3">
+              <button type="button" class="btn btn-outline-warning" id="markBtn" aria-pressed="false"></button>
+              <button type="button" class="btn btn-outline-secondary" id="clearBtn"><i class="bi bi-eraser"></i> Clear answer</button>
+              <div class="ms-auto d-flex gap-2">
+                <button type="button" class="btn btn-outline-primary" id="prevBtn"><i class="bi bi-chevron-left"></i> Previous</button>
+                <button type="button" class="btn btn-primary" id="nextBtn">Next <i class="bi bi-chevron-right"></i></button>
+              </div>
+            </div>
+          </div></section>
+        </div>
+        <div class="col-12 col-lg-4">
+          <aside class="card" aria-label="Question navigator"><div class="card-body">
+            <h2 class="h6">Question navigator</h2>
+            <div class="progress mb-1" role="progressbar" aria-label="Answered questions" aria-valuemin="0" aria-valuenow="0"><div class="progress-bar" id="progressBar"></div></div>
+            <div class="small text-muted mb-3" id="progressText"></div>
+            <div id="navigator" class="mb-3"></div>
+            <div class="legend"><span><i class="a"></i>Answered</span><span><i></i>Unanswered</span><span><i class="m"></i>Marked</span></div>
+          </div></aside>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div class="modal fade" id="submitModal" tabindex="-1" aria-labelledby="submitModalTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered"><div class="modal-content">
+      <div class="modal-header"><h2 class="modal-title h5" id="submitModalTitle">Submit your exam?</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+      <div class="modal-body"><div id="submitSummary" class="mb-2"></div><p class="mb-0 text-muted small">You cannot change answers after submitting.</p></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Keep working</button>
+        <button type="button" class="btn btn-primary" id="confirmSubmit">Submit now</button>
+      </div>
+    </div></div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

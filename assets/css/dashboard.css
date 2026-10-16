@@ -1,0 +1,14 @@
+.hero-card { background: linear-gradient(135deg, var(--brand), #3b82f6); color: #fff; border: 0; }
+.stat-icon { width: 2.75rem; height: 2.75rem; border-radius: .75rem; background: var(--brand-soft); color: var(--brand); display: grid; place-items: center; font-size: 1.3rem; flex: none; }
+.stat-value { font-size: 1.75rem; font-weight: 700; line-height: 1.1; }
+.category-card { transition: transform .15s, box-shadow .15s; }
+.category-card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(30, 58, 138, .12); }
+.info-tile { background: var(--brand-soft); border-radius: .8rem; padding: 1rem; text-align: center; display: flex; flex-direction: column; gap: .15rem; height: 100%; }
+.info-tile i { font-size: 1.5rem; color: var(--brand); }
+.info-tile strong { font-size: 1.2rem; }
+.info-tile span { font-size: .85rem; color: #6b7280; }
+.rules li { margin-bottom: .4rem; }
+.score-ring { --p: 0; width: 140px; height: 140px; border-radius: 50%; display: inline-grid; place-items: center; background: conic-gradient(var(--brand) calc(var(--p) * 1%), #dbe5f5 0); position: relative; }
+.score-ring::before { content: ""; position: absolute; inset: 14px; background: #fff; border-radius: 50%; }
+.score-ring span { position: relative; font-size: 1.9rem; font-weight: 700; color: var(--brand-dark); }
+.table > :not(caption) > * > * { padding: .75rem .6rem; }

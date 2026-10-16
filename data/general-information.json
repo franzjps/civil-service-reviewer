@@ -1,0 +1,427 @@
+[
+  {
+    "id": "MOCK-151",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Philippine Constitution",
+    "difficulty": "medium",
+    "question": "Which article of the 1987 Philippine Constitution contains the Bill of Rights?",
+    "options": [
+      "Article II",
+      "Article III",
+      "Article IV",
+      "Article VI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Bill of Rights is set out in Article III.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-152",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Government",
+    "difficulty": "medium",
+    "question": "Which government body audits the use of public funds and property?",
+    "options": [
+      "Commission on Audit",
+      "Commission on Elections",
+      "Civil Service Commission",
+      "National Economic and Development Authority"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Commission on Audit examines and audits government accounts and expenditures.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-153",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Government",
+    "difficulty": "medium",
+    "question": "Which body is primarily responsible for administering national and local elections in the Philippines?",
+    "options": [
+      "Commission on Audit",
+      "Commission on Elections",
+      "Civil Service Commission",
+      "Department of Justice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Commission on Elections administers and enforces laws and regulations on elections.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-154",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Government",
+    "difficulty": "medium",
+    "question": "Which constitutional commission oversees the merit system in the Philippine civil service?",
+    "options": [
+      "Commission on Audit",
+      "Commission on Elections",
+      "Civil Service Commission",
+      "Commission on Human Rights"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Civil Service Commission is the central personnel agency of the government.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-155",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Philippine Constitution",
+    "difficulty": "medium",
+    "question": "How many co-equal branches make up the national government under the separation of powers?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The executive, legislative, and judicial branches are the three co-equal branches.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-156",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Public Service Ethics",
+    "difficulty": "medium",
+    "question": "Which law is known as the Code of Conduct and Ethical Standards for Public Officials and Employees?",
+    "options": [
+      "Republic Act No. 6713",
+      "Republic Act No. 9003",
+      "Republic Act No. 10173",
+      "Republic Act No. 8749"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Republic Act No. 6713 establishes the code of conduct and ethical standards for public officials and employees.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-157",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Public Service Ethics",
+    "difficulty": "medium",
+    "question": "Under Republic Act No. 6713, which practice is consistent with a public employee's duty to act in the public interest?",
+    "options": [
+      "Using public office for personal gain",
+      "Giving preferential treatment to relatives",
+      "Providing service fairly and impartially",
+      "Accepting a gift in exchange for a favor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Public officials and employees are expected to serve the public with fairness and without undue favoritism.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-158",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Data Privacy",
+    "difficulty": "medium",
+    "question": "Which Philippine law is known as the Data Privacy Act of 2012?",
+    "options": [
+      "Republic Act No. 10173",
+      "Republic Act No. 6713",
+      "Republic Act No. 9003",
+      "Republic Act No. 7160"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Republic Act No. 10173 is the Data Privacy Act of 2012.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-159",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Environmental Law",
+    "difficulty": "medium",
+    "question": "Republic Act No. 9003 is principally concerned with:",
+    "options": [
+      "Ecological solid waste management",
+      "Air pollution control",
+      "Protection of personal data",
+      "Local government elections"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Republic Act No. 9003 is the Ecological Solid Waste Management Act of 2000.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-160",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Environmental Law",
+    "difficulty": "medium",
+    "question": "Which practice best supports the waste hierarchy encouraged in solid-waste management?",
+    "options": [
+      "Segregating reusable and recyclable materials",
+      "Burning mixed waste in open areas",
+      "Dumping waste into waterways",
+      "Mixing hazardous waste with household waste"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregation supports reuse and recycling and helps reduce the amount of waste requiring disposal.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-161",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Human Rights",
+    "difficulty": "medium",
+    "question": "Which Philippine constitutional article sets out protections such as due process and equal protection?",
+    "options": [
+      "Article I",
+      "Article III",
+      "Article VII",
+      "Article X"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Article III, the Bill of Rights, includes due-process and equal-protection guarantees.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-162",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Philippine Constitution",
+    "difficulty": "medium",
+    "question": "What is the length of one term of office for the President of the Philippines under the 1987 Constitution?",
+    "options": [
+      "Four years",
+      "Five years",
+      "Six years",
+      "Seven years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The President serves a six-year term under Article VII of the Constitution.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-163",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Philippine Constitution",
+    "difficulty": "medium",
+    "question": "Who is designated as Commander-in-Chief of all the armed forces of the Philippines?",
+    "options": [
+      "The President",
+      "The Senate President",
+      "The Chief Justice",
+      "The Secretary of National Defense"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Constitution designates the President as Commander-in-Chief of the armed forces.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-164",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Environmental Awareness",
+    "difficulty": "medium",
+    "question": "Why can excessive use of chemical fertilizers harm nearby rivers and lakes?",
+    "options": [
+      "Runoff can add nutrients that trigger algal growth",
+      "Fertilizers remove all oxygen from the atmosphere",
+      "Runoff immediately turns fresh water into salt water",
+      "Fertilizers prevent sunlight from reaching the whole region"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Excess nutrients in runoff can cause algal blooms that reduce dissolved oxygen and harm aquatic life.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-165",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "Environmental Awareness",
+    "difficulty": "medium",
+    "question": "Which action most directly helps protect coral reefs from physical damage?",
+    "options": [
+      "Avoiding anchoring boats on coral",
+      "Collecting live coral as souvenirs",
+      "Fishing with explosives",
+      "Discarding plastic near the shore"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Anchors can break coral structures; choosing suitable mooring areas helps prevent that damage.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-001",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Government",
+    "difficulty": "easy",
+    "question": "How many branches does the Philippine government have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The executive, legislative and judicial branches.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-002",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Government",
+    "difficulty": "easy",
+    "question": "Who is the head of the executive branch of the Philippines?",
+    "options": [
+      "Senate President",
+      "Chief Justice",
+      "President",
+      "Speaker of the House"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The President heads the executive branch.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-003",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Philippine Constitution",
+    "difficulty": "easy",
+    "question": "In what year was the current Philippine Constitution ratified?",
+    "options": [
+      "1973",
+      "1986",
+      "1987",
+      "1992"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 1987 Constitution was ratified in February 1987.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-004",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Public Service Ethics",
+    "difficulty": "easy",
+    "question": "Which law is known as the Code of Conduct and Ethical Standards for Public Officials and Employees?",
+    "options": [
+      "Republic Act 6713",
+      "Republic Act 7160",
+      "Republic Act 9003",
+      "Republic Act 10173"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RA 6713 sets ethical standards for public servants.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-005",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of the Philippines?",
+    "options": [
+      "Cebu City",
+      "Davao City",
+      "Manila",
+      "Quezon City"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Manila is the national capital.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-006",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "History",
+    "difficulty": "easy",
+    "question": "Who is the national hero of the Philippines?",
+    "options": [
+      "Andres Bonifacio",
+      "Jose Rizal",
+      "Emilio Aguinaldo",
+      "Apolinario Mabini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jose Rizal is recognized as the national hero.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-007",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Government",
+    "difficulty": "easy",
+    "question": "Which body makes laws in the Philippines?",
+    "options": [
+      "Supreme Court",
+      "Congress",
+      "Civil Service Commission",
+      "Office of the President"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Congress, made up of the Senate and House, is the legislature.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-008",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Data Privacy",
+    "difficulty": "easy",
+    "question": "Which law is the Data Privacy Act of 2012?",
+    "options": [
+      "Republic Act 10173",
+      "Republic Act 6713",
+      "Republic Act 9165",
+      "Republic Act 8749"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RA 10173 is the Data Privacy Act.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-009",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Environmental Awareness",
+    "difficulty": "easy",
+    "question": "Which is a good way to reduce waste in the office?",
+    "options": [
+      "Print every email",
+      "Use both sides of paper",
+      "Leave lights on",
+      "Use disposable cups only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using both sides of paper reduces paper waste.",
+    "points": 1
+  },
+  {
+    "id": "SUB-G-010",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "Human Rights",
+    "difficulty": "easy",
+    "question": "What does the Bill of Rights primarily protect?",
+    "options": [
+      "Government budgets",
+      "Individual rights and liberties",
+      "Election schedules",
+      "Business permits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Bill of Rights protects individual rights against state abuse.",
+    "points": 1
+  }
+]

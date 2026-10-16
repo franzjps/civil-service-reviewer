@@ -1,0 +1,597 @@
+[
+  {
+    "id": "MOCK-086",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Deduction",
+    "difficulty": "medium",
+    "question": "All licensed inspectors have completed safety training. Noel is a licensed inspector. What follows?",
+    "options": [
+      "Noel has completed safety training",
+      "Noel teaches safety training",
+      "All trainees are inspectors",
+      "Noel licenses inspectors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Noel belongs to the group of licensed inspectors, all of whom completed the training.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-087",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Deduction",
+    "difficulty": "medium",
+    "question": "No permit is issued without a completed inspection. A permit was issued for Site K. What must be true?",
+    "options": [
+      "Site K passed every possible inspection",
+      "Site K had a completed inspection",
+      "Site K is the only permitted site",
+      "The inspection was conducted today"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If issuance requires a completed inspection, an issued permit implies that the inspection was completed.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-088",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Deduction",
+    "difficulty": "medium",
+    "question": "Some volunteers at the center are translators. All translators at the center speak two languages. Which conclusion follows?",
+    "options": [
+      "Some volunteers at the center speak two languages",
+      "All volunteers are translators",
+      "No translator is a volunteer",
+      "All bilingual people are volunteers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The volunteers who are translators at the center belong to the group that speaks two languages.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-089",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Deduction",
+    "difficulty": "medium",
+    "question": "Every sealed envelope is logged before delivery. Envelope R was delivered. Which conclusion is supported?",
+    "options": [
+      "Envelope R was logged before delivery",
+      "Envelope R was opened before delivery",
+      "Every logged envelope is delivered",
+      "Envelope R was delivered by hand"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The stated rule applies to every envelope that is delivered.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-090",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Deduction",
+    "difficulty": "medium",
+    "question": "If the alarm is activated, the control room receives a signal. The control room received no signal. Assuming the system worked as described, what follows?",
+    "options": [
+      "The alarm was activated",
+      "The alarm was not activated",
+      "The control room was empty",
+      "A signal was sent twice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If activation always produces a signal, the absence of a signal means the alarm was not activated.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-091",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "What number comes next? 4, 9, 19, 39, 79, ?",
+    "options": [
+      "119",
+      "149",
+      "159",
+      "169"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each term is doubled and increased by 1: 79 × 2 + 1 = 159.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-092",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "What number comes next? 2, 6, 12, 20, 30, ?",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The terms are consecutive products 1×2, 2×3, 3×4, and so on; the next is 6×7 = 42.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-093",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "What number comes next? 81, 27, 9, 3, ?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Each term is divided by 3, so 3 ÷ 3 = 1.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-094",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "What number comes next? 7, 10, 16, 25, 37, ?",
+    "options": [
+      "49",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The differences are +3, +6, +9, +12; the next difference is +15, giving 52.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-095",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "question": "What number comes next? 1, 3, 6, 10, 15, ?",
+    "options": [
+      "18",
+      "20",
+      "21",
+      "24"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The increments are +2, +3, +4, +5; the next increment is +6, giving 21.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-096",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "What letter comes next? B, E, I, N, ?",
+    "options": [
+      "R",
+      "S",
+      "T",
+      "U"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Letter positions increase by 3, 4, 5, then 6; N plus 6 positions is T.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-097",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Letter Series",
+    "difficulty": "medium",
+    "question": "What letter comes next? Z, W, S, N, ?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The backward steps grow by 1: −3, −4, −5, then −6, giving H.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-098",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Ordering",
+    "difficulty": "medium",
+    "question": "Ira finished before Jo. Ken finished after Jo. Lea finished before Ira. Who finished first?",
+    "options": [
+      "Ira",
+      "Jo",
+      "Ken",
+      "Lea"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The order is Lea, Ira, Jo, Ken, so Lea finished first.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-099",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Ordering",
+    "difficulty": "medium",
+    "question": "A report is filed after review. Review occurs after drafting. Which sequence is required?",
+    "options": [
+      "File, draft, review",
+      "Draft, review, file",
+      "Review, file, draft",
+      "Draft, file, review"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drafting must precede review, and review must precede filing.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-100",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Ordering",
+    "difficulty": "medium",
+    "question": "Four boxes are stacked. Blue is above Red; Green is below Red; Yellow is above Blue. Which box is highest?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Yellow is above Blue, which is above Red, which is above Green.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-101",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Which item does not belong with the others?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Aluminum",
+      "Granite"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Granite is a rock; copper, iron, and aluminum are metals.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-102",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "question": "Which geometric figure differs from the other three?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Pentagon",
+      "Cylinder"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A cylinder is a three-dimensional solid; the other choices are two-dimensional polygons.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-103",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Assumptions",
+    "difficulty": "medium",
+    "question": "A city plans to add bicycle racks near public offices to encourage more staff to cycle to work. Which assumption supports the plan?",
+    "options": [
+      "Some staff would consider cycling if secure parking were available",
+      "All staff live within walking distance",
+      "Public offices will stop providing records",
+      "Bicycle racks eliminate traffic throughout the city"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The plan can encourage cycling if lack of suitable parking currently discourages at least some staff.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-104",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Assumptions",
+    "difficulty": "medium",
+    "question": "A manager schedules short weekly coaching sessions after noticing repeated data-entry mistakes. Which assumption is most necessary?",
+    "options": [
+      "The mistakes may decrease if staff receive guidance",
+      "All data-entry mistakes are intentional",
+      "The software will be replaced next week",
+      "Coaching sessions require no staff time"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coaching is a reasonable response if guidance can help reduce the recurring mistakes.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-105",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Assumptions",
+    "difficulty": "medium",
+    "question": "A clinic proposes reminder messages to reduce missed appointments. What must the proposal reasonably assume?",
+    "options": [
+      "Some missed appointments result from patients forgetting them",
+      "Every patient owns the same phone",
+      "The clinic will no longer accept walk-ins",
+      "Messages guarantee that nobody cancels"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reminders can reduce missed appointments if forgetfulness causes at least some of them.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-106",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Assumptions",
+    "difficulty": "medium",
+    "question": "A school will open its reading room earlier so students can use it before class. Which assumption supports this decision?",
+    "options": [
+      "Some students arrive before classes begin",
+      "Every student prefers reading to other activities",
+      "The room has no books",
+      "Classes will be cancelled in the morning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Opening earlier can help students if some arrive before the start of classes.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-107",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Conclusions",
+    "difficulty": "medium",
+    "question": "Every submitted claim is checked for duplicate entries. Claim 18 was submitted. What can be concluded?",
+    "options": [
+      "Claim 18 will be approved",
+      "Claim 18 will be checked for duplicates",
+      "Claim 18 contains a duplicate",
+      "All checked claims are paid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rule applies to every submitted claim, including Claim 18.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-108",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Conclusions",
+    "difficulty": "medium",
+    "question": "Some regional offices offer evening service. All offices offering evening service publish their hours online. Which conclusion follows?",
+    "options": [
+      "Some regional offices publish their hours online",
+      "All regional offices offer evening service",
+      "No office publishes its hours online",
+      "Every online schedule is for evening service"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The regional offices that offer evening service are among the offices that publish hours online.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-109",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Conclusions",
+    "difficulty": "medium",
+    "question": "If a shipment is fragile, it receives a protective label. This package has no protective label. What follows, assuming the labeling rule was followed?",
+    "options": [
+      "The package is fragile",
+      "The package is not fragile",
+      "The package was never shipped",
+      "All packages need two labels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under the stated rule, fragile shipments receive a label; without one, this package is not fragile.",
+    "points": 1
+  },
+  {
+    "id": "MOCK-110",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "In a code, each letter is replaced by the next letter in the alphabet. How is MAP written?",
+    "options": [
+      "NBQ",
+      "LZO",
+      "NBR",
+      "MBQ"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Move each letter forward once: M→N, A→B, and P→Q, giving NBQ.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-001",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What comes next? 5, 10, 15, 20, ___",
+    "options": [
+      "22",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The series adds 5 each time.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-002",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Letter Series",
+    "difficulty": "easy",
+    "question": "What comes next? A, C, E, G, ___",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Letters skip one each time: A, C, E, G, I.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-003",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Deduction",
+    "difficulty": "easy",
+    "question": "All clerks use computers. Lea is a clerk. What follows?",
+    "options": [
+      "Lea uses a computer",
+      "Lea owns a computer",
+      "Lea repairs computers",
+      "Lea dislikes computers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lea belongs to the group of clerks, who all use computers.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-004",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which one does not belong? Apple, Banana, Carrot, Mango",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Mango"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Carrot is a vegetable; the others are fruits.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-005",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Ordering",
+    "difficulty": "easy",
+    "question": "Tom is taller than Sam. Sam is taller than Ray. Who is the shortest?",
+    "options": [
+      "Tom",
+      "Sam",
+      "Ray",
+      "Cannot be determined"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tom > Sam > Ray, so Ray is shortest.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-006",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "question": "Hot is to cold as day is to ____.",
+    "options": [
+      "Sun",
+      "Night",
+      "Light",
+      "Morning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hot and cold are opposites, as are day and night.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-007",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "question": "What comes next? 1, 2, 4, 8, ___",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Each number doubles.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-008",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Logical Reasoning",
+    "difficulty": "easy",
+    "question": "If today is Wednesday, what day will it be in 3 days?",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wednesday + 3 days = Saturday.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-009",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Conclusions",
+    "difficulty": "easy",
+    "question": "Some employees are teachers. All teachers are graduates. Which must be true?",
+    "options": [
+      "All employees are graduates",
+      "Some employees are graduates",
+      "No employee is a graduate",
+      "All graduates are teachers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The employees who are teachers are graduates, so some employees are graduates.",
+    "points": 1
+  },
+  {
+    "id": "SUB-A-010",
+    "category": "analytical",
+    "level": "subprofessional",
+    "topic": "Classification",
+    "difficulty": "easy",
+    "question": "Which one does not belong? Chair, Table, Desk, Pencil",
+    "options": [
+      "Chair",
+      "Table",
+      "Desk",
+      "Pencil"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pencil is a writing tool; the others are furniture.",
+    "points": 1
+  }
+]
