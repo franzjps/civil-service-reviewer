@@ -59,7 +59,9 @@ export async function buildExam({ category, level }) {
   const pool = await loadPool(category, lvl);
   if (!pool.length) throw new Error('No questions are available for this selection.');
   const limit = questionLimitFor(category);
-  const picked = category === 'mixed' ? pickWeighted(pool, level, limit) : shuffle(pool).slice(0, limit);
+  const isFullMock = category === 'full-mock' || category === 'full-subprofessional-mock';
+  const picked = isFullMock ? pool.slice(0, limit)
+    : category === 'mixed' ? pickWeighted(pool, level, limit) : shuffle(pool).slice(0, limit);
   const questions = picked.map(prepareQuestion);
   const durationSec = examDurationMinutes(category, questions.length) * 60;
   const startedAt = Date.now();

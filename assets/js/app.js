@@ -53,8 +53,7 @@ export function formatDuration(sec) {
 // Shared markup for a question's directions, reading passage and image.
 export function contextHtml(q) {
   const img = typeof q.image === 'string' && /^assets\/img\/[\w.-]+$/.test(q.image) ? q.image : '';
-  return `${q.instruction ? `<p class="small text-muted fst-italic mb-2">${esc(q.instruction)}</p>` : ''}` +
-    `${q.passage ? `<div class="q-passage border rounded p-3 mb-3 bg-body-tertiary small">${esc(q.passage)}</div>` : ''}` +
+  return `${q.passage ? `<div class="q-passage border rounded p-3 mb-3 bg-body-tertiary small">${esc(q.passage)}</div>` : ''}` +
     `${img ? `<img class="img-fluid rounded border mb-3" src="${img}" alt="Graph for this question">` : ''}`;
 }
 export const params = () => new URLSearchParams(location.search);
