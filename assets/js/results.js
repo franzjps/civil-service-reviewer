@@ -1,4 +1,4 @@
-import { contextHtml, esc, formatDate, formatDuration, levelLabel, params, getCategory } from './app.js';
+import { contextHtml, esc, explanationHtml, formatDate, formatDuration, levelLabel, params, getCategory } from './app.js';
 import { getResult, loadHistory, clearHistory, loadPrefs, savePrefs, loadActive } from './storage.js';
 import { startExam } from './exam-engine.js';
 import { historyTable } from './dashboard.js';
@@ -121,7 +121,7 @@ export function initReviewPage() {
           }).join('')}
         </ul>
         ${q.selected === null ? '<p class="small text-muted mb-1">You did not answer this question.</p>' : ''}
-        ${q.explanation ? `<div class="explanation"><strong>Explanation:</strong> ${esc(q.explanation)}</div>` : ''}
+        ${explanationHtml(q, 'Explanation')}
       </div></article>`;
     }).join('') : '<p class="text-muted">No questions match this filter.</p>';
   }

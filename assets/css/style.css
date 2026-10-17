@@ -18,6 +18,17 @@ a { color: var(--brand); }
 .topbar h1 { font-size: 1.15rem; margin: 0; }
 .content { padding: 1.5rem; max-width: 1100px; margin: 0 auto; }
 .no-sidebar .main-area { margin-left: 0; }
+.explanation { background: var(--brand-soft); border-radius: .6rem; padding: .75rem 1rem; margin-top: .75rem; }
+.explanation-blackboard { background: var(--brand-soft); color: inherit; }
+.equation-board { margin-top: .45rem; font-size: 1rem; line-height: 1.5; }
+.equation-board:not(:has(.board-text, .board-step)) { white-space: pre-line; }
+.equation-board .board-text { margin: .5rem 0 .2rem; }
+.equation-board .board-step { display: flex; align-items: baseline; gap: .75rem; }
+.equation-board .step-no { color: #1d2cc4; font-family: "Times New Roman", serif; font-size: 1.15rem; min-width: 1.5rem; }
+.equation-board .eq { overflow-x: auto; overflow-y: hidden; padding: .15rem 0; }
+.equation-board .eq code { white-space: pre; font-size: .9rem; }
+.equation-board .katex { font-size: 1.2em; }
+.equation-board .board-answer { margin-top: .6rem; font-weight: 600; }
 
 @media (max-width: 991.98px) {
   .sidebar { transform: translateX(-100%); }

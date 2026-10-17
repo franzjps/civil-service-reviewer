@@ -1,4 +1,4 @@
-import { contextHtml, esc, params, getCategory } from './app.js';
+import { contextHtml, esc, explanationHtml, params, getCategory } from './app.js';
 import { getFlashcards, getFlashcardStats, rateFlashcard, saveDailyGoal } from './flashcard-storage.js';
 
 const $ = (id) => document.getElementById(id);
@@ -143,7 +143,7 @@ export function initFlashcardsPage() {
           <span class="flashcard-face flashcard-back" id="cardBack" hidden>
             <span class="badge text-bg-success align-self-start mb-3">Answer</span>
             <span class="flashcard-prompt fw-semibold">${esc(card.answer)}</span>
-            ${card.explanation ? `<span class="explanation mt-3"><strong>Why:</strong> ${esc(card.explanation)}</span>` : ''}
+            ${explanationHtml(card, 'Why')}
             <span class="small text-muted mt-4">Choose how well you knew it</span>
           </span>
         </span>

@@ -56,6 +56,72 @@ export function contextHtml(q) {
   return `${q.passage ? `<div class="q-passage border rounded p-3 mb-3 bg-body-tertiary small">${esc(q.passage)}</div>` : ''}` +
     `${img ? `<img class="img-fluid rounded border mb-3" src="${img}" alt="Graph for this question">` : ''}`;
 }
+function isNumericalQuestion(q) {
+  return q?.category === 'numerical' || /numerical/i.test(String(q?.topic || ''));
+}
+function mathStyledText(text) {
+  return esc(String(text || '')
+    .replace(/\s*[xX*]\s*/g, ' × ')
+    .replace(/\s*\/\s*/g, ' ÷ ')
+    .replace(/\s*-\s*/g, ' − ')
+    .replace(/\s*\+\s*/g, ' + ')
+    .replace(/\s*=\s*/g, ' = ')
+    .replace(/\s{2,}/g, ' ')
+    .trim());
+}
+function boardHtml(text) {
+  const lines = String(text).split('\n').map((l) => l.trim()).filter(Boolean);
+  let step = 0;
+  return lines.map((l) => {
+    if (l.startsWith('$$ ')) {
+      const tex = l.slice(3);
+      step += 1;
+      return `<div class="board-step"><span class="step-no">${step}.</span><div class="eq" data-tex="${esc(tex)}"><code>${esc(tex)}</code></div></div>`;
+    }
+    if (l.startsWith('ANSWER: ')) return `<div class="board-answer">Answer: <span>${esc(l.slice(8))}</span></div>`;
+    return `<div class="board-text">${esc(l)}</div>`;
+  }).join('');
+}
+export function explanationHtml(q, label = 'Explanation') {
+  if (!q?.explanation) return '';
+  if (!isNumericalQuestion(q)) return `<div class="explanation"><strong>${esc(label)}:</strong> ${esc(q.explanation)}</div>`;
+  const typeset = /^\$\$ /m.test(q.explanation);
+  return `<div class="explanation explanation-blackboard">
+    <strong>${esc(label)}:</strong>
+    <div class="equation-board">${typeset ? boardHtml(q.explanation) : mathStyledText(q.explanation)}</div>
+  </div>`;
+}
+
+// KaTeX loads lazily; until then (or if offline) the raw equation stays visible.
+let katexPromise = null;
+function loadKatex() {
+  if (!katexPromise) {
+    const css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css';
+    document.head.appendChild(css);
+    katexPromise = import('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.mjs').then((m) => m.default || m).catch(() => null);
+  }
+  return katexPromise;
+}
+async function typesetEquations() {
+  const pending = document.querySelectorAll('.eq[data-tex]:not([data-done])');
+  if (!pending.length) return;
+  const katex = await loadKatex();
+  if (!katex) return;
+  pending.forEach((el) => {
+    el.dataset.done = '1';
+    try { katex.render(el.dataset.tex, el, { displayMode: false, throwOnError: false }); } catch { /* keep raw text */ }
+  });
+}
+if (typeof document !== 'undefined') {
+  let queued = false;
+  new MutationObserver(() => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(() => { queued = false; typesetEquations(); });
+  }).observe(document.documentElement, { childList: true, subtree: true });
+}
 export const params = () => new URLSearchParams(location.search);
 
 function isValidQuestion(q) {

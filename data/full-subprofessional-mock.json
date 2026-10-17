@@ -1900,7 +1900,7 @@
       "Php 4,150.00"
     ],
     "correctAnswer": 3,
-    "explanation": "Php 3,900.00. Let the price of one table be t and the price of one chair be c. Then, we can create the following equations based on the given information: 10t = 4c (The price of 10 tables is equal to that of 4 chairs) 15t + 2c = 4000 (The price of 15 tables and 2 chairs together is Php 4,000) From the first equation, we can simplify it to get: t = 0.4c Substituting this value of t into the second equation, we get: 15(0.4c) + 2c = 4000 6c + 2c = 4000 8c = 4000 c = 500 Substituting this value of c into the first equation, we get: 10t = 4(500) t = 200 Therefore, the price of one table is Php 200...",
+    "explanation": "$$ 10T = 4C \\;\\Rightarrow\\; C = 2.5T\nSubstitute into 15 tables + 2 chairs = 4,000:\n$$ 15T + 2(2.5T) = 20T = 4{,}000 \\;\\Rightarrow\\; T = 200,\\ C = 500\nNow price 12 tables and 3 chairs:\n$$ 12(200) + 3(500) = 2{,}400 + 1{,}500 = 3{,}900\nANSWER: Php 3,900.00",
     "points": 1
   },
   {
@@ -1918,7 +1918,7 @@
       "10, 5"
     ],
     "correctAnswer": 0,
-    "explanation": "11, 5. This is an alternating subtraction series with the interpolation of a random number, 5, as every third number. In the subtraction series, 3 is subtracted, then 4, then 3, and so on.",
+    "explanation": "Group the numbers in threes. Each group follows the same pattern:\n$$ 28,\\ 25,\\ 5 \\qquad 21,\\ 18,\\ 5 \\qquad 14,\\ ?,\\ ?\nThe first two numbers drop by 3, and the third is always 5:\n$$ 14 - 3 = 11,\\ 5\nANSWER: 11, 5",
     "points": 1
   },
   {
@@ -1936,7 +1936,7 @@
       "98 birds"
     ],
     "correctAnswer": 0,
-    "explanation": "30 birds. Let’s assume that the probability of Kenny hitting a bird in one shot is p. Then, the probability of Max hitting a bird in one shot is 1/2, since he hits once in every two shots. Since Kenny fires 5 shots for every 3 shots fired by Max, the ratio of the number of shots fired by Kenny to the number of shots fired by Max is 5/3. We can set up the following equation to relate the probabilities of Kenny hitting a bird and Max missing a bird: 5p = (2/3)(27) Solving for p, we get: p = (2/3)(27)/5 p = 18/25 Therefore, the probability of Kenny hitting a bird in one shot is 18/25. Now, we...",
+    "explanation": "Max kills 1 in every 2 shots, so he misses 1 for every kill.\nMisses = 27, so Max fired:\n$$ 27 \\times 2 = 54 \\text{ shots}\nKenny fires 5 shots for every 3 of Max's:\n$$ 54 \\times \\tfrac{5}{3} = 90 \\text{ shots}\nKenny kills 1 bird in every 3 shots:\n$$ 90 \\div 3 = 30\nANSWER: 30 birds",
     "points": 1
   },
   {
@@ -1954,7 +1954,7 @@
       "5.4"
     ],
     "correctAnswer": 2,
-    "explanation": "4.7. The given number series has an increment of 0.8 between each consecutive term. Therefore, the next term in the series would be obtained by adding 0.8 to the last term. So, the next term in the series would be: 3.9 + 0.8 = 4.7",
+    "explanation": "Each term increases by 0.8:\n$$ 1.5 \\xrightarrow{+0.8} 2.3 \\xrightarrow{+0.8} 3.1 \\xrightarrow{+0.8} 3.9 \\xrightarrow{+0.8} ?\n$$ 3.9 + 0.8 = 4.7\nANSWER: 4.7",
     "points": 1
   },
   {
@@ -1972,7 +1972,7 @@
       "70.1 buckets"
     ],
     "correctAnswer": 2,
-    "explanation": "62.5 buckets. Let’s assume that each bucket has a capacity of “x” units of water, and the tank requires “y” units of water to be filled. Therefore, we can write: 25x = y (since 25 buckets are required to fill the tank) Now, if the capacity of each bucket is reduced to two-fifth of its present size, the new capacity of each bucket would be (2/5)x units of water. Let’s say the number of buckets required to fill the tank with the new bucket size is “z”. Using the same logic as above, we can write: z(2/5)x = y (since z buckets are required to fill the tank with the new bucket size) Simplifying...",
+    "explanation": "A smaller bucket needs more buckets. Divide by the new size:\n$$ 25 \\div \\tfrac{2}{5} = 25 \\times \\tfrac{5}{2} = 62.5\nANSWER: 62.5 buckets",
     "points": 1
   },
   {
@@ -1990,7 +1990,7 @@
       "1/4"
     ],
     "correctAnswer": 3,
-    "explanation": "1/10. If Narmaya made 3/6 of a pack of pancakes, it means she made half of a pack of pancakes since 3/6 can be simplified to 1/2. Now, she gave the pancakes equally to 5 nieces. To find out how much each niece would get, we need to divide the total amount of pancakes by the number of nieces. Half of a pack of pancakes divided equally among 5 nieces would be: (1/2) pack / 5 nieces = (1/2) ÷ 5 = 1/10 pack per niece Therefore, each of Narmaya’s nieces would get 1/10 pack of pancakes.",
+    "explanation": "Divide 3/6 of a pack equally among 5 nieces:\n$$ \\tfrac{3}{6} \\div 5 = \\tfrac{3}{6} \\times \\tfrac{1}{5} = \\tfrac{3}{30} = \\tfrac{1}{10}\nANSWER: 1/10",
     "points": 1
   },
   {
@@ -2008,7 +2008,7 @@
       "1/3"
     ],
     "correctAnswer": 1,
-    "explanation": "3/28. To find out how much each person would get, we need to divide the total amount of chicken nuggets by the number of people. There are a total of 7 people (Stacy and her 6 friends), so we can write: 3/4 kg of chicken nuggets / 7 people = (3/4) ÷ 7 kg per person To simplify the answer, we can convert the division to a multiplication by flipping the denominator and multiplying: (3/4) ÷ 7 = (3/4) * (1/7) = 3/28 Therefore, each person would get 3/28 kg of chicken nuggets.",
+    "explanation": "Stacy and 6 friends = 7 people.\n$$ \\tfrac{3}{4} \\div 7 = \\tfrac{3}{4} \\times \\tfrac{1}{7} = \\tfrac{3}{28} \\text{ kg}\nANSWER: 3/28",
     "points": 1
   },
   {
@@ -2026,7 +2026,7 @@
       "$2,350"
     ],
     "correctAnswer": 1,
-    "explanation": "$2,520. If the glasses are being sold at 28% off, it means Mr. Smith will only need to pay 72% of the original price. To find out how much he needs to pay, we can multiply the original price by 72% (or 0.72) to get the discounted price: Discounted price = 0.72 * $3,500 Discounted price = $2,520 Therefore, Mr. Smith will only need to pay $2,520 for the glasses with the 28% discount.",
+    "explanation": "A 28% discount means he pays 72% of the price:\n$$ 100\\% - 28\\% = 72\\% = 0.72\n$$ 0.72 \\times 3{,}500 = 2{,}520\nANSWER: $2,520",
     "points": 1
   },
   {
@@ -2044,7 +2044,7 @@
       "9746.008"
     ],
     "correctAnswer": 3,
-    "explanation": "9746.0008. To convert “Nine thousand seven hundred forty-six and eight ten thousandths” to standard form, we can simply write out the digits in their appropriate places. Nine thousand = 9,000 Seven hundred = 700 Forty-six = 46 Eight ten thousandths = 0.0008 Putting all these digits together, we get: 9,000 + 700 + 46 + 0.0008 = 9,746.0008",
+    "explanation": "Eight ten-thousandths is written with 4 decimal places:\n$$ \\tfrac{8}{10{,}000} = 0.0008\n$$ 9{,}746 + 0.0008 = 9746.0008\nANSWER: 9746.0008",
     "points": 1
   },
   {
@@ -2062,7 +2062,7 @@
       "85%"
     ],
     "correctAnswer": 0,
-    "explanation": "75%. To find the percentage of cases that were brought to the Ombudsman, we can divide the number of cases brought to the Ombudsman by the total number of reported cases and multiply by 100: (600 / 800) * 100% = 75%",
+    "explanation": "Cases brought to the Ombudsman:\n$$ 800 - 200 = 600\n$$ \\dfrac{600}{800} \\times 100\\% = 75\\%\nANSWER: 75%",
     "points": 1
   },
   {
@@ -2080,7 +2080,7 @@
       "674 days"
     ],
     "correctAnswer": 1,
-    "explanation": "644 days. To convert weeks to days, we can multiply the number of weeks by 7 (since there are 7 days in a week): 92 weeks * 7 days/week = 644 days",
+    "explanation": "1 week = 7 days:\n$$ 92 \\times 7 = 644 \\text{ days}\nANSWER: 644 days",
     "points": 1
   },
   {
@@ -2098,7 +2098,7 @@
       "38.25 kg"
     ],
     "correctAnswer": 4,
-    "explanation": "38.25 kg. To find the average weight of all the chickens in the pen, we need to take into account the number of hens and roosters in the pen, as well as their respective average weights. Let’s start by finding the total weight of all the hens in the pen: Total weight of hens = number of hens * average weight of hens Total weight of hens = 26 hens * 40 kg/hen Total weight of hens = 1,040 kg Next, let’s find the total weight of all the roosters in the pen: Total weight of roosters = number of roosters * average weight of roosters Total weight of roosters = 14 roosters * 35 kg/rooster Total...",
+    "explanation": "Average = total weight ÷ total number of chickens.\n$$ \\text{Hens: } 26 \\times 40 = 1{,}040 \\text{ kg}\n$$ \\text{Roosters: } 14 \\times 35 = 490 \\text{ kg}\n$$ \\dfrac{1{,}040 + 490}{26 + 14} = \\dfrac{1{,}530}{40} = 38.25 \\text{ kg}\nANSWER: 38.25 kg",
     "points": 1
   },
   {
@@ -2116,7 +2116,7 @@
       "485 students"
     ],
     "correctAnswer": 2,
-    "explanation": "665 students. The total number of students who went on the educational field trip is: 10 buses × 50 students/bus = 500 students",
+    "explanation": "Students who went on the trip:\n$$ 10 \\times 50 = 500\nAdd the students who did not go:\n$$ 500 + 165 = 665\nANSWER: 665 students",
     "points": 1
   },
   {
@@ -2134,7 +2134,7 @@
       "618 pencils"
     ],
     "correctAnswer": 0,
-    "explanation": "512 pencils. Let’s say the original number of children in the class was “x”. Then, according to the given information: – The number of pencils each child got = (1/8)x – Total number of pencils distributed = (1/8)x * x = x/8 Now, if the number of children had been half, then the new number of children would be “x/2”. And according to the given information: – The number of pencils each child would have got = 16 – Total number of pencils distributed = 16 * (x/2) = 8x We know that the total number of pencils distributed is the same in both cases, so we can equate the two expressions: x/8 = 8x 1/8...",
+    "explanation": "Let n = number of children. Each child got n/8 pencils, so the total is:\n$$ n \\times \\dfrac{n}{8} = \\dfrac{n^2}{8}\nWith n/2 children, each gets 16, so the total is:\n$$ \\dfrac{n}{2} \\times 16 = 8n\n$$ \\dfrac{n^2}{8} = 8n \\;\\Rightarrow\\; n = 64\n$$ 8(64) = 512 \\text{ pencils}\nANSWER: 512 pencils",
     "points": 1
   },
   {
@@ -2152,7 +2152,7 @@
       "P12,259.00"
     ],
     "correctAnswer": 0,
-    "explanation": "P10,259.00. The total amount Jeremie spent on goods is P5,000.00 + P3,500.00 = P8,500.00 The total amount Jeremie earned is P6,459.00 + P7,300.00 = P13,759.00 Therefore, Jeremie has P13,759.00 – P8,500.00 = P5,259.00 profit. Adding the profit to the initial amount of money he spent on goods, Jeremie has a total of P5,000.00 + P5,259.00 = P10,259.00. Therefore, the answer is (a) P10,259.00.",
+    "explanation": "Total spent on goods:\n$$ 5{,}000 + 3{,}500 = 8{,}500\nTotal earned:\n$$ 6{,}459 + 7{,}300 = 13{,}759\nProfit = earned - spent:\n$$ 13{,}759 - 8{,}500 = 5{,}259\nCapital plus profit:\n$$ 5{,}000 + 5{,}259 = \\text{P}10{,}259\nANSWER: P10,259.00",
     "points": 1
   },
   {
@@ -2170,7 +2170,7 @@
       "5/20 kg"
     ],
     "correctAnswer": 0,
-    "explanation": "1/16 kg. The weight of the dough for 24 pieces of salt bread is 3/2 kg. To find the weight of each salt bread, we need to divide the total weight of the dough by the number of pieces. 3/2 kg divided by 24 pieces is equivalent to (3/2 kg) ÷ 24 = (3/2 kg) ÷ (2×2×2×3) = 1/16 kg. Therefore, the weight of each salt bread is 1/16 kg.",
+    "explanation": "Divide the dough among 24 pieces:\n$$ \\tfrac{3}{2} \\div 24 = \\tfrac{3}{2} \\times \\tfrac{1}{24} = \\tfrac{3}{48} = \\tfrac{1}{16} \\text{ kg}\nANSWER: 1/16 kg",
     "points": 1
   },
   {
@@ -2188,7 +2188,7 @@
       "P983.33"
     ],
     "correctAnswer": 4,
-    "explanation": "P983.33 (rounded to the nearest centavo).",
+    "explanation": "Total cost of the items and delivery:\n$$ 550.75 + 629.25 + 240.00 + 55.00 = 1{,}475.00\nSplit equally among 3 people:\n$$ \\dfrac{1{,}475}{3} \\approx 491.67\nMother and sister pay for two shares:\n$$ 2 \\times 491.67 \\approx \\text{P}983.33\nANSWER: P983.33",
     "points": 1
   },
   {
@@ -2206,7 +2206,7 @@
       "680.670"
     ],
     "correctAnswer": 1,
-    "explanation": "670.680. Rounding off 678.678 to the nearest hundredths means we only need to look at the digit in the second decimal place, which is 7. Since 7 is greater than or equal to 5, we need to round up the previous digit, which is 8. Therefore, the rounded off value of 678.678 to the nearest hundredths is 678.680.",
+    "explanation": "Hundredths = 2nd decimal digit. The next digit is 8, so round up:\n$$ 678.67\\underline{8} \\rightarrow 678.68 = 678.680\nANSWER: 678.680",
     "points": 1
   },
   {
@@ -2224,7 +2224,7 @@
       "None of these"
     ],
     "correctAnswer": 3,
-    "explanation": "three hundred seventy-six and five hundred four thousandths",
+    "explanation": "Three digits after the decimal point means thousandths.\n$$ 376.504 = \\text{376 and 504 thousandths}\nANSWER: three hundred seventy-six and five hundred four thousandths",
     "points": 1
   },
   {
@@ -2242,7 +2242,7 @@
       "82"
     ],
     "correctAnswer": 2,
-    "explanation": "-138. We can simplify the equation using the order of operations (PEMDAS), which dictates that we perform the exponentiation before multiplication and division, and evaluate expressions within parentheses first. 8 – (6 × 52 + 3) + 7 = 8 – (6 × 25 + 3) + 7 (performing the exponentiation first) = 8 – (150 + 3) + 7 (performing the multiplication inside the parentheses next) = 8 – 153 + 7 (subtracting and adding from left to right) = -138",
+    "explanation": "Follow the order of operations (PEMDAS). Exponent first:\n$$ 5^2 = 25\nMultiply, then add inside the parentheses:\n$$ 6 \\times 25 + 3 = 153\n$$ 8 - 153 + 7 = -138\nANSWER: -138",
     "points": 1
   },
   {
@@ -2260,7 +2260,7 @@
       "538"
     ],
     "correctAnswer": 3,
-    "explanation": "429. The pattern used in this number series is as follows: 1. Start with 8. 2. Multiply the previous number by its position in the series and subtract the position minus one. Using this pattern, we get: The second number is 6 because 8 x 1 – 2 = 6. The third number is 9 because 6 x 2 – 3 = 9. The fourth number is 23 because 9 x 3 – 4 = 23. The fifth number is 87 because 23 x 4 – 5 = 87. Therefore, the next number in the series should be: 87 x 5 – 6 = 429.",
+    "explanation": "Each term is the previous term times 1, 2, 3, 4 ..., minus 2, 3, 4, 5 ...:\n$$ 8 \\times 1 - 2 = 6 \\quad 6 \\times 2 - 3 = 9 \\quad 9 \\times 3 - 4 = 23 \\quad 23 \\times 4 - 5 = 87\nNext term:\n$$ 87 \\times 5 - 6 = 429\nANSWER: 429",
     "points": 1
   },
   {
@@ -2278,7 +2278,7 @@
       "0.25"
     ],
     "correctAnswer": 4,
-    "explanation": "0.25. Out of 120 people, 90 people have an age of more than 30 years. This means that 90/120 = 3/4 of the people have an age of more than 30. Therefore, the remaining 1/4 of the people must have an age of less than or equal to 30. Since we are interested in the probability of selecting a person with an age less than 20, which is a subset of those with an age less than or equal to 30, we know that this probability is less than or equal to 1/4. We can express this as a decimal by dividing 1 by 4, which gives 0.25. Therefore, the probability of selecting a person with an age less than 20 is at...",
+    "explanation": "People who are younger than 20:\n$$ 120 - 90 = 30\n$$ P = \\dfrac{30}{120} = 0.25\nANSWER: 0.25",
     "points": 1
   },
   {
@@ -2296,7 +2296,7 @@
       "1/6"
     ],
     "correctAnswer": 1,
-    "explanation": "1/3. There are six possible outcomes when rolling a six-sided die: 1, 2, 3, 4, 5, or 6. Of these six outcomes, only half are even numbers: 2, 4, and 6. However, we are only interested in the even numbers that are greater than 2, which leaves us with only two possibilities: 4 and 6. Therefore, there are two favorable outcomes out of six possible outcomes, giving a probability of 2/6 or 1/3.",
+    "explanation": "Even numbers greater than 2 on a die: 4 and 6.\n$$ P = \\dfrac{2}{6} = \\dfrac{1}{3}\nANSWER: 1/3",
     "points": 1
   },
   {
@@ -2314,7 +2314,7 @@
       "-306"
     ],
     "correctAnswer": 0,
-    "explanation": "-282. First, we need to simplify the expression within the parentheses, which is (32 + 19) = 51. Next, we need to simplify the expression within the other set of parentheses, which is (36 ÷ 6) = 6. So, the equation becomes: 24 – (32 + 19) × (36 ÷ 6) = 24 – 51 × 6 Next, we perform the multiplication first, using the order of operations (PEMDAS): 24 – 51 × 6 = 24 – 306 Finally, we subtract 306 from 24: 24 – 306 = -282 144. a. -282 First, we need to simplify the expression within the parentheses, which is (32 + 19) = 51.",
+    "explanation": "Work inside the parentheses first:\n$$ 32 + 19 = 51 \\qquad 36 \\div 6 = 6\nMultiply before subtracting:\n$$ 51 \\times 6 = 306\n$$ 24 - 306 = -282\nANSWER: -282",
     "points": 1
   },
   {
@@ -2332,7 +2332,7 @@
       "22"
     ],
     "correctAnswer": 2,
-    "explanation": "The series alternates: 8, 22, 8, 28, 8, ... The second sequence goes up by 6 (22, 28, 34), so the next number is 34.",
+    "explanation": "The series alternates: 8, then a second sequence of 22, 28, ...\n$$ 8,\\ \\mathbf{22},\\ 8,\\ \\mathbf{28},\\ 8,\\ \\mathbf{?}\nThe second sequence increases by 6:\n$$ 22 \\xrightarrow{+6} 28 \\xrightarrow{+6} 34\nANSWER: 34",
     "points": 1
   },
   {
@@ -2350,7 +2350,7 @@
       "15"
     ],
     "correctAnswer": 0,
-    "explanation": "2. To make the sum of 1056 and a certain number completely divisible by 23, we need to find the smallest number that, when added to 1056, results in a multiple of 23. To do this, we can use the fact that the remainder when dividing a number by 23 can only be one of the integers from 0 to 22. We can find the remainder when dividing 1056 by 23 by dividing 1056 by 23 and taking the remainder: 1056 ÷ 23 = 45 remainder 21 This means that 1056 is equivalent to 23 times 45 plus a remainder of 21. To make the sum completely divisible by 23, we need to add a number that results in a remainder of 2...",
+    "explanation": "Divide 1056 by 23:\n$$ 1056 \\div 23 = 45 \\text{ remainder } 21\nAdd what is needed to reach the next multiple of 23:\n$$ 23 - 21 = 2\nANSWER: 2",
     "points": 1
   },
   {
@@ -2368,7 +2368,7 @@
       "4"
     ],
     "correctAnswer": 4,
-    "explanation": "4. We are given a list of numbers and we need to find out how many of them are divisible by 132. We know that 132 can be expressed as the product of its prime factors: 132 = 2^2 × 3 × 11. To determine if a number is divisible by 132, it must be divisible by all of its prime factors. So, we need to check if each number in the list is divisible by 2^2, 3, and 11. Checking each number in the list, we find that only the numbers 264, 396, 792, and 6336 are divisible by all three of these prime factors. Therefore, the answer is e. 4.",
+    "explanation": "$$ 132 = 4 \\times 3 \\times 11\nDivide each number by 132:\n$$ 264 = 132 \\times 2 \\;\\checkmark \\qquad 396 = 132 \\times 3 \\;\\checkmark\n$$ 792 = 132 \\times 6 \\;\\checkmark \\qquad 6336 = 132 \\times 48 \\;\\checkmark\nNot divisible: 462, 968, 2178, 5184.\n4 numbers are divisible.\nANSWER: 4",
     "points": 1
   },
   {
@@ -2386,7 +2386,7 @@
       "360"
     ],
     "correctAnswer": 1,
-    "explanation": "270. Let the smaller number be x and the larger number be y. Then we have: y – x = 1365 (the difference of the two numbers is 1365) y/x = 6 + 15/x (on dividing the larger number by the smaller, we get 6 as quotient and 15 as remainder) Multiplying both sides of the second equation by x, we get: y = 6x + 15 (equation 1) Substituting y = x + 1365 from the first equation into equation 1, we get: x + 1365 = 6x + 15 5x = 1350 x = 270",
+    "explanation": "Let s = smaller number. Larger = 6s + 15 (quotient 6, remainder 15).\nTheir difference is 1365:\n$$ (6s + 15) - s = 1365\n$$ 5s = 1350\n$$ s = 270\nANSWER: 270",
     "points": 1
   },
   {
@@ -2404,7 +2404,7 @@
       "17"
     ],
     "correctAnswer": 3,
-    "explanation": "16. To solve this problem, we can use the principle of inclusion-exclusion, which states that: n(A or B) = n(A) + n(B) – n(A and B) where n(A) represents the number of elements in set A. Let P be the set of students taking Physics, C be the set of students taking calculus, and S be the set of senior class students. We know that: n(P) = 0.4n(S) = 0.4 x 40 = 16 n(C) = 0.3n(S) = 0.3 x 40 = 12 n(P and C) = 0.1n(S) = 0.1 x 40 = 4 Using the inclusion-exclusion principle, we can find the number of students taking either Physics or calculus (or both) as: n(P or C) = n(P) + n(C) – n(P and C) = 16 + 12...",
+    "explanation": "Use inclusion-exclusion for students taking Physics or calculus:\n$$ 40\\% + 30\\% - 10\\% = 60\\%\nStudents taking neither:\n$$ 100\\% - 60\\% = 40\\%\n$$ 0.40 \\times 40 = 16\nANSWER: 16",
     "points": 1
   },
   {
@@ -2688,7 +2688,7 @@
       "President >> Vice-President >> Senate President >> Chief Justice"
     ],
     "correctAnswer": 2,
-    "explanation": "President >> Vice President >> Senate President >> House Speaker. For more FREE CSE Reviewers, click or tap any of the links below. Analogy Clerical Operations General Information Grammar and Correct Usage Logic Numerical Reasoning Paragraph Organization Reading Comprehension Vocabulary Claim Your Civil Service Certificate Follow us 103k Fans 110 Subscribers 14,304 Readers Advertisement Powered by WordPress Copyright © 2026 CSE Reviewer, All Rights Reserved. | Privacy Policy | Disclaimer error: Content is protected !!",
+    "explanation": "President >> Vice President >> Senate President >> House Speaker.",
     "points": 1,
     "instruction": "Read the questions carefully and choose the letter of the correct answer."
   }
