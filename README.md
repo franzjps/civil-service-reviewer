@@ -16,7 +16,7 @@ Static files only. Publish the folder with GitHub Pages (Settings → Pages → 
 Edit `data/*.json`. Fields: `id`, `category`, `level` (`professional`, `subprofessional`, or `all`), `topic`, `difficulty`, `question`, `options`, `correctAnswer` (index into `options`), `explanation`, `points`. Options are shuffled per attempt and the correct index is remapped.
 
 ## Configuration
-- Practice target score: History & Settings page (default 70%). It is a personal practice target, not an official CSC passing rate.
+- Practice target score: History & Settings page (default 80%, the CSE passing rate). Mixed exams are drawn by subject weight: Verbal 30%, Analytical (Professional) or Clerical (Subprofessional) 35%, Numerical 30%, General Information 5%.
 - Questions per exam / time per question: `MAX_QUESTIONS` and `MINUTES_PER_QUESTION` in `assets/js/app.js`.
 
 ## Flashcard review
@@ -25,4 +25,4 @@ Edit `data/*.json`. Fields: `id`, `category`, `level` (`professional`, `subprofe
 - Due cards, review history, XP, daily goals, streaks, achievements, and topic mastery are stored in this browser's `localStorage`.
 
 ## Limitations
-Questions, answers, scoring, and flashcard progress are visible in the browser, and `localStorage` can be edited by the user. Not suitable for secure or high-stakes testing. Sample questions are original practice items, not official exam content. The subject banks and 165-item Professional and Subprofessional full mock exams contain newly written practice questions; the Professional mock uses a 3-hour-10-minute limit and the Subprofessional mock uses a 2-hour-40-minute limit.
+Questions, answers, scoring, and flashcard progress are visible in the browser, and `localStorage` can be edited by the user. Not suitable for secure or high-stakes testing. Question content is from third-party free reviewer PDFs, not official exam content. The subject banks and the Professional (148 items) and Subprofessional (143 items) full mock exams are built from the free CSE Reviewer v1.0 PDFs (csereviewer.com); answers come from the published answer keys, with a few items corrected or excluded where the key was wrong or the question was unanswerable. Ability areas: Verbal, Numerical and General Information apply to both levels, Analytical to Professional only, and Clerical to Subprofessional only. The Professional mock uses a 3-hour-10-minute limit and the Subprofessional mock uses a 2-hour-40-minute limit.

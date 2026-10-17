@@ -4,7 +4,7 @@ const KEYS = {
   prefs: 'csr.prefs.v1'
 };
 const MAX_HISTORY = 50;
-export const DEFAULT_PREFS = { passThreshold: 70 };
+export const DEFAULT_PREFS = { passThreshold: 80 };
 
 function read(key, fallback) {
   try {

@@ -1,7 +1,7 @@
 .flashcard { perspective: 1200px; min-height: 330px; cursor: pointer; }
 .flashcard-inner { min-height: 330px; position: relative; transform-style: preserve-3d; transition: transform .45s ease; }
 .flashcard.is-flipped .flashcard-inner { transform: rotateY(180deg); }
-.flashcard-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border: 1px solid #dfe7f3; border-radius: .9rem; background: #fff; box-shadow: 0 1px 3px rgba(30, 58, 138, .06); padding: clamp(1.25rem, 4vw, 2.25rem); display: flex; flex-direction: column; justify-content: center; }
+.flashcard-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; border: 1px solid #dfe7f3; border-radius: .9rem; background: #fff; box-shadow: 0 1px 3px rgba(30, 58, 138, .06); padding: clamp(1.25rem, 4vw, 2.25rem); display: flex; flex-direction: column; justify-content: safe center; overflow-y: auto; }
 .flashcard-face[hidden] { display: none !important; }
 .flashcard-back { transform: rotateY(180deg); background: #f8fbff; }
 .flashcard-prompt { font-size: clamp(1.15rem, 2.5vw, 1.6rem); white-space: pre-line; }
@@ -19,3 +19,6 @@
 @media (prefers-reduced-motion: reduce) {
   .flashcard-inner { transition: none; }
 }
+
+.flashcard-face .q-passage { flex: 0 0 auto; max-height: 11rem; overflow-y: auto; white-space: pre-line; display: block; font-size: .85rem; text-align: left; }
+.flashcard-face img { flex: 0 0 auto; max-height: 14rem; object-fit: contain; }

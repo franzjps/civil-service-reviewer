@@ -1,597 +1,743 @@
 [
   {
-    "id": "MOCK-086",
+    "id": "PRO-091",
     "category": "analytical",
     "level": "professional",
-    "topic": "Logical Deduction",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "All licensed inspectors have completed safety training. Noel is a licensed inspector. What follows?",
+    "question": "If principal is to teacher, then marshal is to ______.",
     "options": [
-      "Noel has completed safety training",
-      "Noel teaches safety training",
-      "All trainees are inspectors",
-      "Noel licenses inspectors"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Noel belongs to the group of licensed inspectors, all of whom completed the training.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-087",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Logical Deduction",
-    "difficulty": "medium",
-    "question": "No permit is issued without a completed inspection. A permit was issued for Site K. What must be true?",
-    "options": [
-      "Site K passed every possible inspection",
-      "Site K had a completed inspection",
-      "Site K is the only permitted site",
-      "The inspection was conducted today"
+      "law",
+      "prisoner",
+      "jail",
+      "penalty",
+      "crime"
     ],
     "correctAnswer": 1,
-    "explanation": "If issuance requires a completed inspection, an issued permit implies that the inspection was completed.",
-    "points": 1
+    "explanation": "prisoner. The analogy draws a relationship between two pairs of words: “principal” and “teacher,” and “marshal” and “prisoner.” In the first pair, the principal is someone who is in charge of a school, while a teacher is someone who works under the principal’s supervision. In the second pair, a marshal is someone who is in charge of enforcing the law and maintaining order, while a prisoner is someone who is under the marshal’s authority and control.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-088",
+    "id": "PRO-092",
     "category": "analytical",
     "level": "professional",
-    "topic": "Logical Deduction",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "Some volunteers at the center are translators. All translators at the center speak two languages. Which conclusion follows?",
+    "question": "If summit is to bottom, then bourgeois is to ______.",
     "options": [
-      "Some volunteers at the center speak two languages",
-      "All volunteers are translators",
-      "No translator is a volunteer",
-      "All bilingual people are volunteers"
+      "rich",
+      "ideal",
+      "autoritarian",
+      "proletarian",
+      "vulgar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "proletarian. The words in this analogy are related by being antonyms or opposites of each other. “Summit” is the top of a mountain, while “bottom” is the opposite or lowest point. Similarly, “bourgeois” refers to the middle or upper class, while “proletarian” refers to the working class.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-093",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "If murky is to clear, then quixotic is to ______.",
+    "options": [
+      "pragmatic",
+      "idealistic",
+      "irrational",
+      "specific",
+      "intentional"
     ],
     "correctAnswer": 0,
-    "explanation": "The volunteers who are translators at the center belong to the group that speaks two languages.",
-    "points": 1
+    "explanation": "pragmatic. The connection between the words in this analogy is that they are antonyms, with “murky” being the opposite of “clear” and “quixotic” being the opposite of “pragmatic.”",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-089",
+    "id": "PRO-094",
     "category": "analytical",
     "level": "professional",
-    "topic": "Logical Deduction",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "Every sealed envelope is logged before delivery. Envelope R was delivered. Which conclusion is supported?",
+    "question": "Atom is to molecule as cell is to ______.",
     "options": [
-      "Envelope R was logged before delivery",
-      "Envelope R was opened before delivery",
-      "Every logged envelope is delivered",
-      "Envelope R was delivered by hand"
+      "nucleus",
+      "battery",
+      "matter",
+      "virus",
+      "tissue"
     ],
-    "correctAnswer": 0,
-    "explanation": "The stated rule applies to every envelope that is delivered.",
-    "points": 1
+    "correctAnswer": 4,
+    "explanation": "tissue. The relationship between the words in this analogy is that a molecule is made up of atoms, and a tissue is made up of cells. A molecule is the smallest unit of a compound that retains its chemical properties, while an atom is the smallest unit of matter that retains its chemical properties. Similarly, a tissue is a group of cells that work together to perform a specific function, while a cell is the basic unit of life that performs all the functions necessary for living organisms.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-090",
+    "id": "PRO-095",
     "category": "analytical",
     "level": "professional",
-    "topic": "Logical Deduction",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "If the alarm is activated, the control room receives a signal. The control room received no signal. Assuming the system worked as described, what follows?",
+    "question": "Circle is to sphere as square is to ______.",
     "options": [
-      "The alarm was activated",
-      "The alarm was not activated",
-      "The control room was empty",
-      "A signal was sent twice"
+      "diameter",
+      "cube",
+      "area",
+      "length",
+      "depth"
     ],
     "correctAnswer": 1,
-    "explanation": "If activation always produces a signal, the absence of a signal means the alarm was not activated.",
-    "points": 1
+    "explanation": "cube. This analogy compares the relationship between two-dimensional and three-dimensional shapes. A circle is a two-dimensional shape, and a sphere is a three-dimensional shape that has the same curvature all around its surface. Similarly, a square is a two-dimensional shape, and a cube is a three-dimensional shape that has the same length, width, and height.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-091",
+    "id": "PRO-096",
     "category": "analytical",
     "level": "professional",
-    "topic": "Number Series",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "What number comes next? 4, 9, 19, 39, 79, ?",
+    "question": "Quill: Porcupine:: ______: ______.",
     "options": [
-      "119",
-      "149",
-      "159",
-      "169"
+      "Blade: Evergreen",
+      "Wallaby: Scale",
+      "Frond: Palm",
+      "Hippopotamus: Tusk",
+      "Hedgehog: Gills"
     ],
     "correctAnswer": 2,
-    "explanation": "Each term is doubled and increased by 1: 79 × 2 + 1 = 159.",
-    "points": 1
+    "explanation": "Frond : Palm. The analogy here is that the first term in each pair is a part or characteristic feature of the second term. A quill is a characteristic feature of a porcupine, as porcupines have quills on their bodies for protection. Similarly, a frond is a characteristic feature of a palm, as palms have large, divided leaves known as fronds.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-092",
+    "id": "PRO-097",
     "category": "analytical",
     "level": "professional",
-    "topic": "Number Series",
+    "topic": "Analogy",
     "difficulty": "medium",
-    "question": "What number comes next? 2, 6, 12, 20, 30, ?",
+    "question": "Uneasy: Anxious:: ______: ______",
+    "options": [
+      "Strong: Feeble",
+      "Wary: Placid",
+      "Admirable: Scornful",
+      "Self-centered: Egocentric",
+      "Boastful: Vaunting"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Self-centered : Egocentric. The relationship between “uneasy” and “anxious” is that of synonyms – they both convey a sense of worry, apprehension or discomfort. Similarly, the relationship between “self-centered” and “egocentric” is also that of synonyms. Both words describe a person who is overly focused on themselves and their own interests, often at the expense of others.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-098",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Morose: Jubilant:: ______: ______.",
+    "options": [
+      "Joyous: Bubbly",
+      "Pretentious: Conspicuous",
+      "Terrified: Petrified",
+      "Lavish: Simple",
+      "Modest: Humble"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lavish : Simple. The relationship between “Morose” and “Jubilant” is that they are antonyms, meaning they are words with opposite meanings. “Morose” means gloomy or sullen, while “Jubilant” means joyful or exuberant. Likewise, “Lavish” and “Simple” are antonyms. “Lavish” means extravagant or luxurious, while “Simple” means plain or basic.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-099",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Dull: Jejune:: ______:: ______.",
+    "options": [
+      "Forget: Remember",
+      "Proud: Shy",
+      "Light: Heavy",
+      "Affluent: Horrible",
+      "Quiet: Taciturn"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Quiet : Taciturn. The relationship between “Dull” and “Jejune” is that they are synonyms, meaning they have similar meanings. “Dull” means lacking interest or excitement, while “Jejune” means lacking interest or significance, simplistic. Likewise, “Quiet” and “Taciturn” are synonyms. “Quiet” means making little or no noise, while “Taciturn” means reserved or uncommunicative.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-100",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "Plough: Farmer:: ______:: ______.",
+    "options": [
+      "Silk: Author",
+      "Harrow: Gardener",
+      "Book: Mark",
+      "Wood: Saw",
+      "Warrior: Enemy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Harrow : Gardener. The first pair of words is “Plough” and “Farmer.” A plough is a farming tool used for tilling the soil, and a farmer is a person who cultivates crops or raises livestock. The second pair of words is “Harrow” and “Gardener.” A harrow is a gardening tool used for cultivating the soil and removing weeds, and a gardener is a person who tends to and cultivates a garden. In other words, just as a farmer uses a plough for farming, a gardener uses a harrow for gardening.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-101",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "If 20/100 is to 20% then, 9/15 is to ______.",
+    "options": [
+      "0.6",
+      "0.22",
+      "0.30",
+      "0.8",
+      "90"
+    ],
+    "correctAnswer": 0,
+    "explanation": "0.6. To understand the relationship between 20/100 and 20%, we need to know that percent means “per hundred”. Therefore, 20% can be written as 20/100 or 0.2. Using the same logic, to find the equivalent of 9/15 as a decimal, we need to find what fraction of 100 it represents. We can do this by dividing both the numerator and denominator of 9/15 by 3: 9/15 = (9 ÷ 3) / (15 ÷ 3) = 3/5 Now we can express 3/5 as a decimal by dividing the numerator by the denominator: 3 ÷ 5 = 0.6",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-103",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "If 4 is to 9, then 25 is to ___.",
     "options": [
       "36",
-      "40",
+      "38",
       "42",
-      "44"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The terms are consecutive products 1×2, 2×3, 3×4, and so on; the next is 6×7 = 42.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-093",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Number Series",
-    "difficulty": "medium",
-    "question": "What number comes next? 81, 27, 9, 3, ?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "6"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Each term is divided by 3, so 3 ÷ 3 = 1.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-094",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Number Series",
-    "difficulty": "medium",
-    "question": "What number comes next? 7, 10, 16, 25, 37, ?",
-    "options": [
-      "49",
-      "50",
-      "52",
-      "54"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The differences are +3, +6, +9, +12; the next difference is +15, giving 52.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-095",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Number Series",
-    "difficulty": "medium",
-    "question": "What number comes next? 1, 3, 6, 10, 15, ?",
-    "options": [
-      "18",
-      "20",
-      "21",
-      "24"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The increments are +2, +3, +4, +5; the next increment is +6, giving 21.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-096",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Letter Series",
-    "difficulty": "medium",
-    "question": "What letter comes next? B, E, I, N, ?",
-    "options": [
-      "R",
-      "S",
-      "T",
-      "U"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Letter positions increase by 3, 4, 5, then 6; N plus 6 positions is T.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-097",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Letter Series",
-    "difficulty": "medium",
-    "question": "What letter comes next? Z, W, S, N, ?",
-    "options": [
-      "H",
-      "I",
-      "J",
-      "K"
+      "46",
+      "50"
     ],
     "correctAnswer": 0,
-    "explanation": "The backward steps grow by 1: −3, −4, −5, then −6, giving H.",
-    "points": 1
+    "explanation": "36. The number pairings are from the product of the numbers multiplied by itself starting from the number 2 and omitting the number “4”. 2×2 = 4, 3×3 = 9, 5×5 = 25, 6×6 = 36",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "MOCK-098",
+    "id": "PRO-104",
     "category": "analytical",
     "level": "professional",
-    "topic": "Ordering",
-    "difficulty": "medium",
-    "question": "Ira finished before Jo. Ken finished after Jo. Lea finished before Ira. Who finished first?",
-    "options": [
-      "Ira",
-      "Jo",
-      "Ken",
-      "Lea"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The order is Lea, Ira, Jo, Ken, so Lea finished first.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-099",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Ordering",
-    "difficulty": "medium",
-    "question": "A report is filed after review. Review occurs after drafting. Which sequence is required?",
-    "options": [
-      "File, draft, review",
-      "Draft, review, file",
-      "Review, file, draft",
-      "Draft, file, review"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Drafting must precede review, and review must precede filing.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-100",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Ordering",
-    "difficulty": "medium",
-    "question": "Four boxes are stacked. Blue is above Red; Green is below Red; Yellow is above Blue. Which box is highest?",
-    "options": [
-      "Blue",
-      "Green",
-      "Red",
-      "Yellow"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Yellow is above Blue, which is above Red, which is above Green.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-101",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Classification",
-    "difficulty": "medium",
-    "question": "Which item does not belong with the others?",
-    "options": [
-      "Copper",
-      "Iron",
-      "Aluminum",
-      "Granite"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Granite is a rock; copper, iron, and aluminum are metals.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-102",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Classification",
-    "difficulty": "medium",
-    "question": "Which geometric figure differs from the other three?",
-    "options": [
-      "Triangle",
-      "Rectangle",
-      "Pentagon",
-      "Cylinder"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A cylinder is a three-dimensional solid; the other choices are two-dimensional polygons.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-103",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Assumptions",
-    "difficulty": "medium",
-    "question": "A city plans to add bicycle racks near public offices to encourage more staff to cycle to work. Which assumption supports the plan?",
-    "options": [
-      "Some staff would consider cycling if secure parking were available",
-      "All staff live within walking distance",
-      "Public offices will stop providing records",
-      "Bicycle racks eliminate traffic throughout the city"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The plan can encourage cycling if lack of suitable parking currently discourages at least some staff.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-104",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Assumptions",
-    "difficulty": "medium",
-    "question": "A manager schedules short weekly coaching sessions after noticing repeated data-entry mistakes. Which assumption is most necessary?",
-    "options": [
-      "The mistakes may decrease if staff receive guidance",
-      "All data-entry mistakes are intentional",
-      "The software will be replaced next week",
-      "Coaching sessions require no staff time"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Coaching is a reasonable response if guidance can help reduce the recurring mistakes.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-105",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Assumptions",
-    "difficulty": "medium",
-    "question": "A clinic proposes reminder messages to reduce missed appointments. What must the proposal reasonably assume?",
-    "options": [
-      "Some missed appointments result from patients forgetting them",
-      "Every patient owns the same phone",
-      "The clinic will no longer accept walk-ins",
-      "Messages guarantee that nobody cancels"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Reminders can reduce missed appointments if forgetfulness causes at least some of them.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-106",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Assumptions",
-    "difficulty": "medium",
-    "question": "A school will open its reading room earlier so students can use it before class. Which assumption supports this decision?",
-    "options": [
-      "Some students arrive before classes begin",
-      "Every student prefers reading to other activities",
-      "The room has no books",
-      "Classes will be cancelled in the morning"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Opening earlier can help students if some arrive before the start of classes.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-107",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Conclusions",
-    "difficulty": "medium",
-    "question": "Every submitted claim is checked for duplicate entries. Claim 18 was submitted. What can be concluded?",
-    "options": [
-      "Claim 18 will be approved",
-      "Claim 18 will be checked for duplicates",
-      "Claim 18 contains a duplicate",
-      "All checked claims are paid"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The rule applies to every submitted claim, including Claim 18.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-108",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Conclusions",
-    "difficulty": "medium",
-    "question": "Some regional offices offer evening service. All offices offering evening service publish their hours online. Which conclusion follows?",
-    "options": [
-      "Some regional offices publish their hours online",
-      "All regional offices offer evening service",
-      "No office publishes its hours online",
-      "Every online schedule is for evening service"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The regional offices that offer evening service are among the offices that publish hours online.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-109",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Conclusions",
-    "difficulty": "medium",
-    "question": "If a shipment is fragile, it receives a protective label. This package has no protective label. What follows, assuming the labeling rule was followed?",
-    "options": [
-      "The package is fragile",
-      "The package is not fragile",
-      "The package was never shipped",
-      "All packages need two labels"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Under the stated rule, fragile shipments receive a label; without one, this package is not fragile.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-110",
-    "category": "analytical",
-    "level": "professional",
-    "topic": "Logical Reasoning",
-    "difficulty": "medium",
-    "question": "In a code, each letter is replaced by the next letter in the alphabet. How is MAP written?",
-    "options": [
-      "NBQ",
-      "LZO",
-      "NBR",
-      "MBQ"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Move each letter forward once: M→N, A→B, and P→Q, giving NBQ.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-001",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Number Series",
-    "difficulty": "easy",
-    "question": "What comes next? 5, 10, 15, 20, ___",
-    "options": [
-      "22",
-      "25",
-      "30",
-      "35"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The series adds 5 each time.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-002",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Letter Series",
-    "difficulty": "easy",
-    "question": "What comes next? A, C, E, G, ___",
-    "options": [
-      "H",
-      "I",
-      "J",
-      "K"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Letters skip one each time: A, C, E, G, I.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-003",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Logical Deduction",
-    "difficulty": "easy",
-    "question": "All clerks use computers. Lea is a clerk. What follows?",
-    "options": [
-      "Lea uses a computer",
-      "Lea owns a computer",
-      "Lea repairs computers",
-      "Lea dislikes computers"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Lea belongs to the group of clerks, who all use computers.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-004",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Classification",
-    "difficulty": "easy",
-    "question": "Which one does not belong? Apple, Banana, Carrot, Mango",
-    "options": [
-      "Apple",
-      "Banana",
-      "Carrot",
-      "Mango"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Carrot is a vegetable; the others are fruits.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-005",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Ordering",
-    "difficulty": "easy",
-    "question": "Tom is taller than Sam. Sam is taller than Ray. Who is the shortest?",
-    "options": [
-      "Tom",
-      "Sam",
-      "Ray",
-      "Cannot be determined"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Tom > Sam > Ray, so Ray is shortest.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-006",
-    "category": "analytical",
-    "level": "subprofessional",
     "topic": "Analogy",
-    "difficulty": "easy",
-    "question": "Hot is to cold as day is to ____.",
+    "difficulty": "medium",
+    "question": "Complete the pattern: V, VIII, XI, XIV, ___, XX.",
     "options": [
-      "Sun",
-      "Night",
-      "Light",
-      "Morning"
+      "VXII",
+      "XVII",
+      "IXV",
+      "XIX",
+      "XVI"
     ],
     "correctAnswer": 1,
-    "explanation": "Hot and cold are opposites, as are day and night.",
-    "points": 1
+    "explanation": "XVII. The pattern is a sequence where each term increases by 3. Starting with V (5), we add 3 to get VIII (8), then 3 more to get XI (11), and so on. We add 3 to the previous term to get the next term in the sequence.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "SUB-A-007",
+    "id": "PRO-105",
     "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Number Series",
-    "difficulty": "easy",
-    "question": "What comes next? 1, 2, 4, 8, ___",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "In the sequence that follows, what number should fill the blank? U32, V29, ___, X23, Y20.",
     "options": [
-      "10",
-      "12",
-      "14",
-      "16"
+      "Z17",
+      "W23",
+      "Y29",
+      "Z26",
+      "W26"
+    ],
+    "correctAnswer": 4,
+    "explanation": "W26. In the sequence, the letters follow the order of the English alphabet, and the numbers follow a decreasing pattern, decreasing by 3 at each step. So, starting with U32, we move to the next letter V and subtract 3 from the number to get V29. Continuing this pattern, we can find the missing number: U32 V29 W26 X23 (subtracting 3 from the previous number) Y20 (subtracting 3 from the previous number) Therefore, the number that should fill the blank is W26, which is the next number in the pattern, following the letter W and decreasing by 3 from the previous number X23.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-106",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "What is the next letter in the series CNL, BLI, AJF, ZHC, _____?",
+    "options": [
+      "XFY",
+      "XDY",
+      "XDZ",
+      "YFZ",
+      "YFA"
     ],
     "correctAnswer": 3,
-    "explanation": "Each number doubles.",
-    "points": 1
+    "explanation": "YFZ. The pattern in this series involves moving backward by one letter in the alphabet for the 1st letter, by two letters for the 2nd letter, and by three letters for the 3rd letter. So, starting with CNL, the next letter in the sequence would be a letter that is one letter backward from Z for the first letter, two letters backward from H for the second letter, and three letters backward from C for the third letter. Using this pattern, we can see that the next letter after ZHC would be YFZ, where the first letter is Y (one letter backward from Z), the second letter is F (two letters backward...",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "SUB-A-008",
+    "id": "PRO-107",
     "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Logical Reasoning",
-    "difficulty": "easy",
-    "question": "If today is Wednesday, what day will it be in 3 days?",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "If 11 is to 1331, then 9 is to ______?",
     "options": [
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday"
+      "729",
+      "991",
+      "897",
+      "979",
+      "789"
+    ],
+    "correctAnswer": 0,
+    "explanation": "729. 1331 is divisible by 11 and 729 is divisible by 9.",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-108",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "ten: decimal:: ______: ______.",
+    "options": [
+      "five: quince",
+      "two: binary",
+      "four: quartet",
+      "eight: octagon",
+      "seven: septet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "two : binary. In the given analogy, the first word “ten” is related to “decimal” as they are equivalent in numerical value, where “ten” is a base-10 number system and “decimal” refers to the base-10 numbering system that uses ten digits from 0 to 9. Similarly, “two” is related to “binary” as “two” is a base-2 number system and “binary” refers to the base-2 numbering system that uses two digits, 0 and 1. Option A, “five : quince,” is not correct as “quince” refers to a fruit, and there is no direct numerical relation between “five” and “quince.” Option C, “four : quartet,” is also incorrect as...",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-109",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "In the sequence; ZA5, Y4B, XC6, W3D, _____, what letter and number combination should be on the blank?",
+    "options": [
+      "VE5",
+      "E7V",
+      "E6V",
+      "V2E",
+      "VE7"
+    ],
+    "correctAnswer": 4,
+    "explanation": "VE7. The sequence follows two patterns: one for the first letters, and one for the second and third characters. For the first letters, the sequence goes in reverse alphabetical order, starting with Z, then Y, X, W, and V. For the second and third characters, the sequence follows a pattern of alternating letters and numbers in alphabetical order. The first letter is A, and then the next letter is C, and so on. The first number is 5, and then the next number is 4, and so on. The missing second and third characters in the sequence are U and E, and the only answer choice that has U and E in...",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
+  },
+  {
+    "id": "PRO-110",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Analogy",
+    "difficulty": "medium",
+    "question": "What is the following number in the series: 720, 720, 360, ___, 30, 6",
+    "options": [
+      "180",
+      "160",
+      "120",
+      "140",
+      "80"
     ],
     "correctAnswer": 2,
-    "explanation": "Wednesday + 3 days = Saturday.",
-    "points": 1
+    "explanation": "120. From the last number in the sequence (6), multiply it by 5, then the following number by -1, descending all the way to 1: 6 x 5 = 30 30 x 4 = 120 120 x 3 = 360 360 x 2 = 720 720 x 1 = 720 Sponsored Links LOGICAL REASONING: Here are the answers to the Logical Reasoning part of the CSE Professional Reviewer:",
+    "points": 1,
+    "instruction": "Choose the letter that corresponds to the word/item that correctly completes each analogy."
   },
   {
-    "id": "SUB-A-009",
+    "id": "PRO-111",
     "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Conclusions",
-    "difficulty": "easy",
-    "question": "Some employees are teachers. All teachers are graduates. Which must be true?",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: No female teacher can play. Some female teachers are athletes. Conclusions: I. Male athletes can play. II. Some athletes can play.",
     "options": [
-      "All employees are graduates",
-      "Some employees are graduates",
-      "No employee is a graduate",
-      "All graduates are teachers"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The employees who are teachers are graduates, so some employees are graduates.",
-    "points": 1
-  },
-  {
-    "id": "SUB-A-010",
-    "category": "analytical",
-    "level": "subprofessional",
-    "topic": "Classification",
-    "difficulty": "easy",
-    "question": "Which one does not belong? Chair, Table, Desk, Pencil",
-    "options": [
-      "Chair",
-      "Table",
-      "Desk",
-      "Pencil"
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
     ],
     "correctAnswer": 3,
-    "explanation": "Pencil is a writing tool; the others are furniture.",
-    "points": 1
+    "explanation": "Neither I nor II follows. Since one premise is negative, the conclusion must be negative. So, neither conclusion follows.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-112",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Jam is the only daughter of Leo and Sheena Conclusions: I. Leo and Sheena have one daughter. II. Jam has one brother.",
+    "options": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only conclusion I is valid. The statement tells that the Jam is the only daughter of their parents. This means that she has obviously no sisters. So the direct conclusion is I. On the other hand, we do not have any idea about the brothers of Jam. Hence II conclusion may or may not be true.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-113",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Shannon is a frank man. Everything he says is accurate. Assumption:",
+    "options": [
+      "Frank people include details in their comments.",
+      "Frank people give straight facts.",
+      "Frank people do not mean what they say.",
+      "Frank people don’t care about other people’s feelings.",
+      "Frank people are naggers."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frank people give straight facts. Based on the given statement, assumption b. “Frank people give straight facts” can be inferred as correct. This is because the statement mentions that “everything he says is accurate,” implying that Shannon speaks the truth and does not lie or sugarcoat his words.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-114",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: It is not good to interfere in anyone’s private matters. Conclusions: I. Encroachment in anyone’s personal life is bad. II. Professional detail does not come under private matters.",
+    "options": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only conclusion I is valid. Encroachment should not be there in anyone’s private matters does imply the same meaning as told in the given statement but we clearly do not know about the presence of professional life under personal matters.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-115",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Having a Netflix subscription is a luxury. All luxuries are needless expenditures. Having a mobile phone is not a luxury. Dining in a Five-Star restaurant is a needless expenditure.",
+    "options": [
+      "Subscribing to Netflix is not a needless expenditure.",
+      "Dining in a Five-Star restaurant is not a luxury.",
+      "Having a mobile phone is not a needless expenditure.",
+      "Needless expenditures include not dining in a Five-Star restaurant.",
+      "Having a mobile phone is a luxury."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Having a mobile phone is not a needless expenditure. This is because the statement says that having a mobile phone is not a luxury, and all luxuries are needless expenditures. Therefore, having a mobile phone cannot be a needless expenditure.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-116",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Unemployment allowance should be given to Filipinos 18 to 21 years old. Assumptions: I. There are unemployed youths in the Philippines who need monetary support. II. The government has enough funds to provide allowance to all unemployed Filipinos 18 to 21 years old.",
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only Assumption I is implicit. Assumption I directly follows from the statement while Assumption II is a suggestion and does not tell about a government policy or its position of funds.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-117",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: A start-up company is making a new camera that will enable you to take perfect photos even in bad weather. Conclusions: I. No other company has manufactured such a camera unit. II. Any common person can take perfect shots through this camera.",
+    "options": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Neither I nor II is valid. Conclusion I is not valid because of the fact that other camera companies may have such kinds of manufacturing units. Conclusion II also is not valid because the given statement talks about the camera, not the photographer.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-118",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Quality education comes with a hefty price. The Philippines is spending a lot on education. Conclusions: I. Only funding can improve the quality of education in the Philippines. II. The improvement in the quality of education in the Philippines will happen soon.",
+    "options": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only conclusion II is valid. According to the given statement, to get quality education, one needs to spend much and The Philippines is spending much for quality education. Therefore, it is for sure that the quality of education is going to improve in the near future. Hence conclusion II is valid. Conclusion I, however; is irrelevant related to the statement.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-119",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: The leaves of the Jade plant are thick and they require less water. Conclusions: I. Plants having thick leaves do not require more water. II. Jade plant survival can take place, where water is not available.",
+    "options": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only conclusion II is valid. The statement clearly talks about the Jade plant not any other so conclusion I is not valid. It’s the nature of the Jade plant to survive on less water.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-120",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: “This liquor can be drunk either as it is, or after adding ice to it” – An advertisement Assumptions: I. People differ in their preferences on liquors. II. Some people will get attracted to the liquor as it can be drank as it is.",
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II is implicit",
+      "Both I and II are implicit"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Both I and II are implicit. The advertisement tells the different ways in which the liquor can be drank. This means that different people prefer to have it in a different way and that some people would prefer it only because it can be taken in a particular manner.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-121",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Many Filipino drivers are still deliberately violating traffic rules. Hence, they need to develop their sensitivity in obeying traffic rules and road safety. Conclusions:",
+    "options": [
+      "The government must exert efforts in punishing traffic violators.",
+      "Filipinos have recorded the most number of road rage incidents.",
+      "Many Filipino drivers lack road discipline.",
+      "Filipino drivers have tendencies to violate traffic rules and regulations.",
+      "Discipline is easy to instill in Filipino drivers through iron fist governance."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Many Filipino drivers lack road discipline. Conclusion c. “Many Filipino drivers lack road discipline” is a concrete answer based on the given statement. The statement implies that many Filipino drivers are deliberately violating traffic rules, which suggests that they lack discipline and are not following road safety guidelines. Therefore, we can infer that conclusion c. is correct.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-122",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: In Hollywood, even if actors and actresses are gifted and are packaged to perfection, they would still not get famous if the audience would not support and watch their movies. Conclusions:",
+    "options": [
+      "The audience cannot stop actors to become famous.",
+      "The audience empathizes with humble actors.",
+      "Mediocre actors should be packaged together with talented actors to become famous.",
+      "Hollywood actors and actresses become famous because they are liked by the audience.",
+      "Actors and actresses need to please everyone to like them."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hollywood actors and actresses become famous because they are liked by the audience. The statement implies that an actor’s or actress’s fame is dependent on the audience’s support and interest in their movies, indicating that they become famous because they are liked by the audience. Conclusion a. “The audience cannot stop actors to become famous” is incorrect because the statement implies the opposite. The statement suggests that even if actors are talented and packaged to perfection, they still need audience support and viewership to become famous. Conclusion b. “The audience empathizes...",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-123",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: Population increase together with depleting resources and the ongoing pandemic is going to be the scenario in the Philippines for years to come. Assumptions: I. The population of the Philippines will not continue to increase in the future. II. It will be very difficult for the Philippine Government to provide its people a decent quality of life.",
+    "options": [
+      "Only assumption I follows",
+      "Only assumption II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only assumption II follows. The fact given in I is quite contrary to the given statement. So, I does not follow. II mentions the direct implications of the state discussed in the statement.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-124",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: In 2020, enrolment in public schools has increased by 35% while enrolment in private schools recorded a rate of -15%. Conclusions:",
+    "options": [
+      "Dropouts have grown substantially.",
+      "DepEd does not have the financial resources to subsidize all private school enrollees.",
+      "There is an increasing demand for public teachers in private schools.",
+      "Problems continue to beset the country’s tertiary education system.",
+      "Many families don’t have the capability to pay the high tuition fees of private schools."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Many families do not have the capability to pay the high tuition fees of private schools. The statement indicates that there has been a 35% increase in enrollment in public schools, while enrollment in private schools has decreased by 15%. This implies that more families are opting for public schools over private schools, likely due to financial reasons, suggesting that many families don’t have the capability to pay the high tuition fees of private schools. Conclusion a. “Dropouts have grown substantially” is not supported by the given statement and is thus incorrect. Conclusion b. “DepEd...",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-125",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Statement: “Please put more people on the project to make up for the delay” – a supervisor. Assumptions: I. Delay is inevitable in most jobs. II. Output will increase with more numbers of people working on the project.",
+    "options": [
+      "Only assumption I is implicit",
+      "Only assumption II is implicit",
+      "Either I or II is implicit",
+      "Neither I nor II implicit",
+      "Both I and II are implicit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only assumption II is implicit. Assumption I is not implicit, even if based on your real-life experiences, you may believe that delay is inevitable in most jobs. As per the statement, increasing the number of people will make up for the delay by increasing the output. So II is implicit.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-126",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Four ladies are standing in line, Jean, Lisa, Vanna, and Claire. Jean is between Claire and Lisa. Lisa is between Vanna and Jean. Vanna is not the first in line. Which of the following is true?",
+    "options": [
+      "Jean is the first girl in line.",
+      "Lisa is the last girl in line.",
+      "Claire is the second girl in line.",
+      "Vanna is the last girl in line.",
+      "All of them are not actual girls."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vanna is the last in line. The order of the girls from last to first is: Vanna, Jean, Claire, Lisa. Option a. “Jean is the first girl in line” is not true based on the given information. Option b. “Lisa is the last girl in line” is not true based on the given information. Option c. “Claire is the second girl in line” is not true based on the given information. Option d. “Vanna is the last girl in line” is true based on the given information. Option e. “All of them are not actual girls” is not true and is not related to the given information.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-127",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Lailani’s commute never bothered her because there were always seats available on the bus and she was able to spend her 40 minutes comfortably reading the newspaper or catching up on paperwork. Ever since the bus schedule changed, the bus has been extremely crowded, and by the time the doors open at her station, there isn't a seat to be found. Which of the following is true?",
+    "options": [
+      "The bus that Lailani takes to work always arrives late.",
+      "Lailani would be better off taking the train to work",
+      "Lailani’s commute is less comfortable since the bus schedule changed.",
+      "Many commuters will complain about the new bus schedule.",
+      "Lailani will likely look for a new job closer to her home."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lailani’s commute is less comfortable since the bus schedule changed. The passage states that Lailani’s commute didn’t bother her because she was always able to sit down and comfortably read or do paperwork. Therefore, it is reasonable to assume that Lailani’s commute has become less comfortable since the bus schedule changed because it is very crowded and she can no longer find a seat.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-128",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "When they heard the news of the typhoon, Sarah and Mattheo decided to change their vacation plans. Instead of traveling to the island of Boracay, they booked a room at a fancy new spa in Camiguin. Their plans were a bit more expensive, but they'd heard wonderful things about the spa, and they were relieved to find availability on such short notice. Which of the following is true?",
+    "options": [
+      "Sarah and Mattheo take beach vacations every year.",
+      "It is necessary to book at least six months in advance at the spa.",
+      "The spa in Camiguin is overpriced.",
+      "Sarah and Mattheo are a rich couple.",
+      "Sarah and Mattheo decided to change their vacation plans because of the typhoon."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sarah and Mattheo decided to change their vacation plans because of the typhoon. The true statement is e. Sarah and Mattheo decided to change their vacation plans because of the typhoon. The other options cannot be concluded from the given information.",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-129",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Five persons are waiting inside a room. A painter, a carpent er, an electrician, a teacher, and a midwife. The carpenter is sitting to the left of the midwife. The electrician is sitting in the middle of the painter and midwife. The teacher and painter occupy the first and last seats but not respectively. The midwife is sitting to the left of the electrician. Which of the following is the correct order of the persons waiting?",
+    "options": [
+      "painter, teacher, midwife, electrician, carpenter",
+      "carpenter, painter, teacher, midwife, electrician",
+      "painter, electrician, midwife, carpenter, teacher",
+      "teacher, midwife, carpenter, electrician, painter",
+      "electrician, painter, teacher, midwife, carpenter"
+    ],
+    "correctAnswer": 2,
+    "explanation": "painter, electrician, midwife, carpenter, teacher. Here is the reasoning: The painter and teacher occupy the first and last seats but not respectively, which means the order is either teacher, X, X, X, painter or painter, X, X, X, teacher. The carpenter is sitting to the left of the midwife, so the order is either X, X, midwife, carpenter, X or X, X, carpenter, midwife, X. The electrician is sitting in the middle of the painter and midwife, so the order is painter, electrician, midwife or midwife, electrician, painter. Putting it all together, we get the order painter, electrician, midwife,...",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
+  },
+  {
+    "id": "PRO-130",
+    "category": "analytical",
+    "level": "professional",
+    "topic": "Logical Reasoning",
+    "difficulty": "medium",
+    "question": "Karen is older than her cousin Pamela. Pamela's brother Jake is older than Karen. When Pamela and Jake are visiting Karen, all three like to play a game of Scrabble. Pamela wins more often than Karen does. Which of the following is true?",
+    "options": [
+      "When he plays Scrabble with Pamela and Karen, Jake often loses.",
+      "Of the three, Karen is the oldest.",
+      "Karen hates to lose at Scrabble.",
+      "Of the three, Pamela is the youngest.",
+      "Of the three, Jake likes Scrabble the least."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pamela is the youngest. If Karen is older than Pamela and Jake is older than Karen, then Pamela has to be the youngest of the three. NUMERICAL OPERATIONS: Here are the answers to the Numerical Operations part of the CSE Professional Reviewer:",
+    "points": 1,
+    "instruction": "Each item below is given a statement followed by assumptions/conclusions. You have to consider the statement and the following assumptions/conclusions, decide which of them is implicit in the statement, and choose your answer accordingly."
   }
 ]

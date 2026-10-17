@@ -1,4 +1,4 @@
-import { esc, levelLabel } from './app.js';
+import { contextHtml, esc, levelLabel } from './app.js';
 import { loadActive, saveActive } from './storage.js';
 import { createTimer, formatClock } from './timer.js';
 import { setAnswer, toggleMark, progress, finishExam } from './exam-engine.js';
@@ -49,6 +49,7 @@ export function initExamPage() {
     const q = current();
     $('qCounter').textContent = `Question ${exam.current + 1} of ${exam.questions.length}`;
     $('qMeta').textContent = `${q.topic || ''}${q.difficulty ? ' · ' + q.difficulty : ''}`;
+    $('qContext').innerHTML = contextHtml(q);
     $('qText').textContent = q.question;
     const selected = exam.answers[q.id];
     $('options').innerHTML = q.options.map((opt, i) => `

@@ -1,4 +1,4 @@
-import { esc, formatDate, formatDuration, levelLabel, params, getCategory } from './app.js';
+import { contextHtml, esc, formatDate, formatDuration, levelLabel, params, getCategory } from './app.js';
 import { getResult, loadHistory, clearHistory, loadPrefs, savePrefs, loadActive } from './storage.js';
 import { startExam } from './exam-engine.js';
 import { historyTable } from './dashboard.js';
@@ -46,8 +46,11 @@ export function initResultPage() {
     </div>
     <div class="card mb-3"><div class="card-body">
       <h3 class="h5">Performance by subject</h3>
+      ${r.weighted ? '<p class="small text-muted">Each subject counts toward the total by its exam weight. Your weighted total is the sum of the points you earn per subject (maximum 100%).</p>' : ''}
       ${r.bySubject.map((s) => `<div class="mb-3"><div class="d-flex justify-content-between small mb-1">
-        <span>${esc(s.label)} <span class="text-muted">(${s.correct}/${s.total} correct)</span></span><strong>${s.percentage}%</strong></div>${bar(s.percentage)}</div>`).join('')}
+        <span>${esc(s.label)} <span class="text-muted">(${s.correct}/${s.total} correct${r.weighted ? ` · ${s.percentage}% of subject` : ''})</span></span>
+        <strong>${r.weighted ? `${s.weightedScore}% of ${s.weight}%` : `${s.percentage}%`}</strong></div>${bar(r.weighted && s.weight ? (s.weightedScore / s.weight) * 100 : s.percentage)}</div>`).join('')}
+      ${r.weighted ? `<div class="d-flex justify-content-between border-top pt-2"><strong>Weighted total</strong><strong>${r.percentage}% / 100%</strong></div>` : ''}
     </div></div>
     <div class="d-flex flex-wrap gap-2">
       <a class="btn btn-primary" href="review.html?id=${q}"><i class="bi bi-search"></i> Review answers</a>
@@ -107,7 +110,7 @@ export function initReviewPage() {
           <span class="fw-semibold">Question ${i + 1} <span class="text-muted small">· ${esc(getCategory(q.category)?.name || q.category)} · ${esc(q.topic || '')}</span></span>
           <span>${isMarked(q) ? '<span class="badge text-bg-warning me-1">Marked</span>' : ''}<span class="badge ${st === 'correct' ? 'text-bg-success' : st === 'incorrect' ? 'text-bg-danger' : 'text-bg-secondary'}">${st}</span></span>
         </div>
-        <p class="q-text">${esc(q.question)}</p>
+        ${contextHtml(q)}<p class="q-text">${esc(q.question)}</p>
         <ul class="list-unstyled review-options">
           ${q.options.map((o, k) => {
             const isCorrect = k === q.correctIndex;

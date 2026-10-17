@@ -1,427 +1,572 @@
 [
   {
-    "id": "MOCK-151",
+    "id": "PRO-156",
     "category": "general-information",
     "level": "professional",
-    "topic": "Philippine Constitution",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which article of the 1987 Philippine Constitution contains the Bill of Rights?",
+    "question": "To avoid nepotism, a public official must not appoint any of his/her relative up to the third level of consanguinity. Which of the following is not considered a “relative” of a public official?",
     "options": [
-      "Article II",
-      "Article III",
-      "Article IV",
-      "Article VI"
+      "a bilas",
+      "a kumpare",
+      "a balae",
+      "a and c only",
+      "a, b, and c"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Bill of Rights is set out in Article III.",
-    "points": 1
+    "correctAnswer": 4,
+    "explanation": "a, b, and c",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-152",
+    "id": "PRO-157",
     "category": "general-information",
     "level": "professional",
-    "topic": "Government",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which government body audits the use of public funds and property?",
+    "question": "The following are facts about paying taxes in the Philippines, except:",
     "options": [
-      "Commission on Audit",
-      "Commission on Elections",
-      "Civil Service Commission",
-      "National Economic and Development Authority"
+      "It is an enforced contribution",
+      "It has excemptions",
+      "Progressive",
+      "Involuntary",
+      "It goes only to the state’s debt"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Commission on Audit examines and audits government accounts and expenditures.",
-    "points": 1
+    "correctAnswer": 4,
+    "explanation": "It goes only to the state’s debt",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-153",
+    "id": "PRO-158",
     "category": "general-information",
     "level": "professional",
-    "topic": "Government",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which body is primarily responsible for administering national and local elections in the Philippines?",
+    "question": "All the executive power shall be vested to the President and Cabinet Members, according to _______ of the Constitution",
     "options": [
-      "Commission on Audit",
-      "Commission on Elections",
-      "Civil Service Commission",
-      "Department of Justice"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Commission on Elections administers and enforces laws and regulations on elections.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-154",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Government",
-    "difficulty": "medium",
-    "question": "Which constitutional commission oversees the merit system in the Philippine civil service?",
-    "options": [
-      "Commission on Audit",
-      "Commission on Elections",
-      "Civil Service Commission",
-      "Commission on Human Rights"
+      "Article VI, Section 1",
+      "Article IV, Section 1",
+      "Article VII, Section 1",
+      "Article V, Section 1",
+      "Article 1, Section V"
     ],
     "correctAnswer": 2,
-    "explanation": "The Civil Service Commission is the central personnel agency of the government.",
-    "points": 1
+    "explanation": "Article VII, Section 1",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-155",
+    "id": "PRO-159",
     "category": "general-information",
     "level": "professional",
-    "topic": "Philippine Constitution",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "How many co-equal branches make up the national government under the separation of powers?",
+    "question": "To be a member of the Supreme Court, a person must:",
     "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
+      "not be a degree holder",
+      "be a naturalized citizen",
+      "not be a member of the Philippine Bar",
+      "have been for fifteen years or more, a judge of a lower court",
+      "have been a judge of the Court of Appeals for 10 years"
+    ],
+    "correctAnswer": 3,
+    "explanation": "have been for fifteen years or more, a judge of a lower court",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-160",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which of the following is a dimension of the Right to Privacy?",
+    "options": [
+      "Protection through the prohibition of unreasonable searches and seizures",
+      "Ability to impose the right to bail",
+      "Right against cruel and unusual punishment",
+      "The ability to enforce the right against self-incrimination",
+      "Having the right to remain silent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Right against unreasonable searches and seizures",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-161",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "The writ of habeas corpus may be suspended in times of rebellion and invasion, according to what article of the Constitution?",
+    "options": [
+      "Article II, Section 15",
+      "Article I, Section 14",
+      "Article IV, Section 12",
+      "Article III, Section 15",
+      "Article III, Section 14"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Article III, Section 15",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-162",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Who among the following is not mentioned as a public employee in Republic Act no. 6713",
+    "options": [
+      "Temporary government employees",
+      "Agency personnel in government offices",
+      "Military personnel",
+      "Police personnel",
+      "Appointive officials"
     ],
     "correctAnswer": 1,
-    "explanation": "The executive, legislative, and judicial branches are the three co-equal branches.",
-    "points": 1
+    "explanation": "Agency personnel in government offices",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-156",
+    "id": "PRO-163",
     "category": "general-information",
     "level": "professional",
-    "topic": "Public Service Ethics",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which law is known as the Code of Conduct and Ethical Standards for Public Officials and Employees?",
+    "question": "No law shall be passed abridging the __________, of expression, or of the press, or the right of the people to peaceably assemble and the government for redress of grievances.",
     "options": [
-      "Republic Act No. 6713",
-      "Republic Act No. 9003",
-      "Republic Act No. 10173",
-      "Republic Act No. 8749"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Republic Act No. 6713 establishes the code of conduct and ethical standards for public officials and employees.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-157",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Public Service Ethics",
-    "difficulty": "medium",
-    "question": "Under Republic Act No. 6713, which practice is consistent with a public employee's duty to act in the public interest?",
-    "options": [
-      "Using public office for personal gain",
-      "Giving preferential treatment to relatives",
-      "Providing service fairly and impartially",
-      "Accepting a gift in exchange for a favor"
+      "right to bail",
+      "freedom to rally",
+      "freedom of speech",
+      "right to education",
+      "right to law"
     ],
     "correctAnswer": 2,
-    "explanation": "Public officials and employees are expected to serve the public with fairness and without undue favoritism.",
-    "points": 1
+    "explanation": "freedom of speech",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-158",
+    "id": "PRO-164",
     "category": "general-information",
     "level": "professional",
-    "topic": "Data Privacy",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which Philippine law is known as the Data Privacy Act of 2012?",
+    "question": "In the 3 sets of provisions contained in the 1987 Philippine Constitution, which of the following is not included?",
     "options": [
-      "Republic Act No. 10173",
-      "Republic Act No. 6713",
-      "Republic Act No. 9003",
-      "Republic Act No. 7160"
+      "Constitution of Solemnity",
+      "Constitution of Liberty",
+      "Constitution of Universality",
+      "Constitution of Institution",
+      "None of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Constitution of Universality",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-165",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "The Philippines is a ________ and ________ state. Sovereignty resides in the people and all government authority emanates from them.",
+    "options": [
+      "free - independent",
+      "Presidential - independent",
+      "monarchial – free",
+      "parliamentary – democratic",
+      "democratic – republican"
+    ],
+    "correctAnswer": 4,
+    "explanation": "democratic – republican",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-166",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which branch of the government has the exclusive power to initiate all cases of impeachment under the 1987 Constitution",
+    "options": [
+      "The Ombudsman",
+      "The Senate",
+      "The Sandiganbayan",
+      "The House of Representatives",
+      "The Supreme Court"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The House of Representatives",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-167",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Every government agency is required to develop, update regularly, and to make available to the transacting public the _________.",
+    "options": [
+      "performance targets",
+      "directory of officials",
+      "names of actions officers",
+      "rates of service fee",
+      "service guides"
+    ],
+    "correctAnswer": 4,
+    "explanation": "service guides",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "PRO-168",
+    "category": "general-information",
+    "level": "professional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "It is the power of the President to reduce the sentence imposed to a lesser punishment such as from death to life imprisonment.",
+    "options": [
+      "Commutation",
+      "Clemency",
+      "Veto",
+      "Pardon",
+      "Reprieve"
     ],
     "correctAnswer": 0,
-    "explanation": "Republic Act No. 10173 is the Data Privacy Act of 2012.",
-    "points": 1
+    "explanation": "Commutation",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-159",
+    "id": "PRO-169",
     "category": "general-information",
     "level": "professional",
-    "topic": "Environmental Law",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Republic Act No. 9003 is principally concerned with:",
+    "question": "This is the minimum age requirement for a person seeking the vice-presidential position.",
     "options": [
-      "Ecological solid waste management",
-      "Air pollution control",
-      "Protection of personal data",
-      "Local government elections"
+      "33 years old",
+      "35 years old",
+      "38 years old",
+      "40 years old",
+      "45 years old"
     ],
-    "correctAnswer": 0,
-    "explanation": "Republic Act No. 9003 is the Ecological Solid Waste Management Act of 2000.",
-    "points": 1
+    "correctAnswer": 3,
+    "explanation": "40 years old",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-160",
+    "id": "PRO-170",
     "category": "general-information",
     "level": "professional",
-    "topic": "Environmental Law",
+    "topic": "General Information",
     "difficulty": "medium",
-    "question": "Which practice best supports the waste hierarchy encouraged in solid-waste management?",
+    "question": "It is a vote of people expressing their choice for or against a proposed law:",
     "options": [
-      "Segregating reusable and recyclable materials",
-      "Burning mixed waste in open areas",
-      "Dumping waste into waterways",
-      "Mixing hazardous waste with household waste"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Segregation supports reuse and recycling and helps reduce the amount of waste requiring disposal.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-161",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Human Rights",
-    "difficulty": "medium",
-    "question": "Which Philippine constitutional article sets out protections such as due process and equal protection?",
-    "options": [
-      "Article I",
-      "Article III",
-      "Article VII",
-      "Article X"
+      "Initiative",
+      "Plebiscite",
+      "Recall",
+      "Election",
+      "Referendum"
     ],
     "correctAnswer": 1,
-    "explanation": "Article III, the Bill of Rights, includes due-process and equal-protection guarantees.",
-    "points": 1
+    "explanation": "Plebiscite. For more FREE CSE Reviewers, click or tap any of the links below. Analogy Clerical Operations General Information Grammar and Correct Usage Logic Numerical Reasoning Paragraph Organization Reading Comprehension Vocabulary Claim Your Civil Service Certificate Follow us 103k Fans 110 Subscribers 14,304 Readers Advertisement Powered by WordPress Copyright © 2026 CSE Reviewer, All Rights Reserved. | Privacy Policy | Disclaimer error: Content is protected !!",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "MOCK-162",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Philippine Constitution",
-    "difficulty": "medium",
-    "question": "What is the length of one term of office for the President of the Philippines under the 1987 Constitution?",
-    "options": [
-      "Four years",
-      "Five years",
-      "Six years",
-      "Seven years"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The President serves a six-year term under Article VII of the Constitution.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-163",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Philippine Constitution",
-    "difficulty": "medium",
-    "question": "Who is designated as Commander-in-Chief of all the armed forces of the Philippines?",
-    "options": [
-      "The President",
-      "The Senate President",
-      "The Chief Justice",
-      "The Secretary of National Defense"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The Constitution designates the President as Commander-in-Chief of the armed forces.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-164",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Environmental Awareness",
-    "difficulty": "medium",
-    "question": "Why can excessive use of chemical fertilizers harm nearby rivers and lakes?",
-    "options": [
-      "Runoff can add nutrients that trigger algal growth",
-      "Fertilizers remove all oxygen from the atmosphere",
-      "Runoff immediately turns fresh water into salt water",
-      "Fertilizers prevent sunlight from reaching the whole region"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Excess nutrients in runoff can cause algal blooms that reduce dissolved oxygen and harm aquatic life.",
-    "points": 1
-  },
-  {
-    "id": "MOCK-165",
-    "category": "general-information",
-    "level": "professional",
-    "topic": "Environmental Awareness",
-    "difficulty": "medium",
-    "question": "Which action most directly helps protect coral reefs from physical damage?",
-    "options": [
-      "Avoiding anchoring boats on coral",
-      "Collecting live coral as souvenirs",
-      "Fishing with explosives",
-      "Discarding plastic near the shore"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Anchors can break coral structures; choosing suitable mooring areas helps prevent that damage.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-001",
+    "id": "SUB-151",
     "category": "general-information",
     "level": "subprofessional",
-    "topic": "Government",
-    "difficulty": "easy",
-    "question": "How many branches does the Philippine government have?",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which branch of the Philippine government is responsible for investigating and prosecuting government officials accused of crimes, especially graft and corruption?",
     "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
+      "NAPOLCOM",
+      "PDEA",
+      "Ombudsman",
+      "Social Security System",
+      "Bureau of Corrections"
     ],
-    "correctAnswer": 1,
-    "explanation": "The executive, legislative and judicial branches.",
-    "points": 1
+    "correctAnswer": 2,
+    "explanation": "Ombudsman",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "SUB-G-002",
+    "id": "SUB-152",
     "category": "general-information",
     "level": "subprofessional",
-    "topic": "Government",
-    "difficulty": "easy",
-    "question": "Who is the head of the executive branch of the Philippines?",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "This is called the introductory part of the Constitution.",
     "options": [
-      "Senate President",
-      "Chief Justice",
+      "Preamble",
+      "Amendments",
+      "Suffrage",
+      "Bill of Rights",
+      "Preface"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preamble",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-153",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "When a President vetoes a bill, how many days does he/she have to communicate it, otherwise the bill will become a law.",
+    "options": [
+      "7 days",
+      "14 days",
+      "25 days",
+      "30 days",
+      "45 days"
+    ],
+    "correctAnswer": 3,
+    "explanation": "30 days",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-154",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "This is the power of the State to take a private property for public use upon payment of just compensation.",
+    "options": [
+      "Right of Take-Over",
+      "Right of Eminent Domain",
+      "Right of Limited Resources",
+      "Right of Confiscation",
+      "Right of sequestration"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Right of Eminent Domain",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-155",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which of the following shall be exempted from taxation from the government?",
+    "options": [
+      "Shopping Malls",
+      "Hotels and Restaurants",
+      "Churches and chapels",
+      "Cinemas",
+      "None of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "churches and chapels",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-156",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "A Barangay Captain was caught on a webcam having sex with her secretary while in an online meeting. Both of them will be charged with:",
+    "options": [
+      "Misdemeanor",
+      "Graft",
+      "Red Tape",
+      "Grave Misconduct",
+      "Corruption"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Grave Misconduct",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-157",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "This is the requirement for a foreigner to be able to acquire Filipino citizenship.",
+    "options": [
+      "Birth Certification",
+      "Marriage",
+      "Visa Application",
+      "Extradition",
+      "Naturalization"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Naturalization",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-158",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "For a member of the house of Congress to be expelled by their fellow members, how much of the total number of members of the house must concur with the expulsion?",
+    "options": [
+      "Two-thirds",
+      "Majority",
+      "three-fourths",
+      "nine-tenths",
+      "80 percent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "two-thirds",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-159",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which of the following is considered a basic and autonomous social institution?",
+    "options": [
+      "NGOs",
+      "school",
+      "family",
+      "peers",
+      "barangay"
+    ],
+    "correctAnswer": 2,
+    "explanation": "family",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-160",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "How many continuous years must a Barangay Health Worker render before he/she can be granted Civil Service Eligibility?",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years",
+      "8 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "5 years",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-161",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "This person is the only one that has the authority to issue a warrant of arrest.",
+    "options": [
       "President",
-      "Speaker of the House"
+      "Vice President",
+      "Senator",
+      "Judge",
+      "Police Chief"
     ],
-    "correctAnswer": 2,
-    "explanation": "The President heads the executive branch.",
-    "points": 1
+    "correctAnswer": 3,
+    "explanation": "judge",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "SUB-G-003",
+    "id": "SUB-162",
     "category": "general-information",
     "level": "subprofessional",
-    "topic": "Philippine Constitution",
-    "difficulty": "easy",
-    "question": "In what year was the current Philippine Constitution ratified?",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which of the following bills do not originate from the House of Representatives?",
     "options": [
-      "1973",
-      "1986",
-      "1987",
-      "1992"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The 1987 Constitution was ratified in February 1987.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-004",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "Public Service Ethics",
-    "difficulty": "easy",
-    "question": "Which law is known as the Code of Conduct and Ethical Standards for Public Officials and Employees?",
-    "options": [
-      "Republic Act 6713",
-      "Republic Act 7160",
-      "Republic Act 9003",
-      "Republic Act 10173"
+      "Amnesty",
+      "Public Bills",
+      "Appropriation Bills",
+      "Tariff Bills",
+      "None"
     ],
     "correctAnswer": 0,
-    "explanation": "RA 6713 sets ethical standards for public servants.",
-    "points": 1
+    "explanation": "Amnesty",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   },
   {
-    "id": "SUB-G-005",
+    "id": "SUB-163",
     "category": "general-information",
     "level": "subprofessional",
-    "topic": "Geography",
-    "difficulty": "easy",
-    "question": "What is the capital of the Philippines?",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Article III Section 15 of the Constitution states that the privilege of writ of habeas corpus shall not be suspended only in the cases of:",
     "options": [
-      "Cebu City",
-      "Davao City",
-      "Manila",
-      "Quezon City"
+      "state of calamity",
+      "foreign invasion",
+      "war",
+      "state of emergency",
+      "invasion or rebellion"
+    ],
+    "correctAnswer": 4,
+    "explanation": "invasion or rebellion",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-164",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "The members of the Lower House are elected by:",
+    "options": [
+      "region and by The President",
+      "district and by party list",
+      "region and by party list",
+      "district and by Senators",
+      "Congressmen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "district and by party list",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
+  },
+  {
+    "id": "SUB-165",
+    "category": "general-information",
+    "level": "subprofessional",
+    "topic": "General Information",
+    "difficulty": "medium",
+    "question": "Which of the following flow shows the right transfer of power should the president be incapable of discharging his duties?",
+    "options": [
+      "President >> Vice-President >> House Speaker >> Senate President",
+      "President >> Vice-President >> Chief Justice >> House Speaker",
+      "President >> Vice-President >> Senate President >> House Speaker",
+      "President >> Vice-President >> Chief Justice >> Senate President",
+      "President >> Vice-President >> Senate President >> Chief Justice"
     ],
     "correctAnswer": 2,
-    "explanation": "Manila is the national capital.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-006",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "History",
-    "difficulty": "easy",
-    "question": "Who is the national hero of the Philippines?",
-    "options": [
-      "Andres Bonifacio",
-      "Jose Rizal",
-      "Emilio Aguinaldo",
-      "Apolinario Mabini"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Jose Rizal is recognized as the national hero.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-007",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "Government",
-    "difficulty": "easy",
-    "question": "Which body makes laws in the Philippines?",
-    "options": [
-      "Supreme Court",
-      "Congress",
-      "Civil Service Commission",
-      "Office of the President"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Congress, made up of the Senate and House, is the legislature.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-008",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "Data Privacy",
-    "difficulty": "easy",
-    "question": "Which law is the Data Privacy Act of 2012?",
-    "options": [
-      "Republic Act 10173",
-      "Republic Act 6713",
-      "Republic Act 9165",
-      "Republic Act 8749"
-    ],
-    "correctAnswer": 0,
-    "explanation": "RA 10173 is the Data Privacy Act.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-009",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "Environmental Awareness",
-    "difficulty": "easy",
-    "question": "Which is a good way to reduce waste in the office?",
-    "options": [
-      "Print every email",
-      "Use both sides of paper",
-      "Leave lights on",
-      "Use disposable cups only"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Using both sides of paper reduces paper waste.",
-    "points": 1
-  },
-  {
-    "id": "SUB-G-010",
-    "category": "general-information",
-    "level": "subprofessional",
-    "topic": "Human Rights",
-    "difficulty": "easy",
-    "question": "What does the Bill of Rights primarily protect?",
-    "options": [
-      "Government budgets",
-      "Individual rights and liberties",
-      "Election schedules",
-      "Business permits"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Bill of Rights protects individual rights against state abuse.",
-    "points": 1
+    "explanation": "President >> Vice President >> Senate President >> House Speaker. For more FREE CSE Reviewers, click or tap any of the links below. Analogy Clerical Operations General Information Grammar and Correct Usage Logic Numerical Reasoning Paragraph Organization Reading Comprehension Vocabulary Claim Your Civil Service Certificate Follow us 103k Fans 110 Subscribers 14,304 Readers Advertisement Powered by WordPress Copyright © 2026 CSE Reviewer, All Rights Reserved. | Privacy Policy | Disclaimer error: Content is protected !!",
+    "points": 1,
+    "instruction": "Read the questions carefully and choose the letter of the correct answer."
   }
 ]

@@ -2,22 +2,30 @@ import { loadActive } from './storage.js';
 
 export const CATEGORIES = [
   { id: 'verbal', name: 'Verbal Ability', file: 'verbal.json', icon: 'bi-chat-square-text', hasLevels: true,
-    description: 'Vocabulary, grammar, analogies and reading comprehension.' },
+    description: 'Vocabulary, grammar, paragraph organization and reading comprehension.' },
   { id: 'numerical', name: 'Numerical Ability', file: 'numerical.json', icon: 'bi-calculator', hasLevels: true,
-    description: 'Arithmetic, percentages, algebra and number series.' },
-  { id: 'analytical', name: 'Analytical Ability', file: 'analytical.json', icon: 'bi-diagram-3', hasLevels: true,
-    description: 'Logic, reasoning, sequences and problem solving.' },
-  { id: 'general-information', name: 'General Information', file: 'general-information.json', icon: 'bi-globe-asia-australia', hasLevels: false,
+    description: 'Numerical reasoning, arithmetic, percentages, fractions and number series.' },
+  { id: 'analytical', name: 'Analytical Ability', file: 'analytical.json',   icon: 'bi-diagram-3', hasLevels: true, levels: ['professional'],
+      description: 'Analogy and logical reasoning. Professional level only.' },
+    { id: 'clerical', name: 'Clerical Ability', file: 'clerical.json', icon: 'bi-folder2-open', hasLevels: true, levels: ['subprofessional'],
+      description: 'Spelling, alphabetizing, filing and clerical operations. Subprofessional level only.' },
+  { id: 'general-information', name: 'General Information', file: 'general-information.json', icon: 'bi-globe-asia-australia', hasLevels: true,
     description: 'Constitution, government, laws, history and geography.' }
 ];
 export const MIXED = { id: 'mixed', name: 'Mixed (All Subjects)', icon: 'bi-collection', hasLevels: true,
   description: 'A combined mock exam drawing from every subject.' };
 export const FULL_MOCK = { id: 'full-mock', name: 'Full Professional Mock Exam', file: 'full-mock.json',
-  icon: 'bi-journal-check', hasLevels: false, questionLimit: 165, durationMinutes: 190,
-  description: 'A complete 165-question mock exam covering verbal, analytical, numerical and general information.' };
+  icon: 'bi-journal-check', hasLevels: false,   questionLimit: 148, durationMinutes: 190,
+    description: 'A complete 148-question Professional mock exam covering verbal, analytical, numerical and general information.' };
 export const FULL_SUBPROFESSIONAL_MOCK = { id: 'full-subprofessional-mock', name: 'Full Subprofessional Mock Exam', file: 'full-subprofessional-mock.json',
-  icon: 'bi-journal-check', hasLevels: false, questionLimit: 165, durationMinutes: 160,
-  description: 'A complete 165-question Subprofessional mock exam covering verbal, analytical, numerical and general information.' };
+  icon: 'bi-journal-check', hasLevels: false,   questionLimit: 143, durationMinutes: 160,
+    description: 'A complete 143-question Subprofessional mock exam covering verbal, clerical, numerical and general information.' };
+export const levelsFor = (cat) => cat?.levels || Object.keys(LEVELS);
+export const SUBJECT_WEIGHTS = {
+  professional: { verbal: 30, analytical: 35, numerical: 30, 'general-information': 5 },
+  subprofessional: { verbal: 30, clerical: 35, numerical: 30, 'general-information': 5 }
+};
+export const FULL_MOCK_LEVELS = { 'full-mock': 'professional', 'full-subprofessional-mock': 'subprofessional' };
 export const LEVELS = { professional: 'Professional', subprofessional: 'Subprofessional' };
 export const MAX_QUESTIONS = 20;
 const MINUTES_PER_QUESTION = 1.5;
@@ -41,6 +49,13 @@ export function formatDuration(sec) {
   const m = Math.floor(sec / 60);
   const s = sec % 60;
   return m ? `${m}m ${String(s).padStart(2, '0')}s` : `${s}s`;
+}
+// Shared markup for a question's directions, reading passage and image.
+export function contextHtml(q) {
+  const img = typeof q.image === 'string' && /^assets\/img\/[\w.-]+$/.test(q.image) ? q.image : '';
+  return `${q.instruction ? `<p class="small text-muted fst-italic mb-2">${esc(q.instruction)}</p>` : ''}` +
+    `${q.passage ? `<div class="q-passage border rounded p-3 mb-3 bg-body-tertiary small">${esc(q.passage)}</div>` : ''}` +
+    `${img ? `<img class="img-fluid rounded border mb-3" src="${img}" alt="Graph for this question">` : ''}`;
 }
 export const params = () => new URLSearchParams(location.search);
 

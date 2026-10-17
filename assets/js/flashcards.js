@@ -1,4 +1,4 @@
-import { esc, params, getCategory } from './app.js';
+import { contextHtml, esc, params, getCategory } from './app.js';
 import { getFlashcards, getFlashcardStats, rateFlashcard, saveDailyGoal } from './flashcard-storage.js';
 
 const $ = (id) => document.getElementById(id);
@@ -135,6 +135,7 @@ export function initFlashcardsPage() {
         <span class="flashcard-inner d-block">
           <span class="flashcard-face flashcard-front" id="cardFront">
             <span class="badge text-bg-primary align-self-start mb-3">${card.source === 'mistake' ? 'Mock exam mistake' : 'Practice card'}</span>
+            ${contextHtml(card)}
             <span class="flashcard-prompt">${esc(card.question)}</span>
             ${optionRows ? `<span class="d-grid gap-2 mt-3">${optionRows}</span>` : ''}
             <span class="small text-primary mt-4"><i class="bi bi-arrow-repeat"></i> Tap or press Enter to reveal</span>

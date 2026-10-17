@@ -1,0 +1,553 @@
+[
+  {
+    "id": "SUB-091",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "consequently",
+      "consaquently",
+      "consequantly",
+      "consciquantly",
+      "conciquently"
+    ],
+    "correctAnswer": 0,
+    "explanation": "consequently",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-092",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "embarased",
+      "embarassed",
+      "embarrassed",
+      "embbarassed",
+      "embarrased"
+    ],
+    "correctAnswer": 2,
+    "explanation": "embarrassed",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-093",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "difinately",
+      "definately",
+      "defenitely",
+      "definitley",
+      "definitely"
+    ],
+    "correctAnswer": 4,
+    "explanation": "definitely",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-094",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "occassionally",
+      "occassionally",
+      "occasionally",
+      "ocassionnaly",
+      "none of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "occasionally",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-095",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "merchandise",
+      "mercandise",
+      "marchandize",
+      "merchandice",
+      "merchendice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "merchandise",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-096",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "compitent",
+      "competent",
+      "compettent",
+      "comppetent",
+      "competant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "competent",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-097",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "insistant",
+      "incistant",
+      "inssistent",
+      "insistent",
+      "incistent"
+    ],
+    "correctAnswer": 3,
+    "explanation": "insistent",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-098",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "referrance",
+      "reference",
+      "referance",
+      "refarrence",
+      "referrence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "reference",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-099",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "probibility",
+      "probebility",
+      "probability",
+      "prabability",
+      "probablity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "probability",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-100",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Spelling",
+    "difficulty": "medium",
+    "question": "Choose the correctly spelled word.",
+    "options": [
+      "acknowlegement",
+      "acknowlegment",
+      "acknowledgment",
+      "acknowledegement",
+      "none of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "acknowledgment. CLERICAL OPERATIONS: Here are the answers to the Clerical Operations part of the CSE Sub-Pro Reviewer:",
+    "points": 1,
+    "instruction": "For each set of words, choose the one that is spelled correctly."
+  },
+  {
+    "id": "SUB-101",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "1. Thumbs-up Grocery Store\n2. Up-Close Dental Clinic\n3. Buddy-Body Gym\n4. Taste Buds Diner\n5. Think Pink Boutique",
+    "options": [
+      "34512",
+      "32541",
+      "32514",
+      "35143",
+      "35241"
+    ],
+    "correctAnswer": 0,
+    "explanation": "34512. 3. Buddy-Body Gym 4. Taste Buds Diner 5. Think Pink Boutique 1. Thumbs-up Grocery Store 2. Up-Close Dental Clinic",
+    "points": 1,
+    "instruction": "Arrange the names of the businesses in alphabetical order."
+  },
+  {
+    "id": "SUB-102",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "1. Mixed-Colors Paint Inc.\n2. Le FiBuon Hair and Make-Up Salon\n3. Munchy and Crunchy Snack Bar\n4. Many Punches Boxing Gym\n5. Karen Martin Nail Accessories",
+    "options": [
+      "52413",
+      "52134",
+      "54213",
+      "52143",
+      "51234"
+    ],
+    "correctAnswer": 0,
+    "explanation": "52413. 5. Karen Martin Nail Accessories 2. Le FiBuon Hair and Make-Up Salon 4. Many Punches Boxing Gym 1. Mixed-Colors Paint Inc. 3. Munchy and Crunchy Snack Bar",
+    "points": 1,
+    "instruction": "Arrange the names of the businesses in alphabetical order."
+  },
+  {
+    "id": "SUB-103",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "1. Vicky Socco Barber Shop\n2. Shop and Ride Convenience Store\n3. Violet Pocket Jeans Co.\n4. Imported Stuff Accessories\n5. Orange and Lemon Health Drinks",
+    "options": [
+      "45123",
+      "53214",
+      "45321",
+      "54321",
+      "45213"
+    ],
+    "correctAnswer": 4,
+    "explanation": "45213. 4. Imported Stuff Accessories 5. Orange and Lemon Health Drinks 2. Shop and Ride Convenience Store 1. Vicky Socco Barber Shop 3. Violet Pocket Jeans Co.",
+    "points": 1,
+    "instruction": "Arrange the names of the businesses in alphabetical order."
+  },
+  {
+    "id": "SUB-105",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "1. Daffodil General Merchandise\n2. David’s Balloons\n3. Danica Soothes Massage Parlor\n4. Danilo Baryo Fiesta Restaurant\n5. Danny’s Vulcanizing Shop",
+    "options": [
+      "13542",
+      "13452",
+      "15432",
+      "12354",
+      "15432"
+    ],
+    "correctAnswer": 1,
+    "explanation": "13452. 1. Daffodil General Merchandise 3. Danica Soothes Massage Parlor 4. Danilo Baryo Fiesta Restaurant 5. Danny’s Vulcanizing Shop 2. David’s Balloons",
+    "points": 1,
+    "instruction": "Arrange the names of the businesses in alphabetical order."
+  },
+  {
+    "id": "SUB-106",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "How many pairs of the following groups of letters are exactly alike?\nBRFQSX BRFQSX\nACDOBJ ACDBOJ\nRPTQVS RPTQVS\nZUYRVB ZUYRVB\nSPQRAS SQRPAS\nHVCBWR HVCRWB",
+    "options": [
+      "1 pair",
+      "2 pairs",
+      "3 pairs",
+      "4 pairs",
+      "5 pairs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "3 pairs. BRFQSX, RPTQVS, and ZUYRVB",
+    "points": 1,
+    "instruction": "Follow the specific directions given for each question. They may involve comparing, checking, and counting given groups of letters and/or numbers."
+  },
+  {
+    "id": "SUB-107",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "In the following sentence, how many words contain letters that appear more than once in that word?\n“Right around April Fool’s Day, the daffodils and crocuses start to emerge and cheer us up after a long winter.”",
+    "options": [
+      "4 words",
+      "5 words",
+      "6 words",
+      "7 words",
+      "8 words"
+    ],
+    "correctAnswer": 2,
+    "explanation": "6 words. Fool’s, daffodils, crocuses, start, emerge, cheer",
+    "points": 1,
+    "instruction": "Follow the specific directions given for each question. They may involve comparing, checking, and counting given groups of letters and/or numbers."
+  },
+  {
+    "id": "SUB-108",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "Which one of the following letters is as far after C as T is after O in the alphabet?",
+    "options": [
+      "G",
+      "H",
+      "I",
+      "J",
+      "None"
+    ],
+    "correctAnswer": 1,
+    "explanation": "H. Count how many letters are between O and T in the alphabet. There are 4: P, Q, R, and S. There are also 4 letters between C and H: D, E, F, and G.",
+    "points": 1,
+    "instruction": "Follow the specific directions given for each question. They may involve comparing, checking, and counting given groups of letters and/or numbers."
+  },
+  {
+    "id": "SUB-109",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "In the following list of numbers, how many times does 8 come just after 6 when 6 comes just after an odd\nnumber?\n“6325687253494236844576842396868”",
+    "options": [
+      "1 time",
+      "2 times",
+      "3 times",
+      "4 times",
+      "5 times"
+    ],
+    "correctAnswer": 3,
+    "explanation": "4 times. Determine the number of times 8 follows 6 when 6 follows an odd number. There are 4 occasions where 8 follows 6 and the number 6 follows an odd number. They are 568, 368, 768, and 968.",
+    "points": 1,
+    "instruction": "Follow the specific directions given for each question. They may involve comparing, checking, and counting given groups of letters and/or numbers."
+  },
+  {
+    "id": "SUB-110",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "How many pairs of the following groups of letters are not exactly alike?\nBJQSPO BJSQPO\nADEOBJ ADEOBJ\nRQYVSP RQYVSP\nZLMNRB ZLNMRB\nSARQPS SARQPS\nHRCWBY HRCWBY",
+    "options": [
+      "1 pair",
+      "2 pairs",
+      "3 pairs",
+      "4 pairs",
+      "5 pairs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "2 pairs. BJQSPO+BJSQPO, and ZLMNRB+ZLNMRB",
+    "points": 1,
+    "instruction": "Follow the specific directions given for each question. They may involve comparing, checking, and counting given groups of letters and/or numbers."
+  },
+  {
+    "id": "SUB-111",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "Danny Cervantez, II",
+    "options": [
+      "Aa -- Ch",
+      "Ci -- Dh",
+      "Di -- Fl",
+      "Fm -- Ht",
+      "Hu – Jm"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aa — Ch. Cervantes falls under Ch",
+    "points": 1,
+    "instruction": "Indicate which filing cabinet drawer from the set would be used by selecting the appropriate letter from the choices given."
+  },
+  {
+    "id": "SUB-112",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "pre-workout meals",
+    "options": [
+      "Jn -- Mf",
+      "Mg -- No",
+      "Np -- Sm",
+      "Sn -- Wd",
+      "We -- Zz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Np — Sm. pre-workout falls under Np",
+    "points": 1,
+    "instruction": "Indicate which filing cabinet drawer from the set would be used by selecting the appropriate letter from the choices given."
+  },
+  {
+    "id": "SUB-113",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "Attorney Fritzy Diosdado",
+    "options": [
+      "Aa -- Ch",
+      "Ci -- Dh",
+      "Di -- Fl",
+      "Fm -- Ht",
+      "Hu – Jm"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Di — Fl. Diosdado falls under Di",
+    "points": 1,
+    "instruction": "Indicate which filing cabinet drawer from the set would be used by selecting the appropriate letter from the choices given."
+  },
+  {
+    "id": "SUB-114",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "verified payments",
+    "options": [
+      "Aa -- Ch",
+      "Mg -- No",
+      "Np -- Sm",
+      "Sn -- Wd",
+      "We – Zz"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sn — Wd. verified falls under and is between Sn — Wd",
+    "points": 1,
+    "instruction": "Indicate which filing cabinet drawer from the set would be used by selecting the appropriate letter from the choices given."
+  },
+  {
+    "id": "SUB-115",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "Dra. Vicky Bella",
+    "options": [
+      "Aa -- Ba",
+      "Be -- Ca",
+      "Da -- Ea",
+      "Va -- Wa",
+      "We – Zz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Be — Ca. Bella falls under Be",
+    "points": 1,
+    "instruction": "Indicate which filing cabinet drawer from the set would be used by selecting the appropriate letter from the choices given."
+  },
+  {
+    "id": "SUB-116",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "If the following words pace, party, paper, pantry, and pan were arranged in alphabetical order, the underlined word would be: (Underlined: pantry)",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "fourth",
+      "last"
+    ],
+    "correctAnswer": 2,
+    "explanation": "third. 1. pace 2. pan 3. pantry 4. paper 5. party",
+    "points": 1,
+    "instruction": "Arrange the words, names, or numbers as directed. The underlined item is given in the question."
+  },
+  {
+    "id": "SUB-117",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "If the following words mediocre, medieval, medicine, medium, and mediagenic were arranged in alphabetical order, the underlined word would be: (Underlined: medium)",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "fourth",
+      "last"
+    ],
+    "correctAnswer": 4,
+    "explanation": "last. 1. mediagenic 2. medicine 3. medieval 4. mediocre 5. medium",
+    "points": 1,
+    "instruction": "Arrange the words, names, or numbers as directed. The underlined item is given in the question."
+  },
+  {
+    "id": "SUB-118",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "If the following brand names Spalding, Spam, Spade, Sparrow, and Spartacus were arranged in a descending alphabetical order, the underlined brand name would be: (Underlined: Spalding)",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "fourth",
+      "last"
+    ],
+    "correctAnswer": 3,
+    "explanation": "fifth. 1. Spade 2. Spalding 3. Spam 4. Sparrow 5. Spartacus",
+    "points": 1,
+    "instruction": "Arrange the words, names, or numbers as directed. The underlined item is given in the question."
+  },
+  {
+    "id": "SUB-119",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "If the following names Wenona, Wenda, Wenchee, Wendy, and Wendolyn were arranged in alphabetical order, the underlined name would be: (Underlined: Wenona)",
+    "options": [
+      "first",
+      "second",
+      "third",
+      "fourth",
+      "last"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Alphabetical order: Wenchee, Wenda, Wendolyn, Wendy, Wenona. \"Wenona\" comes last.",
+    "points": 1,
+    "instruction": "Arrange the words, names, or numbers as directed. The underlined item is given in the question."
+  },
+  {
+    "id": "SUB-120",
+    "category": "clerical",
+    "level": "subprofessional",
+    "topic": "Clerical Operations",
+    "difficulty": "medium",
+    "question": "If the numerical sequences 1) 5.68342, 2) 586.362, 3) 568.362, 4) 5.29544, and 5) 56.3892 were arranged in descending order, what would be their arrangement?",
+    "options": [
+      "23154",
+      "54123",
+      "45132",
+      "23514",
+      "45312"
+    ],
+    "correctAnswer": 3,
+    "explanation": "23514. 2) 586.362 3) 568.362 5) 56.3892 1) 5.68342 4) 5.29544 Sponsored Links NUMERICAL OPERATIONS: Here are the answers to the Numerical Operations part of the CSE Sub-Pro Reviewer:",
+    "points": 1,
+    "instruction": "Arrange the words, names, or numbers as directed. The underlined item is given in the question."
+  }
+]

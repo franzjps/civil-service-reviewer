@@ -1,4 +1,4 @@
-import { loadPool, getCategory, questionLimitFor, examDurationMinutes } from './app.js';
+import { SUBJECT_WEIGHTS, loadPool, getCategory, questionLimitFor, examDurationMinutes } from './app.js';
 import { saveActive, clearActive, addResult, loadPrefs } from './storage.js';
 import { scoreExam } from './scoring.js';
 
@@ -20,11 +20,36 @@ export function prepareQuestion(q) {
     topic: q.topic,
     difficulty: q.difficulty,
     question: q.question,
+    instruction: q.instruction,
+    passage: q.passage,
+    image: q.image,
     options: order.map((o) => o.text),
     correctIndex: order.findIndex((o) => o.originalIndex === q.correctAnswer),
     explanation: q.explanation || '',
     points: q.points
   };
+}
+
+// Picks questions per subject by weight (largest-remainder rounding), topping up from leftovers if a subject runs short.
+function pickWeighted(pool, level, limit) {
+  const weights = SUBJECT_WEIGHTS[level];
+  if (!weights) return shuffle(pool).slice(0, limit);
+  const total = Object.values(weights).reduce((a, b) => a + b, 0);
+  const shares = Object.entries(weights).map(([cat, w]) => {
+    const exact = (limit * w) / total;
+    return { cat, n: Math.floor(exact), frac: exact - Math.floor(exact) };
+  });
+  let rest = limit - shares.reduce((a, s) => a + s.n, 0);
+  [...shares].sort((a, b) => b.frac - a.frac).forEach((s) => { if (rest-- > 0) s.n += 1; });
+  const chosen = [];
+  const left = [];
+  for (const { cat, n } of shares) {
+    const items = shuffle(pool.filter((q) => q.category === cat));
+    chosen.push(...items.slice(0, n));
+    left.push(...items.slice(n));
+  }
+  chosen.push(...shuffle(left).slice(0, limit - chosen.length));
+  return shuffle(chosen);
 }
 
 export async function buildExam({ category, level }) {
@@ -33,7 +58,9 @@ export async function buildExam({ category, level }) {
   const lvl = cat.hasLevels ? level : null;
   const pool = await loadPool(category, lvl);
   if (!pool.length) throw new Error('No questions are available for this selection.');
-  const questions = shuffle(pool).slice(0, questionLimitFor(category)).map(prepareQuestion);
+  const limit = questionLimitFor(category);
+  const picked = category === 'mixed' ? pickWeighted(pool, level, limit) : shuffle(pool).slice(0, limit);
+  const questions = picked.map(prepareQuestion);
   const durationSec = examDurationMinutes(category, questions.length) * 60;
   const startedAt = Date.now();
   return {

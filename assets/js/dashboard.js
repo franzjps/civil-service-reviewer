@@ -1,4 +1,4 @@
-import { CATEGORIES, FULL_MOCK, FULL_SUBPROFESSIONAL_MOCK, MIXED, LEVELS, questionLimitFor, examDurationMinutes, esc, formatDate, loadPool, getCategory, levelLabel, params, showError } from './app.js';
+import { CATEGORIES, FULL_MOCK, FULL_SUBPROFESSIONAL_MOCK, MIXED, LEVELS, levelsFor, questionLimitFor, examDurationMinutes, esc, formatDate, loadPool, getCategory, levelLabel, params, showError } from './app.js';
 import { loadHistory, loadActive, clearActive } from './storage.js';
 import { startExam } from './exam-engine.js';
 import { formatClock } from './timer.js';
@@ -14,7 +14,7 @@ export function historyRows(list) {
       <td>${esc(r.title)}${r.level ? `<div class="small text-muted">${esc(levelLabel(r.level))}</div>` : ''}</td>
       <td>${Math.round(r.timeSpentSec / 60)} min</td>
       <td>${r.earnedPoints}/${r.totalPoints}</td>
-      <td><strong>${r.percentage}%</strong> ${badge(r)}</td>
+      <td><strong>${r.percentage}%</strong> ${badge(r)}${r.weighted && Array.isArray(r.bySubject) ? `<div class="small text-muted mt-1">${r.bySubject.map((s) => `${esc(s.label.replace(' Ability', ''))} ${s.weightedScore}/${s.weight}`).join(' · ')}</div>` : ''}</td>
       <td class="text-end"><a class="btn btn-sm btn-outline-primary" href="result.html?id=${encodeURIComponent(r.id)}">View</a></td>
     </tr>`).join('');
 }
@@ -95,7 +95,7 @@ export function initExamsPage() {
       <h2 class="h5">${c.name}</h2><p class="text-muted small">${c.description}</p>
       ${c.hasLevels ? `<label class="form-label small mb-1" for="level-${c.id}">Exam level</label>
         <select class="form-select mb-2" id="level-${c.id}" data-cat="${c.id}">
-          ${Object.entries(LEVELS).map(([v, l]) => `<option value="${v}">${l}</option>`).join('')}
+          ${levelsFor(c).map((v) => `<option value="${v}">${LEVELS[v]}</option>`).join('')}
         </select>` : `<p class="small mb-2"><span class="badge text-bg-secondary">${c.id === FULL_MOCK.id ? 'Professional' : c.id === FULL_SUBPROFESSIONAL_MOCK.id ? 'Subprofessional' : 'All levels'}</span></p>`}
       <p class="small text-muted mt-auto mb-2" data-count="${c.id}">Counting questions…</p>
       <button type="button" class="btn btn-primary" data-start="${c.id}">Select exam</button>
@@ -129,7 +129,7 @@ export async function initInstructionsPage() {
   const p = params();
   const cat = getCategory(p.get('cat'));
   if (!cat) { root.innerHTML = '<div class="alert alert-warning">No exam selected. <a href="exams.html">Choose an exam</a>.</div>'; return; }
-  const level = cat.hasLevels ? (p.get('level') in LEVELS ? p.get('level') : 'subprofessional') : null;
+  const level = cat.hasLevels ? (levelsFor(cat).includes(p.get('level')) ? p.get('level') : levelsFor(cat).at(-1)) : null;
   const pool = await loadPool(cat.id, level);
   const n = Math.min(pool.length, questionLimitFor(cat.id));
   if (!n) { root.innerHTML = '<div class="alert alert-warning">No questions available for this selection.</div>'; return; }

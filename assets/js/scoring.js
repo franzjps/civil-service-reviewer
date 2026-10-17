@@ -1,4 +1,4 @@
-import { getCategory } from './app.js';
+import { getCategory, SUBJECT_WEIGHTS, FULL_MOCK_LEVELS } from './app.js';
 
 const answerOf = (exam, q) => {
   const a = exam.answers[q.id];
@@ -43,6 +43,17 @@ export function scoreExam(exam, threshold, { finishedAt = Date.now(), autoSubmit
     category: cat,
     ...summarize(getCategory(cat)?.name || cat, list)
   }));
+  // Full mocks score each subject by its exam weight (e.g. Verbal 30%), so the overall percentage is the weighted total.
+  const weights = SUBJECT_WEIGHTS[FULL_MOCK_LEVELS[exam.category]];
+  let weighted = null;
+  if (weights) {
+    for (const s of bySubject) {
+      s.weight = weights[s.category] ?? 0;
+      s.weightedScore = Math.round(s.weight * (s.percentage / 100) * 10) / 10;
+    }
+    weighted = Math.round(bySubject.reduce((n, s) => n + s.weightedScore, 0) * 10) / 10;
+  }
+  const finalPercentage = weighted ?? overall.percentage;
   const byTopic = [...group(rows, (r) => r.q.topic || 'General')].map(([t, list]) => summarize(t, list));
 
   return {
@@ -62,8 +73,9 @@ export function scoreExam(exam, threshold, { finishedAt = Date.now(), autoSubmit
     unanswered: overall.unanswered,
     totalPoints: overall.totalPoints,
     earnedPoints: overall.earnedPoints,
-    percentage: overall.percentage,
-    passed: overall.percentage >= threshold,
+    percentage: finalPercentage,
+    weighted: weighted !== null,
+    passed: finalPercentage >= threshold,
     bySubject,
     byTopic,
     marked: exam.marked,
