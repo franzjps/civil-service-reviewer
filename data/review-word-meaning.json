@@ -1,0 +1,645 @@
+{
+ "module": "word-meaning",
+ "questions": [
+  {
+   "id": "PRO-021",
+   "level": "professional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Nais sanang sumama ni Monique sa pamamasyal ng pamilya ngunit hindi mawala-wala ang kanyang liyo. Ang ibig sabihin ng salitang LIYO ay:",
+   "options": [
+    "pagsusuka",
+    "sakit",
+    "hilo",
+    "lagnat",
+    "beke"
+   ],
+   "correctAnswer": 2,
+   "explanation": "“hilo” ang kasingkahulugan ng “liyo”"
+  },
+  {
+   "id": "PRO-022",
+   "level": "professional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Uuwi lamang ng bahay si Arnel galing sa paglalaro kung makikita ang nanay na may dalang pamipi. Ang ibig sabihin ng salitang PAMIPI ay:",
+   "options": [
+    "pasalubong",
+    "pamalo",
+    "laruan",
+    "pagkain",
+    "damit"
+   ],
+   "correctAnswer": 1,
+   "explanation": "“pamalo” ang kasingkahulugan ng “pamipi”"
+  },
+  {
+   "id": "PRO-023",
+   "level": "professional",
+   "skill": "Filipino Words",
+   "tier": 2,
+   "question": "Mag-uumpisa na ang klase ngunit hindi pa rin maapuhap ni Nerie ang kanyang mga gamit. Ang ibig sabihin ng salitang MAAPUHAP ay:",
+   "options": [
+    "mahanap",
+    "malinis",
+    "mabili",
+    "maiayos",
+    "mailigpit"
+   ],
+   "correctAnswer": 0,
+   "explanation": "“mahanap” ang kasingkahulugan ng “maapuhap”"
+  },
+  {
+   "id": "PRO-024",
+   "level": "professional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Hindi na nakatiis si Peter sa panunudyo ng kanyang kaklase kung kaya sya ay nagsumbong na sa kanyang guro. Ang ibig sabihin ng salitang PANUNUDYO ay:",
+   "options": [
+    "pangungopya",
+    "panghu-huthot",
+    "pananakit",
+    "pag-iingay",
+    "panunukso"
+   ],
+   "correctAnswer": 4,
+   "explanation": "“panunukso” ang kasingkahulugan ng “panunudyo”"
+  },
+  {
+   "id": "PRO-025",
+   "level": "professional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Kahit mali ang amo ni Julio, wala siyang magawa kindi ito ay katigan. Ang kasalungat ng salitang KATIGAN ay:",
+   "options": [
+    "samahan",
+    "layuan",
+    "kontrahin",
+    "kampihan",
+    "bawalan"
+   ],
+   "correctAnswer": 2,
+   "explanation": "“kontrahin” ang kasalungat ng “katigan”"
+  },
+  {
+   "id": "PRO-026",
+   "level": "professional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "Even though Karen has an average-paying job, she’s living like a maggot in bacon. LIVING LIKE A MAGGOT IN BACON means:",
+   "options": [
+    "Always eating meat",
+    "Being thrifty",
+    "Acting rude",
+    "Living luxuriously",
+    "A vegetarian"
+   ],
+   "correctAnswer": 3,
+   "explanation": "“living luxuriously” is what the idiom “living like a maggot” means"
+  },
+  {
+   "id": "PRO-027",
+   "level": "professional",
+   "skill": "Idioms & Expressions",
+   "tier": 2,
+   "question": "Nelson said he manhandled all three thieves out of the store but Sarah thinks he’s just inflating the cow. INFLATING THE COW means:",
+   "options": [
+    "Exaggerating",
+    "Not telling the truth",
+    "Boasting",
+    "Telling a different story",
+    "Slacking"
+   ],
+   "correctAnswer": 0,
+   "explanation": "“exaggerating” is what the idiom “inflating the cow” means"
+  },
+  {
+   "id": "PRO-028",
+   "level": "professional",
+   "skill": "Idioms & Expressions",
+   "tier": 2,
+   "question": "Banning trucks and busses in the city can cut both ways. CUT BOTH WAYS means:",
+   "options": [
+    "Will cut traffic congestion",
+    "Will have both positive and negative effects",
+    "Will have wider roads",
+    "Will get more traffic congestion",
+    "Will cut the expenses"
+   ],
+   "correctAnswer": 1,
+   "explanation": "“will have both positive and negative effects” is what the idiom “cut both ways” means"
+  },
+  {
+   "id": "PRO-029",
+   "level": "professional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "When Mona discovered that Lisa had cheated, she was determined to even the score. EVEN THE SCORE means:",
+   "options": [
+    "will also cheat",
+    "report the wrong doing",
+    "tell the person that it’s wrong",
+    "put them under custody",
+    "get revenge"
+   ],
+   "correctAnswer": 4,
+   "explanation": "“get revenge” is what the idiom “even the score” means"
+  },
+  {
+   "id": "PRO-030",
+   "level": "professional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "The authority is examining the scene of the crime and they are doing it with a fine-tooth comb. DOING SOMETHING WITH A FINE-TOOTH COMB means:",
+   "options": [
+    "being blunt",
+    "do the job with insufficient tools",
+    "examine something thoroughly",
+    "doing the job very fast",
+    "being lazy"
+   ],
+   "correctAnswer": 2,
+   "explanation": "“examine something thoroughly” is what the idiom “do something with a fine-toothed comb” means"
+  },
+  {
+   "id": "PRO-031",
+   "level": "professional",
+   "skill": "Antonyms",
+   "tier": 2,
+   "question": "Divine is on a diet but the luscious dinner made her eat more than usual. The antonym of the word LUSCIOUS is:",
+   "options": [
+    "delicious",
+    "tasty",
+    "fresh",
+    "unpalatable",
+    "salty"
+   ],
+   "correctAnswer": 3,
+   "explanation": "unpalatable is an antonym of luscious"
+  },
+  {
+   "id": "PRO-032",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 3,
+   "question": "In the exigency of the service, Roland was designated as the officer-in-charge of the planning division. The synonym of the word EXIGENCY is:",
+   "options": [
+    "excellence",
+    "demand",
+    "difficulty",
+    "excessive",
+    "liquidation"
+   ],
+   "correctAnswer": 1,
+   "explanation": "demand is a synonym of exigency"
+  },
+  {
+   "id": "PRO-033",
+   "level": "professional",
+   "skill": "Antonyms",
+   "tier": 1,
+   "question": "Two disheveled members of Amy’s guard were with her in a dark, blurry cage. The antonym of the word DISHEVELED is:",
+   "options": [
+    "tidy",
+    "noisy",
+    "scruffy",
+    "tangled",
+    "tired"
+   ],
+   "correctAnswer": 0,
+   "explanation": "tidy is an antonym of disheveled"
+  },
+  {
+   "id": "PRO-034",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 1,
+   "question": "To pay legally, the housemaid is considered an employee and will need to disburse social security and income taxes. The synonym of the word DISBURSE is:",
+   "options": [
+    "collect",
+    "discard",
+    "payout",
+    "hoard",
+    "save"
+   ],
+   "correctAnswer": 2,
+   "explanation": "pay out is a synonym of disburse"
+  },
+  {
+   "id": "PRO-035",
+   "level": "professional",
+   "skill": "Antonyms",
+   "tier": 1,
+   "question": "Katarina is keen on the reportage style of photographs. The antonym of the word KEEN is:",
+   "options": [
+    "indifferent",
+    "cool",
+    "perceptive",
+    "dull",
+    "obtuse"
+   ],
+   "correctAnswer": 3,
+   "explanation": "dull is an antonym of keen"
+  },
+  {
+   "id": "PRO-036",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 2,
+   "question": "Throughout Marc’s life as a single guy, he was profligate and a spendthrift. PROFLIGATE means:",
+   "options": [
+    "lazy",
+    "thrift",
+    "wasteful",
+    "arrogant",
+    "shy"
+   ],
+   "correctAnswer": 2,
+   "explanation": "wasteful is a synonym of profligate"
+  },
+  {
+   "id": "PRO-037",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 4,
+   "question": "Everybody thought that Joyce was a shy person when in reality, she’s vociferous. All the words below are synonyms of the word VOCIFEROUS except:",
+   "options": [
+    "direct",
+    "outspoken",
+    "forthright",
+    "frank",
+    "soft"
+   ],
+   "correctAnswer": 4,
+   "explanation": "soft is an antonym of vociferous"
+  },
+  {
+   "id": "PRO-038",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 4,
+   "question": "In first-world countries, a traditional bourgeois family consists of two parents, two children, and a family pet BOURGEOIS mean:",
+   "options": [
+    "big",
+    "middle-class",
+    "small",
+    "rich",
+    "extended"
+   ],
+   "correctAnswer": 1,
+   "explanation": "middle-class is the meaning of bourgeois"
+  },
+  {
+   "id": "PRO-039",
+   "level": "professional",
+   "skill": "Antonyms",
+   "tier": 2,
+   "question": "It takes a copious amount of food to suppress Katrina’s appetite. All the words below are antonyms of the word COPIOUS except:",
+   "options": [
+    "abundant",
+    "lacking",
+    "rare",
+    "small",
+    "scarce"
+   ],
+   "correctAnswer": 0,
+   "explanation": "abundant is a synonym of copious"
+  },
+  {
+   "id": "PRO-040",
+   "level": "professional",
+   "skill": "Synonyms",
+   "tier": 3,
+   "question": "The outgoing principal made an extemporaneous speech that turned out to be more heartfelt than the prepared statement she had lost. EXTEMPORANEOUS means",
+   "options": [
+    "prepared",
+    "deliberate",
+    "unplanned",
+    "rehearsed",
+    "long"
+   ],
+   "correctAnswer": 2,
+   "explanation": "unplanned is a synonym of extemporaneous. GRAMMAR and CORRECT USAGE: Here are the answers to the Grammar and Correct Usage part of the CSE Professional Reviewer:"
+  },
+  {
+   "id": "SUB-021",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 3,
+   "question": "Once you get big in the world of social media, you must be ready to face the scurrilous attacks of your bashers. SCURRILOUS means:",
+   "options": [
+    "obvious",
+    "continuous",
+    "slanderous",
+    "occasional",
+    "strong"
+   ],
+   "correctAnswer": 2,
+   "explanation": "slanderous is a synonym of scurrilous"
+  },
+  {
+   "id": "SUB-022",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 2,
+   "question": "Michelle is normally calm and level-headed, so her outburst is an aberration. ABERRATION means:",
+   "options": [
+    "rarity",
+    "usual",
+    "routine",
+    "unnecessary",
+    "typical"
+   ],
+   "correctAnswer": 0,
+   "explanation": "rarity is a synonym of aberration"
+  },
+  {
+   "id": "SUB-023",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 4,
+   "question": "The statement presented by the sole witness to the crime sounds apocryphal. The synonym of the word APOCRYPHAL is:",
+   "options": [
+    "reliable",
+    "fictitious",
+    "true",
+    "awful",
+    "absurd"
+   ],
+   "correctAnswer": 1,
+   "explanation": "fictitious is a synonym of apocryphal"
+  },
+  {
+   "id": "SUB-024",
+   "level": "subprofessional",
+   "skill": "Antonyms",
+   "tier": 2,
+   "question": "Safety guidelines exist for a reason, and if we flout them, there could be serious consequences. The antonym of the word FLOUT is:",
+   "options": [
+    "follow",
+    "exceeded",
+    "flaunt",
+    "nourish",
+    "disobey"
+   ],
+   "correctAnswer": 0,
+   "explanation": "follow is a synonym of flout"
+  },
+  {
+   "id": "SUB-025",
+   "level": "subprofessional",
+   "skill": "Antonyms",
+   "tier": 3,
+   "question": "To Mr. Sherlock, the victim’s wife appeared mawkish as though she was putting on an act. The antonym of the word MAWKISH is:",
+   "options": [
+    "rabid",
+    "emotional",
+    "fake",
+    "unintended",
+    "calm"
+   ],
+   "correctAnswer": 4,
+   "explanation": "calm is an antonym of mawkish"
+  },
+  {
+   "id": "SUB-026",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 1,
+   "question": "There should be a law against treating senior citizens with such irreverence. The meaning of the word IRREVERENCE is:",
+   "options": [
+    "politeness",
+    "mockery",
+    "attitude",
+    "disrespect",
+    "tone"
+   ],
+   "correctAnswer": 3,
+   "explanation": "disrespect is a synonym of irreverence"
+  },
+  {
+   "id": "SUB-027",
+   "level": "subprofessional",
+   "skill": "Antonyms",
+   "tier": 3,
+   "question": "If you do not clean the cat’s litter box regularly, a noisome aroma will fill your house. The antonym of the word NOISOME is:",
+   "options": [
+    "bad",
+    "dirty",
+    "good",
+    "foul",
+    "mesmerizing"
+   ],
+   "correctAnswer": 2,
+   "explanation": "good is an antonym of noisome"
+  },
+  {
+   "id": "SUB-028",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 3,
+   "question": "There is a regrettable paucity of training in the rudiments of security protocols or practices at the hospital. The synonym of the word PAUCITY is:",
+   "options": [
+    "enough",
+    "adequate",
+    "malpractice",
+    "overloaded",
+    "insufficient"
+   ],
+   "correctAnswer": 4,
+   "explanation": "insufficient is a synonym of paucity"
+  },
+  {
+   "id": "SUB-029",
+   "level": "subprofessional",
+   "skill": "Synonyms",
+   "tier": 4,
+   "question": "The motif of the wall is rife with mystical associations that will be discussed later. The synonym of the word RIFE is:",
+   "options": [
+    "uncommon",
+    "widespread",
+    "scarce",
+    "uncertain",
+    "limited"
+   ],
+   "correctAnswer": 1,
+   "explanation": "widespread is a synonym of rife"
+  },
+  {
+   "id": "SUB-030",
+   "level": "subprofessional",
+   "skill": "Antonyms",
+   "tier": 2,
+   "question": "The front-liners were not prepared for the surfeit of patients that came in during the pandemic. The antonym of the word SURFEIT is:",
+   "options": [
+    "excess",
+    "lack",
+    "abundant",
+    "number",
+    "mass"
+   ],
+   "correctAnswer": 1,
+   "explanation": "lack is an antonym of surfeit"
+  },
+  {
+   "id": "SUB-031",
+   "level": "subprofessional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "Linette has been on the ball since she was hired as a secretary.",
+   "options": [
+    "doing a good job",
+    "not paying attention",
+    "always taking a break",
+    "lazy",
+    "very active"
+   ],
+   "correctAnswer": 0,
+   "explanation": "doing a good job is the meaning of the idiom “on the ball”"
+  },
+  {
+   "id": "SUB-032",
+   "level": "subprofessional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "Buying a new phone these days costs an arm and leg.",
+   "options": [
+    "hard to achieve",
+    "very affordable",
+    "very expensive",
+    "just a dream",
+    "a fantasy"
+   ],
+   "correctAnswer": 2,
+   "explanation": "very expensive is the meaning of the idiom “costs an arm and leg”"
+  },
+  {
+   "id": "SUB-033",
+   "level": "subprofessional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "Eliza wants to talk to Jason but he’s giving her the cold shoulder.",
+   "options": [
+    "scolding someone",
+    "threatening someone",
+    "maligning someone",
+    "spanking someone",
+    "ignoring someone"
+   ],
+   "correctAnswer": 4,
+   "explanation": "ignoring someone is the meaning of the idiom “giving the cold shoulder”"
+  },
+  {
+   "id": "SUB-034",
+   "level": "subprofessional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "Looking before you leap will help you make fewer mistakes.",
+   "options": [
+    "look before jumping",
+    "asking for help before doing a task",
+    "praying before doing something",
+    "take only calculated risks",
+    "doing your best"
+   ],
+   "correctAnswer": 3,
+   "explanation": "take only calculated risks is the meaning of the idiom “looking before you leap”"
+  },
+  {
+   "id": "SUB-035",
+   "level": "subprofessional",
+   "skill": "Idioms & Expressions",
+   "tier": 1,
+   "question": "You can’t have your cake and eat it too.",
+   "options": [
+    "you can’t have everything",
+    "you can’t eat too many desserts",
+    "you can’t have too many gifts",
+    "you can’t make a good decision",
+    "none of the above"
+   ],
+   "correctAnswer": 0,
+   "explanation": "you can’t have everything is the meaning of the idiom “you can’t have your own cake and eat it too/you can’t eat your own cake”"
+  },
+  {
+   "id": "SUB-036",
+   "level": "subprofessional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Sinubukang ipaliwanag ni Pedro sitwasyon ngunit alimbuyugin si Juan. Ang kasalungat ng salitang ALIMBUYUGIN ay:",
+   "options": [
+    "makitid ang pag-iisip",
+    "masunurin",
+    "makulit",
+    "lapastangan",
+    "malawak ang pag-iisip"
+   ],
+   "correctAnswer": 4,
+   "explanation": "“malawak ang pag-iisip” ay ang kasalungat ng alimbuyugin"
+  },
+  {
+   "id": "SUB-037",
+   "level": "subprofessional",
+   "skill": "Filipino Words",
+   "tier": 2,
+   "question": "Ang pagiging gaso ni Estela ang maghahatid sa kanya sa kapahamakan. Ang kasalungat ng salitang GASO ay:",
+   "options": [
+    "magaslaw",
+    "mahinhin",
+    "marupok",
+    "matatag",
+    "mayabang"
+   ],
+   "correctAnswer": 1,
+   "explanation": "“mahinhin” ang kasalungat ng gaso"
+  },
+  {
+   "id": "SUB-038",
+   "level": "subprofessional",
+   "skill": "Filipino Words",
+   "tier": 3,
+   "question": "Nais ni Julia na maniwala sa pangako ni Gerald ngunit alam nya na siya’y mapaglubid ng buhangin. Ang ibig sabihin ng MAPAGLUBID NG BUHANGIN ay:",
+   "options": [
+    "sinungaling",
+    "mapanukso",
+    "pala-alis",
+    "sugarol",
+    "babaero"
+   ],
+   "correctAnswer": 0,
+   "explanation": "“sinungaling” ang ibig sabihin ng sawikain na mapaglubid ng buhangin"
+  },
+  {
+   "id": "SUB-039",
+   "level": "subprofessional",
+   "skill": "Filipino Words",
+   "tier": 2,
+   "question": "Kaya lamang sikat ang batang si Mandy ay sa kadahilanang ang kanyang mga magulang ay isa sa mga may sinasabi sa lipunan. Ang ibig sabihin ng MAY SINASABI ay:",
+   "options": [
+    "ma-impluwensya",
+    "pala-katwiran",
+    "mayaman",
+    "madaldal",
+    "aktibista"
+   ],
+   "correctAnswer": 2,
+   "explanation": "“mayaman” ang ibig sabihin ng sawikain na may sinasabi"
+  },
+  {
+   "id": "SUB-040",
+   "level": "subprofessional",
+   "skill": "Filipino Words",
+   "tier": 2,
+   "question": "Nilayuan si Mar ng kanyang mga kaibigan simula noong lumaki ang kanyang ulo. Ang ibig sabihin ng LUMAKI ANG ULO ay:",
+   "options": [
+    "bugnutin",
+    "naghirap",
+    "pala-isip",
+    "yumabang",
+    "nagkasakit"
+   ],
+   "correctAnswer": 3,
+   "explanation": "“yumabang” ang ibig sabihin ng sawikain na lumaki ang ulo. GRAMMAR and CORRECT USAGE: Here are the answers to the Grammar and Correct Usage part of the CSE Sub-Pro Reviewer:"
+  }
+ ]
+}

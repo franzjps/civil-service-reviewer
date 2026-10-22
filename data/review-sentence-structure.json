@@ -1,0 +1,773 @@
+{
+ "module": "sentence-structure",
+ "questions": [
+  {
+   "id": "SSP-01",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "Which group of words is an independent clause?",
+   "options": [
+    "Because the rain stopped",
+    "When we arrived at the office",
+    "The clerk filed the documents",
+    "Although she was tired",
+    "After the meeting ended"
+   ],
+   "correctAnswer": 2,
+   "explanation": "An independent clause has a subject and a verb and can stand alone. The other choices start with a subordinating word (because, when, although, after), so they are dependent clauses."
+  },
+  {
+   "id": "SSP-02",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "In \"The report that she submitted was complete,\" the group of words \"that she submitted\" is a:",
+   "options": [
+    "independent clause",
+    "dependent (relative) clause",
+    "prepositional phrase",
+    "sentence fragment",
+    "compound predicate"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"That she submitted\" has a subject and a verb but cannot stand alone. It describes \"report\", so it is a dependent (relative) clause."
+  },
+  {
+   "id": "SSP-03",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "Which sentence correctly combines \"The office closed early. The power was out.\"?",
+   "options": [
+    "The office closed early because. The power was out.",
+    "The office closed early because the power was out.",
+    "Because the office closed early the power was out.",
+    "The office closed early, the power was out.",
+    "The office closed early although the power was out."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Because\" shows that the power outage caused the early closing. The reversed order changes the meaning, the comma splice is incorrect, and \"although\" gives the wrong relationship."
+  },
+  {
+   "id": "SSP-04",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "Which sentence contains a dependent clause that works as an adverb?",
+   "options": [
+    "The manager who approved the leave resigned.",
+    "She smiled when the results came out.",
+    "The fact that he lied surprised us.",
+    "The employees are tired and hungry.",
+    "Submit the form today."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"When the results came out\" tells when she smiled, so it is an adverb clause. \"Who approved the leave\" describes a noun (adjective clause), and \"that he lied\" is a noun clause."
+  },
+  {
+   "id": "SSP-05",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "What kind of sentence is \"The employees complained, but the manager ignored them.\"?",
+   "options": [
+    "Simple",
+    "Compound",
+    "Complex",
+    "Compound-complex",
+    "Fragment"
+   ],
+   "correctAnswer": 1,
+   "explanation": "It has two independent clauses joined by \"but\" and no dependent clause, so it is compound."
+  },
+  {
+   "id": "SSP-06",
+   "level": "professional",
+   "skill": "Clauses",
+   "tier": 4,
+   "question": "Which sentence is compound-complex?",
+   "options": [
+    "We walked home because it rained.",
+    "We walked home, and we arrived late.",
+    "Although it rained, we walked home, and we arrived late.",
+    "We walked home.",
+    "Walking home in the rain."
+   ],
+   "correctAnswer": 2,
+   "explanation": "A compound-complex sentence has at least two independent clauses and one dependent clause. \"Although it rained\" is dependent; \"we walked home\" and \"we arrived late\" are independent."
+  },
+  {
+   "id": "SSP-07",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "She likes swimming, reading, and ______.",
+   "options": [
+    "to dance",
+    "dance",
+    "dancing",
+    "danced",
+    "dances"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Items in a series must have the same form. \"Swimming\" and \"reading\" are -ing forms, so the third item must be \"dancing\"."
+  },
+  {
+   "id": "SSP-08",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Which sentence is parallel?",
+   "options": [
+    "The job requires patience, being punctual, and to work hard.",
+    "The job requires patience, punctuality, and hard work.",
+    "The job requires being patient, punctuality, and to work hard.",
+    "The job requires patience, to be punctual, and working hard.",
+    "The job requires patient, punctuality, and work hard."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Patience, punctuality, and hard work\" are all nouns, so the list is parallel."
+  },
+  {
+   "id": "SSP-09",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "The manager told us to arrive early, to bring our IDs, and ______.",
+   "options": [
+    "that we should sign in",
+    "signing in",
+    "to sign in at the gate",
+    "sign-in",
+    "we sign in"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The first two items are \"to + verb\" phrases, so the third must also be \"to sign in\"."
+  },
+  {
+   "id": "SSP-10",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "The candidate was both intelligent and ______.",
+   "options": [
+    "with skill",
+    "skillfully",
+    "skilled",
+    "skill",
+    "had skills"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Both ... and\" joins equal parts. \"Intelligent\" is an adjective, so the second part must be an adjective: \"skilled\"."
+  },
+  {
+   "id": "SSP-11",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Not only did she finish the report, but she also ______.",
+   "options": [
+    "the presentation was prepared",
+    "prepared the presentation",
+    "preparing the presentation",
+    "to prepare the presentation",
+    "presentation preparation"
+   ],
+   "correctAnswer": 1,
+   "explanation": "After \"not only did she finish\", the second part needs the same verb pattern: \"she also prepared the presentation\"."
+  },
+  {
+   "id": "SSP-12",
+   "level": "professional",
+   "skill": "Parallelism",
+   "tier": 4,
+   "question": "Which sentence has faulty parallelism?",
+   "options": [
+    "He is not only a skilled driver but also a careful one.",
+    "She enjoys hiking, to swim, and cycling.",
+    "The plan is simple, practical, and affordable.",
+    "To plan well and to execute carefully are keys to success.",
+    "We want to save money and to reduce waste."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Hiking, to swim, and cycling\" mixes -ing forms with an infinitive. It should be \"hiking, swimming, and cycling\"."
+  },
+  {
+   "id": "SSP-13",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 1,
+   "question": "Which sentence has a dangling modifier?",
+   "options": [
+    "Walking to work, a dog barked at Jose.",
+    "Walking to work, Jose saw a dog.",
+    "Jose, walking to work, saw a dog.",
+    "While Jose walked to work, a dog barked at him.",
+    "Jose saw a dog while walking to work."
+   ],
+   "correctAnswer": 0,
+   "explanation": "In the first sentence, \"walking to work\" seems to describe the dog. The person walking is Jose, so the modifier dangles."
+  },
+  {
+   "id": "SSP-14",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence is clear and correct?",
+   "options": [
+    "The clerk handed the folder to the supervisor that was blue.",
+    "The clerk handed the supervisor the blue folder.",
+    "The clerk handed to the supervisor the folder blue.",
+    "Blue, the clerk handed the folder to the supervisor.",
+    "The blue clerk handed the folder."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The modifier \"blue\" must sit next to the folder it describes. In the first choice, \"that was blue\" seems to describe the supervisor."
+  },
+  {
+   "id": "SSP-15",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence means that she drove for nearly two hours?",
+   "options": [
+    "She almost drove for two hours.",
+    "She drove for almost two hours.",
+    "Almost, she drove two hours.",
+    "She drove almost, for two hours.",
+    "For two hours almost she drove."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Almost\" should sit right before \"two hours\". \"She almost drove\" means she nearly did it but did not."
+  },
+  {
+   "id": "SSP-16",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which is the best revision of \"Having finished the exam, the papers were handed in.\"?",
+   "options": [
+    "Having finished the exam, the examinees handed in their papers.",
+    "Having finished the exam, the papers were handed in by the proctor.",
+    "Having finished, the exam papers were handed in.",
+    "The papers, having finished the exam, were handed in.",
+    "Having been finished the exam, the papers were handed in."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Papers cannot finish an exam. The subject after the comma must be the one who finished: \"the examinees\"."
+  },
+  {
+   "id": "SSP-17",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which sentence clearly states that the employees, not the supervisor, arrived late?",
+   "options": [
+    "The employees were reprimanded by the supervisor who arrived late.",
+    "The employees who arrived late were reprimanded by the supervisor.",
+    "Reprimanded by the supervisor, arriving late was the employees.",
+    "Late arriving, the supervisor reprimanded employees who.",
+    "The employees were arriving late who the supervisor reprimanded."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The modifier \"who arrived late\" must come right after \"employees\". In the first choice it follows \"supervisor\"."
+  },
+  {
+   "id": "SSP-18",
+   "level": "professional",
+   "skill": "Modifiers",
+   "tier": 4,
+   "question": "Which sentence means that Maria and no one else won the prize?",
+   "options": [
+    "Maria only won the prize.",
+    "Only Maria won the prize.",
+    "Maria won only the prize.",
+    "Maria won the only prize.",
+    "Maria won the prize only."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Only\" belongs right before the word it limits. \"Only Maria\" limits the winner to Maria."
+  },
+  {
+   "id": "SSP-19",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 1,
+   "question": "Which is a complete sentence?",
+   "options": [
+    "Because the bus was late.",
+    "Running down the street.",
+    "The bus was late.",
+    "The bus, which was late.",
+    "When the bus came."
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only \"The bus was late.\" has a subject and a verb and expresses a complete thought. The others are fragments."
+  },
+  {
+   "id": "SSP-20",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 1,
+   "question": "Which sentence is a run-on?",
+   "options": [
+    "The office opens at eight it closes at five.",
+    "The office opens at eight, and it closes at five.",
+    "The office opens at eight; it closes at five.",
+    "The office opens at eight and closes at five.",
+    "The office, which opens at eight, closes at five."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Two independent clauses are joined with no punctuation or conjunction. A comma with \"and\", or a semicolon, would fix it."
+  },
+  {
+   "id": "SSP-21",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence is a comma splice?",
+   "options": [
+    "I called twice, but nobody answered.",
+    "I called twice, nobody answered.",
+    "I called twice; nobody answered.",
+    "I called twice, yet nobody answered.",
+    "Although I called twice, nobody answered."
+   ],
+   "correctAnswer": 1,
+   "explanation": "A comma alone cannot join two independent clauses. A conjunction such as \"but\" or a semicolon is needed."
+  },
+  {
+   "id": "SSP-22",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence is the most concise?",
+   "options": [
+    "Due to the fact that it was raining, the event was postponed.",
+    "Because it rained, the event was postponed.",
+    "The reason the event was postponed was because of the rain that was falling.",
+    "The event was postponed on account of the fact of rain.",
+    "It was raining and so the event was postponed due to this."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Because it rained\" says the same thing in fewer words. The others repeat the cause."
+  },
+  {
+   "id": "SSP-23",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which choice corrects the fragment \"The applicants waiting outside the office since morning.\"?",
+   "options": [
+    "The applicants waiting outside the office since morning were tired.",
+    "The applicants waiting outside the office since morning, tired.",
+    "Waiting outside the office since morning the applicants.",
+    "The applicants, waiting outside the office since morning.",
+    "The applicants which waiting outside the office since morning."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The original has a subject but no main verb. Adding \"were tired\" gives the sentence a predicate."
+  },
+  {
+   "id": "SSP-24",
+   "level": "professional",
+   "skill": "Sentence Construction",
+   "tier": 4,
+   "question": "Which sentence is punctuated correctly?",
+   "options": [
+    "The budget was cut, however the project continued.",
+    "The budget was cut; however, the project continued.",
+    "The budget was cut; however the project, continued.",
+    "The budget was cut however; the project continued.",
+    "The budget was cut, however, the project continued."
+   ],
+   "correctAnswer": 1,
+   "explanation": "A conjunctive adverb such as \"however\" joining two independent clauses needs a semicolon before it and a comma after it."
+  },
+  {
+   "id": "SSS-01",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "Which group of words is an independent clause?",
+   "options": [
+    "Because the rain stopped",
+    "When we arrived at the office",
+    "The clerk filed the documents",
+    "Although she was tired",
+    "After the meeting ended"
+   ],
+   "correctAnswer": 2,
+   "explanation": "An independent clause has a subject and a verb and can stand alone. The other choices start with a subordinating word (because, when, although, after), so they are dependent clauses."
+  },
+  {
+   "id": "SSS-02",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "In \"The report that she submitted was complete,\" the group of words \"that she submitted\" is a:",
+   "options": [
+    "independent clause",
+    "dependent (relative) clause",
+    "prepositional phrase",
+    "sentence fragment",
+    "compound predicate"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"That she submitted\" has a subject and a verb but cannot stand alone. It describes \"report\", so it is a dependent (relative) clause."
+  },
+  {
+   "id": "SSS-03",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "Which sentence correctly combines \"The office closed early. The power was out.\"?",
+   "options": [
+    "The office closed early because. The power was out.",
+    "The office closed early because the power was out.",
+    "Because the office closed early the power was out.",
+    "The office closed early, the power was out.",
+    "The office closed early although the power was out."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Because\" shows that the power outage caused the early closing. The reversed order changes the meaning, the comma splice is incorrect, and \"although\" gives the wrong relationship."
+  },
+  {
+   "id": "SSS-04",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "Which sentence contains a dependent clause that works as an adverb?",
+   "options": [
+    "The manager who approved the leave resigned.",
+    "She smiled when the results came out.",
+    "The fact that he lied surprised us.",
+    "The employees are tired and hungry.",
+    "Submit the form today."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"When the results came out\" tells when she smiled, so it is an adverb clause. \"Who approved the leave\" describes a noun (adjective clause), and \"that he lied\" is a noun clause."
+  },
+  {
+   "id": "SSS-05",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "What kind of sentence is \"The employees complained, but the manager ignored them.\"?",
+   "options": [
+    "Simple",
+    "Compound",
+    "Complex",
+    "Compound-complex",
+    "Fragment"
+   ],
+   "correctAnswer": 1,
+   "explanation": "It has two independent clauses joined by \"but\" and no dependent clause, so it is compound."
+  },
+  {
+   "id": "SSS-06",
+   "level": "subprofessional",
+   "skill": "Clauses",
+   "tier": 4,
+   "question": "Which sentence is compound-complex?",
+   "options": [
+    "We walked home because it rained.",
+    "We walked home, and we arrived late.",
+    "Although it rained, we walked home, and we arrived late.",
+    "We walked home.",
+    "Walking home in the rain."
+   ],
+   "correctAnswer": 2,
+   "explanation": "A compound-complex sentence has at least two independent clauses and one dependent clause. \"Although it rained\" is dependent; \"we walked home\" and \"we arrived late\" are independent."
+  },
+  {
+   "id": "SSS-07",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "She likes swimming, reading, and ______.",
+   "options": [
+    "to dance",
+    "dance",
+    "dancing",
+    "danced",
+    "dances"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Items in a series must have the same form. \"Swimming\" and \"reading\" are -ing forms, so the third item must be \"dancing\"."
+  },
+  {
+   "id": "SSS-08",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Which sentence is parallel?",
+   "options": [
+    "The job requires patience, being punctual, and to work hard.",
+    "The job requires patience, punctuality, and hard work.",
+    "The job requires being patient, punctuality, and to work hard.",
+    "The job requires patience, to be punctual, and working hard.",
+    "The job requires patient, punctuality, and work hard."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Patience, punctuality, and hard work\" are all nouns, so the list is parallel."
+  },
+  {
+   "id": "SSS-09",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "The manager told us to arrive early, to bring our IDs, and ______.",
+   "options": [
+    "that we should sign in",
+    "signing in",
+    "to sign in at the gate",
+    "sign-in",
+    "we sign in"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The first two items are \"to + verb\" phrases, so the third must also be \"to sign in\"."
+  },
+  {
+   "id": "SSS-10",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "The candidate was both intelligent and ______.",
+   "options": [
+    "with skill",
+    "skillfully",
+    "skilled",
+    "skill",
+    "had skills"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Both ... and\" joins equal parts. \"Intelligent\" is an adjective, so the second part must be an adjective: \"skilled\"."
+  },
+  {
+   "id": "SSS-11",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Not only did she finish the report, but she also ______.",
+   "options": [
+    "the presentation was prepared",
+    "prepared the presentation",
+    "preparing the presentation",
+    "to prepare the presentation",
+    "presentation preparation"
+   ],
+   "correctAnswer": 1,
+   "explanation": "After \"not only did she finish\", the second part needs the same verb pattern: \"she also prepared the presentation\"."
+  },
+  {
+   "id": "SSS-12",
+   "level": "subprofessional",
+   "skill": "Parallelism",
+   "tier": 4,
+   "question": "Which sentence has faulty parallelism?",
+   "options": [
+    "He is not only a skilled driver but also a careful one.",
+    "She enjoys hiking, to swim, and cycling.",
+    "The plan is simple, practical, and affordable.",
+    "To plan well and to execute carefully are keys to success.",
+    "We want to save money and to reduce waste."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Hiking, to swim, and cycling\" mixes -ing forms with an infinitive. It should be \"hiking, swimming, and cycling\"."
+  },
+  {
+   "id": "SSS-13",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 1,
+   "question": "Which sentence has a dangling modifier?",
+   "options": [
+    "Walking to work, a dog barked at Jose.",
+    "Walking to work, Jose saw a dog.",
+    "Jose, walking to work, saw a dog.",
+    "While Jose walked to work, a dog barked at him.",
+    "Jose saw a dog while walking to work."
+   ],
+   "correctAnswer": 0,
+   "explanation": "In the first sentence, \"walking to work\" seems to describe the dog. The person walking is Jose, so the modifier dangles."
+  },
+  {
+   "id": "SSS-14",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence is clear and correct?",
+   "options": [
+    "The clerk handed the folder to the supervisor that was blue.",
+    "The clerk handed the supervisor the blue folder.",
+    "The clerk handed to the supervisor the folder blue.",
+    "Blue, the clerk handed the folder to the supervisor.",
+    "The blue clerk handed the folder."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The modifier \"blue\" must sit next to the folder it describes. In the first choice, \"that was blue\" seems to describe the supervisor."
+  },
+  {
+   "id": "SSS-15",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence means that she drove for nearly two hours?",
+   "options": [
+    "She almost drove for two hours.",
+    "She drove for almost two hours.",
+    "Almost, she drove two hours.",
+    "She drove almost, for two hours.",
+    "For two hours almost she drove."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Almost\" should sit right before \"two hours\". \"She almost drove\" means she nearly did it but did not."
+  },
+  {
+   "id": "SSS-16",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which is the best revision of \"Having finished the exam, the papers were handed in.\"?",
+   "options": [
+    "Having finished the exam, the examinees handed in their papers.",
+    "Having finished the exam, the papers were handed in by the proctor.",
+    "Having finished, the exam papers were handed in.",
+    "The papers, having finished the exam, were handed in.",
+    "Having been finished the exam, the papers were handed in."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Papers cannot finish an exam. The subject after the comma must be the one who finished: \"the examinees\"."
+  },
+  {
+   "id": "SSS-17",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which sentence clearly states that the employees, not the supervisor, arrived late?",
+   "options": [
+    "The employees were reprimanded by the supervisor who arrived late.",
+    "The employees who arrived late were reprimanded by the supervisor.",
+    "Reprimanded by the supervisor, arriving late was the employees.",
+    "Late arriving, the supervisor reprimanded employees who.",
+    "The employees were arriving late who the supervisor reprimanded."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The modifier \"who arrived late\" must come right after \"employees\". In the first choice it follows \"supervisor\"."
+  },
+  {
+   "id": "SSS-18",
+   "level": "subprofessional",
+   "skill": "Modifiers",
+   "tier": 4,
+   "question": "Which sentence means that Maria and no one else won the prize?",
+   "options": [
+    "Maria only won the prize.",
+    "Only Maria won the prize.",
+    "Maria won only the prize.",
+    "Maria won the only prize.",
+    "Maria won the prize only."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Only\" belongs right before the word it limits. \"Only Maria\" limits the winner to Maria."
+  },
+  {
+   "id": "SSS-19",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 1,
+   "question": "Which is a complete sentence?",
+   "options": [
+    "Because the bus was late.",
+    "Running down the street.",
+    "The bus was late.",
+    "The bus, which was late.",
+    "When the bus came."
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only \"The bus was late.\" has a subject and a verb and expresses a complete thought. The others are fragments."
+  },
+  {
+   "id": "SSS-20",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 1,
+   "question": "Which sentence is a run-on?",
+   "options": [
+    "The office opens at eight it closes at five.",
+    "The office opens at eight, and it closes at five.",
+    "The office opens at eight; it closes at five.",
+    "The office opens at eight and closes at five.",
+    "The office, which opens at eight, closes at five."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Two independent clauses are joined with no punctuation or conjunction. A comma with \"and\", or a semicolon, would fix it."
+  },
+  {
+   "id": "SSS-21",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence is a comma splice?",
+   "options": [
+    "I called twice, but nobody answered.",
+    "I called twice, nobody answered.",
+    "I called twice; nobody answered.",
+    "I called twice, yet nobody answered.",
+    "Although I called twice, nobody answered."
+   ],
+   "correctAnswer": 1,
+   "explanation": "A comma alone cannot join two independent clauses. A conjunction such as \"but\" or a semicolon is needed."
+  },
+  {
+   "id": "SSS-22",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence is the most concise?",
+   "options": [
+    "Due to the fact that it was raining, the event was postponed.",
+    "Because it rained, the event was postponed.",
+    "The reason the event was postponed was because of the rain that was falling.",
+    "The event was postponed on account of the fact of rain.",
+    "It was raining and so the event was postponed due to this."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Because it rained\" says the same thing in fewer words. The others repeat the cause."
+  },
+  {
+   "id": "SSS-23",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which choice corrects the fragment \"The applicants waiting outside the office since morning.\"?",
+   "options": [
+    "The applicants waiting outside the office since morning were tired.",
+    "The applicants waiting outside the office since morning, tired.",
+    "Waiting outside the office since morning the applicants.",
+    "The applicants, waiting outside the office since morning.",
+    "The applicants which waiting outside the office since morning."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The original has a subject but no main verb. Adding \"were tired\" gives the sentence a predicate."
+  },
+  {
+   "id": "SSS-24",
+   "level": "subprofessional",
+   "skill": "Sentence Construction",
+   "tier": 4,
+   "question": "Which sentence is punctuated correctly?",
+   "options": [
+    "The budget was cut, however the project continued.",
+    "The budget was cut; however, the project continued.",
+    "The budget was cut; however the project, continued.",
+    "The budget was cut however; the project continued.",
+    "The budget was cut, however, the project continued."
+   ],
+   "correctAnswer": 1,
+   "explanation": "A conjunctive adverb such as \"however\" joining two independent clauses needs a semicolon before it and a comma after it."
+  }
+ ]
+}

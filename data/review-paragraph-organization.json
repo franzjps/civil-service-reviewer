@@ -1,0 +1,1205 @@
+{
+ "module": "paragraph-organization",
+ "questions": [
+  {
+   "id": "PRO-063",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "1. Its current was very powerful and could take away big tree trunks\n2. Some children were playing on the bank of the waterway.\n3. In Willamette National Forest, there is a big lake.\n4. A heavy rain made the lake overflow forcefully through the waterway.\n5. A man noticed the children and rushed to save them.",
+   "options": [
+    "31425",
+    "34152",
+    "34125",
+    "31245",
+    "32145"
+   ],
+   "correctAnswer": 2,
+   "explanation": "34125. 3. In Willamette National Forest, there is a big lake. 4. A heavy rain made the lake overflow forcefully through the waterway. 1. Its current was very powerful and could take away big tree trunks 2. Some children were playing on the bank of the waterway. 5. A man noticed the children and rushed to save them."
+  },
+  {
+   "id": "PRO-066",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "1. I used to play video games on my computer.\n2. On weekends, I do the laundry in the morning.\n3. After that, I go and read some books.\n4. It was a high-end desktop but now it doesn't work.\n5. Then I work out for at least an hour.",
+   "options": [
+    "14235",
+    "14253",
+    "25314",
+    "25143",
+    "14523"
+   ],
+   "correctAnswer": 2,
+   "explanation": "25314. 2. On weekends, I do the laundry in the morning. 5. Then I work out for at least an hour. 3. After that, I go and read some books. 1. I used to play video games on my computer. 4. It was a high-end desktop but now it doesn’t work."
+  },
+  {
+   "id": "PRO-062",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "1. Haidee reached the office at 10 am after sending the package.\n2. Some stuff had to be sent to Haidee’s parents.\n3. After that, she spent almost an hour at the Post Office.\n4. Therefore, she had to pack them all first and place them inside a box.\n5. However, she hasn’t prepared them yet.",
+   "options": [
+    "25431",
+    "24531",
+    "25413",
+    "24153",
+    "24531"
+   ],
+   "correctAnswer": 0,
+   "explanation": "25431. 2. Some stuff had to be sent to Haidee’s parents. 5. However, she hasn’t prepared them yet. 4. Therefore, she had to pack them all first and place them inside a box. 3. After that, she spent almost an hour at the Post Office. 1. Haidee reached the office at 10 am after sending the package."
+  },
+  {
+   "id": "PRO-064",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "1. It is also not about the prices that she charges for her goods.\n2. Leah’s business is all about her customers’ satisfaction.\n3. She made sure that it’s not just about the products and services that she offers.\n4. After all, her customers are the ones that will decide if her business goes boom or bust.\n5. Leah’s business is not about her competition and how to beat them.",
+   "options": [
+    "52134",
+    "53124",
+    "52143",
+    "51342",
+    "51324"
+   ],
+   "correctAnswer": 4,
+   "explanation": "51324. 5. Leah’s business is not about her competition and how to beat them. 1. It is also not about the prices that she charges for her goods. 3. She made sure that it’s not just about the products and services that she offers. 2. Leah’s business is all about her customers’ satisfaction. 4. After all, her customers are the ones that will decide if her business goes boom or bust."
+  },
+  {
+   "id": "PRO-070",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "1. I always get a whitefish sandwich on rye, which means that I get to watch the cook slice the thick, brown, loaf of bread, heap whitefish onto it, and slather the thing with brown mustard.\n2. When you walk into Saul's, you'll see a big deli case in front of you, filled with every kind of filling, side dish, and treat you could hope for.\n3. In my hometown, the best sandwich comes from Saul's Deli.\n4. With all this to offer, Saul's can't be beaten for a good sandwich.\n5. Every sandwich comes with an amazing dill pickle that pops when you bite into it.",
+   "options": [
+    "31254",
+    "12354",
+    "13245",
+    "32154",
+    "31245"
+   ],
+   "correctAnswer": 3,
+   "explanation": "32154. 3. In my hometown, the best sandwich comes from Saul’s Deli. 2. When you walk into Saul’s, you’ll see a big deli case in front of you, filled with every kind of filling, side dish, and treat you could hope for. 1. I always get a whitefish sandwich on rye, which means that I get to watch the cook slice the thick, brown, loaf of bread, heap whitefish onto it, and slather the thing with brown mustard. 5. Every sandwich comes with an amazing dill pickle that pops when you bite into it. 4. With all this to offer, Saul’s can’t be beaten for a good sandwich. Sponsored Links READING..."
+  },
+  {
+   "id": "PRO-061",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "1. Others recommend it as an excellent way to lose extra weight.\n2. While nutritionists have yet to prove whole eggs and salmon support weight loss, there’s data they may play a role.\n3. The egg-salmon combo is one of the latest weight-loss fads.\n4. People are going nuts over this wonderful addition to an everyday weight loss diet.\n5. Some people insist that they’ve seen no difference after trying this tasty combination.",
+   "options": [
+    "21435",
+    "34152",
+    "24351",
+    "34512",
+    "34125"
+   ],
+   "correctAnswer": 3,
+   "explanation": "34512. 3. The egg-salmon combo is one of the latest weight-loss fads. 4. People are going nuts over this wonderful addition to an everyday weight loss diet. 5. Some people insist that they’ve seen no difference after trying this tasty combination. 1. Others recommend it as an excellent way to lose extra weight. 2. While nutritionists have yet to prove whole eggs and salmon support weight loss, there’s data they may play a role."
+  },
+  {
+   "id": "PRO-065",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "1. The suspect was a construction worker of a certain Ms. Tannehill, owner of an unfinished commercial unit.\n2. Simmons immediately fled after the incident and managed to hide from the police up to this date.\n3. Tagged as a principal suspect in the Perkins murder case was a certain Andrew Simmons.\n4. Before the discovery of the victim’s body, Harold Perkins was reported missing by his wife.\n5. One week later, the NYPD received an anonymous call about a lifeless body found inside a black body bag.",
+   "options": [
+    "32145",
+    "31245",
+    "45312",
+    "45321",
+    "31245"
+   ],
+   "correctAnswer": 1,
+   "explanation": "31245. 3. Tagged as a principal suspect in the Perkins murder case was a certain Andrew Simmons. 1. The suspect was a construction worker of a certain Ms. Tannehill, owner of an unfinished commercial unit. 2. Simmons immediately fled after the incident and managed to hide from the police up to this date. 4. Before the discovery of the victim’s body, Harold Perkins was reported missing by his wife. 5. One week later, the NYPD received an anonymous call about a lifeless body found inside a black body bag."
+  },
+  {
+   "id": "PRO-068",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "1. Thousands of new people are born on our planet every day.\n2. If the present growth rate remains unchecked, the world may soon face widespread starvation.\n3. The number of inhabitants in the world has already reached six billion.\n4. The rapid growth of the earth’s human population is the most important problem that the world needs to address.\n5. Poverty, serious health problems, and even an increase in crimes could follow.",
+   "options": [
+    "41325",
+    "43125",
+    "13254",
+    "31254",
+    "12345"
+   ],
+   "correctAnswer": 0,
+   "explanation": "41325. 4. The rapid growth of the earth’s human population is the most important problem that the world needs to address. 1. Thousands of new people are born on our planet every day. 3. The number of inhabitants in the world has already reached six billion. 2. If the present growth rate remains unchecked, the world may soon face widespread starvation. 5. Poverty, serious health problems, and even an increase in crimes could follow."
+  },
+  {
+   "id": "PRO-067",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 4,
+   "question": "1. In these rural areas, 80% of the available agricultural land suffers from dryness and lack of irrigation.\n2. The first fact to consider is that over 60% of the population lives in rural communities.\n3. As a result, the crops are usually marginal with hardly enough production to feed the farmers’ families.\n4. In our country, one of the most urgent problems facing the government today relates to agriculture.\n5. And without irrigation, agricultural production is wholly dependent on uncertain rainfalls.",
+   "options": [
+    "41235",
+    "43125",
+    "42135",
+    "43521",
+    "12345"
+   ],
+   "correctAnswer": 2,
+   "explanation": "42135. 4. In our country, one of the most urgent problems facing the government today relates to agriculture. 2. The first fact to consider is that over 60% of the population lives in rural communities. 1. In these rural areas, 80% of the available agricultural land suffers from dryness and lack of irrigation. 3. As a result, the crops are usually marginal with hardly enough production to feed the farmers’ families. 5. And without irrigation, agricultural production is wholly dependent on uncertain rainfalls."
+  },
+  {
+   "id": "PRO-069",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 4,
+   "question": "1. Let us view it instead as a special way to reconnect with our sense of appreciation for our countless blessings in life.\n2. It has also been found that going out of one’s way to thank others, either personally, written letters, or instant messaging, also creates a deep-rooted boost in happiness.\n3. So, next time our birthday comes around, let’s not look at penning those thank-you notes as a waste of time.\n4. Researchers have found that people tend to feel happier when they take the time to write down things for which they feel grateful.\n5. Much research has been done into the power of positivity.",
+   "options": [
+    "45231",
+    "54231",
+    "45321",
+    "54321",
+    "54312"
+   ],
+   "correctAnswer": 1,
+   "explanation": "54231. 5. Much research has been done into the power of positivity. 4. Researchers have found that people tend to feel happier when they take the time to write down things for which they feel grateful. 2. It has also been found that going out of one’s way to thank others, either personally, written letters, or instant messaging, also creates a deep-rooted boost in happiness. 3. So, next time our birthday comes around, let’s not look at penning those thank-you notes as a waste of time. 1. Let us view it instead as a special way to reconnect with our sense of appreciation for our countless..."
+  },
+  {
+   "id": "SUB-064",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "A. First, they picked out some vegetables and fruits.\nB. Her mom also brought some milk, bread, and eggs.\nC. Helena went shopping with her mom at the grocery store.\nD. They checked out and went home to put the groceries away.\nE. After that, they stopped at the frozen dinner’s section.",
+   "options": [
+    "AECBD",
+    "CAEBD",
+    "CAEDB",
+    "ACEDB",
+    "CADEB"
+   ],
+   "correctAnswer": 1,
+   "explanation": "CAEBD. C. Helena went shopping with her mom at the grocery store. A. First, they picked out some vegetables and fruits. E. After that, they stopped at the frozen dinner’s section. B. Her mom also brought some milk, bread, and eggs. D. They checked out and went home to put the groceries away."
+  },
+  {
+   "id": "SUB-065",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "A. They spent most days playing in the sand water building sandcastles and swimming in the ocean.\nB. Spending two weeks at the beach is Kaycee's favorite part of the summer.\nC. Afterwards, they often took long walks on the beach.\nD. Every summer, Kaycee's family spends two weeks at the beach.\nE. In addition, they knew several other families that went to the beach at the same time.",
+   "options": [
+    "DEACB",
+    "EACDB",
+    "DECAB",
+    "CABDE",
+    "DEBAC"
+   ],
+   "correctAnswer": 0,
+   "explanation": "DEACB. D. Every summer, Kaycee’s family spends two weeks at the beach. E. In addition, they knew several other families that went to the beach at the same time. A. They spent most days playing in the sand water building sandcastles and swimming in the ocean. C. Afterwards, they often took long walks on the beach. B. Spending two weeks at the beach is Kaycee’s favorite part of the summer."
+  },
+  {
+   "id": "SUB-062",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "A. The term “nationalism” defies definition.\nB. However, it has come to mean different things to different people.\nC. In fact, it has become a complex phenomenon.\nD. Meanwhile, we say that “nationalism” stands for the desire of people for rational self-determination and assertion.\nE. Its meaning has changed through the centuries.",
+   "options": [
+    "ACDBE",
+    "EBCDA",
+    "AECDB",
+    "AEBCD",
+    "EBDAC"
+   ],
+   "correctAnswer": 3,
+   "explanation": "AEBCD. A. The term “nationalism” defies definition. E. Its meaning has changed through the centuries. B. However, it has come to mean different things to different people. C. In fact, it has become a complex phenomenon. D. meanwhile, we say that “nationalism” stands for the desire of people for rational self-determination and assertion."
+  },
+  {
+   "id": "SUB-063",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "A. Advanced warning however can do a great deal to reduce opposition.\nB. How changes introduced affect their acceptance by employees.\nC. To illustrate, sudden change will inevitably be met with great employee resistance.\nD. It also gives a man time to adjust to his new framework and to the personal and domestic changes that go along.\nE. Imposed alterations can lead to dissatisfaction, absenteeism, and inefficiency.",
+   "options": [
+    "BCEDA",
+    "ECBDA",
+    "ACBED",
+    "CEDAB",
+    "BCEAD"
+   ],
+   "correctAnswer": 4,
+   "explanation": "BCEAD. B. How changes introduced affect their acceptance by employees. C. To illustrate, sudden change will inevitably be met with great employee resistance. E. Imposed alterations can lead to dissatisfaction, absenteeism, and inefficiency. A. Advanced warning however can do a great deal to reduce opposition. D. It also gives a man time to adjust to his new framework and to the personal and domestic changes that go along."
+  },
+  {
+   "id": "SUB-061",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 4,
+   "question": "A. As an English writer has written, “Providence in her wise disposition has placed these people in the garden of Eden, where the means of subsistence are found without much labor, and does not require them to toil and slave to satisfy their personal wants.”\nB. Foreign writers have rashly accused Filipinos of “indolence.”\nC. Filipinos take life easy because of the tropical climate and the liberation of nature.\nD. By the yardstick of human action in temperature countries, Filipinos do not work hard.\nE. Such may seem the case, but foreign critics are interpreting it as a manifestation of racial laziness.",
+   "options": [
+    "DECBA",
+    "ADBCE",
+    "EDCBA",
+    "BDEDA",
+    "BACDE"
+   ],
+   "correctAnswer": 4,
+   "explanation": "BACDE. B. Foreign writers have rashly accused Filipinos of “indolence.” A. As an English writer has written, “Providence in her wise disposition has placed these people in the garden of Eden, where the means of subsistence are found without much labor, and does not require them to toil and slave to satisfy their personal wants.” C. Filipinos take life easy because of the tropical climate and the liberation of nature. D. By the yardstick of human action in temperature countries, Filipinos do not work hard. E. Such may seem the case, but foreign critics are interpreting it as a manifestation of..."
+  },
+  {
+   "id": "SUB-067",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 2,
+   "question": "A. This often results in meeting locals and experiencing their lives and traditions firsthand.\nB. Furthermore, walking tours are flexible and inexpensive because there are no strict schedules or transportation expenses.\nC. Travelers taking walking tours are rewarded with the opportunity to interact with the people who live there.\nD. For starters, walking through a new city allows visitors to see the details of an area without having to hurry.\nE. There are many reasons why I enjoy walking tours when visiting new cities. What should be the 2nd sentence?",
+   "options": [
+    "C",
+    "E",
+    "A",
+    "B",
+    "D"
+   ],
+   "correctAnswer": 4,
+   "explanation": "D is the 2nd sentence.. E. There are many reasons why I enjoy walking tours when visiting new cities. D. For starters, walking through a new city allows visitors to see the details of an area without having to hurry. A. This often results in meeting locals and experiencing their lives and traditions firsthand. B. Furthermore, walking tours are flexible and inexpensive because there are no strict schedules or transportation expenses. C. Travelers taking walking tours are rewarded with the opportunity to interact with the people who live there."
+  },
+  {
+   "id": "SUB-068",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 2,
+   "question": "A. From it comes the energy which makes life possible.\nB. Yet, the sun is all-important to living things on earth.\nC. Though the earth seems so large to us, it is only a minor member of the system.\nD. Nevertheless, it’s important to realize the earth’s place in that broader scheme of things known as the solar system.\nE. The attention of geography is focused on the earth, particularly on the surface. What should be the 1st sentence?",
+   "options": [
+    "C",
+    "E",
+    "A",
+    "B",
+    "D"
+   ],
+   "correctAnswer": 1,
+   "explanation": "E is the first sentence.. E. The attention of geography is focused on the earth, particularly on the surface. D. Nevertheless, it’s important to realize the earth’s place in the broader scheme of things known as the solar system. C. Though the earth seems so large to us, it is only a minor member of the system. B. It is the sun that is vital to most living things on earth. A. From it, comes the energy which makes life possible."
+  },
+  {
+   "id": "SUB-069",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. When my friend and I visited North Carolina last January, we hiked in the Blue Ridge Mountains.\nB. Hiking can be especially exhilarating during snowy winter months.\nC. Frostbit leaves crunched beneath our winter boots on the path through snow-frosted tress.\nD. We also saw deer and rabbits as we trekked up the path.\nE. We first crossed a footbridge over a rapidly moving, ice-cold river. What should be the last sentence?",
+   "options": [
+    "C",
+    "E",
+    "A",
+    "B",
+    "D"
+   ],
+   "correctAnswer": 4,
+   "explanation": "D is the last sentence.. A. When my friend and I visited North Carolina last January, we hiked in the Blue Ridge Mountains. B. Hiking can be especially exhilarating during snowy winter months. E. We first crossed a footbridge over a rapidly moving, ice-cold river. C. Frostbit leaves crunched beneath our winter boots on the path through snow-frosted tress. D. We also saw deer and rabbits as we trekked up the path."
+  },
+  {
+   "id": "SUB-070",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. Hotels and transportation on trips can be expensive if you don’t book them plenty of time in advance.\nB. When you go on a trip, you need to think about how much money to allot for things like transportation, food, and hotels.\nC. It is important to plan your trips carefully.\nD. Even though you may want to do everything, you have to remember that there are only so many hours in the day!\nE. Another thing to plan for is how much time you want to spend sightseeing and doing different sorts of activities. What should be the 3rd sentence?",
+   "options": [
+    "C",
+    "E",
+    "A",
+    "B",
+    "D"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A is the third sentence.. C. It is important to plan your trips carefully. B. When you go on a trip, you need to think about how much money to allot for things like transportation, food, and hotels. A. Hotels and transportation on trips can be expensive if you don’t book them plenty of time in advance. E. Another thing to plan for is how much time you want to spend sightseeing and doing different sorts of activities. D. Even though you may want to do everything, you must remember that there are only so many hours in the day! Sponsored Links READING COMPREHENSION: Here are the answers to the..."
+  },
+  {
+   "id": "POP-01",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "Arrange the sentences in the best order.\n1. Finally, he left for school.\n2. The alarm rang at six.\n3. Afterwards, he put on his uniform.\n4. Ben turned off the alarm and got out of bed.\n5. He took a quick bath.",
+   "options": [
+    "24351",
+    "42531",
+    "24531",
+    "24513",
+    "25431"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 starts the story. Then he gets up (4), bathes (5), dresses (\"Afterwards\", 3) and leaves (\"Finally\", 1). The cue words Afterwards and Finally mark the order."
+  },
+  {
+   "id": "POP-02",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "Arrange the sentences in the best order.\n1. Worse, a single bottle can take hundreds of years to break down.\n2. Plastic waste is a growing problem in our oceans.\n3. Therefore, reducing the use of single-use plastics is essential.\n4. Millions of tons of it enter the sea every year.\n5. This harms marine animals that mistake it for food.",
+   "options": [
+    "24153",
+    "42513",
+    "24513",
+    "25413",
+    "24531"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 introduces the topic. Sentence 4 develops it (\"it\" is plastic), 5 follows (\"This harms...\"), 1 adds a worse fact, and 3 concludes with \"Therefore\"."
+  },
+  {
+   "id": "POP-03",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "Arrange the sentences in the best order.\n1. When the bell rang, the students lined up outside.\n2. The principal welcomed everyone to the new school year.\n3. Teachers then led each class to its room.\n4. Early that morning, parents were already gathering at the gate.\n5. At last, the first lesson began.",
+   "options": [
+    "14235",
+    "41325",
+    "41235",
+    "42135",
+    "41253"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The scene opens early that morning (4). The bell rings and students line up (1), the principal welcomes them (2), teachers lead classes in (\"then\", 3), and the lesson begins (\"At last\", 5)."
+  },
+  {
+   "id": "POP-04",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "Arrange the sentences in the best order.\n1. As a result, many residents who lived near the riverbanks were forced to leave their homes.\n2. The typhoon made landfall early Tuesday morning.\n3. Meanwhile, the continuous rain made the rivers overflow within hours.\n4. Its strong winds tore down electric posts in several towns.\n5. Relief teams arrived by noon to distribute food and water.",
+   "options": [
+    "23415",
+    "24135",
+    "24315",
+    "42315",
+    "24351"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 sets the event and 4 follows (\"Its\" refers to the typhoon). Sentence 3 adds the flooding, 1 gives the result, and 5 ends with the response."
+  },
+  {
+   "id": "POP-05",
+   "level": "professional",
+   "skill": "Sentence Sequencing",
+   "tier": 4,
+   "question": "Arrange the sentences in the best order.\n1. This is why experts recommend reviewing a little every day.\n2. Cramming the night before an exam rarely works.\n3. The brain forgets much of what it learns within a few days unless it is revisited.\n4. Spaced review, on the other hand, strengthens memory over time.\n5. Students who cram may recall facts briefly but lose them soon.",
+   "options": [
+    "25431",
+    "23541",
+    "25341",
+    "25314",
+    "52341"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The paragraph states the claim (2), gives the effect (5), explains why (3), contrasts with spaced review (\"on the other hand\", 4), and ends with \"This is why...\" (1)."
+  },
+  {
+   "id": "POP-06",
+   "level": "professional",
+   "skill": "Sentence Position",
+   "tier": 2,
+   "question": "A. Next, add the noodles and cook for three minutes.\nB. Making instant noodles takes only a few steps.\nC. First, boil two cups of water in a pot.\nD. Finally, pour the soup into a bowl and serve.\nE. Then stir in the seasoning.\nWhat should be the 3rd sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The order is B, C, A, E, D: topic, \"First\", \"Next\", \"Then\", \"Finally\". So A is third."
+  },
+  {
+   "id": "POP-07",
+   "level": "professional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. Therefore, the city built bike lanes along its main roads.\nB. Traffic in the city had become unbearable.\nC. Commuters spent hours stuck on the roads every day.\nD. Since then, the number of cyclists has doubled.\nE. Many people wanted cheaper and faster ways to travel.\nWhat should be the last sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The order is B, C, E, A, D: problem, detail, need, action (\"Therefore\"), result (\"Since then\"). D is last."
+  },
+  {
+   "id": "POP-08",
+   "level": "professional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. As a result, she was promoted within a year.\nB. Rina was a diligent new employee.\nC. She arrived early and stayed late to finish her tasks.\nD. Her supervisor noticed her dedication.\nE. Soon, she was trusted with bigger projects.\nWhat should be the 1st sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 1,
+   "explanation": "B introduces Rina, and the rest use \"She\" or \"Her\". \"As a result\" (A) can only come after the causes."
+  },
+  {
+   "id": "POP-09",
+   "level": "professional",
+   "skill": "Sentence Position",
+   "tier": 4,
+   "question": "A. However, the results were far from what the team expected.\nB. The team spent months designing the new system.\nC. Nonetheless, they used the feedback to improve it.\nD. They tested it first with a small group of users.\nE. Many users found it confusing.\nWhat should be the 2nd sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The order is B, D, A, E, C: design, test, \"However\" (a result that contrasts with the hopes), the reason, \"Nonetheless\". D is second."
+  },
+  {
+   "id": "POP-10",
+   "level": "professional",
+   "skill": "Sentence Position",
+   "tier": 4,
+   "question": "A. Hence, the committee decided to postpone the event.\nB. The annual fair was scheduled for Saturday.\nC. By Thursday, forecasts predicted a strong storm.\nD. Organizers had already prepared the booths and the program.\nE. Still, safety had to come first.\nWhat should be the 4th sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The order is B, D, C, E, A: plan, preparation, the storm forecast, \"Still\" (safety over preparation), then the decision (\"Hence\"). E is fourth."
+  },
+  {
+   "id": "POP-11",
+   "level": "professional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 1,
+   "question": "Which sentence best fits the blank?\n____ Dogs guard homes, help police find criminals, and guide people who cannot see.",
+   "options": [
+    "Dogs are useful to people in many ways.",
+    "Dogs are born in litters.",
+    "Cats are better than dogs.",
+    "Some dogs are very small.",
+    "Dogs should be washed weekly."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A topic sentence states the general idea that the details support. The details all show how dogs help people."
+  },
+  {
+   "id": "POP-12",
+   "level": "professional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 2,
+   "question": "Which sentence best fits the blank?\n____ Regular exercise strengthens the heart, improves sleep, and lifts a person's mood.",
+   "options": [
+    "Exercise has many benefits for the body and mind.",
+    "Exercise equipment is expensive.",
+    "Most people do not like sports.",
+    "Sleep is more important than food.",
+    "Hospitals are crowded."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The details are benefits to the heart, sleep and mood, so the topic sentence is about the benefits of exercise."
+  },
+  {
+   "id": "POP-13",
+   "level": "professional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 2,
+   "question": "What is the main idea of the paragraph?\nMany offices now allow employees to work from home. This saves hours of commuting, lowers office costs, and lets workers spend more time with their families. Still, some workers miss the teamwork and routine of the office.",
+   "options": [
+    "Working from home has both advantages and drawbacks.",
+    "Offices will soon disappear.",
+    "Commuting is enjoyable.",
+    "Families dislike remote work.",
+    "Teamwork is not necessary."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The paragraph lists benefits and then a drawback (\"Still...\"), so the main idea covers both sides."
+  },
+  {
+   "id": "POP-14",
+   "level": "professional",
+   "skill": "Unity & Coherence",
+   "tier": 3,
+   "question": "Which sentence does NOT belong in the paragraph?\n(1) Bees play a vital role in growing food. (2) They carry pollen from flower to flower, which helps plants produce fruit. (3) Honey is often sold in glass jars. (4) Without bees, many crops would fail.",
+   "options": [
+    "Sentence 3",
+    "Sentence 1",
+    "Sentence 2",
+    "Sentence 4",
+    "All sentences belong"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Sentence 3 is about how honey is sold, not about the role of bees in growing food. The other sentences support that topic."
+  },
+  {
+   "id": "POP-15",
+   "level": "professional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 3,
+   "question": "Which sentence best fits the blank?\n____ For instance, a single hour on social media can turn into three. Notifications pull us back again and again, and soon the work we planned is left undone.",
+   "options": [
+    "Digital distractions quietly eat away at our productive time.",
+    "Social media was invented recently.",
+    "Work should be done at night.",
+    "Phones come in many colors.",
+    "Notifications are always helpful."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The sentences give an example and a mechanism for losing time to distractions, so the topic sentence must name that idea."
+  },
+  {
+   "id": "POP-16",
+   "level": "professional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 4,
+   "question": "Which sentence best states the main idea?\nThe town once depended entirely on its sugar mill. When the mill closed, hundreds lost their jobs and many families moved away. Today, however, small farms, a weekend market, and a growing tourism trade have given the town a new identity.",
+   "options": [
+    "The town has recovered from a major loss by developing new sources of income.",
+    "The sugar mill was the best business in the region.",
+    "Tourism is more profitable than farming.",
+    "Families should never leave their hometowns.",
+    "The town is no longer popular."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The paragraph moves from loss to recovery. Only the first choice covers the whole passage, not just one detail."
+  },
+  {
+   "id": "POP-17",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 1,
+   "question": "Choose the best transition.\nShe studied all week. ____, she passed the exam.",
+   "options": [
+    "As a result",
+    "However",
+    "For example",
+    "Meanwhile",
+    "Instead"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"As a result\" shows that passing was the effect of studying."
+  },
+  {
+   "id": "POP-18",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 1,
+   "question": "Choose the best transition.\nThe first step is to prepare the ingredients. ____, heat the pan.",
+   "options": [
+    "Next",
+    "However",
+    "Instead",
+    "Although",
+    "In contrast"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Next\" signals the following step in a sequence."
+  },
+  {
+   "id": "POP-19",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 2,
+   "question": "Choose the best transition.\nRain was forecast for the weekend. ____, the picnic went ahead as planned.",
+   "options": [
+    "Nevertheless",
+    "Therefore",
+    "For instance",
+    "Similarly",
+    "As a result"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Nevertheless\" shows contrast: the picnic went ahead in spite of the forecast."
+  },
+  {
+   "id": "POP-20",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 2,
+   "question": "Choose the best transition.\nSolar power is clean and renewable. ____, it can be costly to install.",
+   "options": [
+    "However",
+    "Moreover",
+    "Therefore",
+    "Similarly",
+    "For example"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The second sentence is a drawback, so a contrast word (\"However\") is needed. \"Moreover\" adds a similar point."
+  },
+  {
+   "id": "POP-21",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 3,
+   "question": "Choose the best transition.\nMany students prefer studying at night. ____, others focus best in the early morning.",
+   "options": [
+    "On the other hand",
+    "As a result",
+    "In addition",
+    "For instance",
+    "Likewise"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The two sentences describe opposite habits, so \"On the other hand\" fits."
+  },
+  {
+   "id": "POP-22",
+   "level": "professional",
+   "skill": "Transitions & Cues",
+   "tier": 4,
+   "question": "Choose the best transition.\nThe plan seemed perfect on paper. ____, it failed within weeks because no one had tested it.",
+   "options": [
+    "In practice",
+    "Consequently",
+    "Likewise",
+    "For this reason",
+    "Accordingly"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"In practice\" contrasts theory with reality. The other choices show cause or similarity, which does not fit."
+  },
+  {
+   "id": "POP-23",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 1,
+   "question": "Which sentence best concludes the paragraph?\nRecycling saves energy and reduces garbage. It also protects forests and rivers. ____",
+   "options": [
+    "Therefore, everyone should recycle.",
+    "Forests are green.",
+    "Garbage trucks are loud.",
+    "Energy bills arrive monthly.",
+    "Rivers are long."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A conclusion sums up the benefits and points to the action they support."
+  },
+  {
+   "id": "POP-24",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 2,
+   "question": "Which sentence best concludes the paragraph?\nArriving on time shows respect for others and helps meetings start promptly. ____",
+   "options": [
+    "In short, punctuality builds trust and keeps work running smoothly.",
+    "Clocks were invented long ago.",
+    "Some people prefer to wake late.",
+    "Meetings are held in conference rooms.",
+    "Watches come in many styles."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The conclusion restates the main idea in a general statement. The others add unrelated facts."
+  },
+  {
+   "id": "POP-25",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 3,
+   "question": "Which sentence best concludes the paragraph?\nOnline learning offers flexible schedules and lower costs. However, it demands self-discipline and reliable internet. ____",
+   "options": [
+    "Overall, online learning suits those who can manage their time and have good connectivity.",
+    "Therefore, schools should be closed forever.",
+    "Online learning is always better than classrooms.",
+    "Nobody should use the internet.",
+    "Learning is impossible at home."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A balanced paragraph needs a balanced conclusion. The other choices are extreme and ignore one side."
+  },
+  {
+   "id": "POP-26",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 3,
+   "question": "Which of the following should a concluding sentence NOT do?",
+   "options": [
+    "Introduce a completely new main point",
+    "Restate the main idea",
+    "Summarize the key points",
+    "Leave the reader with a final thought",
+    "Use a closing signal such as \"in conclusion\""
+   ],
+   "correctAnswer": 0,
+   "explanation": "A conclusion wraps up the paragraph. New main points belong in the body."
+  },
+  {
+   "id": "POP-27",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 4,
+   "question": "Which closing sentence best ties back to the opening line \"Few things are as underrated as a good night's sleep\"?",
+   "options": [
+    "Clearly, sleep is not a luxury but a necessity for health and focus.",
+    "Sleep, for example, is hard to measure.",
+    "Coffee, meanwhile, is sold everywhere.",
+    "However, some people sleep on the sofa.",
+    "First, set an alarm."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A strong closing returns to the opening idea and answers it. The other choices drift or use the wrong transition."
+  },
+  {
+   "id": "POP-28",
+   "level": "professional",
+   "skill": "Conclusions",
+   "tier": 4,
+   "question": "Which is the best concluding sentence?\nThe new policy cut waiting time at the clinic by half. Patients reported greater satisfaction, and staff said their workload felt more manageable. ____",
+   "options": [
+    "Taken together, these results show that the policy has improved both service and working conditions.",
+    "The clinic is located downtown.",
+    "Next year, the budget will be discussed.",
+    "Policies are written by committees.",
+    "Therefore, patients should avoid clinics."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The conclusion gathers the evidence (patients and staff) into one claim. The others are unrelated or contradict the evidence."
+  },
+  {
+   "id": "POS-01",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 1,
+   "question": "Arrange the sentences in the best order.\n1. Finally, he left for school.\n2. The alarm rang at six.\n3. Afterwards, he put on his uniform.\n4. Ben turned off the alarm and got out of bed.\n5. He took a quick bath.",
+   "options": [
+    "24351",
+    "42531",
+    "24531",
+    "24513",
+    "25431"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 starts the story. Then he gets up (4), bathes (5), dresses (\"Afterwards\", 3) and leaves (\"Finally\", 1). The cue words Afterwards and Finally mark the order."
+  },
+  {
+   "id": "POS-02",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "Arrange the sentences in the best order.\n1. Worse, a single bottle can take hundreds of years to break down.\n2. Plastic waste is a growing problem in our oceans.\n3. Therefore, reducing the use of single-use plastics is essential.\n4. Millions of tons of it enter the sea every year.\n5. This harms marine animals that mistake it for food.",
+   "options": [
+    "24153",
+    "42513",
+    "24513",
+    "25413",
+    "24531"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 introduces the topic. Sentence 4 develops it (\"it\" is plastic), 5 follows (\"This harms...\"), 1 adds a worse fact, and 3 concludes with \"Therefore\"."
+  },
+  {
+   "id": "POS-03",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 2,
+   "question": "Arrange the sentences in the best order.\n1. When the bell rang, the students lined up outside.\n2. The principal welcomed everyone to the new school year.\n3. Teachers then led each class to its room.\n4. Early that morning, parents were already gathering at the gate.\n5. At last, the first lesson began.",
+   "options": [
+    "14235",
+    "41325",
+    "41235",
+    "42135",
+    "41253"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The scene opens early that morning (4). The bell rings and students line up (1), the principal welcomes them (2), teachers lead classes in (\"then\", 3), and the lesson begins (\"At last\", 5)."
+  },
+  {
+   "id": "POS-04",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 3,
+   "question": "Arrange the sentences in the best order.\n1. As a result, many residents who lived near the riverbanks were forced to leave their homes.\n2. The typhoon made landfall early Tuesday morning.\n3. Meanwhile, the continuous rain made the rivers overflow within hours.\n4. Its strong winds tore down electric posts in several towns.\n5. Relief teams arrived by noon to distribute food and water.",
+   "options": [
+    "23415",
+    "24135",
+    "24315",
+    "42315",
+    "24351"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sentence 2 sets the event and 4 follows (\"Its\" refers to the typhoon). Sentence 3 adds the flooding, 1 gives the result, and 5 ends with the response."
+  },
+  {
+   "id": "POS-05",
+   "level": "subprofessional",
+   "skill": "Sentence Sequencing",
+   "tier": 4,
+   "question": "Arrange the sentences in the best order.\n1. This is why experts recommend reviewing a little every day.\n2. Cramming the night before an exam rarely works.\n3. The brain forgets much of what it learns within a few days unless it is revisited.\n4. Spaced review, on the other hand, strengthens memory over time.\n5. Students who cram may recall facts briefly but lose them soon.",
+   "options": [
+    "25431",
+    "23541",
+    "25341",
+    "25314",
+    "52341"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The paragraph states the claim (2), gives the effect (5), explains why (3), contrasts with spaced review (\"on the other hand\", 4), and ends with \"This is why...\" (1)."
+  },
+  {
+   "id": "POS-06",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 2,
+   "question": "A. Next, add the noodles and cook for three minutes.\nB. Making instant noodles takes only a few steps.\nC. First, boil two cups of water in a pot.\nD. Finally, pour the soup into a bowl and serve.\nE. Then stir in the seasoning.\nWhat should be the 3rd sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The order is B, C, A, E, D: topic, \"First\", \"Next\", \"Then\", \"Finally\". So A is third."
+  },
+  {
+   "id": "POS-07",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. Therefore, the city built bike lanes along its main roads.\nB. Traffic in the city had become unbearable.\nC. Commuters spent hours stuck on the roads every day.\nD. Since then, the number of cyclists has doubled.\nE. Many people wanted cheaper and faster ways to travel.\nWhat should be the last sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The order is B, C, E, A, D: problem, detail, need, action (\"Therefore\"), result (\"Since then\"). D is last."
+  },
+  {
+   "id": "POS-08",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 3,
+   "question": "A. As a result, she was promoted within a year.\nB. Rina was a diligent new employee.\nC. She arrived early and stayed late to finish her tasks.\nD. Her supervisor noticed her dedication.\nE. Soon, she was trusted with bigger projects.\nWhat should be the 1st sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 1,
+   "explanation": "B introduces Rina, and the rest use \"She\" or \"Her\". \"As a result\" (A) can only come after the causes."
+  },
+  {
+   "id": "POS-09",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 4,
+   "question": "A. However, the results were far from what the team expected.\nB. The team spent months designing the new system.\nC. Nonetheless, they used the feedback to improve it.\nD. They tested it first with a small group of users.\nE. Many users found it confusing.\nWhat should be the 2nd sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The order is B, D, A, E, C: design, test, \"However\" (a result that contrasts with the hopes), the reason, \"Nonetheless\". D is second."
+  },
+  {
+   "id": "POS-10",
+   "level": "subprofessional",
+   "skill": "Sentence Position",
+   "tier": 4,
+   "question": "A. Hence, the committee decided to postpone the event.\nB. The annual fair was scheduled for Saturday.\nC. By Thursday, forecasts predicted a strong storm.\nD. Organizers had already prepared the booths and the program.\nE. Still, safety had to come first.\nWhat should be the 4th sentence?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The order is B, D, C, E, A: plan, preparation, the storm forecast, \"Still\" (safety over preparation), then the decision (\"Hence\"). E is fourth."
+  },
+  {
+   "id": "POS-11",
+   "level": "subprofessional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 1,
+   "question": "Which sentence best fits the blank?\n____ Dogs guard homes, help police find criminals, and guide people who cannot see.",
+   "options": [
+    "Dogs are useful to people in many ways.",
+    "Dogs are born in litters.",
+    "Cats are better than dogs.",
+    "Some dogs are very small.",
+    "Dogs should be washed weekly."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A topic sentence states the general idea that the details support. The details all show how dogs help people."
+  },
+  {
+   "id": "POS-12",
+   "level": "subprofessional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 2,
+   "question": "Which sentence best fits the blank?\n____ Regular exercise strengthens the heart, improves sleep, and lifts a person's mood.",
+   "options": [
+    "Exercise has many benefits for the body and mind.",
+    "Exercise equipment is expensive.",
+    "Most people do not like sports.",
+    "Sleep is more important than food.",
+    "Hospitals are crowded."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The details are benefits to the heart, sleep and mood, so the topic sentence is about the benefits of exercise."
+  },
+  {
+   "id": "POS-13",
+   "level": "subprofessional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 2,
+   "question": "What is the main idea of the paragraph?\nMany offices now allow employees to work from home. This saves hours of commuting, lowers office costs, and lets workers spend more time with their families. Still, some workers miss the teamwork and routine of the office.",
+   "options": [
+    "Working from home has both advantages and drawbacks.",
+    "Offices will soon disappear.",
+    "Commuting is enjoyable.",
+    "Families dislike remote work.",
+    "Teamwork is not necessary."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The paragraph lists benefits and then a drawback (\"Still...\"), so the main idea covers both sides."
+  },
+  {
+   "id": "POS-14",
+   "level": "subprofessional",
+   "skill": "Unity & Coherence",
+   "tier": 3,
+   "question": "Which sentence does NOT belong in the paragraph?\n(1) Bees play a vital role in growing food. (2) They carry pollen from flower to flower, which helps plants produce fruit. (3) Honey is often sold in glass jars. (4) Without bees, many crops would fail.",
+   "options": [
+    "Sentence 3",
+    "Sentence 1",
+    "Sentence 2",
+    "Sentence 4",
+    "All sentences belong"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Sentence 3 is about how honey is sold, not about the role of bees in growing food. The other sentences support that topic."
+  },
+  {
+   "id": "POS-15",
+   "level": "subprofessional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 3,
+   "question": "Which sentence best fits the blank?\n____ For instance, a single hour on social media can turn into three. Notifications pull us back again and again, and soon the work we planned is left undone.",
+   "options": [
+    "Digital distractions quietly eat away at our productive time.",
+    "Social media was invented recently.",
+    "Work should be done at night.",
+    "Phones come in many colors.",
+    "Notifications are always helpful."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The sentences give an example and a mechanism for losing time to distractions, so the topic sentence must name that idea."
+  },
+  {
+   "id": "POS-16",
+   "level": "subprofessional",
+   "skill": "Main Idea & Topic Sentences",
+   "tier": 4,
+   "question": "Which sentence best states the main idea?\nThe town once depended entirely on its sugar mill. When the mill closed, hundreds lost their jobs and many families moved away. Today, however, small farms, a weekend market, and a growing tourism trade have given the town a new identity.",
+   "options": [
+    "The town has recovered from a major loss by developing new sources of income.",
+    "The sugar mill was the best business in the region.",
+    "Tourism is more profitable than farming.",
+    "Families should never leave their hometowns.",
+    "The town is no longer popular."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The paragraph moves from loss to recovery. Only the first choice covers the whole passage, not just one detail."
+  },
+  {
+   "id": "POS-17",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 1,
+   "question": "Choose the best transition.\nShe studied all week. ____, she passed the exam.",
+   "options": [
+    "As a result",
+    "However",
+    "For example",
+    "Meanwhile",
+    "Instead"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"As a result\" shows that passing was the effect of studying."
+  },
+  {
+   "id": "POS-18",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 1,
+   "question": "Choose the best transition.\nThe first step is to prepare the ingredients. ____, heat the pan.",
+   "options": [
+    "Next",
+    "However",
+    "Instead",
+    "Although",
+    "In contrast"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Next\" signals the following step in a sequence."
+  },
+  {
+   "id": "POS-19",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 2,
+   "question": "Choose the best transition.\nRain was forecast for the weekend. ____, the picnic went ahead as planned.",
+   "options": [
+    "Nevertheless",
+    "Therefore",
+    "For instance",
+    "Similarly",
+    "As a result"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Nevertheless\" shows contrast: the picnic went ahead in spite of the forecast."
+  },
+  {
+   "id": "POS-20",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 2,
+   "question": "Choose the best transition.\nSolar power is clean and renewable. ____, it can be costly to install.",
+   "options": [
+    "However",
+    "Moreover",
+    "Therefore",
+    "Similarly",
+    "For example"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The second sentence is a drawback, so a contrast word (\"However\") is needed. \"Moreover\" adds a similar point."
+  },
+  {
+   "id": "POS-21",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 3,
+   "question": "Choose the best transition.\nMany students prefer studying at night. ____, others focus best in the early morning.",
+   "options": [
+    "On the other hand",
+    "As a result",
+    "In addition",
+    "For instance",
+    "Likewise"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The two sentences describe opposite habits, so \"On the other hand\" fits."
+  },
+  {
+   "id": "POS-22",
+   "level": "subprofessional",
+   "skill": "Transitions & Cues",
+   "tier": 4,
+   "question": "Choose the best transition.\nThe plan seemed perfect on paper. ____, it failed within weeks because no one had tested it.",
+   "options": [
+    "In practice",
+    "Consequently",
+    "Likewise",
+    "For this reason",
+    "Accordingly"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"In practice\" contrasts theory with reality. The other choices show cause or similarity, which does not fit."
+  },
+  {
+   "id": "POS-23",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 1,
+   "question": "Which sentence best concludes the paragraph?\nRecycling saves energy and reduces garbage. It also protects forests and rivers. ____",
+   "options": [
+    "Therefore, everyone should recycle.",
+    "Forests are green.",
+    "Garbage trucks are loud.",
+    "Energy bills arrive monthly.",
+    "Rivers are long."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A conclusion sums up the benefits and points to the action they support."
+  },
+  {
+   "id": "POS-24",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 2,
+   "question": "Which sentence best concludes the paragraph?\nArriving on time shows respect for others and helps meetings start promptly. ____",
+   "options": [
+    "In short, punctuality builds trust and keeps work running smoothly.",
+    "Clocks were invented long ago.",
+    "Some people prefer to wake late.",
+    "Meetings are held in conference rooms.",
+    "Watches come in many styles."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The conclusion restates the main idea in a general statement. The others add unrelated facts."
+  },
+  {
+   "id": "POS-25",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 3,
+   "question": "Which sentence best concludes the paragraph?\nOnline learning offers flexible schedules and lower costs. However, it demands self-discipline and reliable internet. ____",
+   "options": [
+    "Overall, online learning suits those who can manage their time and have good connectivity.",
+    "Therefore, schools should be closed forever.",
+    "Online learning is always better than classrooms.",
+    "Nobody should use the internet.",
+    "Learning is impossible at home."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A balanced paragraph needs a balanced conclusion. The other choices are extreme and ignore one side."
+  },
+  {
+   "id": "POS-26",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 3,
+   "question": "Which of the following should a concluding sentence NOT do?",
+   "options": [
+    "Introduce a completely new main point",
+    "Restate the main idea",
+    "Summarize the key points",
+    "Leave the reader with a final thought",
+    "Use a closing signal such as \"in conclusion\""
+   ],
+   "correctAnswer": 0,
+   "explanation": "A conclusion wraps up the paragraph. New main points belong in the body."
+  },
+  {
+   "id": "POS-27",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 4,
+   "question": "Which closing sentence best ties back to the opening line \"Few things are as underrated as a good night's sleep\"?",
+   "options": [
+    "Clearly, sleep is not a luxury but a necessity for health and focus.",
+    "Sleep, for example, is hard to measure.",
+    "Coffee, meanwhile, is sold everywhere.",
+    "However, some people sleep on the sofa.",
+    "First, set an alarm."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A strong closing returns to the opening idea and answers it. The other choices drift or use the wrong transition."
+  },
+  {
+   "id": "POS-28",
+   "level": "subprofessional",
+   "skill": "Conclusions",
+   "tier": 4,
+   "question": "Which is the best concluding sentence?\nThe new policy cut waiting time at the clinic by half. Patients reported greater satisfaction, and staff said their workload felt more manageable. ____",
+   "options": [
+    "Taken together, these results show that the policy has improved both service and working conditions.",
+    "The clinic is located downtown.",
+    "Next year, the budget will be discussed.",
+    "Policies are written by committees.",
+    "Therefore, patients should avoid clinics."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The conclusion gathers the evidence (patients and staff) into one claim. The others are unrelated or contradict the evidence."
+  }
+ ]
+}

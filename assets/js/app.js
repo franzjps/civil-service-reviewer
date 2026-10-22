@@ -159,6 +159,7 @@ const NAV = [
   { page: 'dashboard', href: 'index.html', label: 'Dashboard', icon: 'bi-speedometer2' },
   { page: 'exams', href: 'exams.html', label: 'Examinations', icon: 'bi-journal-check' },
   { page: 'flashcards', href: 'flashcards.html', label: 'Flashcards', icon: 'bi-card-text' },
+  { page: 'study', href: 'study.html', label: 'Review', icon: 'bi-mortarboard' },
   { page: 'history', href: 'history.html', label: 'History & Settings', icon: 'bi-clock-history' }
 ];
 
@@ -192,6 +193,7 @@ const PAGES = {
   dashboard: ['./dashboard.js', 'initDashboard'],
   exams: ['./dashboard.js', 'initExamsPage'],
   flashcards: ['./flashcards.js', 'initFlashcardsPage'],
+  study: ['./study.js', 'initStudyPage'],
   instructions: ['./dashboard.js', 'initInstructionsPage'],
   exam: ['./exam-ui.js', 'initExamPage'],
   result: ['./results.js', 'initResultPage'],

@@ -1,0 +1,869 @@
+{
+ "module": "error-recognition",
+ "questions": [
+  {
+   "id": "PRO-057",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nHere comes the handsome candidates for the most popular bodybuilding contest in their very elegant, prim, and proper evening suits.",
+   "options": [
+    "Here comes the handsome candidates",
+    "for the most popular bodybuilding contest",
+    "in their very elegant,",
+    "prim, and proper evening suits.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Here comes the handsome candidates. It should be “Here come the handsome candidates”. The correct verb form to use with “candidates” (plural) is “come,” not “comes.” “Come” is the third-person plural form of the verb “to come,” which matches the subject-verb agreement in this sentence."
+  },
+  {
+   "id": "PRO-056",
+   "level": "professional",
+   "skill": "Usage & Parallelism",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nFacebook Messenger is one of the latest communications tools made to people who demand more flexible communication services.",
+   "options": [
+    "Facebook Messenger is one of the latest",
+    "communications tools made to",
+    "people who demand more",
+    "flexible communication services.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "communications tools made to. The correct phrase should be “communication tools designed for.” “Made to” implies that the communications tools were created with the specific purpose of satisfying the demands of people who require more flexible communication services, which may not necessarily be the case. On the other hand, “designed for” implies that the communication tools were created with the intention of meeting the needs of individuals who require flexible communication services. This phrase accurately reflects the purpose of Facebook Messenger as a communication tool."
+  },
+  {
+   "id": "PRO-058",
+   "level": "professional",
+   "skill": "Usage & Parallelism",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWith little patience, we will be able to get through these trying and challenging times.",
+   "options": [
+    "With little patience,",
+    "we will be able to",
+    "get through these",
+    "trying and challenging times.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "With little patience. It should be “With a little patience”, which implies that the speaker believes that a small amount of patience is necessary to overcome difficult circumstances. Without the article “a,” the phrase “With little patience” may be interpreted as the speaker lacking patience, which is not the intended meaning of the sentence."
+  },
+  {
+   "id": "PRO-059",
+   "level": "professional",
+   "skill": "Usage & Parallelism",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nA store manager should pay more attention to the crews’ welfare than to their performance.",
+   "options": [
+    "A store manager should pay",
+    "more attention",
+    "to the crews’ welfare",
+    "than to their performance.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "to your crews’ welfare. It should be “to your crew’s welfare”. The use of the possessive “your” before “crew” suggests that the manager is referring to a specific group of employees who work under their supervision."
+  },
+  {
+   "id": "PRO-060",
+   "level": "professional",
+   "skill": "Usage & Parallelism",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nSheena would rather live alone on a desert island than be a head chef on this old and rusty ship.",
+   "options": [
+    "Sheena would rather",
+    "live alone on a desert island",
+    "than be a head chef",
+    "on this old and rusty ship.",
+    "No error"
+   ],
+   "correctAnswer": 4,
+   "explanation": "No error. PARAGRAPH ORGANIZATION: Here are the answers to the Paragraph Organization part of the CSE Professional Reviewer:"
+  },
+  {
+   "id": "SUB-051",
+   "level": "subprofessional",
+   "skill": "Pronouns",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMe and my grandfather used to go for a walk every morning.",
+   "options": [
+    "Me and my grandfather used",
+    "to go",
+    "for a walk",
+    "every morning.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Me and my grandfather. It should be: “My grandfather and I”. Using “Me” instead of “I” is a common grammatical error known as a pronoun case error. In a sentence, the subject of the verb should be in the subjective case, which means using “I” instead of “Me.”"
+  },
+  {
+   "id": "SUB-057",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nIf he did not know what to do with the puppies, he would have asked us.",
+   "options": [
+    "If he did not know",
+    "what to do",
+    "with the puppies,",
+    "he would have asked us.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "If he did not know. This sentence should use the past perfect tense “had not known” to show that the uncertainty about what to do with the puppies happened before a specific time in the past (yesterday)."
+  },
+  {
+   "id": "SUB-058",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nI would love to be able to swim if I am not afraid of water.",
+   "options": [
+    "I would love",
+    "to be able to swim",
+    "if I am not afraid",
+    "of water.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "if I am not afraid. Option c should be replaced by “if I were not afraid”. In this sentence, “were” is the subjunctive form of the verb “to be” used to indicate a hypothetical or contrary-to-fact situation. The subjunctive form is typically used after the word “if” to express an unreal or unlikely condition."
+  },
+  {
+   "id": "SUB-053",
+   "level": "subprofessional",
+   "skill": "Usage & Parallelism",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe Philippines is aiming at double its bilateral trade with China by 2025.",
+   "options": [
+    "The Philippines is aiming at",
+    "double its bilateral trade",
+    "with China",
+    "by 2025.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "double its bilateral trade. “double” should be replaced by “doubling”. It acts as a gerund and functions as the object of the preposition “at.”"
+  },
+  {
+   "id": "SUB-054",
+   "level": "subprofessional",
+   "skill": "Usage & Parallelism",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe growing cooperation between Canada and US has been manifested in all walks of life be it history, politics, culture or language.",
+   "options": [
+    "The growing cooperation between Canada and US",
+    "has been manifested",
+    "in all walks of life be it history,",
+    "politics, culture or language.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The growing cooperation between Canada and US. Place “the” before “US”. We place the definite article “the” before proper nouns when they refer to the names of descriptive names of countries such as the USA, the UAE, etc."
+  },
+  {
+   "id": "SUB-059",
+   "level": "subprofessional",
+   "skill": "Usage & Parallelism",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nOnly when you have your children you will understand how difficult it is.",
+   "options": [
+    "Only when you have",
+    "your children",
+    "you will understand",
+    "how difficult it is.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The sentence begins with \"Only when\", so subject-verb inversion is required: \"Only when you have your children will you understand how difficult it is.\" The error is in part c."
+  },
+  {
+   "id": "SUB-060",
+   "level": "subprofessional",
+   "skill": "Usage & Parallelism",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nI told goodbye to Veronica but she ignored me completely.",
+   "options": [
+    "I told goodbye",
+    "to Veronica but",
+    "she ignored",
+    "me completely.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "I told goodbye. Instead of “told goodbye,” the correct expression is “said goodbye”. In English, we use the verb “say” or “bid” with the noun “goodbye” to indicate that we are leaving or departing from someone. The verb “tell” is used to give information or instructions to someone. So, it is incorrect to say “told goodbye.” Instead, you should use the expression “said goodbye” to convey that you are leaving or departing from someone. PARAGRAPH ORGANIZATION: Here are the answers to the Paragraph Organization part of the CSE Sub-Pro Reviewer:"
+  },
+  {
+   "id": "ERP-01",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe list of items are on the table.",
+   "options": [
+    "The list",
+    "of items are",
+    "on the",
+    "table.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"List\" is the subject, and it is singular, so the verb should be \"is\", not \"are\"."
+  },
+  {
+   "id": "ERP-02",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMathematics are my favorite subject in school.",
+   "options": [
+    "Mathematics are",
+    "my favorite",
+    "subject",
+    "in school.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Subjects of study such as mathematics are singular, so \"Mathematics is\" is correct."
+  },
+  {
+   "id": "ERP-03",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nEach of the applicants have submitted a complete set of requirements.",
+   "options": [
+    "Each of the applicants",
+    "have submitted",
+    "a complete set",
+    "of requirements.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Each\" is singular and takes \"has\", not \"have\"."
+  },
+  {
+   "id": "ERP-04",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNeither the manager nor the employees was informed about the change.",
+   "options": [
+    "Neither the manager",
+    "nor the employees",
+    "was informed",
+    "about the change.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "With \"neither ... nor\", the verb agrees with the nearer subject. \"Employees\" is plural, so use \"were\"."
+  },
+  {
+   "id": "ERP-05",
+   "level": "professional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe news about the new policies was announced during the morning meeting.",
+   "options": [
+    "The news about",
+    "the new policies",
+    "was announced",
+    "during the morning meeting.",
+    "No error"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"News\" is singular, so \"was announced\" is correct. The sentence has no error."
+  },
+  {
+   "id": "ERP-06",
+   "level": "professional",
+   "skill": "Tenses",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nYesterday, she go to the market and bought some vegetables.",
+   "options": [
+    "Yesterday, she go",
+    "to the market",
+    "and bought",
+    "some vegetables.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Yesterday\" signals the past, so the verb must be \"went\", matching \"bought\"."
+  },
+  {
+   "id": "ERP-07",
+   "level": "professional",
+   "skill": "Tenses",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe has lived in Cebu since five years.",
+   "options": [
+    "She has lived",
+    "in Cebu",
+    "since",
+    "five years.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Since\" goes with a point in time (since 2019). A length of time takes \"for\": \"for five years\"."
+  },
+  {
+   "id": "ERP-08",
+   "level": "professional",
+   "skill": "Tenses",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBy the time we arrived, the movie already started.",
+   "options": [
+    "By the time",
+    "we arrived,",
+    "the movie",
+    "already started.",
+    "No error"
+   ],
+   "correctAnswer": 3,
+   "explanation": "An action finished before another past action uses the past perfect: \"had already started\"."
+  },
+  {
+   "id": "ERP-09",
+   "level": "professional",
+   "skill": "Tenses",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nIf I would have known about the deadline, I would have finished earlier.",
+   "options": [
+    "If I would have known",
+    "about the deadline,",
+    "I would have",
+    "finished earlier.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "In a past unreal condition, the \"if\" clause takes the past perfect: \"If I had known\"."
+  },
+  {
+   "id": "ERP-10",
+   "level": "professional",
+   "skill": "Pronouns",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBetween you and I, the plan will not work.",
+   "options": [
+    "Between you and I,",
+    "the plan",
+    "will not",
+    "work.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "After a preposition (\"between\") use the object pronoun: \"between you and me\"."
+  },
+  {
+   "id": "ERP-11",
+   "level": "professional",
+   "skill": "Pronouns",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe manager gave the report to Ana and I before lunch.",
+   "options": [
+    "The manager gave",
+    "the report",
+    "to Ana and I",
+    "before lunch.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"To\" is a preposition, so use the object form: \"to Ana and me\"."
+  },
+  {
+   "id": "ERP-12",
+   "level": "professional",
+   "skill": "Pronouns",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe and I will present the findings to the board.",
+   "options": [
+    "She and I",
+    "will present",
+    "the findings",
+    "to the board.",
+    "No error"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"She and I\" are the subjects, so the subject pronouns are correct. The sentence has no error."
+  },
+  {
+   "id": "ERP-13",
+   "level": "professional",
+   "skill": "Pronouns",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWhomever wins the contest will receive a scholarship.",
+   "options": [
+    "Whomever wins",
+    "the contest",
+    "will receive",
+    "a scholarship.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Whoever\" is the subject of \"wins\", so the subject form is needed: \"Whoever wins\"."
+  },
+  {
+   "id": "ERP-14",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 1,
+   "question": "Si Ana ay bumili ___ prutas sa palengke.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Gamitin ang \"ng\" bago ang pangngalan na tumatanggap ng kilos (ang prutas ang binili)."
+  },
+  {
+   "id": "ERP-15",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 1,
+   "question": "Umuwi siya ___ maaga dahil masama ang pakiramdam niya.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Gamitin ang \"nang\" kapag inilalarawan kung paano o kailan ginawa ang kilos (umuwi nang maaga)."
+  },
+  {
+   "id": "ERP-16",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Magsalita ka ___ mahinahon.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Nang\" ang pang-abay na naglalarawan sa pandiwa: magsalita nang mahinahon."
+  },
+  {
+   "id": "ERP-17",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Tuwing umaga, naglalakad siya ___ dalawang kilometro.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ang \"dalawang kilometro\" ang layon ng kilos, kaya \"ng\" ang gamit."
+  },
+  {
+   "id": "ERP-18",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Sabi nila, maganda ___ ang tanawin sa bundok.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ginagamit ang \"raw\" kapag ang naunang salita ay nagtatapos sa patinig (maganda). Ang \"daw\" ay pagkatapos ng katinig."
+  },
+  {
+   "id": "ERP-19",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Sabi nila, masarap ___ ang luto ni Nanay.",
+   "options": [
+    "raw",
+    "daw",
+    "ng",
+    "nang",
+    "ngan"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ang \"masarap\" ay nagtatapos sa katinig (p), kaya \"daw\" ang gamit. \"Raw\" ay para sa patinig."
+  },
+  {
+   "id": "ERP-20",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 3,
+   "question": "Hindi niya alam ang gagawin ___ dumating ang bisita.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ang \"nang\" ay maaaring pamalit sa \"noong\" o \"ngayong\" sa pagsasabi ng panahon."
+  },
+  {
+   "id": "ERP-21",
+   "level": "professional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 4,
+   "question": "Bumili si Rosa ___ bagong damit ___ siya ay sumahod.",
+   "options": [
+    "ng / nang",
+    "nang / ng",
+    "ng / ng",
+    "nang / nang",
+    "ng / ngan"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ang \"ng\" ay para sa layon (bagong damit). Ang \"nang\" ay pamalit sa \"noong\" o \"nang\" bilang pang-ugnay ng panahon."
+  },
+  {
+   "id": "ERS-01",
+   "level": "subprofessional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe list of items are on the table.",
+   "options": [
+    "The list",
+    "of items are",
+    "on the",
+    "table.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"List\" is the subject, and it is singular, so the verb should be \"is\", not \"are\"."
+  },
+  {
+   "id": "ERS-02",
+   "level": "subprofessional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMathematics are my favorite subject in school.",
+   "options": [
+    "Mathematics are",
+    "my favorite",
+    "subject",
+    "in school.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Subjects of study such as mathematics are singular, so \"Mathematics is\" is correct."
+  },
+  {
+   "id": "ERS-03",
+   "level": "subprofessional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nEach of the applicants have submitted a complete set of requirements.",
+   "options": [
+    "Each of the applicants",
+    "have submitted",
+    "a complete set",
+    "of requirements.",
+    "No error"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Each\" is singular and takes \"has\", not \"have\"."
+  },
+  {
+   "id": "ERS-04",
+   "level": "subprofessional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNeither the manager nor the employees was informed about the change.",
+   "options": [
+    "Neither the manager",
+    "nor the employees",
+    "was informed",
+    "about the change.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "With \"neither ... nor\", the verb agrees with the nearer subject. \"Employees\" is plural, so use \"were\"."
+  },
+  {
+   "id": "ERS-05",
+   "level": "subprofessional",
+   "skill": "Subject–Verb Agreement",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe news about the new policies was announced during the morning meeting.",
+   "options": [
+    "The news about",
+    "the new policies",
+    "was announced",
+    "during the morning meeting.",
+    "No error"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"News\" is singular, so \"was announced\" is correct. The sentence has no error."
+  },
+  {
+   "id": "ERS-06",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nYesterday, she go to the market and bought some vegetables.",
+   "options": [
+    "Yesterday, she go",
+    "to the market",
+    "and bought",
+    "some vegetables.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Yesterday\" signals the past, so the verb must be \"went\", matching \"bought\"."
+  },
+  {
+   "id": "ERS-07",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe has lived in Cebu since five years.",
+   "options": [
+    "She has lived",
+    "in Cebu",
+    "since",
+    "five years.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Since\" goes with a point in time (since 2019). A length of time takes \"for\": \"for five years\"."
+  },
+  {
+   "id": "ERS-08",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBy the time we arrived, the movie already started.",
+   "options": [
+    "By the time",
+    "we arrived,",
+    "the movie",
+    "already started.",
+    "No error"
+   ],
+   "correctAnswer": 3,
+   "explanation": "An action finished before another past action uses the past perfect: \"had already started\"."
+  },
+  {
+   "id": "ERS-09",
+   "level": "subprofessional",
+   "skill": "Tenses",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nIf I would have known about the deadline, I would have finished earlier.",
+   "options": [
+    "If I would have known",
+    "about the deadline,",
+    "I would have",
+    "finished earlier.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "In a past unreal condition, the \"if\" clause takes the past perfect: \"If I had known\"."
+  },
+  {
+   "id": "ERS-10",
+   "level": "subprofessional",
+   "skill": "Pronouns",
+   "tier": 1,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBetween you and I, the plan will not work.",
+   "options": [
+    "Between you and I,",
+    "the plan",
+    "will not",
+    "work.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "After a preposition (\"between\") use the object pronoun: \"between you and me\"."
+  },
+  {
+   "id": "ERS-11",
+   "level": "subprofessional",
+   "skill": "Pronouns",
+   "tier": 2,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe manager gave the report to Ana and I before lunch.",
+   "options": [
+    "The manager gave",
+    "the report",
+    "to Ana and I",
+    "before lunch.",
+    "No error"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"To\" is a preposition, so use the object form: \"to Ana and me\"."
+  },
+  {
+   "id": "ERS-12",
+   "level": "subprofessional",
+   "skill": "Pronouns",
+   "tier": 3,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe and I will present the findings to the board.",
+   "options": [
+    "She and I",
+    "will present",
+    "the findings",
+    "to the board.",
+    "No error"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"She and I\" are the subjects, so the subject pronouns are correct. The sentence has no error."
+  },
+  {
+   "id": "ERS-13",
+   "level": "subprofessional",
+   "skill": "Pronouns",
+   "tier": 4,
+   "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWhomever wins the contest will receive a scholarship.",
+   "options": [
+    "Whomever wins",
+    "the contest",
+    "will receive",
+    "a scholarship.",
+    "No error"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Whoever\" is the subject of \"wins\", so the subject form is needed: \"Whoever wins\"."
+  },
+  {
+   "id": "ERS-14",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 1,
+   "question": "Si Ana ay bumili ___ prutas sa palengke.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Gamitin ang \"ng\" bago ang pangngalan na tumatanggap ng kilos (ang prutas ang binili)."
+  },
+  {
+   "id": "ERS-15",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 1,
+   "question": "Umuwi siya ___ maaga dahil masama ang pakiramdam niya.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Gamitin ang \"nang\" kapag inilalarawan kung paano o kailan ginawa ang kilos (umuwi nang maaga)."
+  },
+  {
+   "id": "ERS-16",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Magsalita ka ___ mahinahon.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Nang\" ang pang-abay na naglalarawan sa pandiwa: magsalita nang mahinahon."
+  },
+  {
+   "id": "ERS-17",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Tuwing umaga, naglalakad siya ___ dalawang kilometro.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ang \"dalawang kilometro\" ang layon ng kilos, kaya \"ng\" ang gamit."
+  },
+  {
+   "id": "ERS-18",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Sabi nila, maganda ___ ang tanawin sa bundok.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ginagamit ang \"raw\" kapag ang naunang salita ay nagtatapos sa patinig (maganda). Ang \"daw\" ay pagkatapos ng katinig."
+  },
+  {
+   "id": "ERS-19",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 2,
+   "question": "Sabi nila, masarap ___ ang luto ni Nanay.",
+   "options": [
+    "raw",
+    "daw",
+    "ng",
+    "nang",
+    "ngan"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ang \"masarap\" ay nagtatapos sa katinig (p), kaya \"daw\" ang gamit. \"Raw\" ay para sa patinig."
+  },
+  {
+   "id": "ERS-20",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 3,
+   "question": "Hindi niya alam ang gagawin ___ dumating ang bisita.",
+   "options": [
+    "ng",
+    "nang",
+    "ngan",
+    "daw",
+    "raw"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ang \"nang\" ay maaaring pamalit sa \"noong\" o \"ngayong\" sa pagsasabi ng panahon."
+  },
+  {
+   "id": "ERS-21",
+   "level": "subprofessional",
+   "skill": "Ng/Nang & Daw/Raw",
+   "tier": 4,
+   "question": "Bumili si Rosa ___ bagong damit ___ siya ay sumahod.",
+   "options": [
+    "ng / nang",
+    "nang / ng",
+    "ng / ng",
+    "nang / nang",
+    "ng / ngan"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ang \"ng\" ay para sa layon (bagong damit). Ang \"nang\" ay pamalit sa \"noong\" o \"nang\" bilang pang-ugnay ng panahon."
+  }
+ ]
+}

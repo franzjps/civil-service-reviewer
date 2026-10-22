@@ -1,0 +1,693 @@
+{
+ "module": "sentence-completion",
+ "questions": [
+  {
+   "id": "PRO-042",
+   "level": "professional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 1,
+   "question": "The doctor _______ saw me in person was a middle-aged woman.",
+   "options": [
+    "whom",
+    "whose",
+    "which",
+    "who",
+    "have"
+   ],
+   "correctAnswer": 3,
+   "explanation": "who. In the sentence, “who” is being used to refer to the person who saw the speaker in person. This is because the sentence is describing a specific person with a particular role (a doctor), and “who” is used to introduce essential information about that person."
+  },
+  {
+   "id": "PRO-043",
+   "level": "professional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 2,
+   "question": "Something _______ to be done about those suspicious transactions.",
+   "options": [
+    "should",
+    "must",
+    "ought",
+    "will",
+    "could"
+   ],
+   "correctAnswer": 2,
+   "explanation": "ought. In this sentence, “ought” is used as a modal auxiliary verb to express obligation or duty. It suggests that there is a moral or social expectation that something should be done about the suspicious transactions."
+  },
+  {
+   "id": "PRO-050",
+   "level": "professional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 3,
+   "question": "The world _____ bearing the brunt of the pandemic. Nevertheless, health experts _____ to have found some reason to cheer.",
+   "options": [
+    "is starting - seem",
+    "has started - seem",
+    "has started - seems",
+    "had started - seemed",
+    "starting - seemed"
+   ],
+   "correctAnswer": 1,
+   "explanation": "has started – seem. The correct answer is “has started – seem” because the sentence is referring to a present situation that began in the past and is still ongoing. “Has started” is in the present perfect tense, which is used to describe an action or event that began in the past and continues up to the present. Furthermore, the verb “seem” is in the present tense, which matches the tense of “has started.” Therefore, the correct answer is “has started – seem” to accurately convey that the pandemic’s impact is an ongoing situation and that health experts have found some reason to be optimistic..."
+  },
+  {
+   "id": "PRO-041",
+   "level": "professional",
+   "skill": "Prepositions & Phrases",
+   "tier": 2,
+   "question": "Professionals ______ lawyers and teachers should have great communication skills.",
+   "options": [
+    "as",
+    "like",
+    "such like",
+    "are",
+    "such as"
+   ],
+   "correctAnswer": 4,
+   "explanation": "such as. The sentence is indicating that “professionals” is a category of people, and two specific examples of professions within that category are “lawyers” and “teachers”. The phrase “such as” is commonly used to introduce examples, and in this sentence, it is appropriate to use “such as” to indicate that lawyers and teachers are just two examples of the many professions that fall under the category of “professionals”."
+  },
+  {
+   "id": "PRO-044",
+   "level": "professional",
+   "skill": "Prepositions & Phrases",
+   "tier": 2,
+   "question": "Marie lived ______ juice for 15 days to slim down for the upcoming fashion show.",
+   "options": [
+    "with",
+    "off",
+    "in",
+    "by",
+    "from"
+   ],
+   "correctAnswer": 1,
+   "explanation": "off. The phrasal verb “live off” means to depend on or survive on something, usually with financial connotations. In this sentence, the subject Marie is depending on juice as her primary source of sustenance for the purpose of losing weight."
+  },
+  {
+   "id": "PRO-045",
+   "level": "professional",
+   "skill": "Word Choice",
+   "tier": 1,
+   "question": "Make only a few rules for employees that emphasize ______ behavior.",
+   "options": [
+    "fitting",
+    "appropriate",
+    "exceeding",
+    "useful",
+    "correct"
+   ],
+   "correctAnswer": 1,
+   "explanation": "appropriate. The adjective “appropriate” means suitable or fitting for a particular situation, and it is often used to describe behavior that is acceptable or proper in a given context. The rules should encourage behavior that is considered suitable or fitting in the workplace."
+  },
+  {
+   "id": "PRO-047",
+   "level": "professional",
+   "skill": "Word Choice",
+   "tier": 1,
+   "question": "The _____ of the rare _____ made the winner jump for joy.",
+   "options": [
+    "price - prize",
+    "prix - prize",
+    "prize - price",
+    "price - price",
+    "prix - price"
+   ],
+   "correctAnswer": 0,
+   "explanation": "price – prize. The noun “price” refers to the cost of something, while “prize” refers to something that is awarded to a winner. In this sentence, “price” and “prize” are used to describe what made the winner jump for joy. It is possible that the winner won a valuable or rare prize that they had been hoping to acquire."
+  },
+  {
+   "id": "PRO-049",
+   "level": "professional",
+   "skill": "Word Choice",
+   "tier": 3,
+   "question": "It is undesirable to prove your _____ by making other people feel less _____ than you.",
+   "options": [
+    "worthiness - worth",
+    "worth - worthiness",
+    "worthy - worthless",
+    "worth - worthy",
+    "worthless - worthiness"
+   ],
+   "correctAnswer": 3,
+   "explanation": "worth – worthy. “Worth” refers to the value or importance of something or someone, while “worthy” means deserving respect, attention, or admiration. The sentence is saying that it is not a good thing to try to prove your own value or importance by making other people feel like they are not deserving of respect or attention."
+  },
+  {
+   "id": "PRO-048",
+   "level": "professional",
+   "skill": "Word Choice",
+   "tier": 4,
+   "question": "To solve the worsening pandemic, the IATF _____ the local government units to seek the _____ of adept medical specialists.",
+   "options": [
+    "adviced - advice",
+    "advice - advise",
+    "advised - advice",
+    "advise - adviced",
+    "adviced - advised"
+   ],
+   "correctAnswer": 2,
+   "explanation": "advised – advice. The verb “advise” means to give counsel or guidance, while the noun “advice” refers to the recommendations given. In this sentence, the IATF (Inter-Agency Task Force) is advising the local government units to seek the advice of adept medical specialists to address the worsening pandemic."
+  },
+  {
+   "id": "PRO-046",
+   "level": "professional",
+   "skill": "Word Choice",
+   "tier": 4,
+   "question": "The voracious ______ of lions _____ the herd of deer in their relentless search for a stray fawn.",
+   "options": [
+    "group - harassed",
+    "band - follow",
+    "school - smelled",
+    "pair - guided",
+    "pride – stalked"
+   ],
+   "correctAnswer": 4,
+   "explanation": "pride – stalked. A “pride” is the term used to describe a group of lions, and “to stalk” means to hunt stealthily or pursue quietly. Therefore, “pride – stalked” is the most appropriate choice to describe how the lions hunted the herd of deer in the sentence."
+  },
+  {
+   "id": "SUB-045",
+   "level": "subprofessional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 1,
+   "question": "The annual sales of video games in the United States probably ______ a billion dollars per year.",
+   "options": [
+    "have exceeded",
+    "will exceeded",
+    "exceeding",
+    "has exceeding",
+    "exceeds"
+   ],
+   "correctAnswer": 4,
+   "explanation": "exceeds. \"The annual sales\" is singular, so the present-tense verb takes -s."
+  },
+  {
+   "id": "SUB-046",
+   "level": "subprofessional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 1,
+   "question": "Fiberglass, often used as an insulating material in homes, ______ allergic reactions in some people.",
+   "options": [
+    "have causes",
+    "has caused",
+    "had cause",
+    "cause",
+    "causes"
+   ],
+   "correctAnswer": 4,
+   "explanation": "causes. The sentence is discussing a present and ongoing effect of fiberglass on some people – that it causes allergic reactions. Since the sentence is in present tense and discussing an ongoing action, the correct verb tense to use would be simple present tense. Therefore, “causes” is the correct verb form to use. Option a, “have causes,” and option b, “has caused,” both use past tense verb forms. Option c, “had cause,” uses a past perfect verb form and option d, “cause,” uses a present tense verb form, but is not the correct subject-verb agreement for the third person singular noun..."
+  },
+  {
+   "id": "SUB-047",
+   "level": "subprofessional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 2,
+   "question": "A teenager who tries to conform to the expectations of adults ______ often ridiculed by his or her peers.",
+   "options": [
+    "are",
+    "is",
+    "will",
+    "have",
+    "was"
+   ],
+   "correctAnswer": 1,
+   "explanation": "is. The subject of the sentence is “a teenager,” which is a singular noun. Therefore, the verb should also be singular to maintain subject-verb agreement. The verb that agrees with “a teenager” in this sentence is “is.” Option a, “are,” uses a plural verb form, which is incorrect. Option c, “will,” uses a future tense verb form, which is not appropriate for this sentence. Option d, “have,” uses a plural verb form and option e, “was,” uses past tense verb form. Therefore, the correct option is “b. is.”"
+  },
+  {
+   "id": "SUB-049",
+   "level": "subprofessional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 2,
+   "question": "One computer for two or three students ______ inadequate.",
+   "options": [
+    "seem",
+    "will seem",
+    "seems",
+    "had seem",
+    "have seem"
+   ],
+   "correctAnswer": 2,
+   "explanation": "seems. The subject of the sentence is “one computer,” which is singular. Therefore, the verb should also be singular to maintain subject-verb agreement. The verb that agrees with “one computer” in this sentence is “seems.” Option a, “seem,” is a plural verb form and does not agree with the singular subject. Option b, “will seem,” is a future tense verb form, which is not appropriate for this sentence. Option d, “had seem,” is grammatically incorrect because it uses the wrong verb tense. Option e, “have seem,” is also grammatically incorrect because it uses the wrong verb tense and..."
+  },
+  {
+   "id": "SUB-050",
+   "level": "subprofessional",
+   "skill": "Grammar & Verb Agreement",
+   "tier": 2,
+   "question": "Speeding in restricted zones, especially those schools, _____ lives.",
+   "options": [
+    "endangers",
+    "will endangers",
+    "have endangers",
+    "had endanger",
+    "had seem"
+   ],
+   "correctAnswer": 0,
+   "explanation": "endangers. The subject of the sentence is “speeding,” which is singular. Therefore, the verb should also be singular to maintain subject-verb agreement. The verb that agrees with “speeding” in this sentence is “endangers.” Option b, “will endangers,” is a future tense verb form, which is not appropriate for this sentence. Option c, “have endangers,” is a plural verb form and does not agree with the singular subject. Option d, “had endanger,” uses the wrong verb tense and subject-verb agreement. Option e, “had seem,” is completely unrelated to the sentence. Therefore, the correct option is “a...."
+  },
+  {
+   "id": "SUB-041",
+   "level": "subprofessional",
+   "skill": "Prepositions & Phrases",
+   "tier": 3,
+   "question": "If you don't know the meaning of any word, you should ______ your dictionaries instead of asking me.",
+   "options": [
+    "buy",
+    "borrow",
+    "refer to",
+    "try",
+    "look inside"
+   ],
+   "correctAnswer": 2,
+   "explanation": "refer to. “Refer to” is used because it means to consult a source of information or to look up information that one does not know. In this case, the question is asking what to do if one encounters a word whose meaning is not known. Rather than asking someone else for the definition, the best course of action is to refer to a dictionary or other reliable source of information to find the definition. Therefore, “refer to” is the most appropriate answer. The other options, such as “buy” or “borrow” a dictionary, or to “look inside” or “try” a dictionary, may be relevant in certain contexts, but..."
+  },
+  {
+   "id": "SUB-043",
+   "level": "subprofessional",
+   "skill": "Prepositions & Phrases",
+   "tier": 3,
+   "question": "I am not surprised that she has joined the Parliament, as she has always been _______ politics.",
+   "options": [
+    "reliant on",
+    "keen on",
+    "intimidated by",
+    "awful with",
+    "defective with"
+   ],
+   "correctAnswer": 1,
+   "explanation": "keen on. “Keen on” because it is a correct idiom that means to have a strong interest or enthusiasm for something. In this case, the sentence is saying that the person is not surprised that she has joined the Parliament because she has always had a strong interest or enthusiasm for politics. The phrase “keen on” is a common idiom used to express one’s strong interest in something. It is used to describe a person who has a genuine liking or enthusiasm for a particular activity or subject. The other options such as “reliant on,” “intimidated by,” or “defective with” are not idiomatic..."
+  },
+  {
+   "id": "SUB-042",
+   "level": "subprofessional",
+   "skill": "Prepositions & Phrases",
+   "tier": 4,
+   "question": "Your voice is _______ hers and I sometimes can’t realize who I am talking to.",
+   "options": [
+    "identical to",
+    "loud",
+    "same to",
+    "different as",
+    "blends to"
+   ],
+   "correctAnswer": 0,
+   "explanation": "identical to. “Identical to” is the correct preposition to use when comparing two things that are exactly the same. In this case, the sentence is comparing the speaker’s voice to another person’s voice and stating that they are very similar or almost indistinguishable. The preposition “identical to” is commonly used when comparing nouns or pronouns that are exactly the same in terms of quality or quantity. In this sentence, the noun being compared is “your voice” and “hers.” Therefore, “identical to” is the correct preposition to use to indicate that the two voices are nearly identical. The..."
+  },
+  {
+   "id": "SUB-044",
+   "level": "subprofessional",
+   "skill": "Prepositions & Phrases",
+   "tier": 4,
+   "question": "Ariel has no ______ directing, he just decided to be a director when he learned that directors earn a lot of money.",
+   "options": [
+    "intentions in",
+    "motivations of",
+    "motivations to",
+    "talent in",
+    "plans with"
+   ],
+   "correctAnswer": 3,
+   "explanation": "talent in. The sentence is discussing Ariel’s natural ability or skill in directing, despite not having any previous intentions of becoming a director. The phrase “talent in” is used to describe Ariel’s ability, whereas the other options refer to his intentions, motivations, or plans, which are not relevant to the sentence in question."
+  },
+  {
+   "id": "SCP-01",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "The road was flooded; ______, we took another route.",
+   "options": [
+    "therefore",
+    "however",
+    "meanwhile",
+    "otherwise",
+    "for example"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Therefore\" shows result: the flooding is the reason they changed route."
+  },
+  {
+   "id": "SCP-02",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "She studied hard for the exam, ______ she passed with a high score.",
+   "options": [
+    "so",
+    "but",
+    "unless",
+    "although",
+    "or"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"So\" links a cause (studying hard) to its result (passing)."
+  },
+  {
+   "id": "SCP-03",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "I wanted to go to the concert, ______ I had no ticket.",
+   "options": [
+    "and",
+    "so",
+    "because",
+    "therefore",
+    "but"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"But\" shows contrast between what was wanted and what was possible."
+  },
+  {
+   "id": "SCP-04",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "______ the heavy traffic, the employees arrived on time.",
+   "options": [
+    "Because of",
+    "Despite",
+    "Due to",
+    "Thanks to",
+    "Owing to"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Despite\" shows contrast: they were on time even though traffic was heavy. The other choices all show cause."
+  },
+  {
+   "id": "SCP-05",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "The report must be submitted by Friday; ______, the office will not process it.",
+   "options": [
+    "moreover",
+    "likewise",
+    "otherwise",
+    "meanwhile",
+    "similarly"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Otherwise\" means \"if not\": if it is not submitted by Friday, it will not be processed."
+  },
+  {
+   "id": "SCP-06",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "Because the water supply was cut off for three days, the residents ______.",
+   "options": [
+    "celebrated the holiday",
+    "had to store water in containers",
+    "ordered new furniture",
+    "forgot about the schedule",
+    "lowered their electric bills"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The blank must follow logically from the cause: no water supply leads to storing water."
+  },
+  {
+   "id": "SCP-07",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "Employees are encouraged to take leave ______ their workload allows it.",
+   "options": [
+    "even though",
+    "in spite of",
+    "as long as",
+    "as if",
+    "rather than"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"As long as\" states a condition: leave is encouraged on the condition that the workload allows it."
+  },
+  {
+   "id": "SCP-08",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "______ he was tired, he finished the report before leaving.",
+   "options": [
+    "Because",
+    "Although",
+    "Unless",
+    "Therefore",
+    "Since"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Although\" shows concession: he finished the report in spite of being tired."
+  },
+  {
+   "id": "SCP-09",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "Not only ______ the project late, but it also exceeded the budget.",
+   "options": [
+    "were",
+    "did",
+    "is",
+    "was",
+    "had"
+   ],
+   "correctAnswer": 3,
+   "explanation": "After \"Not only\" at the start, the verb comes before the subject: \"Not only was the project late\". \"Project\" is singular, so \"was\"."
+  },
+  {
+   "id": "SCP-10",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "The mayor's proposal drew praise from environmental groups; ______, business owners criticized it as costly.",
+   "options": [
+    "consequently",
+    "similarly",
+    "conversely",
+    "accordingly",
+    "furthermore"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Conversely\" introduces an opposite reaction from a different group."
+  },
+  {
+   "id": "SCP-11",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "Had the staff been informed earlier, the confusion ______ avoided.",
+   "options": [
+    "will be",
+    "is",
+    "had been",
+    "would have been",
+    "would be"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A past unreal condition (\"Had ... been informed\") takes \"would have + past participle\" in the result clause."
+  },
+  {
+   "id": "SCP-12",
+   "level": "professional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "The committee did not reject the plan outright; ______, it requested substantial revisions.",
+   "options": [
+    "rather",
+    "thus",
+    "besides",
+    "instead of",
+    "moreover"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Rather\" corrects the previous idea: not rejection, but a request for revisions."
+  },
+  {
+   "id": "SCS-01",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "The road was flooded; ______, we took another route.",
+   "options": [
+    "therefore",
+    "however",
+    "meanwhile",
+    "otherwise",
+    "for example"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Therefore\" shows result: the flooding is the reason they changed route."
+  },
+  {
+   "id": "SCS-02",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "She studied hard for the exam, ______ she passed with a high score.",
+   "options": [
+    "so",
+    "but",
+    "unless",
+    "although",
+    "or"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"So\" links a cause (studying hard) to its result (passing)."
+  },
+  {
+   "id": "SCS-03",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 1,
+   "question": "I wanted to go to the concert, ______ I had no ticket.",
+   "options": [
+    "and",
+    "so",
+    "because",
+    "therefore",
+    "but"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"But\" shows contrast between what was wanted and what was possible."
+  },
+  {
+   "id": "SCS-04",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "______ the heavy traffic, the employees arrived on time.",
+   "options": [
+    "Because of",
+    "Despite",
+    "Due to",
+    "Thanks to",
+    "Owing to"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Despite\" shows contrast: they were on time even though traffic was heavy. The other choices all show cause."
+  },
+  {
+   "id": "SCS-05",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "The report must be submitted by Friday; ______, the office will not process it.",
+   "options": [
+    "moreover",
+    "likewise",
+    "otherwise",
+    "meanwhile",
+    "similarly"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Otherwise\" means \"if not\": if it is not submitted by Friday, it will not be processed."
+  },
+  {
+   "id": "SCS-06",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 2,
+   "question": "Because the water supply was cut off for three days, the residents ______.",
+   "options": [
+    "celebrated the holiday",
+    "had to store water in containers",
+    "ordered new furniture",
+    "forgot about the schedule",
+    "lowered their electric bills"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The blank must follow logically from the cause: no water supply leads to storing water."
+  },
+  {
+   "id": "SCS-07",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "Employees are encouraged to take leave ______ their workload allows it.",
+   "options": [
+    "even though",
+    "in spite of",
+    "as long as",
+    "as if",
+    "rather than"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"As long as\" states a condition: leave is encouraged on the condition that the workload allows it."
+  },
+  {
+   "id": "SCS-08",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "______ he was tired, he finished the report before leaving.",
+   "options": [
+    "Because",
+    "Although",
+    "Unless",
+    "Therefore",
+    "Since"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"Although\" shows concession: he finished the report in spite of being tired."
+  },
+  {
+   "id": "SCS-09",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 3,
+   "question": "Not only ______ the project late, but it also exceeded the budget.",
+   "options": [
+    "were",
+    "did",
+    "is",
+    "was",
+    "had"
+   ],
+   "correctAnswer": 3,
+   "explanation": "After \"Not only\" at the start, the verb comes before the subject: \"Not only was the project late\". \"Project\" is singular, so \"was\"."
+  },
+  {
+   "id": "SCS-10",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "The mayor's proposal drew praise from environmental groups; ______, business owners criticized it as costly.",
+   "options": [
+    "consequently",
+    "similarly",
+    "conversely",
+    "accordingly",
+    "furthermore"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Conversely\" introduces an opposite reaction from a different group."
+  },
+  {
+   "id": "SCS-11",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "Had the staff been informed earlier, the confusion ______ avoided.",
+   "options": [
+    "will be",
+    "is",
+    "had been",
+    "would have been",
+    "would be"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A past unreal condition (\"Had ... been informed\") takes \"would have + past participle\" in the result clause."
+  },
+  {
+   "id": "SCS-12",
+   "level": "subprofessional",
+   "skill": "Transitions & Logic",
+   "tier": 4,
+   "question": "The committee did not reject the plan outright; ______, it requested substantial revisions.",
+   "options": [
+    "rather",
+    "thus",
+    "besides",
+    "instead of",
+    "moreover"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Rather\" corrects the previous idea: not rejection, but a request for revisions."
+  }
+ ]
+}

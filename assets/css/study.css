@@ -1,0 +1,7 @@
+.study-module { transition: box-shadow .15s, transform .15s; color: inherit; }
+a.study-module:hover { box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .12); transform: translateY(-2px); }
+.study-module.disabled { opacity: .6; }
+.study-question { font-size: 1.1rem; white-space: pre-line; }
+.study-passage { max-height: 18rem; overflow-y: auto; white-space: pre-line; font-size: .95rem; }
+.topic-row { display: grid; grid-template-columns: minmax(8rem, 12rem) 1fr 3.5rem; align-items: center; gap: .75rem; }
+.choice { white-space: normal; }

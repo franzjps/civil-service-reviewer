@@ -1,0 +1,1313 @@
+{
+ "module": "reading-comprehension",
+ "questions": [
+  {
+   "id": "PRO-071",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "Oversleeping\nSo Jake spread his arms, leaped skyward from the sidewalk, and began to fly, rocketing up over the neighborhood. Suddenly he heard the distant voice of his father calling, as if from another universe, and Jake pried open his sleep-heavy eyes… “Get up, pal.”, said Jake’s father, “or you’ll miss the school bus.” “Just let me sleep a little longer,” Jake mumbled. Then he groaned and turned over, pulling the covers up over his head like a tent, as if to somehow recapture his dream. Jake loves to sleep. It wasn’t that he was lazy or lacked energy. Jake was a normal fourteen-year-old kid in every way. But he loved to curl up under a soft white cloud of sheets, rest his head on a marshmallow pillow, and luxuriate in the twilight world of slumber where life is exciting and dreams always come true. So Jake was sitting at a table at Chez Maurice’s in Hollywood, having lunch with his buddy, Tom Cruise. Tom was offering Jake a role in his next movie when… “Get up,” said Jake’s father, gently shaking his son’s shoulders. Jake yawned and hauled his legs over the side of the mattress, where he sat for a few moments to reconcile himself with the shocking reality of upright existence. He dragged himself into the shower, where he briefly dreamed of tropical rain forests, and at last shuffled downstairs to breakfast. “Jake’s going to sleep his life away!” teased Taylor, his nine-year-old sister, as she sat at the table, kicking her dangling legs excitedly as if to show by comparison how wide awake she was. “He’s just a growing boy,” said Jake’s father, washing dishes at the kitchen sink. “Right?” Jake nodded sleepily and finished his breakfast. He trudged out the front door with Taylor, still half sleepwalking, and they waited on the curb for their school bus, as usual. At school, finally fully awake, Jake cycled through the pleasant routine of another typical day. He greeted his buddy Benjamin at the locker they shared. They discussed hockey games and books. Then there was science with Mr. Albert, math with Ms. Freed, and lunch with Benjamin, who always told great jokes. After school, there was homework, dinner with his dad and Taylor, maybe a little TV, and then off to dreamland. And so went week after week and month after month. So Jake swung the bat, sending the ball out of Dodger Stadium and into the Baseball Hall of Fame… “Come on, get up,” giggled Taylor, holding a ringing alarm clock only inches from her brother’s face. “You’ll be late for school!” Jake shook his head in disbelief and ducked under the covers. Moments later Jake awakened in an empty, quiet room. He noted with puzzlement that all the buttons on his pajama top had popped off in the night. Then he pulled himself from the bed and padded sleepily to the shower. The bathroom mirror reflected a face that was oddly unfamiliar—one with heavier eyebrows and new creases on its brow. Jake rubbed a hand over his face and felt the unexpected sandpaper abrasion of whiskers. Mystified and dazed, he staggered downstairs to the kitchen, where he was shocked to discover a teenaged Taylor sitting at the breakfast table beside his father, who was grayer and heavier. “So you finally woke up,” commented Jake’s father, casually sipping his coffee. “We thought you’d sleep forever.” “You certainly overslept!” added Taylor in a surprisingly mature voice. Jake shook his head as if to disperse the fog of dreams. “What are you talking about?” “You’ve been asleep for four years,” Jake’s father replied calmly. “Better get dressed, or you’ll be late for your last day of school.” This statement set Jake’s mind reeling. His last day of school? Had he really slept so long? Was he now eighteen years old? Lost in a whirl of confusion, Jake went to his room to dress for school and discovered that none of his clothes fit him. He borrowed a shirt, pants, and shoes from his father—and they made him look and feel even older. Taylor led zombie-like Jake out the front door to the curb. Boarding his bus, Jake stared in bewilderment at the aged faces of his friends. “Hey, it’s Jake!” shouted someone from the back of the bus. “He’s back!” One by one, his schoolmates began to recognize him. “Buddy, you sure look older!” said someone sitting near where Jake stood. Jake looked down to discover his friend Benjamin smiling heartily and looking startlingly like his older brother. Jake sat beside Benjamin, who eagerly told what had happened during Jake’s years of slumber—how Mr. Albert had retired from teaching science, and how Ms. Freed had married. Benjamin spoke excitedly of hockey games won and lost; of books read and remembered; of school plays, classes, pep rallies, and car washes. They were small, ordinary events, but to Jake, they seemed extraordinary because they had happened without him. He had missed grades nine through twelve. And now there would be no more school days with Benjamin, his teachers, or his other friends. Jake had slept them all away. “Come on, buddy, get up,” called Jake’s father. Jake pried open leaden eyelids to see his father standing at the foot of his bed, looki ng younger and leaner. Beside him was a nine -year-old Taylor, seemingly more girlish and bubbly than ever before. “Come on, sleepyhead!” she giggled. Her laughter seemed as bright as the yellow sunshine splashing about the room. “You don’t want to miss school, do you?” Jake beamed and looked at his family. “No, I wouldn’t want to do that,” he said as he threw back the covers and leaped out of bed.",
+   "question": "What conclusion can be made based on the fact that Jake’s pajamas do not fit?",
+   "options": [
+    "He has grown a lot in the four years he was asleep.",
+    "He had a growth spurt that happened overnight.",
+    "He has cheap pajamas that came apart while he slept.",
+    "He ate too much the night before and gained weight.",
+    "His growth was due to his “growing boy” age."
+   ],
+   "correctAnswer": 0,
+   "explanation": "He has grown a lot in the four years he was asleep.. Explanation: Based on the fact that Jake’s pajamas do not fit, the most likely conclusion is that he has grown a lot in the time he was asleep."
+  },
+  {
+   "id": "PRO-072",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Oversleeping\nSo Jake spread his arms, leaped skyward from the sidewalk, and began to fly, rocketing up over the neighborhood. Suddenly he heard the distant voice of his father calling, as if from another universe, and Jake pried open his sleep-heavy eyes… “Get up, pal.”, said Jake’s father, “or you’ll miss the school bus.” “Just let me sleep a little longer,” Jake mumbled. Then he groaned and turned over, pulling the covers up over his head like a tent, as if to somehow recapture his dream. Jake loves to sleep. It wasn’t that he was lazy or lacked energy. Jake was a normal fourteen-year-old kid in every way. But he loved to curl up under a soft white cloud of sheets, rest his head on a marshmallow pillow, and luxuriate in the twilight world of slumber where life is exciting and dreams always come true. So Jake was sitting at a table at Chez Maurice’s in Hollywood, having lunch with his buddy, Tom Cruise. Tom was offering Jake a role in his next movie when… “Get up,” said Jake’s father, gently shaking his son’s shoulders. Jake yawned and hauled his legs over the side of the mattress, where he sat for a few moments to reconcile himself with the shocking reality of upright existence. He dragged himself into the shower, where he briefly dreamed of tropical rain forests, and at last shuffled downstairs to breakfast. “Jake’s going to sleep his life away!” teased Taylor, his nine-year-old sister, as she sat at the table, kicking her dangling legs excitedly as if to show by comparison how wide awake she was. “He’s just a growing boy,” said Jake’s father, washing dishes at the kitchen sink. “Right?” Jake nodded sleepily and finished his breakfast. He trudged out the front door with Taylor, still half sleepwalking, and they waited on the curb for their school bus, as usual. At school, finally fully awake, Jake cycled through the pleasant routine of another typical day. He greeted his buddy Benjamin at the locker they shared. They discussed hockey games and books. Then there was science with Mr. Albert, math with Ms. Freed, and lunch with Benjamin, who always told great jokes. After school, there was homework, dinner with his dad and Taylor, maybe a little TV, and then off to dreamland. And so went week after week and month after month. So Jake swung the bat, sending the ball out of Dodger Stadium and into the Baseball Hall of Fame… “Come on, get up,” giggled Taylor, holding a ringing alarm clock only inches from her brother’s face. “You’ll be late for school!” Jake shook his head in disbelief and ducked under the covers. Moments later Jake awakened in an empty, quiet room. He noted with puzzlement that all the buttons on his pajama top had popped off in the night. Then he pulled himself from the bed and padded sleepily to the shower. The bathroom mirror reflected a face that was oddly unfamiliar—one with heavier eyebrows and new creases on its brow. Jake rubbed a hand over his face and felt the unexpected sandpaper abrasion of whiskers. Mystified and dazed, he staggered downstairs to the kitchen, where he was shocked to discover a teenaged Taylor sitting at the breakfast table beside his father, who was grayer and heavier. “So you finally woke up,” commented Jake’s father, casually sipping his coffee. “We thought you’d sleep forever.” “You certainly overslept!” added Taylor in a surprisingly mature voice. Jake shook his head as if to disperse the fog of dreams. “What are you talking about?” “You’ve been asleep for four years,” Jake’s father replied calmly. “Better get dressed, or you’ll be late for your last day of school.” This statement set Jake’s mind reeling. His last day of school? Had he really slept so long? Was he now eighteen years old? Lost in a whirl of confusion, Jake went to his room to dress for school and discovered that none of his clothes fit him. He borrowed a shirt, pants, and shoes from his father—and they made him look and feel even older. Taylor led zombie-like Jake out the front door to the curb. Boarding his bus, Jake stared in bewilderment at the aged faces of his friends. “Hey, it’s Jake!” shouted someone from the back of the bus. “He’s back!” One by one, his schoolmates began to recognize him. “Buddy, you sure look older!” said someone sitting near where Jake stood. Jake looked down to discover his friend Benjamin smiling heartily and looking startlingly like his older brother. Jake sat beside Benjamin, who eagerly told what had happened during Jake’s years of slumber—how Mr. Albert had retired from teaching science, and how Ms. Freed had married. Benjamin spoke excitedly of hockey games won and lost; of books read and remembered; of school plays, classes, pep rallies, and car washes. They were small, ordinary events, but to Jake, they seemed extraordinary because they had happened without him. He had missed grades nine through twelve. And now there would be no more school days with Benjamin, his teachers, or his other friends. Jake had slept them all away. “Come on, buddy, get up,” called Jake’s father. Jake pried open leaden eyelids to see his father standing at the foot of his bed, looki ng younger and leaner. Beside him was a nine -year-old Taylor, seemingly more girlish and bubbly than ever before. “Come on, sleepyhead!” she giggled. Her laughter seemed as bright as the yellow sunshine splashing about the room. “You don’t want to miss school, do you?” Jake beamed and looked at his family. “No, I wouldn’t want to do that,” he said as he threw back the covers and leaped out of bed.",
+   "question": "Which event happened first?",
+   "options": [
+    "Jake dreams about sleeping for four years",
+    "Jake dreams about having lunch with Tome Cruise.",
+    "Jake dreams about playing baseball for the Dodgers",
+    "Jake dreams about flying over the neighborhood.",
+    "Jake dreams about seeing her adult sister."
+   ],
+   "correctAnswer": 3,
+   "explanation": "Jake dreams about flying over the neighborhood.. Explanation: “Jake had a feeling he was soaring above his neighborhood, looking down at the houses and streets below him.” So, the correct chronological order of events is: d. Jake dreams about flying over the neighborhood. a. Jake dreams about sleeping for four years. e. Jake dreams about seeing his adult sister. c. Jake dreams about playing baseball for the Dodgers. b. Jake dreams about having lunch with Tom Cruise."
+  },
+  {
+   "id": "PRO-073",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "Oversleeping\nSo Jake spread his arms, leaped skyward from the sidewalk, and began to fly, rocketing up over the neighborhood. Suddenly he heard the distant voice of his father calling, as if from another universe, and Jake pried open his sleep-heavy eyes… “Get up, pal.”, said Jake’s father, “or you’ll miss the school bus.” “Just let me sleep a little longer,” Jake mumbled. Then he groaned and turned over, pulling the covers up over his head like a tent, as if to somehow recapture his dream. Jake loves to sleep. It wasn’t that he was lazy or lacked energy. Jake was a normal fourteen-year-old kid in every way. But he loved to curl up under a soft white cloud of sheets, rest his head on a marshmallow pillow, and luxuriate in the twilight world of slumber where life is exciting and dreams always come true. So Jake was sitting at a table at Chez Maurice’s in Hollywood, having lunch with his buddy, Tom Cruise. Tom was offering Jake a role in his next movie when… “Get up,” said Jake’s father, gently shaking his son’s shoulders. Jake yawned and hauled his legs over the side of the mattress, where he sat for a few moments to reconcile himself with the shocking reality of upright existence. He dragged himself into the shower, where he briefly dreamed of tropical rain forests, and at last shuffled downstairs to breakfast. “Jake’s going to sleep his life away!” teased Taylor, his nine-year-old sister, as she sat at the table, kicking her dangling legs excitedly as if to show by comparison how wide awake she was. “He’s just a growing boy,” said Jake’s father, washing dishes at the kitchen sink. “Right?” Jake nodded sleepily and finished his breakfast. He trudged out the front door with Taylor, still half sleepwalking, and they waited on the curb for their school bus, as usual. At school, finally fully awake, Jake cycled through the pleasant routine of another typical day. He greeted his buddy Benjamin at the locker they shared. They discussed hockey games and books. Then there was science with Mr. Albert, math with Ms. Freed, and lunch with Benjamin, who always told great jokes. After school, there was homework, dinner with his dad and Taylor, maybe a little TV, and then off to dreamland. And so went week after week and month after month. So Jake swung the bat, sending the ball out of Dodger Stadium and into the Baseball Hall of Fame… “Come on, get up,” giggled Taylor, holding a ringing alarm clock only inches from her brother’s face. “You’ll be late for school!” Jake shook his head in disbelief and ducked under the covers. Moments later Jake awakened in an empty, quiet room. He noted with puzzlement that all the buttons on his pajama top had popped off in the night. Then he pulled himself from the bed and padded sleepily to the shower. The bathroom mirror reflected a face that was oddly unfamiliar—one with heavier eyebrows and new creases on its brow. Jake rubbed a hand over his face and felt the unexpected sandpaper abrasion of whiskers. Mystified and dazed, he staggered downstairs to the kitchen, where he was shocked to discover a teenaged Taylor sitting at the breakfast table beside his father, who was grayer and heavier. “So you finally woke up,” commented Jake’s father, casually sipping his coffee. “We thought you’d sleep forever.” “You certainly overslept!” added Taylor in a surprisingly mature voice. Jake shook his head as if to disperse the fog of dreams. “What are you talking about?” “You’ve been asleep for four years,” Jake’s father replied calmly. “Better get dressed, or you’ll be late for your last day of school.” This statement set Jake’s mind reeling. His last day of school? Had he really slept so long? Was he now eighteen years old? Lost in a whirl of confusion, Jake went to his room to dress for school and discovered that none of his clothes fit him. He borrowed a shirt, pants, and shoes from his father—and they made him look and feel even older. Taylor led zombie-like Jake out the front door to the curb. Boarding his bus, Jake stared in bewilderment at the aged faces of his friends. “Hey, it’s Jake!” shouted someone from the back of the bus. “He’s back!” One by one, his schoolmates began to recognize him. “Buddy, you sure look older!” said someone sitting near where Jake stood. Jake looked down to discover his friend Benjamin smiling heartily and looking startlingly like his older brother. Jake sat beside Benjamin, who eagerly told what had happened during Jake’s years of slumber—how Mr. Albert had retired from teaching science, and how Ms. Freed had married. Benjamin spoke excitedly of hockey games won and lost; of books read and remembered; of school plays, classes, pep rallies, and car washes. They were small, ordinary events, but to Jake, they seemed extraordinary because they had happened without him. He had missed grades nine through twelve. And now there would be no more school days with Benjamin, his teachers, or his other friends. Jake had slept them all away. “Come on, buddy, get up,” called Jake’s father. Jake pried open leaden eyelids to see his father standing at the foot of his bed, looki ng younger and leaner. Beside him was a nine -year-old Taylor, seemingly more girlish and bubbly than ever before. “Come on, sleepyhead!” she giggled. Her laughter seemed as bright as the yellow sunshine splashing about the room. “You don’t want to miss school, do you?” Jake beamed and looked at his family. “No, I wouldn’t want to do that,” he said as he threw back the covers and leaped out of bed.",
+   "question": "Why did Jake lept out of bed at the end of the story?",
+   "options": [
+    "He does not want to miss the school bus.",
+    "He does not want to grow anymore.",
+    "He does not want his dad bugging him.",
+    "He does not want his sister laughing at him.",
+    "He does not want to sleep his life away."
+   ],
+   "correctAnswer": 4,
+   "explanation": "He does not want to sleep his life away.. Explanation: Jake leapt out of bed at the end of the story because he did not want to sleep his life away. In his dream, he had slept for four years and missed out on a lot, and he did not want to make the same mistake in real life. This is evident from the following line in the story: “He jumped out of bed, determined not to sleep his life away.”"
+  },
+  {
+   "id": "PRO-074",
+   "level": "professional",
+   "skill": "Purpose & Tone",
+   "tier": 4,
+   "passage": "Oversleeping\nSo Jake spread his arms, leaped skyward from the sidewalk, and began to fly, rocketing up over the neighborhood. Suddenly he heard the distant voice of his father calling, as if from another universe, and Jake pried open his sleep-heavy eyes… “Get up, pal.”, said Jake’s father, “or you’ll miss the school bus.” “Just let me sleep a little longer,” Jake mumbled. Then he groaned and turned over, pulling the covers up over his head like a tent, as if to somehow recapture his dream. Jake loves to sleep. It wasn’t that he was lazy or lacked energy. Jake was a normal fourteen-year-old kid in every way. But he loved to curl up under a soft white cloud of sheets, rest his head on a marshmallow pillow, and luxuriate in the twilight world of slumber where life is exciting and dreams always come true. So Jake was sitting at a table at Chez Maurice’s in Hollywood, having lunch with his buddy, Tom Cruise. Tom was offering Jake a role in his next movie when… “Get up,” said Jake’s father, gently shaking his son’s shoulders. Jake yawned and hauled his legs over the side of the mattress, where he sat for a few moments to reconcile himself with the shocking reality of upright existence. He dragged himself into the shower, where he briefly dreamed of tropical rain forests, and at last shuffled downstairs to breakfast. “Jake’s going to sleep his life away!” teased Taylor, his nine-year-old sister, as she sat at the table, kicking her dangling legs excitedly as if to show by comparison how wide awake she was. “He’s just a growing boy,” said Jake’s father, washing dishes at the kitchen sink. “Right?” Jake nodded sleepily and finished his breakfast. He trudged out the front door with Taylor, still half sleepwalking, and they waited on the curb for their school bus, as usual. At school, finally fully awake, Jake cycled through the pleasant routine of another typical day. He greeted his buddy Benjamin at the locker they shared. They discussed hockey games and books. Then there was science with Mr. Albert, math with Ms. Freed, and lunch with Benjamin, who always told great jokes. After school, there was homework, dinner with his dad and Taylor, maybe a little TV, and then off to dreamland. And so went week after week and month after month. So Jake swung the bat, sending the ball out of Dodger Stadium and into the Baseball Hall of Fame… “Come on, get up,” giggled Taylor, holding a ringing alarm clock only inches from her brother’s face. “You’ll be late for school!” Jake shook his head in disbelief and ducked under the covers. Moments later Jake awakened in an empty, quiet room. He noted with puzzlement that all the buttons on his pajama top had popped off in the night. Then he pulled himself from the bed and padded sleepily to the shower. The bathroom mirror reflected a face that was oddly unfamiliar—one with heavier eyebrows and new creases on its brow. Jake rubbed a hand over his face and felt the unexpected sandpaper abrasion of whiskers. Mystified and dazed, he staggered downstairs to the kitchen, where he was shocked to discover a teenaged Taylor sitting at the breakfast table beside his father, who was grayer and heavier. “So you finally woke up,” commented Jake’s father, casually sipping his coffee. “We thought you’d sleep forever.” “You certainly overslept!” added Taylor in a surprisingly mature voice. Jake shook his head as if to disperse the fog of dreams. “What are you talking about?” “You’ve been asleep for four years,” Jake’s father replied calmly. “Better get dressed, or you’ll be late for your last day of school.” This statement set Jake’s mind reeling. His last day of school? Had he really slept so long? Was he now eighteen years old? Lost in a whirl of confusion, Jake went to his room to dress for school and discovered that none of his clothes fit him. He borrowed a shirt, pants, and shoes from his father—and they made him look and feel even older. Taylor led zombie-like Jake out the front door to the curb. Boarding his bus, Jake stared in bewilderment at the aged faces of his friends. “Hey, it’s Jake!” shouted someone from the back of the bus. “He’s back!” One by one, his schoolmates began to recognize him. “Buddy, you sure look older!” said someone sitting near where Jake stood. Jake looked down to discover his friend Benjamin smiling heartily and looking startlingly like his older brother. Jake sat beside Benjamin, who eagerly told what had happened during Jake’s years of slumber—how Mr. Albert had retired from teaching science, and how Ms. Freed had married. Benjamin spoke excitedly of hockey games won and lost; of books read and remembered; of school plays, classes, pep rallies, and car washes. They were small, ordinary events, but to Jake, they seemed extraordinary because they had happened without him. He had missed grades nine through twelve. And now there would be no more school days with Benjamin, his teachers, or his other friends. Jake had slept them all away. “Come on, buddy, get up,” called Jake’s father. Jake pried open leaden eyelids to see his father standing at the foot of his bed, looki ng younger and leaner. Beside him was a nine -year-old Taylor, seemingly more girlish and bubbly than ever before. “Come on, sleepyhead!” she giggled. Her laughter seemed as bright as the yellow sunshine splashing about the room. “You don’t want to miss school, do you?” Jake beamed and looked at his family. “No, I wouldn’t want to do that,” he said as he threw back the covers and leaped out of bed.",
+   "question": "After reading the passage, what could be the belief of the author?",
+   "options": [
+    "Teenagers should not sleep more than 10 hours a day.",
+    "Teenagers should get up early in the morning.",
+    "Teenagers should not let opportunities pass them by.",
+    "Teenagers should not stay up so late at night.",
+    "Teenagers should not listen to their friends."
+   ],
+   "correctAnswer": 2,
+   "explanation": "Teenagers should not let opportunities pass them by.. Explanation: The author emphasizes the importance of making the most of the time that teenagers have, and not wasting it by sleeping through it. The main message of the story is that life is short and teenagers should not miss out on the opportunities that are available to them."
+  },
+  {
+   "id": "PRO-075",
+   "level": "professional",
+   "skill": "Main Idea & Title",
+   "tier": 3,
+   "passage": "Oversleeping\nSo Jake spread his arms, leaped skyward from the sidewalk, and began to fly, rocketing up over the neighborhood. Suddenly he heard the distant voice of his father calling, as if from another universe, and Jake pried open his sleep-heavy eyes… “Get up, pal.”, said Jake’s father, “or you’ll miss the school bus.” “Just let me sleep a little longer,” Jake mumbled. Then he groaned and turned over, pulling the covers up over his head like a tent, as if to somehow recapture his dream. Jake loves to sleep. It wasn’t that he was lazy or lacked energy. Jake was a normal fourteen-year-old kid in every way. But he loved to curl up under a soft white cloud of sheets, rest his head on a marshmallow pillow, and luxuriate in the twilight world of slumber where life is exciting and dreams always come true. So Jake was sitting at a table at Chez Maurice’s in Hollywood, having lunch with his buddy, Tom Cruise. Tom was offering Jake a role in his next movie when… “Get up,” said Jake’s father, gently shaking his son’s shoulders. Jake yawned and hauled his legs over the side of the mattress, where he sat for a few moments to reconcile himself with the shocking reality of upright existence. He dragged himself into the shower, where he briefly dreamed of tropical rain forests, and at last shuffled downstairs to breakfast. “Jake’s going to sleep his life away!” teased Taylor, his nine-year-old sister, as she sat at the table, kicking her dangling legs excitedly as if to show by comparison how wide awake she was. “He’s just a growing boy,” said Jake’s father, washing dishes at the kitchen sink. “Right?” Jake nodded sleepily and finished his breakfast. He trudged out the front door with Taylor, still half sleepwalking, and they waited on the curb for their school bus, as usual. At school, finally fully awake, Jake cycled through the pleasant routine of another typical day. He greeted his buddy Benjamin at the locker they shared. They discussed hockey games and books. Then there was science with Mr. Albert, math with Ms. Freed, and lunch with Benjamin, who always told great jokes. After school, there was homework, dinner with his dad and Taylor, maybe a little TV, and then off to dreamland. And so went week after week and month after month. So Jake swung the bat, sending the ball out of Dodger Stadium and into the Baseball Hall of Fame… “Come on, get up,” giggled Taylor, holding a ringing alarm clock only inches from her brother’s face. “You’ll be late for school!” Jake shook his head in disbelief and ducked under the covers. Moments later Jake awakened in an empty, quiet room. He noted with puzzlement that all the buttons on his pajama top had popped off in the night. Then he pulled himself from the bed and padded sleepily to the shower. The bathroom mirror reflected a face that was oddly unfamiliar—one with heavier eyebrows and new creases on its brow. Jake rubbed a hand over his face and felt the unexpected sandpaper abrasion of whiskers. Mystified and dazed, he staggered downstairs to the kitchen, where he was shocked to discover a teenaged Taylor sitting at the breakfast table beside his father, who was grayer and heavier. “So you finally woke up,” commented Jake’s father, casually sipping his coffee. “We thought you’d sleep forever.” “You certainly overslept!” added Taylor in a surprisingly mature voice. Jake shook his head as if to disperse the fog of dreams. “What are you talking about?” “You’ve been asleep for four years,” Jake’s father replied calmly. “Better get dressed, or you’ll be late for your last day of school.” This statement set Jake’s mind reeling. His last day of school? Had he really slept so long? Was he now eighteen years old? Lost in a whirl of confusion, Jake went to his room to dress for school and discovered that none of his clothes fit him. He borrowed a shirt, pants, and shoes from his father—and they made him look and feel even older. Taylor led zombie-like Jake out the front door to the curb. Boarding his bus, Jake stared in bewilderment at the aged faces of his friends. “Hey, it’s Jake!” shouted someone from the back of the bus. “He’s back!” One by one, his schoolmates began to recognize him. “Buddy, you sure look older!” said someone sitting near where Jake stood. Jake looked down to discover his friend Benjamin smiling heartily and looking startlingly like his older brother. Jake sat beside Benjamin, who eagerly told what had happened during Jake’s years of slumber—how Mr. Albert had retired from teaching science, and how Ms. Freed had married. Benjamin spoke excitedly of hockey games won and lost; of books read and remembered; of school plays, classes, pep rallies, and car washes. They were small, ordinary events, but to Jake, they seemed extraordinary because they had happened without him. He had missed grades nine through twelve. And now there would be no more school days with Benjamin, his teachers, or his other friends. Jake had slept them all away. “Come on, buddy, get up,” called Jake’s father. Jake pried open leaden eyelids to see his father standing at the foot of his bed, looki ng younger and leaner. Beside him was a nine -year-old Taylor, seemingly more girlish and bubbly than ever before. “Come on, sleepyhead!” she giggled. Her laughter seemed as bright as the yellow sunshine splashing about the room. “You don’t want to miss school, do you?” Jake beamed and looked at his family. “No, I wouldn’t want to do that,” he said as he threw back the covers and leaped out of bed.",
+   "question": "What could be another title for the story?",
+   "options": [
+    "Annoying Sisters Keep You Away",
+    "Life is Full of Important Things to Do",
+    "Time is Gold",
+    "Alarm Clock Jitters",
+    "Jake is a Growing Boy"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Life is Full of Important Things to Do. Explanation: Option b, “Life is Full of Important Things to Do” could be a possible title for the story, as the message of the story is about not wasting time and taking advantage of opportunities. The story emphasizes that there are important things to do in life, and sleeping excessively can cause one to miss out on those opportunities."
+  },
+  {
+   "id": "PRO-076",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 4,
+   "passage": "Tools of Persuasion\nPersuasion is the art of convincing someone to agree with your point of view. According to the ancient Greek philosopher Aristotle, there are three basic tools of persuasion: ethos, pathos, and logos. Ethos is a speaker’s way of convincing the audience that she is a credible source. An audience will consider a speaker credible if she seems trustworthy, reliable, and sincere. This can be done in many ways. For example, a speaker can develop ethos by explaining how much experience or education she has in the field. After all, you would be more likely to listen to advice about how to take care of your teeth from a dentist than a firefighter. A speaker can also create ethos by convincing the audience that she is a good person who has their best interests at heart. If an audience cannot trust you, you will not be able to persuade them. Logos is the use of facts, information, statistics, or other evidence to make your argument more convincing. An audience will be more likely to believe you if you ha ve data to back up your claims. For example, a commercial for a soap might tell you that laboratory tests have shown that their soap kills all 7,000,000 of the bacteria living on your hands right now. This piece of information might make you more likely to buy their brand of soap. Presenting this evidence is much more convincing than simply saying “our soap is the best!” The u se of logos can also increase a speaker’s ethos; the more facts a speaker includes in his argument, the more likely you are to think that he is educated and trustworthy Although ethos, pathos, and logos all have their strengths, they are often most effective when they are used together. Indeed, most speakers use a combination of ethos, pathos, and logos to persuade their audiences. The next time you listen to a speech, watch a commercial, or listen to a friend try to convince you to lend him some money, be on the lookout for these ancient Greek tools of persuasion.",
+   "question": "Tina is trying to convince her father to buy her a dress worth $150. She says: “Dad, the clothes I have are really old and ugly. If I don’t get this new dress, all of my friends are going to laugh at me. I will be so embarrassed that I will want to die.” What form of persuasion is Tina using?",
+   "options": [
+    "pathos",
+    "ethos",
+    "blackmail",
+    "logos",
+    "a combination of ethos, pathos, and logos"
+   ],
+   "correctAnswer": 0,
+   "explanation": "pathos. Explanation: The author explains that pathos: “is a speaker’s way of connecting with an audience’s emotions.” The author then gives two examples: a candidate who uses fear to gain votes and a charity that makes you feel pity to get money."
+  },
+  {
+   "id": "PRO-077",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 4,
+   "passage": "Tools of Persuasion\nPersuasion is the art of convincing someone to agree with your point of view. According to the ancient Greek philosopher Aristotle, there are three basic tools of persuasion: ethos, pathos, and logos. Ethos is a speaker’s way of convincing the audience that she is a credible source. An audience will consider a speaker credible if she seems trustworthy, reliable, and sincere. This can be done in many ways. For example, a speaker can develop ethos by explaining how much experience or education she has in the field. After all, you would be more likely to listen to advice about how to take care of your teeth from a dentist than a firefighter. A speaker can also create ethos by convincing the audience that she is a good person who has their best interests at heart. If an audience cannot trust you, you will not be able to persuade them. Logos is the use of facts, information, statistics, or other evidence to make your argument more convincing. An audience will be more likely to believe you if you ha ve data to back up your claims. For example, a commercial for a soap might tell you that laboratory tests have shown that their soap kills all 7,000,000 of the bacteria living on your hands right now. This piece of information might make you more likely to buy their brand of soap. Presenting this evidence is much more convincing than simply saying “our soap is the best!” The u se of logos can also increase a speaker’s ethos; the more facts a speaker includes in his argument, the more likely you are to think that he is educated and trustworthy Although ethos, pathos, and logos all have their strengths, they are often most effective when they are used together. Indeed, most speakers use a combination of ethos, pathos, and logos to persuade their audiences. The next time you listen to a speech, watch a commercial, or listen to a friend try to convince you to lend him some money, be on the lookout for these ancient Greek tools of persuasion.",
+   "question": "According to the passage, logos can build ethos because:",
+   "options": [
+    "A speaker can use misleading or false information to make his argument seem more convincing.",
+    "A speaker who overuses pathos might make an audience too emotional.",
+    "Audiences who are too frightened or too sad are unlikely to be persuaded.",
+    "An audience is more easily convinced by facts and information than simple appeals to emotions like pity.",
+    "An audience is more likely to trust a speaker who uses evidence to support his argument."
+   ],
+   "correctAnswer": 4,
+   "explanation": "An audience is more likely to trust a speaker who uses evidence to support his argument.. Explanation: The more facts a speaker includes in his argument, the more likely an audience is to think that he is educated and trustworthy."
+  },
+  {
+   "id": "PRO-078",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Tools of Persuasion\nPersuasion is the art of convincing someone to agree with your point of view. According to the ancient Greek philosopher Aristotle, there are three basic tools of persuasion: ethos, pathos, and logos. Ethos is a speaker’s way of convincing the audience that she is a credible source. An audience will consider a speaker credible if she seems trustworthy, reliable, and sincere. This can be done in many ways. For example, a speaker can develop ethos by explaining how much experience or education she has in the field. After all, you would be more likely to listen to advice about how to take care of your teeth from a dentist than a firefighter. A speaker can also create ethos by convincing the audience that she is a good person who has their best interests at heart. If an audience cannot trust you, you will not be able to persuade them. Logos is the use of facts, information, statistics, or other evidence to make your argument more convincing. An audience will be more likely to believe you if you ha ve data to back up your claims. For example, a commercial for a soap might tell you that laboratory tests have shown that their soap kills all 7,000,000 of the bacteria living on your hands right now. This piece of information might make you more likely to buy their brand of soap. Presenting this evidence is much more convincing than simply saying “our soap is the best!” The u se of logos can also increase a speaker’s ethos; the more facts a speaker includes in his argument, the more likely you are to think that he is educated and trustworthy Although ethos, pathos, and logos all have their strengths, they are often most effective when they are used together. Indeed, most speakers use a combination of ethos, pathos, and logos to persuade their audiences. The next time you listen to a speech, watch a commercial, or listen to a friend try to convince you to lend him some money, be on the lookout for these ancient Greek tools of persuasion.",
+   "question": "According to the author, what is the speaker’s way of convincing the audience that he/she is a credible source?",
+   "options": [
+    "pathos",
+    "combination to ethos and logos",
+    "ethos",
+    "combination of logos and pathos",
+    "logos"
+   ],
+   "correctAnswer": 2,
+   "explanation": "ethos. Explanation: According to the author, the speaker’s way of convincing the audience that he/she is a credible source is through the use of ethos. Ethos refers to a speaker’s credibility and trustworthiness, and a speaker can establish ethos by emphasizing their experience and expertise in a particular field, or by convincing the audience that they have their best interests at heart."
+  },
+  {
+   "id": "PRO-079",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 4,
+   "passage": "Tools of Persuasion\nPersuasion is the art of convincing someone to agree with your point of view. According to the ancient Greek philosopher Aristotle, there are three basic tools of persuasion: ethos, pathos, and logos. Ethos is a speaker’s way of convincing the audience that she is a credible source. An audience will consider a speaker credible if she seems trustworthy, reliable, and sincere. This can be done in many ways. For example, a speaker can develop ethos by explaining how much experience or education she has in the field. After all, you would be more likely to listen to advice about how to take care of your teeth from a dentist than a firefighter. A speaker can also create ethos by convincing the audience that she is a good person who has their best interests at heart. If an audience cannot trust you, you will not be able to persuade them. Logos is the use of facts, information, statistics, or other evidence to make your argument more convincing. An audience will be more likely to believe you if you ha ve data to back up your claims. For example, a commercial for a soap might tell you that laboratory tests have shown that their soap kills all 7,000,000 of the bacteria living on your hands right now. This piece of information might make you more likely to buy their brand of soap. Presenting this evidence is much more convincing than simply saying “our soap is the best!” The u se of logos can also increase a speaker’s ethos; the more facts a speaker includes in his argument, the more likely you are to think that he is educated and trustworthy Although ethos, pathos, and logos all have their strengths, they are often most effective when they are used together. Indeed, most speakers use a combination of ethos, pathos, and logos to persuade their audiences. The next time you listen to a speech, watch a commercial, or listen to a friend try to convince you to lend him some money, be on the lookout for these ancient Greek tools of persuasion.",
+   "question": "Jared is running for mayor. He tells his audience: “Under our current mayor, there have been 15,000 new cases of unemployment. If he stays in office, who knows how many more people will lose their jobs? The number could go up even higher. When I was the CEO of Magnatech, I helped to create over 1,000 new jobs. I can do the same thing for this city if you vote for me.” Which form of persuasion is Jared using here?",
+   "options": [
+    "pathos",
+    "ethos",
+    "logos",
+    "pathos and ethos only",
+    "pathos, ethos, and logos altogether"
+   ],
+   "correctAnswer": 4,
+   "explanation": "pathos, ethos, and logos altogether. Explanation: Jared uses logos by providing a statistic about the current state of unemployment in the city and his own track record of job creation. He also uses ethos by emphasizing his experience as a CEO and suggesting that he can use that experience to create jobs for the city. Finally, he uses pathos by implying that if the current mayor remains in office, more people will lose their jobs, which could evoke fear and concern in the audience."
+  },
+  {
+   "id": "PRO-080",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Tools of Persuasion\nPersuasion is the art of convincing someone to agree with your point of view. According to the ancient Greek philosopher Aristotle, there are three basic tools of persuasion: ethos, pathos, and logos. Ethos is a speaker’s way of convincing the audience that she is a credible source. An audience will consider a speaker credible if she seems trustworthy, reliable, and sincere. This can be done in many ways. For example, a speaker can develop ethos by explaining how much experience or education she has in the field. After all, you would be more likely to listen to advice about how to take care of your teeth from a dentist than a firefighter. A speaker can also create ethos by convincing the audience that she is a good person who has their best interests at heart. If an audience cannot trust you, you will not be able to persuade them. Logos is the use of facts, information, statistics, or other evidence to make your argument more convincing. An audience will be more likely to believe you if you ha ve data to back up your claims. For example, a commercial for a soap might tell you that laboratory tests have shown that their soap kills all 7,000,000 of the bacteria living on your hands right now. This piece of information might make you more likely to buy their brand of soap. Presenting this evidence is much more convincing than simply saying “our soap is the best!” The u se of logos can also increase a speaker’s ethos; the more facts a speaker includes in his argument, the more likely you are to think that he is educated and trustworthy Although ethos, pathos, and logos all have their strengths, they are often most effective when they are used together. Indeed, most speakers use a combination of ethos, pathos, and logos to persuade their audiences. The next time you listen to a speech, watch a commercial, or listen to a friend try to convince you to lend him some money, be on the lookout for these ancient Greek tools of persuasion.",
+   "question": "If you are presenting statistics, facts, and evidence, the type of persuasion you are using is:",
+   "options": [
+    "ethos and logos",
+    "pathos only",
+    "logos and pathos",
+    "logos only",
+    "pathos and ethos"
+   ],
+   "correctAnswer": 3,
+   "explanation": "logos only. Explanation: Logos is the use of logical arguments, facts, and evidence to persuade an audience. Ethos, on the other hand, refers to the credibility and trustworthiness of the speaker, while pathos refers to the use of emotions to persuade an audience."
+  },
+  {
+   "id": "PRO-081",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "Which of the following is not a product that has been made with Kevlar?",
+   "options": [
+    "Tennis racquets",
+    "Brake pads",
+    "Bungee jumping cords",
+    "Body Armor",
+    "Table tops"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Bungee jumping cords. Explanation: Although Kevlar is known for its strength and durability, it is not typically used in bungee jumping cords. Bungee jumping cords are typically made of elastic materials, such as latex rubber, due to their ability to stretch and recoil. Kevlar is not an elastic material and is not well-suited for this type of use. While Kevlar has been used in a variety of products such as body armor, sporting equipment, and brake pads, there is no evidence to suggest that it has been used in bungee jumping cords."
+  },
+  {
+   "id": "PRO-082",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "When was the first bulletproof vest invented?",
+   "options": [
+    "1975",
+    "2006",
+    "1964",
+    "1985",
+    "1990"
+   ],
+   "correctAnswer": 0,
+   "explanation": "1975. Explanation: It is stated in the second paragraph that the first bulletproof vest was invented by Richard Armellino in 1975."
+  },
+  {
+   "id": "PRO-083",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "For which of the following characteristics is Kevlar known for?",
+   "options": [
+    "Strength",
+    "Heat resistance",
+    "Durability",
+    "Stopping bullets",
+    "All of the above"
+   ],
+   "correctAnswer": 4,
+   "explanation": "All of the above. Explanation: Kevlar is known for all of the above characteristics: strength, durability, heat resistance, and stopping bullets."
+  },
+  {
+   "id": "PRO-084",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "Who is credited for inventing Kevlar?",
+   "options": [
+    "Nicholas Jackson",
+    "Robert Kevlar",
+    "Richard Armellino",
+    "Stephanie Kwolek",
+    "None of the above"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Stephanie Kwolek. Explanation: As stated in the 3rd paragraph, during one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convinced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar."
+  },
+  {
+   "id": "PRO-085",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "Which of the following caused the search for a fabric like Kevlar?",
+   "options": [
+    "The need to replace asbestos",
+    "A shortage in the gasoline supply",
+    "The need for a better bulletproof vest",
+    "The want of better musical instrument",
+    "None"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A shortage in the gasoline supply. Explanation: Stephanie Kwolek was working for DuPont and searching for a lightweight yet strong fiber that could be used in tires. During the process, she discovered Kevlar which was later used to make bulletproof vests."
+  },
+  {
+   "id": "PRO-086",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 3,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "A vest made of 15 layers of Kevlar with no steel plates could stop all but which of the following rounds?",
+   "options": [
+    "Shotgun pellets",
+    "Rifle rounds",
+    "Handgun rounds",
+    "Revolver rounds",
+    "All of the above"
+   ],
+   "correctAnswer": 1,
+   "explanation": "rifle rounds. Explanation: The vest made of 15 layers of Kevlar with no steel plates could stop handgun rounds and revolver rounds but may not be able to stop rifle rounds."
+  },
+  {
+   "id": "PRO-087",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "Why did people begin using asbestos in buildings?",
+   "options": [
+    "It was extremely durable",
+    "It has an insect-repellant scent",
+    "It was resistant to fire",
+    "It has a cheap price",
+    "Its weight was adequate"
+   ],
+   "correctAnswer": 2,
+   "explanation": "it was resistant to fire. Explanation: Asbestos was used in buildings because it is resistant to fire and heat. It was thought to be an ideal material for insulation and fireproofing due to its ability to resist high temperatures without burning or melting."
+  },
+  {
+   "id": "PRO-088",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "According to the article, how many American police officers are estimated to wear bulletproof vests daily.",
+   "options": [
+    "Over half",
+    "2,000",
+    "35%",
+    "1,000",
+    "750"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Over half. Explanation: According to the article, over half of American police officers are estimated to wear bulletproof vests daily. So the answer is (a) Over half."
+  },
+  {
+   "id": "PRO-089",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "How much stronger is Kevlar than steel?",
+   "options": [
+    "Same strength as steel",
+    "Half as strong",
+    "Not as strong",
+    "Five times as strong"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Five times as strong. Explanation: Kevlar is a synthetic polymer that is about five times stronger than an equal weight of steel. This information is mentioned in the second paragraph of the article: “Kevlar is a synthetic polymer that is five times stronger than an equal weight of steel.”"
+  },
+  {
+   "id": "PRO-090",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Kevlar\nDid you know that there is a fiber that is as flexible and lightweight as nylon yet five times stronger than steel? Did you know that this fabric is resistant to temperatures higher than 500 degrees Fahrenheit? Did you know that a woman invented this fiber? This miraculous fabric is called Kevlar and it is used to make everything from body armor to musical instruments. The year was 1964. There were gasoline shortages due to conflict in the Middle East. A Polish-American chemist named Ste phanie Louise Kwolek was working for DuPont, an American chemical company. She and her group were trying to make a lightweight, yet durable fiber to be used in tires. Lighter tires would allow vehicles to get better gas mileage, but the tires had to be str ong enough to resist the wear and tear of the road. They had been working on the problem for some time and had little success until Kwolek had a breakthrough. Kwolek and her group were synthesizing or creating fibers to test. During one of the steps in the process, Kwolek created a milky white solution by mixing two chemicals that were often used in the process. This solution was usually thrown away, but Kwolek convin ced one of the technicians to help her test it. They were amazed to discover that the fabric that Kwolek had created was not only more durable than nylon, but was more durable than steel. Kwolek had invented Kevlar. Kevlar is a remarkable fabric known fo r its strength and durability. Since its invention, it has found its way into a wide variety of products. Kevlar is used in sporting equipment like bike tires, bowstrings, and tennis racquets. It is used in musical instruments like drum heads, reeds, and speaker cones. And it is used in protective gear like motorcycle safety jackets, gloves, and shoes. However, Kevlar is best known for its ability to stop bullets. Richard Armellino created the first Kevlar bulletproof vest in 1975. It contained 15 layers of Kevlar, which could stop handgun and shotgun bullets. The vest also had a steel plate over the heart, which made the vest strong enough to stop rifle rounds. Vests like Armellino's were quickly picked up by police forces and it is estimated that by 1990, half of all police officers in America wore bulletproof vests daily. By 2006 there were over 2,000 documented police vest \"saves,\" or instances where officers were protected from deadly wounds by wearing bulletproof vests. Kevlar is an amazing fabric no t only for its hardness and durability but also for its heat resistance. Because of this, it has been used to replace asbestos. Asbestos is a naturally occurring material that is known for its ability to resist fire. Asbestos can resist temperatures over 1000 degrees Fahrenheit. For this reason, it was used in roofs, electrical cables, and brake pads, until people discovered that it causes cancer and other serious health problems. Kevlar poses no such risks. It is lightweight, flexible, and resistant to fire. Therefore, it has proven to be a good replacement for asbestos in many cases. Since its invention in 1964, Kevlar has won its way into our lives. From musical instruments and brake pads to protective equipment and sporting gear, Kevlar is everywhere. E very day of your life you are exposed to something that was made better by Kevlar. Who'd have known?",
+   "question": "What product was Kwolek trying to improve when she invented Kevlar?",
+   "options": [
+    "brake pads",
+    "belts",
+    "armor",
+    "bullets",
+    "tires"
+   ],
+   "correctAnswer": 4,
+   "explanation": "tires. Explanation: Kwolek was trying to improve the strength of tires when she invented Kevlar. ANALOGY: Here are the answers to the Analogy part of the CSE Professional Reviewer:"
+  },
+  {
+   "id": "SUB-071",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 2,
+   "passage": "The United States has given the free world the concept of “the American Dream,” and thousands from all over the earth immigrate to America to pursue it. If one works hard, educates oneself and one’s children, obeys the laws, and executes the responsibilities of a citizen, one can expect prosperity. One’s children can only do better.",
+   "question": "The main idea of the passage above is that:",
+   "options": [
+    "Hard work reaps rewards all over the earth.",
+    "Only the children profit from their parents’ efforts.",
+    "“The American Dream” is only a dream.",
+    "“The American Dream” promises earthly rewards for productive behaviors.",
+    "Not presented in the passage."
+   ],
+   "correctAnswer": 3,
+   "explanation": "“The American Dream” promises earthly rewards for productive behaviors.. Explanation: It is a summary statement of the actions that make up the dream, so it IS the main idea and an example of an implied main idea."
+  },
+  {
+   "id": "SUB-072",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 2,
+   "passage": "Working on a computer can be very frustrating if you don’t follow the rules. Rule Number One for word processing is “Save your work frequently.” You can sit and yell at the machine when your stuff disappears. You can bang the keyboard. You can even cry. The fact remains, had you saved frequently, a lot more than nothing would still be there.",
+   "question": "Which sentence best expresses the main idea of the passage above?",
+   "options": [
+    "Even modern computers are not truly- user-friendly.",
+    "Word processing has lots of bugs, and the industry should be ashamed.",
+    "The wise typist saves often.",
+    "When the computer wins and you lose, get angry.",
+    "Not presented in the passage."
+   ],
+   "correctAnswer": 2,
+   "explanation": "The wise typist saves often.. Explanation: The sentence that best expresses the main idea of the passage is “The wise typist saves often.” The paragraph emphasizes the importance of following the first rule of word processing, which is to save your work frequently. It explains that failing to do so can result in frustration and losing your work, which can cause you to yell, bang the keyboard, or even cry. The paragraph concludes by stating that had you saved frequently, you would not have lost everything. Therefore, the main idea is to stress the importance of saving your work frequently to..."
+  },
+  {
+   "id": "SUB-073",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 3,
+   "passage": "Sam shivered as he passed from the bright sunlight into the gloom of the alley on that brilliant January day. As he pulled his jacket collar closer to his neck, feeling miserable about his mission, the eternally childish shouts from the end of the alley echoed familiarly. He could make out his parents’ silhouettes, posed like old-fashioned boxers, ahead of him in the gloom, and wondered anew at how they could always make him feel like he was the forever big brother, the forever responsible party.",
+   "question": "The paragraph could be entitled:",
+   "options": [
+    "“A cold January Day”",
+    "“The Battered Wife”",
+    "“The Child as Parent”",
+    "“Alleys”",
+    "“The Prodigal Son”"
+   ],
+   "correctAnswer": 2,
+   "explanation": "“The Child as Parent”. Explanation: Based on the content of the paragraph, the most appropriate title would be “The Child as Parent.” The paragraph describes how Sam’s parents are acting like childish boxers in the alley, while Sam, their child, is feeling responsible and miserable about his mission. This highlights the idea of the child taking on the role of the parent or feeling like they have to be the responsible one in the family, which is reflected in the title “The Child as Parent.” None of the other title options accurately reflect the content of the paragraph."
+  },
+  {
+   "id": "SUB-075",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 3,
+   "passage": "The complexities of being an adult who attends school are manifold. Home, work, and school compete. Parenting responsibilities remain in full force, no matter what other activities an adult pursues. Job demands are incessant and presume one’s constant alertness and availability during working hours. School requires not only attendance but also the execution of a multitude of homework assignments. Only those who are strong, disciplined, flexible, and committed survive and thrive.",
+   "question": "What idea does the paragraph develop?",
+   "options": [
+    "To succeed, an adult must be mature in nature.",
+    "Employers assume one has no life outside their job.",
+    "No matter what other demands may come and go, children are always there.",
+    "College studies are not simply a matter of going to class.",
+    "Jobs are permanent and must be valued."
+   ],
+   "correctAnswer": 3,
+   "explanation": "College studies are not simply a matter of going to class.. Explanation: The idea developed in the paragraph is that attending school as an adult can be complex and challenging due to the competing demands of work, parenting responsibilities, and school. The paragraph highlights the fact that adults who attend school must be strong, disciplined, flexible, and committed in order to succeed and thrive. It emphasizes that attending college is not simply a matter of going to class, but also requires the execution of numerous homework assignments. Therefore, option D, “College studies are not..."
+  },
+  {
+   "id": "SUB-076",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Seagulls live on the beach. They eat small fish, bread, and seaweed. Seagulls run quickly on the sand and fly quickly in the sky. Seagulls will run or fly away if you try to catch them. There are many seagulls on the beach. Crabs also live on the beach. They eat shrimp, ocean plants, and small fish. Crabs crawl quickly on the sand and in the ocean. Crabs will crawl away if you try to catch them. There are many crabs on the beach, but it is not always easy to see them. Starfish live on the beach, too. They eat clams, oysters, and small fish. Starfish move slowly on the sand and in the ocean. Starfish will not move away if you try to catch them. There are few starfish on the beach.",
+   "question": "Seagulls, crabs, and starfish all eat:",
+   "options": [
+    "clams",
+    "shrimps",
+    "bread",
+    "fish",
+    "plants"
+   ],
+   "correctAnswer": 3,
+   "explanation": "small fish. Explanation: Seagulls, crabs, and starfish have different diets, but the one thing they eat in common is small fish. Both seagulls and crabs eat small fish, and starfish eat small fish along with other things such as clams and oysters."
+  },
+  {
+   "id": "SUB-077",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Seagulls live on the beach. They eat small fish, bread, and seaweed. Seagulls run quickly on the sand and fly quickly in the sky. Seagulls will run or fly away if you try to catch them. There are many seagulls on the beach. Crabs also live on the beach. They eat shrimp, ocean plants, and small fish. Crabs crawl quickly on the sand and in the ocean. Crabs will crawl away if you try to catch them. There are many crabs on the beach, but it is not always easy to see them. Starfish live on the beach, too. They eat clams, oysters, and small fish. Starfish move slowly on the sand and in the ocean. Starfish will not move away if you try to catch them. There are few starfish on the beach.",
+   "question": "Based on the information in the passage, which sentence is false?",
+   "options": [
+    "Starfish are hard to catch.",
+    "Crabs eat shrimps and ocean plants.",
+    "Seagulls move quickly on the sand and in the air.",
+    "Starfish move slow.",
+    "Crabs crawl quickly on the sand and in the ocean."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Starfish are hard to catch.. Explanation: The passage states that “Starfish will not move away if you try to catch them,” which implies that they are relatively easy to catch."
+  },
+  {
+   "id": "SUB-078",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Seagulls live on the beach. They eat small fish, bread, and seaweed. Seagulls run quickly on the sand and fly quickly in the sky. Seagulls will run or fly away if you try to catch them. There are many seagulls on the beach. Crabs also live on the beach. They eat shrimp, ocean plants, and small fish. Crabs crawl quickly on the sand and in the ocean. Crabs will crawl away if you try to catch them. There are many crabs on the beach, but it is not always easy to see them. Starfish live on the beach, too. They eat clams, oysters, and small fish. Starfish move slowly on the sand and in the ocean. Starfish will not move away if you try to catch them. There are few starfish on the beach.",
+   "question": "The passage does not talk about:",
+   "options": [
+    "how fast beach animals move",
+    "what starfish eat",
+    "how crabs catch food",
+    "what seagulls do when you try to catch them",
+    "where starfish lives."
+   ],
+   "correctAnswer": 2,
+   "explanation": "how crabs catch food. Explanation: The passage describes what crabs eat and how they move, but it does not mention how crabs catch food."
+  },
+  {
+   "id": "SUB-079",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 1,
+   "passage": "Seagulls live on the beach. They eat small fish, bread, and seaweed. Seagulls run quickly on the sand and fly quickly in the sky. Seagulls will run or fly away if you try to catch them. There are many seagulls on the beach. Crabs also live on the beach. They eat shrimp, ocean plants, and small fish. Crabs crawl quickly on the sand and in the ocean. Crabs will crawl away if you try to catch them. There are many crabs on the beach, but it is not always easy to see them. Starfish live on the beach, too. They eat clams, oysters, and small fish. Starfish move slowly on the sand and in the ocean. Starfish will not move away if you try to catch them. There are few starfish on the beach.",
+   "question": "Based on information in the passage, which animal would you be most likely to see at the beach?",
+   "options": [
+    "crabs",
+    "shrimps",
+    "starfish",
+    "seagulls",
+    "sea-urchins"
+   ],
+   "correctAnswer": 3,
+   "explanation": "seagulls. Explanation: The passage states that “There are many seagulls on the beach,” which implies that seagulls are commonly found at the beach. While other animals such as crabs, starfish, and sea-urchins are also mentioned, the passage does not provide any indication of their abundance at the beach."
+  },
+  {
+   "id": "SUB-080",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 2,
+   "passage": "Seagulls live on the beach. They eat small fish, bread, and seaweed. Seagulls run quickly on the sand and fly quickly in the sky. Seagulls will run or fly away if you try to catch them. There are many seagulls on the beach. Crabs also live on the beach. They eat shrimp, ocean plants, and small fish. Crabs crawl quickly on the sand and in the ocean. Crabs will crawl away if you try to catch them. There are many crabs on the beach, but it is not always easy to see them. Starfish live on the beach, too. They eat clams, oysters, and small fish. Starfish move slowly on the sand and in the ocean. Starfish will not move away if you try to catch them. There are few starfish on the beach.",
+   "question": "Based on the passage, we can understand that:",
+   "options": [
+    "many animals live at the beach.",
+    "the beach is a good place for a vacation.",
+    "the beach is not as nice as the mountains.",
+    "many people catch crabs at the beach.",
+    "the beach is a breeding ground for the starfish."
+   ],
+   "correctAnswer": 0,
+   "explanation": "many animals live at the beach. Explanation: The passage describes three different animals (seagulls, crabs, and starfish) that live at the beach and provides some details about their characteristics and behavior."
+  },
+  {
+   "id": "SUB-081",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 2,
+   "passage": "Today, Mike and his mom are going to the library. Mike wants to find a book to read. His mom wants to use a computer there. When they get to the library, Mike finds a book about detectives. He also finds a book with chapters about a friendly ghost. Finally, he finds a book about a man who lives in the woods without food or water. He puts the books on the front desk and waits for his mom. Mike's mom sits at one of the computers in the library. She checks her email and looks at pictures of flowers on the internet. Then she reads a news article on a website. Mike's mom leaves the computer and walks over to Mike, holding up something out for him. Mike looks at her quizzically. It takes him a moment to recognize what she is holding. “I got that movie for us to watch tonight,\" says Mike's mom. “Are you ready to leave?” \"Sure,\" Mike says, now holding the movie out in front of him. He reads the cover while walking back to the library entrance. He puts his books and the movie on the front desk to check- out. A librarian stands behind the counter holding an electronic scanner. \"How long can we keep them?\" Mike asks her. \"Three weeks,\" says the librarian. \"Cool,\" says Mike. Suddenly, Mike is surprised. His mother is checking out something else that is too bi g to put on the desk. It’s a picture of the ocean. \"What is that for?\" Mike asks. \"To put on our wall at home,\" says Mike's mom. \"You can do that?\" Mike asks. Mike's mom smiles at the librarian. \"Yes,\" she says, \"but we have to return it in three months.”",
+   "question": "Based on the books Mike finds to check out, we can tell that he is interested in:",
+   "options": [
+    "adventure",
+    "nature",
+    "science",
+    "fiction",
+    "mystery"
+   ],
+   "correctAnswer": 4,
+   "explanation": "mystery. Explanation: Based on the books Mike finds to check out, we can tell that he is most interested in reading books about mystery."
+  },
+  {
+   "id": "SUB-082",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Today, Mike and his mom are going to the library. Mike wants to find a book to read. His mom wants to use a computer there. When they get to the library, Mike finds a book about detectives. He also finds a book with chapters about a friendly ghost. Finally, he finds a book about a man who lives in the woods without food or water. He puts the books on the front desk and waits for his mom. Mike's mom sits at one of the computers in the library. She checks her email and looks at pictures of flowers on the internet. Then she reads a news article on a website. Mike's mom leaves the computer and walks over to Mike, holding up something out for him. Mike looks at her quizzically. It takes him a moment to recognize what she is holding. “I got that movie for us to watch tonight,\" says Mike's mom. “Are you ready to leave?” \"Sure,\" Mike says, now holding the movie out in front of him. He reads the cover while walking back to the library entrance. He puts his books and the movie on the front desk to check- out. A librarian stands behind the counter holding an electronic scanner. \"How long can we keep them?\" Mike asks her. \"Three weeks,\" says the librarian. \"Cool,\" says Mike. Suddenly, Mike is surprised. His mother is checking out something else that is too bi g to put on the desk. It’s a picture of the ocean. \"What is that for?\" Mike asks. \"To put on our wall at home,\" says Mike's mom. \"You can do that?\" Mike asks. Mike's mom smiles at the librarian. \"Yes,\" she says, \"but we have to return it in three months.”",
+   "question": "According to the passage, how long can Mike and his mother use the books and the movie before they must return them to the library?",
+   "options": [
+    "six days",
+    "one week",
+    "two weeks",
+    "three weeks",
+    "four weeks"
+   ],
+   "correctAnswer": 3,
+   "explanation": "three weeks. Explanation: According to the passage, Mike and his mother can use the books and the movie for three weeks before they must return them to the library."
+  },
+  {
+   "id": "SUB-083",
+   "level": "subprofessional",
+   "skill": "Vocabulary in Context",
+   "tier": 3,
+   "passage": "Today, Mike and his mom are going to the library. Mike wants to find a book to read. His mom wants to use a computer there. When they get to the library, Mike finds a book about detectives. He also finds a book with chapters about a friendly ghost. Finally, he finds a book about a man who lives in the woods without food or water. He puts the books on the front desk and waits for his mom. Mike's mom sits at one of the computers in the library. She checks her email and looks at pictures of flowers on the internet. Then she reads a news article on a website. Mike's mom leaves the computer and walks over to Mike, holding up something out for him. Mike looks at her quizzically. It takes him a moment to recognize what she is holding. “I got that movie for us to watch tonight,\" says Mike's mom. “Are you ready to leave?” \"Sure,\" Mike says, now holding the movie out in front of him. He reads the cover while walking back to the library entrance. He puts his books and the movie on the front desk to check- out. A librarian stands behind the counter holding an electronic scanner. \"How long can we keep them?\" Mike asks her. \"Three weeks,\" says the librarian. \"Cool,\" says Mike. Suddenly, Mike is surprised. His mother is checking out something else that is too bi g to put on the desk. It’s a picture of the ocean. \"What is that for?\" Mike asks. \"To put on our wall at home,\" says Mike's mom. \"You can do that?\" Mike asks. Mike's mom smiles at the librarian. \"Yes,\" she says, \"but we have to return it in three months.”",
+   "question": "Based on its use in paragraph 4, it can be understood that quizzically belongs to which of the following word groups?",
+   "options": [
+    "abnormally, strangely, weirdly",
+    "inquisitively, questioningly, curiously",
+    "passionately, keenly, intensely",
+    "casually, carelessly, indifferently",
+    "none of the above"
+   ],
+   "correctAnswer": 1,
+   "explanation": "inquisitively, questioningly, curiously. Explanation: Based on its use in paragraph 4, it can be understood that “quizzically” belongs to the word group (b) inquisitively, questioningly, curiously, as it describes how Mike looked at his mother upon her holding something out for him."
+  },
+  {
+   "id": "SUB-084",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Today, Mike and his mom are going to the library. Mike wants to find a book to read. His mom wants to use a computer there. When they get to the library, Mike finds a book about detectives. He also finds a book with chapters about a friendly ghost. Finally, he finds a book about a man who lives in the woods without food or water. He puts the books on the front desk and waits for his mom. Mike's mom sits at one of the computers in the library. She checks her email and looks at pictures of flowers on the internet. Then she reads a news article on a website. Mike's mom leaves the computer and walks over to Mike, holding up something out for him. Mike looks at her quizzically. It takes him a moment to recognize what she is holding. “I got that movie for us to watch tonight,\" says Mike's mom. “Are you ready to leave?” \"Sure,\" Mike says, now holding the movie out in front of him. He reads the cover while walking back to the library entrance. He puts his books and the movie on the front desk to check- out. A librarian stands behind the counter holding an electronic scanner. \"How long can we keep them?\" Mike asks her. \"Three weeks,\" says the librarian. \"Cool,\" says Mike. Suddenly, Mike is surprised. His mother is checking out something else that is too bi g to put on the desk. It’s a picture of the ocean. \"What is that for?\" Mike asks. \"To put on our wall at home,\" says Mike's mom. \"You can do that?\" Mike asks. Mike's mom smiles at the librarian. \"Yes,\" she says, \"but we have to return it in three months.”",
+   "question": "What does Mike's mom want to do with the picture of the ocean?",
+   "options": [
+    "She wants to buy it.",
+    "She wants to hang it on her wall.",
+    "She wants to give it to her friend as a gift.",
+    "She wants to donate it to the library.",
+    "She wants to keep it."
+   ],
+   "correctAnswer": 1,
+   "explanation": "She wants to hang it on her wall.. Explanation: Mike’s mom wants to hang the picture of the ocean on their wall at home, as mentioned in the passage: “His mother is checking out something else that is too big to put on the desk. It’s a picture of the ocean. ‘What is that for?’ Mike asks. ‘To put on our wall at home,’ says Mike’s mom.”"
+  },
+  {
+   "id": "SUB-085",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 1,
+   "passage": "Today, Mike and his mom are going to the library. Mike wants to find a book to read. His mom wants to use a computer there. When they get to the library, Mike finds a book about detectives. He also finds a book with chapters about a friendly ghost. Finally, he finds a book about a man who lives in the woods without food or water. He puts the books on the front desk and waits for his mom. Mike's mom sits at one of the computers in the library. She checks her email and looks at pictures of flowers on the internet. Then she reads a news article on a website. Mike's mom leaves the computer and walks over to Mike, holding up something out for him. Mike looks at her quizzically. It takes him a moment to recognize what she is holding. “I got that movie for us to watch tonight,\" says Mike's mom. “Are you ready to leave?” \"Sure,\" Mike says, now holding the movie out in front of him. He reads the cover while walking back to the library entrance. He puts his books and the movie on the front desk to check- out. A librarian stands behind the counter holding an electronic scanner. \"How long can we keep them?\" Mike asks her. \"Three weeks,\" says the librarian. \"Cool,\" says Mike. Suddenly, Mike is surprised. His mother is checking out something else that is too bi g to put on the desk. It’s a picture of the ocean. \"What is that for?\" Mike asks. \"To put on our wall at home,\" says Mike's mom. \"You can do that?\" Mike asks. Mike's mom smiles at the librarian. \"Yes,\" she says, \"but we have to return it in three months.”",
+   "question": "Which of the following would be the best title for this passage?",
+   "options": [
+    "Mike's Mom",
+    "A Picture of the Ocean",
+    "At the Library",
+    "Books, Computers, Movies, and Pictures",
+    "Renting a Book"
+   ],
+   "correctAnswer": 2,
+   "explanation": "At the Library. Explanation: The best title for this passage would be (c) At the Library, as it summarizes the main setting and events that take place within the passage."
+  },
+  {
+   "id": "SUB-086",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "The living room does not look good. It looks bad without a curtain. Maja and Gerald want to buy a curtain. They want to buy a curtain for their living room. They go to the store. They look at the curtains. There are many colors. There are many sizes. Some have patterns. Some are plain. Maja likes a pink and purple curtain. It has dots. It has pink and purple dots. Gerald says no! He does not like the colors. He does not like the pattern. He does not like the size. The pink and purple curtain is too big. Gerald likes a green and red curtain. It has stripes. It has green and red stripes. Maja says no! She does not like the colors. She does not like the pattern. She does not like the size. The green and red curtain are too small. Maja and Gerald see a tan curtain. It does not have dots. It does not have stripes. It is plain. It is tan and plain. Gerald likes the tan curtain. Mary likes the tan curtain. They both like the color. They both like the size. They both say yes! Maja and Gerald buy the tan curtain. They put the curtain in the living room. The living room looks wonderful with the new curtain.",
+   "question": "According to the passage, Maja and Gerald want to put the new curtain in their:",
+   "options": [
+    "dining room",
+    "kitchen",
+    "living room",
+    "attic",
+    "bathroom"
+   ],
+   "correctAnswer": 2,
+   "explanation": "living room. Explanation: According to the passage, Maja and Gerald want to put the new curtain in their living room."
+  },
+  {
+   "id": "SUB-087",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "The living room does not look good. It looks bad without a curtain. Maja and Gerald want to buy a curtain. They want to buy a curtain for their living room. They go to the store. They look at the curtains. There are many colors. There are many sizes. Some have patterns. Some are plain. Maja likes a pink and purple curtain. It has dots. It has pink and purple dots. Gerald says no! He does not like the colors. He does not like the pattern. He does not like the size. The pink and purple curtain is too big. Gerald likes a green and red curtain. It has stripes. It has green and red stripes. Maja says no! She does not like the colors. She does not like the pattern. She does not like the size. The green and red curtain are too small. Maja and Gerald see a tan curtain. It does not have dots. It does not have stripes. It is plain. It is tan and plain. Gerald likes the tan curtain. Mary likes the tan curtain. They both like the color. They both like the size. They both say yes! Maja and Gerald buy the tan curtain. They put the curtain in the living room. The living room looks wonderful with the new curtain.",
+   "question": "According to the passage, the pink and purple curtain:",
+   "options": [
+    "has stains",
+    "has stripes",
+    "has dots",
+    "is too plain",
+    "is too small"
+   ],
+   "correctAnswer": 2,
+   "explanation": "has dots. Explanation: According to the passage, the pink and purple curtain has dots."
+  },
+  {
+   "id": "SUB-088",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "The living room does not look good. It looks bad without a curtain. Maja and Gerald want to buy a curtain. They want to buy a curtain for their living room. They go to the store. They look at the curtains. There are many colors. There are many sizes. Some have patterns. Some are plain. Maja likes a pink and purple curtain. It has dots. It has pink and purple dots. Gerald says no! He does not like the colors. He does not like the pattern. He does not like the size. The pink and purple curtain is too big. Gerald likes a green and red curtain. It has stripes. It has green and red stripes. Maja says no! She does not like the colors. She does not like the pattern. She does not like the size. The green and red curtain are too small. Maja and Gerald see a tan curtain. It does not have dots. It does not have stripes. It is plain. It is tan and plain. Gerald likes the tan curtain. Mary likes the tan curtain. They both like the color. They both like the size. They both say yes! Maja and Gerald buy the tan curtain. They put the curtain in the living room. The living room looks wonderful with the new curtain.",
+   "question": "According to the passage, both Maja and Gerald like the:",
+   "options": [
+    "pink and purple curtain",
+    "green and red curtain",
+    "white curtain",
+    "tan curtain",
+    "blue curtain"
+   ],
+   "correctAnswer": 3,
+   "explanation": "tan curtain. Explanation: Maja and Gerald both agree on a plain tan curtain that does not have any dots or stripes. They both like the color and size, and they buy it for their living room."
+  },
+  {
+   "id": "SUB-089",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "The living room does not look good. It looks bad without a curtain. Maja and Gerald want to buy a curtain. They want to buy a curtain for their living room. They go to the store. They look at the curtains. There are many colors. There are many sizes. Some have patterns. Some are plain. Maja likes a pink and purple curtain. It has dots. It has pink and purple dots. Gerald says no! He does not like the colors. He does not like the pattern. He does not like the size. The pink and purple curtain is too big. Gerald likes a green and red curtain. It has stripes. It has green and red stripes. Maja says no! She does not like the colors. She does not like the pattern. She does not like the size. The green and red curtain are too small. Maja and Gerald see a tan curtain. It does not have dots. It does not have stripes. It is plain. It is tan and plain. Gerald likes the tan curtain. Mary likes the tan curtain. They both like the color. They both like the size. They both say yes! Maja and Gerald buy the tan curtain. They put the curtain in the living room. The living room looks wonderful with the new curtain.",
+   "question": "Maja and Gerald do not see a:",
+   "options": [
+    "black and blue curtain",
+    "pink and purple curtain",
+    "tan and pink curtain",
+    "green and red curtain",
+    "red and tan curtain"
+   ],
+   "correctAnswer": 0,
+   "explanation": "black and blue curtain. Explanation: The passage does not mention Maja and Gerald seeing or considering a black and blue curtain."
+  },
+  {
+   "id": "SUB-090",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "The living room does not look good. It looks bad without a curtain. Maja and Gerald want to buy a curtain. They want to buy a curtain for their living room. They go to the store. They look at the curtains. There are many colors. There are many sizes. Some have patterns. Some are plain. Maja likes a pink and purple curtain. It has dots. It has pink and purple dots. Gerald says no! He does not like the colors. He does not like the pattern. He does not like the size. The pink and purple curtain is too big. Gerald likes a green and red curtain. It has stripes. It has green and red stripes. Maja says no! She does not like the colors. She does not like the pattern. She does not like the size. The green and red curtain are too small. Maja and Gerald see a tan curtain. It does not have dots. It does not have stripes. It is plain. It is tan and plain. Gerald likes the tan curtain. Mary likes the tan curtain. They both like the color. They both like the size. They both say yes! Maja and Gerald buy the tan curtain. They put the curtain in the living room. The living room looks wonderful with the new curtain.",
+   "question": "Based on information in the passage, it can be understood that both Maja and Gerald would like which of the following curtains best?",
+   "options": [
+    "a grey curtain with no dots or stripes",
+    "a black and white curtain with both dots and stripes",
+    "a yellow and pink curtain with red stripes",
+    "a pink and yellow curtain with dots",
+    "a blue and green curtain with stripes"
+   ],
+   "correctAnswer": 0,
+   "explanation": "grey curtain with no dots or stripes. Explanation: Maja and Gerald ultimately choose a plain tan curtain, so it can be inferred that they prefer curtains without patterns or stripes. Therefore, a grey curtain with no dots or stripes would be a suitable option that both Maja and Gerald might like best. SPELLING: Here are the answers to the Spelling part of the CSE Sub-Pro Reviewer:"
+  },
+  {
+   "id": "RCP-01",
+   "level": "professional",
+   "skill": "Main Idea & Title",
+   "tier": 1,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "What is the best title for the passage?",
+   "options": [
+    "The Philippine Eagle: A Rare Bird in Need of Protection",
+    "How to Build a Nest",
+    "Farming in Mindanao",
+    "The Fastest Birds in Asia",
+    "A Day in the Rainforest"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage describes a rare eagle, why it is losing its habitat and the efforts to protect it. Only the first title covers all of that."
+  },
+  {
+   "id": "RCP-02",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "According to the passage, why has the eagle lost much of its home?",
+   "options": [
+    "Forests have been cut down for farms and housing.",
+    "The eagle prefers to live in cities.",
+    "Storms destroyed the nests.",
+    "Other eagles took over the forests.",
+    "The rainforests have dried up."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage states it directly: \"Because forests have been cut down for farms and housing, the eagle has lost much of its home.\""
+  },
+  {
+   "id": "RCP-03",
+   "level": "professional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "As used in the passage, \"conservation\" most nearly means:",
+   "options": [
+    "protecting nature from harm or loss",
+    "building large cities",
+    "hunting for sport",
+    "selling rare animals",
+    "studying old books"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Conservation groups guard nesting sites and teach communities, so the word refers to protecting nature."
+  },
+  {
+   "id": "RCP-04",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "Which statement can be inferred from the passage?",
+   "options": [
+    "Protecting the eagle needs the cooperation of nearby communities.",
+    "Philippine eagles are common in cities.",
+    "Farms help the eagle survive.",
+    "The eagle builds its nests on the ground.",
+    "Conservation groups have failed."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The groups \"teach nearby communities why the bird matters\", which implies that local people are needed to protect it."
+  },
+  {
+   "id": "RCP-05",
+   "level": "professional",
+   "skill": "Main Idea & Title",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "What is the main idea of the passage?",
+   "options": [
+    "The free student bus brought benefits as well as unexpected drawbacks.",
+    "The free bus service was a complete success.",
+    "Students no longer need to take the bus.",
+    "Shops should close near schools.",
+    "Parents dislike buying groceries."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Traffic fell (a benefit), but shops lost customers (a drawback), so the idea is mixed results."
+  },
+  {
+   "id": "RCP-06",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "By about how much did traffic near schools fall in the morning?",
+   "options": [
+    "ten percent",
+    "two percent",
+    "twenty percent",
+    "fifty percent",
+    "It did not fall."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage says traffic \"did fall by about ten percent during morning hours.\""
+  },
+  {
+   "id": "RCP-07",
+   "level": "professional",
+   "skill": "Purpose & Tone",
+   "tier": 3,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "Which best describes the author's tone?",
+   "options": [
+    "balanced and objective",
+    "angry and accusing",
+    "humorous",
+    "nostalgic",
+    "overly enthusiastic"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author reports both the gains and the drawbacks without taking a strong side, which is a balanced, objective tone."
+  },
+  {
+   "id": "RCP-08",
+   "level": "professional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "In the passage, \"the results were mixed\" means that the results were:",
+   "options": [
+    "partly good and partly bad",
+    "completely confusing",
+    "all excellent",
+    "not recorded",
+    "identical in all areas"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The next sentences give one good result (less traffic) and one bad result (fewer shop customers)."
+  },
+  {
+   "id": "RCP-09",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "What will the officials most likely do next?",
+   "options": [
+    "Study the effect on shops before expanding the program.",
+    "Cancel all bus routes immediately.",
+    "Ignore the shop owners.",
+    "Close the schools.",
+    "Make the buses more expensive."
+   ],
+   "correctAnswer": 0,
+   "explanation": "They \"will study it before extending the program,\" so they will probably gather more information first."
+  },
+  {
+   "id": "RCP-10",
+   "level": "professional",
+   "skill": "Main Idea & Title",
+   "tier": 3,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What is the main idea of the passage?",
+   "options": [
+    "Handwriting still helps learning, but the best tool depends on the task.",
+    "Laptops should be banned in schools.",
+    "Typing is always faster than writing.",
+    "Handwriting is a dying skill.",
+    "Students should never write essays."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage rejects the \"dying skill\" claim, cites a study, and concludes that the tool should suit the task."
+  },
+  {
+   "id": "RCP-11",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "According to the passage, which students did better on conceptual questions?",
+   "options": [
+    "Those who took notes by hand",
+    "Those who typed their notes",
+    "Those who did not take notes",
+    "Those who used laptops only",
+    "Those who copied the lecture"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The study found that hand note-takers \"performed better on conceptual questions.\""
+  },
+  {
+   "id": "RCP-12",
+   "level": "professional",
+   "skill": "Purpose & Tone",
+   "tier": 4,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What is the author's main purpose?",
+   "options": [
+    "To argue that the tool should be chosen to fit the task",
+    "To prove that handwriting must replace typing",
+    "To ban laptops from classrooms",
+    "To describe the history of handwriting",
+    "To entertain readers with a story"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author says this \"does not mean laptops should be banned; it means that the tool should suit the task,\" so the aim is to argue for matching tool to task."
+  },
+  {
+   "id": "RCP-13",
+   "level": "professional",
+   "skill": "Vocabulary in Context",
+   "tier": 3,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "In the passage, \"apparently\" most nearly means:",
+   "options": [
+    "seemingly",
+    "certainly",
+    "unfortunately",
+    "rarely",
+    "immediately"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author offers a likely explanation and not a proven fact, so \"seemingly\" fits best."
+  },
+  {
+   "id": "RCP-14",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 4,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What can be inferred about the students who typed their notes?",
+   "options": [
+    "They probably copied the lecture word for word.",
+    "They were less intelligent.",
+    "They did not attend the lecture.",
+    "They used pens as well.",
+    "They summarized everything carefully."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Writing slowly forced the hand note-takers to summarize \"rather than copy\", which implies that typists tended to copy."
+  },
+  {
+   "id": "RCP-15",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "When is the Giant Lantern Festival held?",
+   "options": [
+    "Every December",
+    "Every June",
+    "Every Easter",
+    "Every New Year's Day",
+    "Every summer"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The first sentence says, \"Every December...\""
+  },
+  {
+   "id": "RCP-16",
+   "level": "professional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "How long do the teams spend building the parols?",
+   "options": [
+    "Months",
+    "A few hours",
+    "One day",
+    "One week",
+    "Years"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage says teams \"spend months building parols.\""
+  },
+  {
+   "id": "RCP-17",
+   "level": "professional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "In the passage, \"craft\" most nearly means:",
+   "options": [
+    "a skill of making things by hand",
+    "a small boat",
+    "a clever trick",
+    "a long journey",
+    "a type of festival"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The families built parols, so their \"craft\" is the skill of making lanterns."
+  },
+  {
+   "id": "RCP-18",
+   "level": "professional",
+   "skill": "Purpose & Tone",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "Which best describes the author's tone?",
+   "options": [
+    "admiring",
+    "critical",
+    "bored",
+    "fearful",
+    "angry"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author praises the size, lights and worldwide fame of the lanterns, which shows admiration."
+  },
+  {
+   "id": "RCP-19",
+   "level": "professional",
+   "skill": "Inference & Conclusions",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "What can be inferred about the festival?",
+   "options": [
+    "It brings recognition to the town.",
+    "It is held only for local families.",
+    "It is cheap to organize.",
+    "It happens in the daytime.",
+    "It was cancelled."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Visitors come from many countries, and families are proud that their craft is known worldwide, so the festival brings recognition to the town."
+  },
+  {
+   "id": "RCS-01",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 1,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "What is the best title for the passage?",
+   "options": [
+    "The Philippine Eagle: A Rare Bird in Need of Protection",
+    "How to Build a Nest",
+    "Farming in Mindanao",
+    "The Fastest Birds in Asia",
+    "A Day in the Rainforest"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage describes a rare eagle, why it is losing its habitat and the efforts to protect it. Only the first title covers all of that."
+  },
+  {
+   "id": "RCS-02",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "According to the passage, why has the eagle lost much of its home?",
+   "options": [
+    "Forests have been cut down for farms and housing.",
+    "The eagle prefers to live in cities.",
+    "Storms destroyed the nests.",
+    "Other eagles took over the forests.",
+    "The rainforests have dried up."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage states it directly: \"Because forests have been cut down for farms and housing, the eagle has lost much of its home.\""
+  },
+  {
+   "id": "RCS-03",
+   "level": "subprofessional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "As used in the passage, \"conservation\" most nearly means:",
+   "options": [
+    "protecting nature from harm or loss",
+    "building large cities",
+    "hunting for sport",
+    "selling rare animals",
+    "studying old books"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Conservation groups guard nesting sites and teach communities, so the word refers to protecting nature."
+  },
+  {
+   "id": "RCS-04",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "The Philippine eagle is one of the largest and rarest eagles in the world. It lives in the rainforests of Luzon, Samar, Leyte and Mindanao, where it builds nests high in tall trees. Because forests have been cut down for farms and housing, the eagle has lost much of its home. Fewer than a thousand are believed to remain. Conservation groups now guard nesting sites and teach nearby communities why the bird matters.",
+   "question": "Which statement can be inferred from the passage?",
+   "options": [
+    "Protecting the eagle needs the cooperation of nearby communities.",
+    "Philippine eagles are common in cities.",
+    "Farms help the eagle survive.",
+    "The eagle builds its nests on the ground.",
+    "Conservation groups have failed."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The groups \"teach nearby communities why the bird matters\", which implies that local people are needed to protect it."
+  },
+  {
+   "id": "RCS-05",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "What is the main idea of the passage?",
+   "options": [
+    "The free student bus brought benefits as well as unexpected drawbacks.",
+    "The free bus service was a complete success.",
+    "Students no longer need to take the bus.",
+    "Shops should close near schools.",
+    "Parents dislike buying groceries."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Traffic fell (a benefit), but shops lost customers (a drawback), so the idea is mixed results."
+  },
+  {
+   "id": "RCS-06",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "By about how much did traffic near schools fall in the morning?",
+   "options": [
+    "ten percent",
+    "two percent",
+    "twenty percent",
+    "fifty percent",
+    "It did not fall."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage says traffic \"did fall by about ten percent during morning hours.\""
+  },
+  {
+   "id": "RCS-07",
+   "level": "subprofessional",
+   "skill": "Purpose & Tone",
+   "tier": 3,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "Which best describes the author's tone?",
+   "options": [
+    "balanced and objective",
+    "angry and accusing",
+    "humorous",
+    "nostalgic",
+    "overly enthusiastic"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author reports both the gains and the drawbacks without taking a strong side, which is a balanced, objective tone."
+  },
+  {
+   "id": "RCS-08",
+   "level": "subprofessional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "In the passage, \"the results were mixed\" means that the results were:",
+   "options": [
+    "partly good and partly bad",
+    "completely confusing",
+    "all excellent",
+    "not recorded",
+    "identical in all areas"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The next sentences give one good result (less traffic) and one bad result (fewer shop customers)."
+  },
+  {
+   "id": "RCS-09",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 3,
+   "passage": "When the city introduced a free bus service for students, many predicted that the roads would grow emptier. The results were mixed. Traffic near schools did fall by about ten percent during morning hours. However, shops along the bus routes reported fewer customers, since parents who once stopped to buy groceries after drop-off no longer passed that way. City officials admit that they had not considered this side effect and say they will study it before extending the program.",
+   "question": "What will the officials most likely do next?",
+   "options": [
+    "Study the effect on shops before expanding the program.",
+    "Cancel all bus routes immediately.",
+    "Ignore the shop owners.",
+    "Close the schools.",
+    "Make the buses more expensive."
+   ],
+   "correctAnswer": 0,
+   "explanation": "They \"will study it before extending the program,\" so they will probably gather more information first."
+  },
+  {
+   "id": "RCS-10",
+   "level": "subprofessional",
+   "skill": "Main Idea & Title",
+   "tier": 3,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What is the main idea of the passage?",
+   "options": [
+    "Handwriting still helps learning, but the best tool depends on the task.",
+    "Laptops should be banned in schools.",
+    "Typing is always faster than writing.",
+    "Handwriting is a dying skill.",
+    "Students should never write essays."
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage rejects the \"dying skill\" claim, cites a study, and concludes that the tool should suit the task."
+  },
+  {
+   "id": "RCS-11",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 2,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "According to the passage, which students did better on conceptual questions?",
+   "options": [
+    "Those who took notes by hand",
+    "Those who typed their notes",
+    "Those who did not take notes",
+    "Those who used laptops only",
+    "Those who copied the lecture"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The study found that hand note-takers \"performed better on conceptual questions.\""
+  },
+  {
+   "id": "RCS-12",
+   "level": "subprofessional",
+   "skill": "Purpose & Tone",
+   "tier": 4,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What is the author's main purpose?",
+   "options": [
+    "To argue that the tool should be chosen to fit the task",
+    "To prove that handwriting must replace typing",
+    "To ban laptops from classrooms",
+    "To describe the history of handwriting",
+    "To entertain readers with a story"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author says this \"does not mean laptops should be banned; it means that the tool should suit the task,\" so the aim is to argue for matching tool to task."
+  },
+  {
+   "id": "RCS-13",
+   "level": "subprofessional",
+   "skill": "Vocabulary in Context",
+   "tier": 3,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "In the passage, \"apparently\" most nearly means:",
+   "options": [
+    "seemingly",
+    "certainly",
+    "unfortunately",
+    "rarely",
+    "immediately"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author offers a likely explanation and not a proven fact, so \"seemingly\" fits best."
+  },
+  {
+   "id": "RCS-14",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 4,
+   "passage": "Some educators argue that handwriting is a dying skill and that classroom time is better spent on typing. Yet research suggests otherwise. In one study, students who took notes by hand performed better on conceptual questions than those who typed, apparently because writing slowly forced them to summarize rather than copy. This does not mean laptops should be banned; it means that the tool should suit the task. A student drafting a long essay may prefer a keyboard, while one trying to grasp a difficult lecture may be better served by a pen.",
+   "question": "What can be inferred about the students who typed their notes?",
+   "options": [
+    "They probably copied the lecture word for word.",
+    "They were less intelligent.",
+    "They did not attend the lecture.",
+    "They used pens as well.",
+    "They summarized everything carefully."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Writing slowly forced the hand note-takers to summarize \"rather than copy\", which implies that typists tended to copy."
+  },
+  {
+   "id": "RCS-15",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "When is the Giant Lantern Festival held?",
+   "options": [
+    "Every December",
+    "Every June",
+    "Every Easter",
+    "Every New Year's Day",
+    "Every summer"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The first sentence says, \"Every December...\""
+  },
+  {
+   "id": "RCS-16",
+   "level": "subprofessional",
+   "skill": "Details & Facts",
+   "tier": 1,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "How long do the teams spend building the parols?",
+   "options": [
+    "Months",
+    "A few hours",
+    "One day",
+    "One week",
+    "Years"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The passage says teams \"spend months building parols.\""
+  },
+  {
+   "id": "RCS-17",
+   "level": "subprofessional",
+   "skill": "Vocabulary in Context",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "In the passage, \"craft\" most nearly means:",
+   "options": [
+    "a skill of making things by hand",
+    "a small boat",
+    "a clever trick",
+    "a long journey",
+    "a type of festival"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The families built parols, so their \"craft\" is the skill of making lanterns."
+  },
+  {
+   "id": "RCS-18",
+   "level": "subprofessional",
+   "skill": "Purpose & Tone",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "Which best describes the author's tone?",
+   "options": [
+    "admiring",
+    "critical",
+    "bored",
+    "fearful",
+    "angry"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The author praises the size, lights and worldwide fame of the lanterns, which shows admiration."
+  },
+  {
+   "id": "RCS-19",
+   "level": "subprofessional",
+   "skill": "Inference & Conclusions",
+   "tier": 2,
+   "passage": "Every December, the town of San Fernando in Pampanga holds a Giant Lantern Festival. Teams from different villages spend months building parols that can be more than twenty feet wide. At night, thousands of colored lights dance in patterns set to music. Visitors from many countries come to watch, and local families are proud that their craft is known around the world.",
+   "question": "What can be inferred about the festival?",
+   "options": [
+    "It brings recognition to the town.",
+    "It is held only for local families.",
+    "It is cheap to organize.",
+    "It happens in the daytime.",
+    "It was cancelled."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Visitors come from many countries, and families are proud that their craft is known worldwide, so the festival brings recognition to the town."
+  }
+ ]
+}
