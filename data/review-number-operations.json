@@ -1,0 +1,1925 @@
+{
+ "module": "number-operations",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "3 + 7 × 3 = ?",
+   "options": [
+    "26",
+    "30",
+    "25",
+    "14",
+    "24"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Multiply first: 7 × 3 = 21. Then add: 3 + 21 = 24.",
+   "id": "NUM-NUM-001"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "2 + 9 × 7 = ?",
+   "options": [
+    "63",
+    "62",
+    "65",
+    "69",
+    "77"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply first: 9 × 7 = 63. Then add: 2 + 63 = 65.",
+   "id": "NUM-NUM-002"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "7 + 9 × 8 = ?",
+   "options": [
+    "128",
+    "83",
+    "80",
+    "79",
+    "69"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply first: 9 × 8 = 72. Then add: 7 + 72 = 79.",
+   "id": "NUM-NUM-003"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "4 + 2 × 3 = ?",
+   "options": [
+    "15",
+    "10",
+    "14",
+    "11",
+    "18"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply first: 2 × 3 = 6. Then add: 4 + 6 = 10.",
+   "id": "NUM-NUM-004"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "2 + 4 × 9 = ?",
+   "options": [
+    "37",
+    "44",
+    "54",
+    "38",
+    "40"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply first: 4 × 9 = 36. Then add: 2 + 36 = 38.",
+   "id": "NUM-NUM-005"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "9 + 4 × 8 = ?",
+   "options": [
+    "104",
+    "37",
+    "43",
+    "41",
+    "21"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply first: 4 × 8 = 32. Then add: 9 + 32 = 41.",
+   "id": "NUM-NUM-006"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "5 + 3 × 2 = ?",
+   "options": [
+    "9",
+    "16",
+    "11",
+    "8",
+    "21"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply first: 3 × 2 = 6. Then add: 5 + 6 = 11.",
+   "id": "NUM-NUM-007"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 1,
+   "question": "12 + 4 × 4 = ?",
+   "options": [
+    "24",
+    "64",
+    "18",
+    "27",
+    "28"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Multiply first: 4 × 4 = 16. Then add: 12 + 16 = 28.",
+   "id": "NUM-NUM-008"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(7 + 6) × 5 − 7 = ?",
+   "options": [
+    "30",
+    "57",
+    "48",
+    "59",
+    "58"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Parentheses first: 7 + 6 = 13. Then 13 × 5 = 65, and 65 − 7 = 58.",
+   "id": "NUM-NUM-009"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(4 + 2) × 6 − 15 = ?",
+   "options": [
+    "21",
+    "24",
+    "1",
+    "17",
+    "18"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Parentheses first: 4 + 2 = 6. Then 6 × 6 = 36, and 36 − 15 = 21.",
+   "id": "NUM-NUM-010"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(3 + 8) × 4 − 4 = ?",
+   "options": [
+    "39",
+    "44",
+    "41",
+    "31",
+    "40"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Parentheses first: 3 + 8 = 11. Then 11 × 4 = 44, and 44 − 4 = 40.",
+   "id": "NUM-NUM-011"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(3 + 9) × 4 − 8 = ?",
+   "options": [
+    "31",
+    "40",
+    "35",
+    "45",
+    "36"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Parentheses first: 3 + 9 = 12. Then 12 × 4 = 48, and 48 − 8 = 40.",
+   "id": "NUM-NUM-012"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(3 + 6) × 2 − 8 = ?",
+   "options": [
+    "7",
+    "5",
+    "10",
+    "15",
+    "8"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Parentheses first: 3 + 6 = 9. Then 9 × 2 = 18, and 18 − 8 = 10.",
+   "id": "NUM-NUM-013"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(8 + 6) × 5 − 2 = ?",
+   "options": [
+    "68",
+    "73",
+    "63",
+    "36",
+    "65"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Parentheses first: 8 + 6 = 14. Then 14 × 5 = 70, and 70 − 2 = 68.",
+   "id": "NUM-NUM-014"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(8 + 3) × 4 − 15 = ?",
+   "options": [
+    "27",
+    "5",
+    "36",
+    "29",
+    "28"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Parentheses first: 8 + 3 = 11. Then 11 × 4 = 44, and 44 − 15 = 29.",
+   "id": "NUM-NUM-015"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 2,
+   "question": "(5 + 2) × 2 − 4 = ?",
+   "options": [
+    "15",
+    "10",
+    "30",
+    "5",
+    "14"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Parentheses first: 5 + 2 = 7. Then 7 × 2 = 14, and 14 − 4 = 10.",
+   "id": "NUM-NUM-016"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "31 − (6 × 2² + 9) + 6 = ?",
+   "options": [
+    "4",
+    "9",
+    "6",
+    "22",
+    "10"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Inside the parentheses: 2² = 4, 6 × 4 = 24, plus 9 = 33. Then 31 − 33 + 6 = 4.",
+   "id": "NUM-NUM-017"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "41 − (3 × 4² + 6) + 9 = ?",
+   "options": [
+    "20",
+    "8",
+    "−4",
+    "1",
+    "3"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Inside the parentheses: 4² = 16, 3 × 16 = 48, plus 6 = 54. Then 41 − 54 + 9 = −4.",
+   "id": "NUM-NUM-018"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "52 − (2 × 4² + 2) + 7 = ?",
+   "options": [
+    "41",
+    "25",
+    "15",
+    "29",
+    "30"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Inside the parentheses: 4² = 16, 2 × 16 = 32, plus 2 = 34. Then 52 − 34 + 7 = 25.",
+   "id": "NUM-NUM-019"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "57 − (5 × 3² + 3) + 9 = ?",
+   "options": [
+    "22",
+    "24",
+    "33",
+    "18",
+    "19"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Inside the parentheses: 3² = 9, 5 × 9 = 45, plus 3 = 48. Then 57 − 48 + 9 = 18.",
+   "id": "NUM-NUM-020"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "41 − (4 × 3² + 2) + 4 = ?",
+   "options": [
+    "7",
+    "11",
+    "17",
+    "19",
+    "2"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Inside the parentheses: 3² = 9, 4 × 9 = 36, plus 2 = 38. Then 41 − 38 + 4 = 7.",
+   "id": "NUM-NUM-021"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "54 − (2 × 5² + 7) + 4 = ?",
+   "options": [
+    "15",
+    "8",
+    "1",
+    "31",
+    "21"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Inside the parentheses: 5² = 25, 2 × 25 = 50, plus 7 = 57. Then 54 − 57 + 4 = 1.",
+   "id": "NUM-NUM-022"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "47 − (3 × 3² + 4) + 5 = ?",
+   "options": [
+    "22",
+    "18",
+    "29",
+    "30",
+    "21"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Inside the parentheses: 3² = 9, 3 × 9 = 27, plus 4 = 31. Then 47 − 31 + 5 = 21.",
+   "id": "NUM-NUM-023"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 3,
+   "question": "27 − (2 × 4² + 3) + 3 = ?",
+   "options": [
+    "2",
+    "1",
+    "11",
+    "−5",
+    "5"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Inside the parentheses: 4² = 16, 2 × 16 = 32, plus 3 = 35. Then 27 − 35 + 3 = −5.",
+   "id": "NUM-NUM-024"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(28 + 16) ÷ 4 × 3 − 2² = ?",
+   "options": [
+    "28",
+    "25",
+    "36",
+    "29",
+    "9"
+   ],
+   "correctAnswer": 3,
+   "explanation": "(28 + 16) = 44; 44 ÷ 4 = 11; × 3 = 33; 2² = 4; 33 − 4 = 29.",
+   "id": "NUM-NUM-025"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(6 + 10) ÷ 2 × 2 − 2² = ?",
+   "options": [
+    "15",
+    "10",
+    "22",
+    "2",
+    "12"
+   ],
+   "correctAnswer": 4,
+   "explanation": "(6 + 10) = 16; 16 ÷ 2 = 8; × 2 = 16; 2² = 4; 16 − 4 = 12.",
+   "id": "NUM-NUM-026"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(18 + 36) ÷ 6 × 4 − 3² = ?",
+   "options": [
+    "30",
+    "27",
+    "26",
+    "47",
+    "28"
+   ],
+   "correctAnswer": 1,
+   "explanation": "(18 + 36) = 54; 54 ÷ 6 = 9; × 4 = 36; 3² = 9; 36 − 9 = 27.",
+   "id": "NUM-NUM-027"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(18 + 10) ÷ 2 × 5 − 5² = ?",
+   "options": [
+    "25",
+    "35",
+    "49",
+    "45",
+    "65"
+   ],
+   "correctAnswer": 3,
+   "explanation": "(18 + 10) = 28; 28 ÷ 2 = 14; × 5 = 70; 5² = 25; 70 − 25 = 45.",
+   "id": "NUM-NUM-028"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(18 + 30) ÷ 6 × 4 − 3² = ?",
+   "options": [
+    "33",
+    "23",
+    "3",
+    "21",
+    "43"
+   ],
+   "correctAnswer": 1,
+   "explanation": "(18 + 30) = 48; 48 ÷ 6 = 8; × 4 = 32; 3² = 9; 32 − 9 = 23.",
+   "id": "NUM-NUM-029"
+  },
+  {
+   "level": "both",
+   "skill": "Order of Operations",
+   "tier": 4,
+   "question": "(18 + 10) ÷ 2 × 2 − 4² = ?",
+   "options": [
+    "9",
+    "14",
+    "2",
+    "12",
+    "32"
+   ],
+   "correctAnswer": 3,
+   "explanation": "(18 + 10) = 28; 28 ÷ 2 = 14; × 2 = 28; 4² = 16; 28 − 16 = 12.",
+   "id": "NUM-NUM-030"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−5 + 20 = ?",
+   "options": [
+    "25",
+    "22",
+    "−15",
+    "15",
+    "−25"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Start at −5 and move 20 to the right: 15.",
+   "id": "NUM-NUM-031"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−15 + 20 = ?",
+   "options": [
+    "35",
+    "−35",
+    "4",
+    "5",
+    "−5"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Start at −15 and move 20 to the right: 5.",
+   "id": "NUM-NUM-032"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−5 + 7 = ?",
+   "options": [
+    "2",
+    "−12",
+    "12",
+    "5",
+    "−2"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Start at −5 and move 7 to the right: 2.",
+   "id": "NUM-NUM-033"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−19 + 14 = ?",
+   "options": [
+    "−33",
+    "15",
+    "5",
+    "33",
+    "−5"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Start at −19 and move 14 to the right: −5.",
+   "id": "NUM-NUM-034"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−17 + 6 = ?",
+   "options": [
+    "11",
+    "−13",
+    "−23",
+    "−11",
+    "23"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Start at −17 and move 6 to the right: −11.",
+   "id": "NUM-NUM-035"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−7 + 15 = ?",
+   "options": [
+    "8",
+    "−22",
+    "15",
+    "−8",
+    "22"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Start at −7 and move 15 to the right: 8.",
+   "id": "NUM-NUM-036"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−18 + 12 = ?",
+   "options": [
+    "30",
+    "−10",
+    "6",
+    "−6",
+    "−30"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Start at −18 and move 12 to the right: −6.",
+   "id": "NUM-NUM-037"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 1,
+   "question": "−7 + 13 = ?",
+   "options": [
+    "20",
+    "7",
+    "−6",
+    "−20",
+    "6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Start at −7 and move 13 to the right: 6.",
+   "id": "NUM-NUM-038"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−9) × (−12) = ?",
+   "options": [
+    "108",
+    "−21",
+    "−108",
+    "21",
+    "111"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A negative times a negative is positive.",
+   "id": "NUM-NUM-039"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−11) × (−6) = ?",
+   "options": [
+    "66",
+    "65",
+    "17",
+    "−17",
+    "−66"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A negative times a negative is positive.",
+   "id": "NUM-NUM-040"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−10) × (−5) = ?",
+   "options": [
+    "50",
+    "15",
+    "47",
+    "−50",
+    "−15"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A negative times a negative is positive.",
+   "id": "NUM-NUM-041"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−3) × 4 = ?",
+   "options": [
+    "−7",
+    "7",
+    "12",
+    "−9",
+    "−12"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A negative times a positive is negative.",
+   "id": "NUM-NUM-042"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−5) × (−10) = ?",
+   "options": [
+    "−50",
+    "50",
+    "54",
+    "15",
+    "−15"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A negative times a negative is positive.",
+   "id": "NUM-NUM-043"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−3) × (−9) = ?",
+   "options": [
+    "12",
+    "22",
+    "−12",
+    "−27",
+    "27"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A negative times a negative is positive.",
+   "id": "NUM-NUM-044"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−9) × 4 = ?",
+   "options": [
+    "−36",
+    "−13",
+    "36",
+    "13",
+    "−30"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A negative times a positive is negative.",
+   "id": "NUM-NUM-045"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 2,
+   "question": "(−7) × 6 = ?",
+   "options": [
+    "−37",
+    "13",
+    "42",
+    "−13",
+    "−42"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A negative times a positive is negative.",
+   "id": "NUM-NUM-046"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−9 × (8 − 3) = ?",
+   "options": [
+    "−42",
+    "45",
+    "−45",
+    "99",
+    "−99"
+   ],
+   "correctAnswer": 2,
+   "explanation": "(8 − 3) = 5; −9 × 5 = −45.",
+   "id": "NUM-NUM-047"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−8 × (9 − 2) = ?",
+   "options": [
+    "88",
+    "−88",
+    "−59",
+    "56",
+    "−56"
+   ],
+   "correctAnswer": 4,
+   "explanation": "(9 − 2) = 7; −8 × 7 = −56.",
+   "id": "NUM-NUM-048"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−3 × (5 − 4) = ?",
+   "options": [
+    "−27",
+    "3",
+    "27",
+    "−23",
+    "−3"
+   ],
+   "correctAnswer": 4,
+   "explanation": "(5 − 4) = 1; −3 × 1 = −3.",
+   "id": "NUM-NUM-049"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−2 × (4 − 9) = ?",
+   "options": [
+    "−10",
+    "10",
+    "−26",
+    "26",
+    "6"
+   ],
+   "correctAnswer": 1,
+   "explanation": "(4 − 9) = −5; −2 × −5 = 10.",
+   "id": "NUM-NUM-050"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−3 × (9 − 8) = ?",
+   "options": [
+    "51",
+    "−13",
+    "−3",
+    "−51",
+    "3"
+   ],
+   "correctAnswer": 2,
+   "explanation": "(9 − 8) = 1; −3 × 1 = −3.",
+   "id": "NUM-NUM-051"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−2 × (3 − 5) = ?",
+   "options": [
+    "−4",
+    "1",
+    "16",
+    "−16",
+    "4"
+   ],
+   "correctAnswer": 4,
+   "explanation": "(3 − 5) = −2; −2 × −2 = 4.",
+   "id": "NUM-NUM-052"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−3 × (5 − 9) = ?",
+   "options": [
+    "42",
+    "17",
+    "12",
+    "−12",
+    "−42"
+   ],
+   "correctAnswer": 2,
+   "explanation": "(5 − 9) = −4; −3 × −4 = 12.",
+   "id": "NUM-NUM-053"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 3,
+   "question": "−7 × (9 − 3) = ?",
+   "options": [
+    "−37",
+    "−42",
+    "42",
+    "84",
+    "−84"
+   ],
+   "correctAnswer": 1,
+   "explanation": "(9 − 3) = 6; −7 × 6 = −42.",
+   "id": "NUM-NUM-054"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−4| − |3 − 14| + 3 = ?",
+   "options": [
+    "−2",
+    "16",
+    "−6",
+    "18",
+    "−4"
+   ],
+   "correctAnswer": 4,
+   "explanation": "|−4| = 4; |3 − 14| = 11; so 4 − 11 + 3 = −4.",
+   "id": "NUM-NUM-055"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−7| − |2 − 10| + 2 = ?",
+   "options": [
+    "1",
+    "17",
+    "4",
+    "7",
+    "−19"
+   ],
+   "correctAnswer": 0,
+   "explanation": "|−7| = 7; |2 − 10| = 8; so 7 − 8 + 2 = 1.",
+   "id": "NUM-NUM-056"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−8| − |2 − 16| + 2 = ?",
+   "options": [
+    "24",
+    "−4",
+    "−5",
+    "−2",
+    "−9"
+   ],
+   "correctAnswer": 1,
+   "explanation": "|−8| = 8; |2 − 16| = 14; so 8 − 14 + 2 = −4.",
+   "id": "NUM-NUM-057"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−8| − |2 − 19| + 2 = ?",
+   "options": [
+    "−4",
+    "−7",
+    "13",
+    "27",
+    "3"
+   ],
+   "correctAnswer": 1,
+   "explanation": "|−8| = 8; |2 − 19| = 17; so 8 − 17 + 2 = −7.",
+   "id": "NUM-NUM-058"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−3| − |9 − 10| + 9 = ?",
+   "options": [
+    "14",
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "correctAnswer": 3,
+   "explanation": "|−3| = 3; |9 − 10| = 1; so 3 − 1 + 9 = 11.",
+   "id": "NUM-NUM-059"
+  },
+  {
+   "level": "both",
+   "skill": "Integers & Signed Numbers",
+   "tier": 4,
+   "question": "|−9| − |5 − 15| + 5 = ?",
+   "options": [
+    "8",
+    "4",
+    "10",
+    "5",
+    "24"
+   ],
+   "correctAnswer": 1,
+   "explanation": "|−9| = 9; |5 − 15| = 10; so 9 − 10 + 5 = 4.",
+   "id": "NUM-NUM-060"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 5³?",
+   "options": [
+    "15",
+    "129",
+    "125",
+    "128",
+    "625"
+   ],
+   "correctAnswer": 2,
+   "explanation": "5³ means 5 multiplied by itself 3 times = 125.",
+   "id": "NUM-NUM-061"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 2³?",
+   "options": [
+    "8",
+    "3",
+    "15",
+    "16",
+    "6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "2³ means 2 multiplied by itself 3 times = 8.",
+   "id": "NUM-NUM-062"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 9²?",
+   "options": [
+    "18",
+    "729",
+    "76",
+    "84",
+    "81"
+   ],
+   "correctAnswer": 4,
+   "explanation": "9² means 9 multiplied by itself 2 times = 81.",
+   "id": "NUM-NUM-063"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 3³?",
+   "options": [
+    "17",
+    "29",
+    "9",
+    "81",
+    "27"
+   ],
+   "correctAnswer": 4,
+   "explanation": "3³ means 3 multiplied by itself 3 times = 27.",
+   "id": "NUM-NUM-064"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 5²?",
+   "options": [
+    "10",
+    "35",
+    "23",
+    "25",
+    "125"
+   ],
+   "correctAnswer": 3,
+   "explanation": "5² means 5 multiplied by itself 2 times = 25.",
+   "id": "NUM-NUM-065"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 4²?",
+   "options": [
+    "64",
+    "20",
+    "8",
+    "6",
+    "16"
+   ],
+   "correctAnswer": 4,
+   "explanation": "4² means 4 multiplied by itself 2 times = 16.",
+   "id": "NUM-NUM-066"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 11²?",
+   "options": [
+    "22",
+    "111",
+    "131",
+    "1331",
+    "121"
+   ],
+   "correctAnswer": 4,
+   "explanation": "11² means 11 multiplied by itself 2 times = 121.",
+   "id": "NUM-NUM-067"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 1,
+   "question": "What is 8²?",
+   "options": [
+    "16",
+    "512",
+    "64",
+    "69",
+    "71"
+   ],
+   "correctAnswer": 2,
+   "explanation": "8² means 8 multiplied by itself 2 times = 64.",
+   "id": "NUM-NUM-068"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√121 + √4 = ?",
+   "options": [
+    "10",
+    "13",
+    "18",
+    "16",
+    "11"
+   ],
+   "correctAnswer": 1,
+   "explanation": "√121 = 11 and √4 = 2, so the sum is 13.",
+   "id": "NUM-NUM-069"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√144 + √121 = ?",
+   "options": [
+    "26",
+    "21",
+    "30",
+    "23",
+    "33"
+   ],
+   "correctAnswer": 3,
+   "explanation": "√144 = 12 and √121 = 11, so the sum is 23.",
+   "id": "NUM-NUM-070"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√25 + √144 = ?",
+   "options": [
+    "18",
+    "37",
+    "20",
+    "13",
+    "17"
+   ],
+   "correctAnswer": 4,
+   "explanation": "√25 = 5 and √144 = 12, so the sum is 17.",
+   "id": "NUM-NUM-071"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√144 + √9 = ?",
+   "options": [
+    "15",
+    "18",
+    "19",
+    "17",
+    "25"
+   ],
+   "correctAnswer": 0,
+   "explanation": "√144 = 12 and √9 = 3, so the sum is 15.",
+   "id": "NUM-NUM-072"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√25 + √36 = ?",
+   "options": [
+    "11",
+    "9",
+    "7",
+    "14",
+    "31"
+   ],
+   "correctAnswer": 0,
+   "explanation": "√25 = 5 and √36 = 6, so the sum is 11.",
+   "id": "NUM-NUM-073"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√9 + √81 = ?",
+   "options": [
+    "17",
+    "15",
+    "7",
+    "12",
+    "13"
+   ],
+   "correctAnswer": 3,
+   "explanation": "√9 = 3 and √81 = 9, so the sum is 12.",
+   "id": "NUM-NUM-074"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√36 + √25 = ?",
+   "options": [
+    "14",
+    "21",
+    "7",
+    "17",
+    "11"
+   ],
+   "correctAnswer": 4,
+   "explanation": "√36 = 6 and √25 = 5, so the sum is 11.",
+   "id": "NUM-NUM-075"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 2,
+   "question": "√9 + √36 = ?",
+   "options": [
+    "11",
+    "4",
+    "15",
+    "12",
+    "9"
+   ],
+   "correctAnswer": 4,
+   "explanation": "√9 = 3 and √36 = 6, so the sum is 9.",
+   "id": "NUM-NUM-076"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 2ⁿ = 16, what is n?",
+   "options": [
+    "5",
+    "3",
+    "8",
+    "4",
+    "10"
+   ],
+   "correctAnswer": 3,
+   "explanation": "2⁴ = 16, so n = 4.",
+   "id": "NUM-NUM-077"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 3ⁿ = 243, what is n?",
+   "options": [
+    "5",
+    "4",
+    "81",
+    "11",
+    "6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "3⁵ = 243, so n = 5.",
+   "id": "NUM-NUM-078"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 5ⁿ = 625, what is n?",
+   "options": [
+    "4",
+    "7",
+    "125",
+    "8",
+    "24"
+   ],
+   "correctAnswer": 0,
+   "explanation": "5⁴ = 625, so n = 4.",
+   "id": "NUM-NUM-079"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 2ⁿ = 64, what is n?",
+   "options": [
+    "7",
+    "32",
+    "9",
+    "6",
+    "8"
+   ],
+   "correctAnswer": 3,
+   "explanation": "2⁶ = 64, so n = 6.",
+   "id": "NUM-NUM-080"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 4ⁿ = 256, what is n?",
+   "options": [
+    "3",
+    "9",
+    "64",
+    "4",
+    "10"
+   ],
+   "correctAnswer": 3,
+   "explanation": "4⁴ = 256, so n = 4.",
+   "id": "NUM-NUM-081"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 3ⁿ = 729, what is n?",
+   "options": [
+    "4",
+    "16",
+    "13",
+    "6",
+    "243"
+   ],
+   "correctAnswer": 3,
+   "explanation": "3⁶ = 729, so n = 6.",
+   "id": "NUM-NUM-082"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 4ⁿ = 64, what is n?",
+   "options": [
+    "9",
+    "16",
+    "1",
+    "6",
+    "3"
+   ],
+   "correctAnswer": 4,
+   "explanation": "4³ = 64, so n = 3.",
+   "id": "NUM-NUM-083"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 3,
+   "question": "If 2ⁿ = 8, what is n?",
+   "options": [
+    "7",
+    "3",
+    "10",
+    "4",
+    "8"
+   ],
+   "correctAnswer": 1,
+   "explanation": "2³ = 8, so n = 3.",
+   "id": "NUM-NUM-084"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √45.",
+   "options": [
+    "9√5",
+    "8",
+    "35",
+    "3√5",
+    "5√3"
+   ],
+   "correctAnswer": 3,
+   "explanation": "√45 = √(9 × 5) = √9 × √5 = 3√5.",
+   "id": "NUM-NUM-085"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √28.",
+   "options": [
+    "9",
+    "7√2",
+    "4√7",
+    "2√7",
+    "27"
+   ],
+   "correctAnswer": 3,
+   "explanation": "√28 = √(4 × 7) = √4 × √7 = 2√7.",
+   "id": "NUM-NUM-086"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √18.",
+   "options": [
+    "32",
+    "5",
+    "3√2",
+    "9√2",
+    "2√3"
+   ],
+   "correctAnswer": 2,
+   "explanation": "√18 = √(9 × 2) = √9 × √2 = 3√2.",
+   "id": "NUM-NUM-087"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √175.",
+   "options": [
+    "57",
+    "25√7",
+    "5√7",
+    "7√5",
+    "12"
+   ],
+   "correctAnswer": 2,
+   "explanation": "√175 = √(25 × 7) = √25 × √7 = 5√7.",
+   "id": "NUM-NUM-088"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √180.",
+   "options": [
+    "6√5",
+    "65",
+    "11",
+    "36√5",
+    "5√6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "√180 = √(36 × 5) = √36 × √5 = 6√5.",
+   "id": "NUM-NUM-089"
+  },
+  {
+   "level": "both",
+   "skill": "Exponents & Roots",
+   "tier": 4,
+   "question": "Simplify √80.",
+   "options": [
+    "9",
+    "5√4",
+    "16√5",
+    "4√5",
+    "45"
+   ],
+   "correctAnswer": 3,
+   "explanation": "√80 = √(16 × 5) = √16 × √5 = 4√5.",
+   "id": "NUM-NUM-090"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 42 and 12?",
+   "options": [
+    "10",
+    "5",
+    "6",
+    "1",
+    "84"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The largest number that divides both 42 and 12 is 6.",
+   "id": "NUM-NUM-091"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 10 and 15?",
+   "options": [
+    "1",
+    "8",
+    "5",
+    "4",
+    "30"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The largest number that divides both 10 and 15 is 5.",
+   "id": "NUM-NUM-092"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 12 and 24?",
+   "options": [
+    "6",
+    "1",
+    "24",
+    "12",
+    "15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The largest number that divides both 12 and 24 is 12.",
+   "id": "NUM-NUM-093"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 14 and 10?",
+   "options": [
+    "2",
+    "5",
+    "22",
+    "70",
+    "1"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The largest number that divides both 14 and 10 is 2.",
+   "id": "NUM-NUM-094"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 36 and 20?",
+   "options": [
+    "10",
+    "1",
+    "14",
+    "180",
+    "4"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The largest number that divides both 36 and 20 is 4.",
+   "id": "NUM-NUM-095"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 21 and 12?",
+   "options": [
+    "3",
+    "84",
+    "1",
+    "6",
+    "2"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The largest number that divides both 21 and 12 is 3.",
+   "id": "NUM-NUM-096"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 42 and 66?",
+   "options": [
+    "21",
+    "6",
+    "462",
+    "16",
+    "1"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The largest number that divides both 42 and 66 is 6.",
+   "id": "NUM-NUM-097"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 1,
+   "question": "What is the greatest common factor (GCF) of 72 and 88?",
+   "options": [
+    "13",
+    "1",
+    "792",
+    "36",
+    "8"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The largest number that divides both 72 and 88 is 8.",
+   "id": "NUM-NUM-098"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 18 and 9?",
+   "options": [
+    "25",
+    "162",
+    "18",
+    "9",
+    "24"
+   ],
+   "correctAnswer": 2,
+   "explanation": "LCM = 18 × 9 ÷ GCF = 162 ÷ 9 = 18.",
+   "id": "NUM-NUM-099"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 18 and 4?",
+   "options": [
+    "38",
+    "36",
+    "2",
+    "72",
+    "34"
+   ],
+   "correctAnswer": 1,
+   "explanation": "LCM = 18 × 4 ÷ GCF = 72 ÷ 2 = 36.",
+   "id": "NUM-NUM-100"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 8 and 15?",
+   "options": [
+    "117",
+    "124",
+    "120",
+    "127",
+    "123"
+   ],
+   "correctAnswer": 2,
+   "explanation": "LCM = 8 × 15 ÷ GCF = 120 ÷ 1 = 120.",
+   "id": "NUM-NUM-101"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 14 and 15?",
+   "options": [
+    "211",
+    "213",
+    "215",
+    "210",
+    "230"
+   ],
+   "correctAnswer": 3,
+   "explanation": "LCM = 14 × 15 ÷ GCF = 210 ÷ 1 = 210.",
+   "id": "NUM-NUM-102"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 15 and 10?",
+   "options": [
+    "150",
+    "25",
+    "37",
+    "5",
+    "30"
+   ],
+   "correctAnswer": 4,
+   "explanation": "LCM = 15 × 10 ÷ GCF = 150 ÷ 5 = 30.",
+   "id": "NUM-NUM-103"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 12 and 6?",
+   "options": [
+    "12",
+    "32",
+    "6",
+    "72",
+    "8"
+   ],
+   "correctAnswer": 0,
+   "explanation": "LCM = 12 × 6 ÷ GCF = 72 ÷ 6 = 12.",
+   "id": "NUM-NUM-104"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 6 and 8?",
+   "options": [
+    "2",
+    "24",
+    "19",
+    "48",
+    "21"
+   ],
+   "correctAnswer": 1,
+   "explanation": "LCM = 6 × 8 ÷ GCF = 48 ÷ 2 = 24.",
+   "id": "NUM-NUM-105"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 2,
+   "question": "What is the least common multiple (LCM) of 15 and 6?",
+   "options": [
+    "30",
+    "34",
+    "3",
+    "28",
+    "90"
+   ],
+   "correctAnswer": 0,
+   "explanation": "LCM = 15 × 6 ÷ GCF = 90 ÷ 3 = 30.",
+   "id": "NUM-NUM-106"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 30 and 60?",
+   "options": [
+    "2",
+    "3",
+    "8",
+    "12",
+    "7"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The primes are 31, 37, 41, 43, 47, 53, 59, so there are 7.",
+   "id": "NUM-NUM-107"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 30 and 55?",
+   "options": [
+    "2",
+    "6",
+    "7",
+    "10",
+    "5"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The primes are 31, 37, 41, 43, 47, 53, so there are 6.",
+   "id": "NUM-NUM-108"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 10 and 35?",
+   "options": [
+    "11",
+    "17",
+    "9",
+    "7",
+    "10"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The primes are 11, 13, 17, 19, 23, 29, 31, so there are 7.",
+   "id": "NUM-NUM-109"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 40 and 60?",
+   "options": [
+    "6",
+    "5",
+    "15",
+    "7",
+    "10"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The primes are 41, 43, 47, 53, 59, so there are 5.",
+   "id": "NUM-NUM-110"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 40 and 65?",
+   "options": [
+    "12",
+    "13",
+    "3",
+    "26",
+    "6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The primes are 41, 43, 47, 53, 59, 61, so there are 6.",
+   "id": "NUM-NUM-111"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 20 and 45?",
+   "options": [
+    "9",
+    "16",
+    "26",
+    "6",
+    "7"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The primes are 23, 29, 31, 37, 41, 43, so there are 6.",
+   "id": "NUM-NUM-112"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 20 and 50?",
+   "options": [
+    "13",
+    "6",
+    "5",
+    "7",
+    "12"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The primes are 23, 29, 31, 37, 41, 43, 47, so there are 7.",
+   "id": "NUM-NUM-113"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 3,
+   "question": "How many prime numbers are there between 20 and 40?",
+   "options": [
+    "3",
+    "11",
+    "4",
+    "7",
+    "2"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The primes are 23, 29, 31, 37, so there are 4.",
+   "id": "NUM-NUM-114"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 3, 5 and 6?",
+   "options": [
+    "31",
+    "15",
+    "33",
+    "30",
+    "90"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Find the LCM of 3, 5 and 6: it is 30.",
+   "id": "NUM-NUM-115"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 4, 10 and 15?",
+   "options": [
+    "65",
+    "57",
+    "600",
+    "60",
+    "30"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Find the LCM of 4, 10 and 15: it is 60.",
+   "id": "NUM-NUM-116"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 6, 8 and 12?",
+   "options": [
+    "12",
+    "24",
+    "576",
+    "31",
+    "30"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find the LCM of 6, 8 and 12: it is 24.",
+   "id": "NUM-NUM-117"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 4, 6 and 9?",
+   "options": [
+    "56",
+    "216",
+    "18",
+    "37",
+    "36"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Find the LCM of 4, 6 and 9: it is 36.",
+   "id": "NUM-NUM-118"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 6, 9 and 15?",
+   "options": [
+    "88",
+    "810",
+    "45",
+    "100",
+    "90"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Find the LCM of 6, 9 and 15: it is 90.",
+   "id": "NUM-NUM-119"
+  },
+  {
+   "level": "both",
+   "skill": "Factors & Multiples",
+   "tier": 4,
+   "question": "What is the smallest number that is divisible by 8, 12 and 18?",
+   "options": [
+    "77",
+    "72",
+    "78",
+    "36",
+    "1728"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find the LCM of 8, 12 and 18: it is 72.",
+   "id": "NUM-NUM-120"
+  }
+ ]
+}

@@ -1,0 +1,1925 @@
+{
+ "module": "filing-systems",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed last?\n6845, 5036, 7973, 9992, 2857",
+   "options": [
+    "5036",
+    "6845",
+    "2857",
+    "7973",
+    "9992"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ascending order: 2857, 5036, 6845, 7973, 9992. The last is 9992.",
+   "id": "CLR-FIL-001"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed first?\n9167, 8040, 6007, 5095, 5635",
+   "options": [
+    "8040",
+    "5635",
+    "9167",
+    "5095",
+    "6007"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ascending order: 5095, 5635, 6007, 8040, 9167. The first is 5095.",
+   "id": "CLR-FIL-002"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed third?\n6819, 6659, 8831, 4937, 5412",
+   "options": [
+    "6819",
+    "4937",
+    "5412",
+    "8831",
+    "6659"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ascending order: 4937, 5412, 6659, 6819, 8831. The third is 6659.",
+   "id": "CLR-FIL-003"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed second?\n7858, 1540, 3195, 5466, 3113",
+   "options": [
+    "7858",
+    "1540",
+    "3195",
+    "5466",
+    "3113"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ascending order: 1540, 3113, 3195, 5466, 7858. The second is 3113.",
+   "id": "CLR-FIL-004"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed first?\n6748, 6206, 6029, 5126, 4532",
+   "options": [
+    "6206",
+    "5126",
+    "4532",
+    "6748",
+    "6029"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ascending order: 4532, 5126, 6029, 6206, 6748. The first is 4532.",
+   "id": "CLR-FIL-005"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed last?\n2225, 7425, 2056, 9274, 9643",
+   "options": [
+    "7425",
+    "9274",
+    "2225",
+    "9643",
+    "2056"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ascending order: 2056, 2225, 7425, 9274, 9643. The last is 9643.",
+   "id": "CLR-FIL-006"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed first?\n1539, 2187, 8148, 1862, 3351",
+   "options": [
+    "1862",
+    "3351",
+    "1539",
+    "2187",
+    "8148"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ascending order: 1539, 1862, 2187, 3351, 8148. The first is 1539.",
+   "id": "CLR-FIL-007"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 1,
+   "question": "Files are arranged in ascending numerical order. Which file number is filed fourth?\n8993, 6905, 5175, 4251, 2976",
+   "options": [
+    "8993",
+    "5175",
+    "2976",
+    "6905",
+    "4251"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ascending order: 2976, 4251, 5175, 6905, 8993. The fourth is 6905.",
+   "id": "CLR-FIL-008"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 8185, 24089, 35898, 45180, 49849, 58249. Where should a new file numbered 48654 be placed?",
+   "options": [
+    "between 8185 and 24089",
+    "between 24089 and 35898",
+    "between 35898 and 45180",
+    "between 45180 and 49849",
+    "between 49849 and 58249"
+   ],
+   "correctAnswer": 3,
+   "explanation": "45180 < 48654 < 49849, so it goes between 45180 and 49849.",
+   "id": "CLR-FIL-009"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 14730, 15122, 38271, 42177, 43731, 49191. Where should a new file numbered 47580 be placed?",
+   "options": [
+    "between 14730 and 15122",
+    "between 15122 and 38271",
+    "between 38271 and 42177",
+    "between 42177 and 43731",
+    "between 43731 and 49191"
+   ],
+   "correctAnswer": 4,
+   "explanation": "43731 < 47580 < 49191, so it goes between 43731 and 49191.",
+   "id": "CLR-FIL-010"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 7863, 8934, 42765, 52544, 57304, 82280. Where should a new file numbered 7948 be placed?",
+   "options": [
+    "between 7863 and 8934",
+    "between 8934 and 42765",
+    "between 42765 and 52544",
+    "between 52544 and 57304",
+    "between 57304 and 82280"
+   ],
+   "correctAnswer": 0,
+   "explanation": "7863 < 7948 < 8934, so it goes between 7863 and 8934.",
+   "id": "CLR-FIL-011"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 17677, 28114, 44725, 66789, 69309, 91814. Where should a new file numbered 34472 be placed?",
+   "options": [
+    "between 17677 and 28114",
+    "between 28114 and 44725",
+    "between 44725 and 66789",
+    "between 66789 and 69309",
+    "between 69309 and 91814"
+   ],
+   "correctAnswer": 1,
+   "explanation": "28114 < 34472 < 44725, so it goes between 28114 and 44725.",
+   "id": "CLR-FIL-012"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 24278, 55554, 55869, 57213, 65053, 88720. Where should a new file numbered 61289 be placed?",
+   "options": [
+    "between 24278 and 55554",
+    "between 55554 and 55869",
+    "between 55869 and 57213",
+    "between 57213 and 65053",
+    "between 65053 and 88720"
+   ],
+   "correctAnswer": 3,
+   "explanation": "57213 < 61289 < 65053, so it goes between 57213 and 65053.",
+   "id": "CLR-FIL-013"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 3775, 19945, 42184, 48491, 53846, 82854. Where should a new file numbered 25372 be placed?",
+   "options": [
+    "between 3775 and 19945",
+    "between 19945 and 42184",
+    "between 42184 and 48491",
+    "between 48491 and 53846",
+    "between 53846 and 82854"
+   ],
+   "correctAnswer": 1,
+   "explanation": "19945 < 25372 < 42184, so it goes between 19945 and 42184.",
+   "id": "CLR-FIL-014"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 7352, 29521, 44081, 44221, 44907, 74132. Where should a new file numbered 47405 be placed?",
+   "options": [
+    "between 7352 and 29521",
+    "between 29521 and 44081",
+    "between 44081 and 44221",
+    "between 44221 and 44907",
+    "between 44907 and 74132"
+   ],
+   "correctAnswer": 4,
+   "explanation": "44907 < 47405 < 74132, so it goes between 44907 and 74132.",
+   "id": "CLR-FIL-015"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 2,
+   "question": "The folders in a drawer are numbered 2662, 6204, 9123, 38236, 67587, 70128. Where should a new file numbered 64636 be placed?",
+   "options": [
+    "between 2662 and 6204",
+    "between 6204 and 9123",
+    "between 9123 and 38236",
+    "between 38236 and 67587",
+    "between 67587 and 70128"
+   ],
+   "correctAnswer": 3,
+   "explanation": "38236 < 64636 < 67587, so it goes between 38236 and 67587.",
+   "id": "CLR-FIL-016"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed third?\n63-62-38, 47-35-94, 51-65-06, 86-75-61, 35-99-02",
+   "options": [
+    "51-65-06",
+    "63-62-38",
+    "47-35-94",
+    "86-75-61",
+    "35-99-02"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Reading the last pair first: 63-62-38 → 38-62-63; 47-35-94 → 94-35-47; 51-65-06 → 06-65-51; 86-75-61 → 61-75-86; 35-99-02 → 02-99-35. Terminal-digit order: 35-99-02, 51-65-06, 63-62-38, 86-75-61, 47-35-94. The third is 63-62-38.",
+   "id": "CLR-FIL-017"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed third?\n48-08-90, 65-20-21, 50-78-63, 29-01-16, 68-00-64",
+   "options": [
+    "29-01-16",
+    "50-78-63",
+    "68-00-64",
+    "65-20-21",
+    "48-08-90"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Reading the last pair first: 48-08-90 → 90-08-48; 65-20-21 → 21-20-65; 50-78-63 → 63-78-50; 29-01-16 → 16-01-29; 68-00-64 → 64-00-68. Terminal-digit order: 29-01-16, 65-20-21, 50-78-63, 68-00-64, 48-08-90. The third is 50-78-63.",
+   "id": "CLR-FIL-018"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed last?\n97-25-48, 32-69-56, 31-13-69, 60-21-34, 51-07-62",
+   "options": [
+    "60-21-34",
+    "31-13-69",
+    "51-07-62",
+    "32-69-56",
+    "97-25-48"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Reading the last pair first: 97-25-48 → 48-25-97; 32-69-56 → 56-69-32; 31-13-69 → 69-13-31; 60-21-34 → 34-21-60; 51-07-62 → 62-07-51. Terminal-digit order: 60-21-34, 97-25-48, 32-69-56, 51-07-62, 31-13-69. The last is 31-13-69.",
+   "id": "CLR-FIL-019"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed first?\n88-96-45, 65-48-09, 86-32-84, 67-79-04, 10-39-19",
+   "options": [
+    "65-48-09",
+    "86-32-84",
+    "88-96-45",
+    "67-79-04",
+    "10-39-19"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Reading the last pair first: 88-96-45 → 45-96-88; 65-48-09 → 09-48-65; 86-32-84 → 84-32-86; 67-79-04 → 04-79-67; 10-39-19 → 19-39-10. Terminal-digit order: 67-79-04, 65-48-09, 10-39-19, 88-96-45, 86-32-84. The first is 67-79-04.",
+   "id": "CLR-FIL-020"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed last?\n30-30-12, 10-69-49, 20-66-02, 34-86-47, 23-92-77",
+   "options": [
+    "30-30-12",
+    "34-86-47",
+    "23-92-77",
+    "20-66-02",
+    "10-69-49"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Reading the last pair first: 30-30-12 → 12-30-30; 10-69-49 → 49-69-10; 20-66-02 → 02-66-20; 34-86-47 → 47-86-34; 23-92-77 → 77-92-23. Terminal-digit order: 20-66-02, 30-30-12, 34-86-47, 10-69-49, 23-92-77. The last is 23-92-77.",
+   "id": "CLR-FIL-021"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed third?\n81-13-77, 17-32-58, 90-22-79, 63-14-58, 98-64-09",
+   "options": [
+    "81-13-77",
+    "98-64-09",
+    "17-32-58",
+    "90-22-79",
+    "63-14-58"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Reading the last pair first: 81-13-77 → 77-13-81; 17-32-58 → 58-32-17; 90-22-79 → 79-22-90; 63-14-58 → 58-14-63; 98-64-09 → 09-64-98. Terminal-digit order: 98-64-09, 63-14-58, 17-32-58, 81-13-77, 90-22-79. The third is 17-32-58.",
+   "id": "CLR-FIL-022"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed third?\n34-96-00, 70-68-80, 85-96-58, 18-37-47, 49-51-90",
+   "options": [
+    "85-96-58",
+    "18-37-47",
+    "70-68-80",
+    "49-51-90",
+    "34-96-00"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Reading the last pair first: 34-96-00 → 00-96-34; 70-68-80 → 80-68-70; 85-96-58 → 58-96-85; 18-37-47 → 47-37-18; 49-51-90 → 90-51-49. Terminal-digit order: 34-96-00, 18-37-47, 85-96-58, 70-68-80, 49-51-90. The third is 85-96-58.",
+   "id": "CLR-FIL-023"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 3,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair. Which file is filed third?\n35-46-52, 37-28-11, 42-24-78, 51-25-36, 37-63-05",
+   "options": [
+    "37-63-05",
+    "35-46-52",
+    "37-28-11",
+    "42-24-78",
+    "51-25-36"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reading the last pair first: 35-46-52 → 52-46-35; 37-28-11 → 11-28-37; 42-24-78 → 78-24-42; 51-25-36 → 36-25-51; 37-63-05 → 05-63-37. Terminal-digit order: 37-63-05, 37-28-11, 51-25-36, 35-46-52, 42-24-78. The third is 51-25-36.",
+   "id": "CLR-FIL-024"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 23-56-50\n2. 48-20-05\n3. 67-91-22\n4. 22-03-47\n5. 37-53-79\nWhich is the correct filing order?",
+   "options": [
+    "14253",
+    "23145",
+    "32415",
+    "35241",
+    "23415"
+   ],
+   "correctAnswer": 4,
+   "explanation": "23415. Reading the last pair first: 23-56-50 → 50-56-23; 48-20-05 → 05-20-48; 67-91-22 → 22-91-67; 22-03-47 → 47-03-22; 37-53-79 → 79-53-37. Sorted: 48-20-05 → 67-91-22 → 22-03-47 → 23-56-50 → 37-53-79.",
+   "id": "CLR-FIL-025"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 79-42-20\n2. 63-44-43\n3. 67-69-79\n4. 53-71-54\n5. 83-06-76\nWhich is the correct filing order?",
+   "options": [
+    "53241",
+    "23154",
+    "12453",
+    "12435",
+    "21354"
+   ],
+   "correctAnswer": 2,
+   "explanation": "12453. Reading the last pair first: 79-42-20 → 20-42-79; 63-44-43 → 43-44-63; 67-69-79 → 79-69-67; 53-71-54 → 54-71-53; 83-06-76 → 76-06-83. Sorted: 79-42-20 → 63-44-43 → 53-71-54 → 83-06-76 → 67-69-79.",
+   "id": "CLR-FIL-026"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 73-82-13\n2. 10-58-25\n3. 75-31-70\n4. 70-82-10\n5. 23-06-75\nWhich is the correct filing order?",
+   "options": [
+    "41253",
+    "35214",
+    "52314",
+    "42135",
+    "41235"
+   ],
+   "correctAnswer": 4,
+   "explanation": "41235. Reading the last pair first: 73-82-13 → 13-82-73; 10-58-25 → 25-58-10; 75-31-70 → 70-31-75; 70-82-10 → 10-82-70; 23-06-75 → 75-06-23. Sorted: 70-82-10 → 73-82-13 → 10-58-25 → 75-31-70 → 23-06-75.",
+   "id": "CLR-FIL-027"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 88-55-99\n2. 60-96-06\n3. 32-43-46\n4. 65-43-34\n5. 97-55-15\nWhich is the correct filing order?",
+   "options": [
+    "13425",
+    "23145",
+    "14352",
+    "31425",
+    "25431"
+   ],
+   "correctAnswer": 4,
+   "explanation": "25431. Reading the last pair first: 88-55-99 → 99-55-88; 60-96-06 → 06-96-60; 32-43-46 → 46-43-32; 65-43-34 → 34-43-65; 97-55-15 → 15-55-97. Sorted: 60-96-06 → 97-55-15 → 65-43-34 → 32-43-46 → 88-55-99.",
+   "id": "CLR-FIL-028"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 22-04-51\n2. 32-55-40\n3. 81-86-21\n4. 77-16-05\n5. 16-09-56\nWhich is the correct filing order?",
+   "options": [
+    "43215",
+    "51234",
+    "32514",
+    "13245",
+    "15243"
+   ],
+   "correctAnswer": 0,
+   "explanation": "43215. Reading the last pair first: 22-04-51 → 51-04-22; 32-55-40 → 40-55-32; 81-86-21 → 21-86-81; 77-16-05 → 05-16-77; 16-09-56 → 56-09-16. Sorted: 77-16-05 → 81-86-21 → 32-55-40 → 22-04-51 → 16-09-56.",
+   "id": "CLR-FIL-029"
+  },
+  {
+   "level": "both",
+   "skill": "Numeric Filing",
+   "tier": 4,
+   "question": "Files are arranged by terminal digits: read the numbers in pairs and file by the LAST pair first, then the MIDDLE pair, then the FIRST pair.\n1. 71-66-75\n2. 81-73-55\n3. 94-90-79\n4. 19-50-87\n5. 93-94-39\nWhich is the correct filing order?",
+   "options": [
+    "52134",
+    "25314",
+    "15423",
+    "14235",
+    "34251"
+   ],
+   "correctAnswer": 0,
+   "explanation": "52134. Reading the last pair first: 71-66-75 → 75-66-71; 81-73-55 → 55-73-81; 94-90-79 → 79-90-94; 19-50-87 → 87-50-19; 93-94-39 → 39-94-93. Sorted: 93-94-39 → 81-73-55 → 71-66-75 → 94-90-79 → 19-50-87.",
+   "id": "CLR-FIL-030"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed fourth?\nOctober 6, 2025, January 13, 2023, June 18, 2024, March 26, 2022, November 13, 2021",
+   "options": [
+    "October 6, 2025",
+    "January 13, 2023",
+    "June 18, 2024",
+    "March 26, 2022",
+    "November 13, 2021"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: November 13, 2021 → March 26, 2022 → January 13, 2023 → June 18, 2024 → October 6, 2025. The fourth is June 18, 2024.",
+   "id": "CLR-FIL-031"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed third?\nJune 12, 2022, September 17, 2025, August 14, 2023, January 18, 2024, April 21, 2019",
+   "options": [
+    "September 17, 2025",
+    "April 21, 2019",
+    "August 14, 2023",
+    "June 12, 2022",
+    "January 18, 2024"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: April 21, 2019 → June 12, 2022 → August 14, 2023 → January 18, 2024 → September 17, 2025. The third is August 14, 2023.",
+   "id": "CLR-FIL-032"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed fourth?\nSeptember 15, 2025, October 7, 2022, November 17, 2020, October 11, 2019, November 11, 2023",
+   "options": [
+    "November 11, 2023",
+    "November 17, 2020",
+    "October 7, 2022",
+    "September 15, 2025",
+    "October 11, 2019"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: October 11, 2019 → November 17, 2020 → October 7, 2022 → November 11, 2023 → September 15, 2025. The fourth is November 11, 2023.",
+   "id": "CLR-FIL-033"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed fourth?\nFebruary 3, 2022, April 10, 2020, October 28, 2024, January 22, 2025, August 10, 2019",
+   "options": [
+    "October 28, 2024",
+    "April 10, 2020",
+    "August 10, 2019",
+    "February 3, 2022",
+    "January 22, 2025"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: August 10, 2019 → April 10, 2020 → February 3, 2022 → October 28, 2024 → January 22, 2025. The fourth is October 28, 2024.",
+   "id": "CLR-FIL-034"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed last?\nMay 5, 2024, July 12, 2023, November 7, 2022, October 12, 2019, January 26, 2021",
+   "options": [
+    "October 12, 2019",
+    "November 7, 2022",
+    "July 12, 2023",
+    "May 5, 2024",
+    "January 26, 2021"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Oldest to newest: October 12, 2019 → January 26, 2021 → November 7, 2022 → July 12, 2023 → May 5, 2024. The last is May 5, 2024.",
+   "id": "CLR-FIL-035"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed third?\nOctober 10, 2025, June 28, 2023, June 20, 2020, April 2, 2024, June 16, 2019",
+   "options": [
+    "April 2, 2024",
+    "October 10, 2025",
+    "June 28, 2023",
+    "June 20, 2020",
+    "June 16, 2019"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: June 16, 2019 → June 20, 2020 → June 28, 2023 → April 2, 2024 → October 10, 2025. The third is June 28, 2023.",
+   "id": "CLR-FIL-036"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed last?\nMarch 17, 2024, October 24, 2023, April 11, 2022, December 7, 2019, December 11, 2025",
+   "options": [
+    "April 11, 2022",
+    "December 7, 2019",
+    "March 17, 2024",
+    "October 24, 2023",
+    "December 11, 2025"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: December 7, 2019 → April 11, 2022 → October 24, 2023 → March 17, 2024 → December 11, 2025. The last is December 11, 2025.",
+   "id": "CLR-FIL-037"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 1,
+   "question": "Records are filed in chronological order (oldest first). Which date is filed second?\nAugust 27, 2024, April 8, 2023, May 9, 2019, March 22, 2025, August 4, 2020",
+   "options": [
+    "March 22, 2025",
+    "August 4, 2020",
+    "April 8, 2023",
+    "May 9, 2019",
+    "August 27, 2024"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Oldest to newest: May 9, 2019 → August 4, 2020 → April 8, 2023 → August 27, 2024 → March 22, 2025. The second is August 4, 2020.",
+   "id": "CLR-FIL-038"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed last?\n03/17/2021, 04/14/2021, 10/21/2021, 02/21/2021, 07/18/2021",
+   "options": [
+    "07/18/2021",
+    "03/17/2021",
+    "04/14/2021",
+    "02/21/2021",
+    "10/21/2021"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: 02/21/2021 → 03/17/2021 → 04/14/2021 → 07/18/2021 → 10/21/2021. The last is 10/21/2021.",
+   "id": "CLR-FIL-039"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed second?\n11/10/2022, 04/15/2022, 01/26/2022, 07/20/2022, 08/22/2022",
+   "options": [
+    "04/15/2022",
+    "08/22/2022",
+    "11/10/2022",
+    "01/26/2022",
+    "07/20/2022"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: 01/26/2022 → 04/15/2022 → 07/20/2022 → 08/22/2022 → 11/10/2022. The second is 04/15/2022.",
+   "id": "CLR-FIL-040"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed last?\n11/01/2021, 12/03/2021, 02/08/2021, 03/09/2021, 06/06/2021",
+   "options": [
+    "12/03/2021",
+    "03/09/2021",
+    "06/06/2021",
+    "11/01/2021",
+    "02/08/2021"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: 02/08/2021 → 03/09/2021 → 06/06/2021 → 11/01/2021 → 12/03/2021. The last is 12/03/2021.",
+   "id": "CLR-FIL-041"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed fourth?\n01/15/2020, 10/09/2020, 06/05/2020, 04/16/2020, 02/03/2020",
+   "options": [
+    "01/15/2020",
+    "04/16/2020",
+    "10/09/2020",
+    "02/03/2020",
+    "06/05/2020"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: 01/15/2020 → 02/03/2020 → 04/16/2020 → 06/05/2020 → 10/09/2020. The fourth is 06/05/2020.",
+   "id": "CLR-FIL-042"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed first?\n07/13/2022, 11/26/2022, 02/17/2022, 08/12/2022, 01/21/2022",
+   "options": [
+    "11/26/2022",
+    "02/17/2022",
+    "01/21/2022",
+    "08/12/2022",
+    "07/13/2022"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: 01/21/2022 → 02/17/2022 → 07/13/2022 → 08/12/2022 → 11/26/2022. The first is 01/21/2022.",
+   "id": "CLR-FIL-043"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed fourth?\n06/01/2025, 10/02/2025, 09/25/2025, 03/04/2025, 12/02/2025",
+   "options": [
+    "06/01/2025",
+    "12/02/2025",
+    "03/04/2025",
+    "09/25/2025",
+    "10/02/2025"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: 03/04/2025 → 06/01/2025 → 09/25/2025 → 10/02/2025 → 12/02/2025. The fourth is 10/02/2025.",
+   "id": "CLR-FIL-044"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed third?\n11/27/2022, 06/09/2022, 02/05/2022, 08/09/2022, 01/05/2022",
+   "options": [
+    "06/09/2022",
+    "01/05/2022",
+    "08/09/2022",
+    "02/05/2022",
+    "11/27/2022"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: 01/05/2022 → 02/05/2022 → 06/09/2022 → 08/09/2022 → 11/27/2022. The third is 06/09/2022.",
+   "id": "CLR-FIL-045"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 2,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed fourth?\n05/12/2025, 10/03/2025, 09/07/2025, 12/11/2025, 04/02/2025",
+   "options": [
+    "09/07/2025",
+    "10/03/2025",
+    "04/02/2025",
+    "12/11/2025",
+    "05/12/2025"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Oldest to newest: 04/02/2025 → 05/12/2025 → 09/07/2025 → 10/03/2025 → 12/11/2025. The fourth is 10/03/2025.",
+   "id": "CLR-FIL-046"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed fourth?\nMay 3, 2024, February 6, 2024, 07/19/2024, May 14, 2024, 01/17/2024",
+   "options": [
+    "01/17/2024",
+    "May 3, 2024",
+    "February 6, 2024",
+    "07/19/2024",
+    "May 14, 2024"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: 01/17/2024 → February 6, 2024 → May 3, 2024 → May 14, 2024 → 07/19/2024. The fourth is May 14, 2024.",
+   "id": "CLR-FIL-047"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed last?\n01/13/2020, 01/07/2020, 01/02/2020, 01/09/2020, 01/23/2020",
+   "options": [
+    "01/13/2020",
+    "01/02/2020",
+    "01/23/2020",
+    "01/09/2020",
+    "01/07/2020"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: 01/02/2020 → 01/07/2020 → 01/09/2020 → 01/13/2020 → 01/23/2020. The last is 01/23/2020.",
+   "id": "CLR-FIL-048"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed last?\n06/17/2024, May 10, 2024, 11/22/2024, 05/01/2024, 02/03/2024",
+   "options": [
+    "11/22/2024",
+    "May 10, 2024",
+    "05/01/2024",
+    "02/03/2024",
+    "06/17/2024"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: 02/03/2024 → 05/01/2024 → May 10, 2024 → 06/17/2024 → 11/22/2024. The last is 11/22/2024.",
+   "id": "CLR-FIL-049"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed third?\nSeptember 22, 2021, September 28, 2021, September 8, 2021, September 21, 2021, 09/24/2021",
+   "options": [
+    "September 22, 2021",
+    "09/24/2021",
+    "September 21, 2021",
+    "September 8, 2021",
+    "September 28, 2021"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Oldest to newest: September 8, 2021 → September 21, 2021 → September 22, 2021 → 09/24/2021 → September 28, 2021. The third is September 22, 2021.",
+   "id": "CLR-FIL-050"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed second?\n04/02/2022, 05/14/2022, August 23, 2022, 05/21/2022, 07/02/2022",
+   "options": [
+    "07/02/2022",
+    "05/14/2022",
+    "04/02/2022",
+    "August 23, 2022",
+    "05/21/2022"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Oldest to newest: 04/02/2022 → 05/14/2022 → 05/21/2022 → 07/02/2022 → August 23, 2022. The second is 05/14/2022.",
+   "id": "CLR-FIL-051"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed first?\n01/20/2021, 01/16/2021, 01/26/2021, January 10, 2021, 01/06/2021",
+   "options": [
+    "01/26/2021",
+    "01/16/2021",
+    "01/06/2021",
+    "01/20/2021",
+    "January 10, 2021"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Oldest to newest: 01/06/2021 → January 10, 2021 → 01/16/2021 → 01/20/2021 → 01/26/2021. The first is 01/06/2021.",
+   "id": "CLR-FIL-052"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed last?\n05/28/2022, 05/17/2022, 05/14/2022, May 4, 2022, 05/16/2022",
+   "options": [
+    "05/14/2022",
+    "05/17/2022",
+    "05/16/2022",
+    "05/28/2022",
+    "May 4, 2022"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Oldest to newest: May 4, 2022 → 05/14/2022 → 05/16/2022 → 05/17/2022 → 05/28/2022. The last is 05/28/2022.",
+   "id": "CLR-FIL-053"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 3,
+   "question": "Records are filed in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format. Which date is filed third?\nJune 28, 2023, 05/22/2023, October 22, 2023, September 23, 2023, August 18, 2023",
+   "options": [
+    "September 23, 2023",
+    "05/22/2023",
+    "October 22, 2023",
+    "June 28, 2023",
+    "August 18, 2023"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Oldest to newest: 05/22/2023 → June 28, 2023 → August 18, 2023 → September 23, 2023 → October 22, 2023. The third is August 18, 2023.",
+   "id": "CLR-FIL-054"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format.\n1. 06/15/2021\n2. 09/28/2021\n3. 12/17/2021\n4. February 5, 2021\n5. 06/21/2021\nWhich is the correct order?",
+   "options": [
+    "24531",
+    "41523",
+    "23514",
+    "14523",
+    "41253"
+   ],
+   "correctAnswer": 1,
+   "explanation": "41523. February 5, 2021 → 06/15/2021 → 06/21/2021 → 09/28/2021 → 12/17/2021",
+   "id": "CLR-FIL-055"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records from most recent to oldest. Numeric dates are in MM/DD/YYYY format.\n1. March 9, 2020\n2. 01/25/2020\n3. 08/17/2020\n4. 08/15/2020\n5. 10/08/2020\nWhich is the correct order?",
+   "options": [
+    "45132",
+    "53412",
+    "45321",
+    "54132",
+    "53421"
+   ],
+   "correctAnswer": 1,
+   "explanation": "53412. 10/08/2020 → 08/17/2020 → 08/15/2020 → March 9, 2020 → 01/25/2020",
+   "id": "CLR-FIL-056"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records from most recent to oldest. Numeric dates are in MM/DD/YYYY format.\n1. March 20, 2024\n2. June 20, 2024\n3. April 11, 2024\n4. February 23, 2024\n5. 07/24/2024\nWhich is the correct order?",
+   "options": [
+    "24315",
+    "32145",
+    "41325",
+    "52314",
+    "52341"
+   ],
+   "correctAnswer": 3,
+   "explanation": "52314. 07/24/2024 → June 20, 2024 → April 11, 2024 → March 20, 2024 → February 23, 2024",
+   "id": "CLR-FIL-057"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format.\n1. August 26, 2024\n2. 07/27/2024\n3. 09/01/2024\n4. June 5, 2024\n5. 02/05/2024\nWhich is the correct order?",
+   "options": [
+    "54213",
+    "24315",
+    "23145",
+    "41532",
+    "31245"
+   ],
+   "correctAnswer": 0,
+   "explanation": "54213. 02/05/2024 → June 5, 2024 → 07/27/2024 → August 26, 2024 → 09/01/2024",
+   "id": "CLR-FIL-058"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records in chronological order (oldest first). Numeric dates are in MM/DD/YYYY format.\n1. 05/10/2022\n2. 03/15/2022\n3. 07/18/2022\n4. 07/06/2022\n5. 05/07/2022\nWhich is the correct order?",
+   "options": [
+    "53412",
+    "51432",
+    "25143",
+    "34152",
+    "34125"
+   ],
+   "correctAnswer": 2,
+   "explanation": "25143. 03/15/2022 → 05/07/2022 → 05/10/2022 → 07/06/2022 → 07/18/2022",
+   "id": "CLR-FIL-059"
+  },
+  {
+   "level": "both",
+   "skill": "Chronological Filing",
+   "tier": 4,
+   "question": "Arrange the records from most recent to oldest. Numeric dates are in MM/DD/YYYY format.\n1. 09/22/2019\n2. 03/04/2019\n3. 06/24/2019\n4. 05/06/2019\n5. August 8, 2019\nWhich is the correct order?",
+   "options": [
+    "14352",
+    "34152",
+    "54132",
+    "23514",
+    "15342"
+   ],
+   "correctAnswer": 4,
+   "explanation": "15342. 09/22/2019 → August 8, 2019 → 06/24/2019 → 05/06/2019 → 03/04/2019",
+   "id": "CLR-FIL-060"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nD-848, C-690, G-567, E-565, S-841",
+   "options": [
+    "E-565",
+    "C-690",
+    "D-848",
+    "S-841",
+    "G-567"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: C-690 → D-848 → E-565 → G-567 → S-841. The second is D-848.",
+   "id": "CLR-FIL-061"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nN-293, P-488, T-161, S-888, M-687",
+   "options": [
+    "N-293",
+    "S-888",
+    "T-161",
+    "P-488",
+    "M-687"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Filing order: M-687 → N-293 → P-488 → S-888 → T-161. The second is N-293.",
+   "id": "CLR-FIL-062"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed third?\nK-212, C-930, E-631, J-988, S-643",
+   "options": [
+    "E-631",
+    "J-988",
+    "K-212",
+    "S-643",
+    "C-930"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Filing order: C-930 → E-631 → J-988 → K-212 → S-643. The third is J-988.",
+   "id": "CLR-FIL-063"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nE-669, A-219, S-318, D-945, H-840",
+   "options": [
+    "H-840",
+    "A-219",
+    "D-945",
+    "E-669",
+    "S-318"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: A-219 → D-945 → E-669 → H-840 → S-318. The second is D-945.",
+   "id": "CLR-FIL-064"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed first?\nS-481, B-981, H-990, M-191, G-481",
+   "options": [
+    "H-990",
+    "M-191",
+    "S-481",
+    "G-481",
+    "B-981"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Filing order: B-981 → G-481 → H-990 → M-191 → S-481. The first is B-981.",
+   "id": "CLR-FIL-065"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed last?\nM-682, N-480, T-591, K-326, P-340",
+   "options": [
+    "P-340",
+    "T-591",
+    "K-326",
+    "N-480",
+    "M-682"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Filing order: K-326 → M-682 → N-480 → P-340 → T-591. The last is T-591.",
+   "id": "CLR-FIL-066"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nP-656, B-318, C-650, M-499, E-202",
+   "options": [
+    "B-318",
+    "M-499",
+    "C-650",
+    "E-202",
+    "P-656"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: B-318 → C-650 → E-202 → M-499 → P-656. The second is C-650.",
+   "id": "CLR-FIL-067"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nK-647, N-172, H-728, B-161, G-782",
+   "options": [
+    "G-782",
+    "H-728",
+    "K-647",
+    "N-172",
+    "B-161"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: B-161 → G-782 → H-728 → K-647 → N-172. The fourth is K-647.",
+   "id": "CLR-FIL-068"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nA-12, A-1001, A-102, A-98, A-45",
+   "options": [
+    "A-98",
+    "A-1001",
+    "A-45",
+    "A-102",
+    "A-12"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: A-12 → A-45 → A-98 → A-102 → A-1001. The fourth is A-102.",
+   "id": "CLR-FIL-069"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nD-98, D-45, D-9, D-27, D-120",
+   "options": [
+    "D-27",
+    "D-45",
+    "D-120",
+    "D-98",
+    "D-9"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: D-9 → D-27 → D-45 → D-98 → D-120. The fourth is D-98.",
+   "id": "CLR-FIL-070"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nR-120, R-98, R-560, R-12, R-27",
+   "options": [
+    "R-560",
+    "R-27",
+    "R-120",
+    "R-98",
+    "R-12"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Filing order: R-12 → R-27 → R-98 → R-120 → R-560. The second is R-27.",
+   "id": "CLR-FIL-071"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed last?\nA-1001, A-98, A-3, A-12, A-45",
+   "options": [
+    "A-3",
+    "A-45",
+    "A-1001",
+    "A-98",
+    "A-12"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: A-3 → A-12 → A-45 → A-98 → A-1001. The last is A-1001.",
+   "id": "CLR-FIL-072"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed third?\nJ-12, J-305, J-3, J-102, J-98",
+   "options": [
+    "J-102",
+    "J-98",
+    "J-3",
+    "J-305",
+    "J-12"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Filing order: J-3 → J-12 → J-98 → J-102 → J-305. The third is J-98.",
+   "id": "CLR-FIL-073"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nJ-1001, J-98, J-3, J-120, J-12",
+   "options": [
+    "J-120",
+    "J-98",
+    "J-12",
+    "J-3",
+    "J-1001"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Filing order: J-3 → J-12 → J-98 → J-120 → J-1001. The second is J-12.",
+   "id": "CLR-FIL-074"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed first?\nK-1001, K-9, K-98, K-120, K-45",
+   "options": [
+    "K-98",
+    "K-1001",
+    "K-45",
+    "K-120",
+    "K-9"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Filing order: K-9 → K-45 → K-98 → K-120 → K-1001. The first is K-9.",
+   "id": "CLR-FIL-075"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nR-305, R-9, R-560, R-45, R-27",
+   "options": [
+    "R-45",
+    "R-27",
+    "R-9",
+    "R-560",
+    "R-305"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Filing order: R-9 → R-27 → R-45 → R-305 → R-560. The second is R-27.",
+   "id": "CLR-FIL-076"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nS-7, H-341, M-15, H-105, M-98",
+   "options": [
+    "H-105",
+    "M-15",
+    "S-7",
+    "M-98",
+    "H-341"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: H-105 → H-341 → M-15 → M-98 → S-7. The fourth is M-98.",
+   "id": "CLR-FIL-077"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed first?\nP-1002, R-105, B-341, P-341, P-7",
+   "options": [
+    "R-105",
+    "P-7",
+    "P-341",
+    "B-341",
+    "P-1002"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: B-341 → P-7 → P-341 → P-1002 → R-105. The first is B-341.",
+   "id": "CLR-FIL-078"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nK-210, B-210, N-341, K-1002, B-341",
+   "options": [
+    "B-341",
+    "N-341",
+    "K-210",
+    "K-1002",
+    "B-210"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: B-210 → B-341 → K-210 → K-1002 → N-341. The fourth is K-1002.",
+   "id": "CLR-FIL-079"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed first?\nF-341, D-341, R-7, R-33, F-24",
+   "options": [
+    "R-33",
+    "F-341",
+    "R-7",
+    "D-341",
+    "F-24"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: D-341 → F-24 → F-341 → R-7 → R-33. The first is D-341.",
+   "id": "CLR-FIL-080"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed third?\nN-24, N-33, N-7, N-15, A-105",
+   "options": [
+    "A-105",
+    "N-24",
+    "N-7",
+    "N-15",
+    "N-33"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: A-105 → N-7 → N-15 → N-24 → N-33. The third is N-15.",
+   "id": "CLR-FIL-081"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed last?\nP-1002, P-33, R-33, P-105, G-105",
+   "options": [
+    "P-105",
+    "P-1002",
+    "P-33",
+    "G-105",
+    "R-33"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Filing order: G-105 → P-33 → P-105 → P-1002 → R-33. The last is R-33.",
+   "id": "CLR-FIL-082"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed second?\nM-1002, M-98, S-98, S-341, A-7",
+   "options": [
+    "S-98",
+    "M-1002",
+    "A-7",
+    "M-98",
+    "S-341"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: A-7 → M-98 → M-1002 → S-98 → S-341. The second is M-98.",
+   "id": "CLR-FIL-083"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number. Which file is filed fourth?\nD-15, S-105, P-15, S-1002, P-1002",
+   "options": [
+    "P-1002",
+    "D-15",
+    "S-1002",
+    "S-105",
+    "P-15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Filing order: D-15 → P-15 → P-1002 → S-105 → S-1002. The fourth is S-105.",
+   "id": "CLR-FIL-084"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. AB-220\n2. BA-12\n3. CA-105\n4. AB-47\n5. CB-71\nWhich is the correct filing order?",
+   "options": [
+    "41235",
+    "41325",
+    "13524",
+    "42153",
+    "23541"
+   ],
+   "correctAnswer": 0,
+   "explanation": "41235. AB-47 → AB-220 → BA-12 → CA-105 → CB-71",
+   "id": "CLR-FIL-085"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. AC-9\n2. BA-220\n3. AC-71\n4. CB-4\n5. C-9\nWhich is the correct filing order?",
+   "options": [
+    "13254",
+    "45231",
+    "42315",
+    "31254",
+    "24135"
+   ],
+   "correctAnswer": 0,
+   "explanation": "13254. AC-9 → AC-71 → BA-220 → C-9 → CB-4",
+   "id": "CLR-FIL-086"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. C-71\n2. BC-9\n3. C-47\n4. AB-71\n5. BC-71\nWhich is the correct filing order?",
+   "options": [
+    "42513",
+    "51423",
+    "42531",
+    "45312",
+    "35421"
+   ],
+   "correctAnswer": 2,
+   "explanation": "42531. AB-71 → BC-9 → BC-71 → C-47 → C-71",
+   "id": "CLR-FIL-087"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. C-47\n2. B-9\n3. C-38\n4. A-38\n5. CB-12\nWhich is the correct filing order?",
+   "options": [
+    "53421",
+    "42135",
+    "43215",
+    "42315",
+    "34215"
+   ],
+   "correctAnswer": 3,
+   "explanation": "42315. A-38 → B-9 → C-38 → C-47 → CB-12",
+   "id": "CLR-FIL-088"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. CA-38\n2. BC-9\n3. BC-4\n4. B-47\n5. AB-12\nWhich is the correct filing order?",
+   "options": [
+    "53421",
+    "31524",
+    "23145",
+    "54321",
+    "54231"
+   ],
+   "correctAnswer": 3,
+   "explanation": "54321. AB-12 → B-47 → BC-4 → BC-9 → CA-38",
+   "id": "CLR-FIL-089"
+  },
+  {
+   "level": "both",
+   "skill": "Alphanumeric Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by the letter(s), then in numerical order by the number.\n1. B-9\n2. AB-71\n3. AB-12\n4. B-47\n5. B-4\nWhich is the correct filing order?",
+   "options": [
+    "53421",
+    "23514",
+    "32514",
+    "31245",
+    "54132"
+   ],
+   "correctAnswer": 2,
+   "explanation": "32514. AB-12 → AB-71 → B-4 → B-9 → B-47",
+   "id": "CLR-FIL-090"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Dr. Elena Gutierrez\n2. Atty. Corazon Mercado\n3. Dr. Gloria Santiago\n4. Prof. Luz Torres\n5. Dr. Eduardo Morales",
+   "options": [
+    "Dr. Gloria Santiago",
+    "Prof. Luz Torres",
+    "Atty. Corazon Mercado",
+    "Dr. Elena Gutierrez",
+    "Dr. Eduardo Morales"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Gutierrez, Elena; Mercado, Corazon; Morales, Eduardo; Santiago, Gloria; Torres, Luz. The second is Atty. Corazon Mercado.",
+   "id": "CLR-FIL-091"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed third?\n1. Engr. Luz Torres\n2. Engr. Pedro Javier\n3. Atty. Dante Lim\n4. Dr. Carlos Belmonte\n5. Dr. Fe Reyes",
+   "options": [
+    "Atty. Dante Lim",
+    "Engr. Luz Torres",
+    "Dr. Carlos Belmonte",
+    "Engr. Pedro Javier",
+    "Dr. Fe Reyes"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ignore the titles and file by surname, then first name: Belmonte, Carlos; Javier, Pedro; Lim, Dante; Reyes, Fe; Torres, Luz. The third is Atty. Dante Lim.",
+   "id": "CLR-FIL-092"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed third?\n1. Atty. Lourdes Fernandez\n2. Atty. Lourdes Francisco\n3. Dr. Ramon Nepomuceno\n4. Atty. Miguel Hernandez\n5. Atty. Maria Salazar",
+   "options": [
+    "Dr. Ramon Nepomuceno",
+    "Atty. Miguel Hernandez",
+    "Atty. Lourdes Fernandez",
+    "Atty. Lourdes Francisco",
+    "Atty. Maria Salazar"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ignore the titles and file by surname, then first name: Fernandez, Lourdes; Francisco, Lourdes; Hernandez, Miguel; Nepomuceno, Ramon; Salazar, Maria. The third is Atty. Miguel Hernandez.",
+   "id": "CLR-FIL-093"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed first?\n1. Dr. Elena Reyes\n2. Atty. Teresa Belmonte\n3. Atty. Rosa Enriquez\n4. Dr. Pedro Zamora\n5. Engr. Noel Balagtas",
+   "options": [
+    "Atty. Rosa Enriquez",
+    "Dr. Pedro Zamora",
+    "Dr. Elena Reyes",
+    "Atty. Teresa Belmonte",
+    "Engr. Noel Balagtas"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ignore the titles and file by surname, then first name: Balagtas, Noel; Belmonte, Teresa; Enriquez, Rosa; Reyes, Elena; Zamora, Pedro. The first is Engr. Noel Balagtas.",
+   "id": "CLR-FIL-094"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed first?\n1. Engr. Ramon Zamora\n2. Atty. Corazon Jimenez\n3. Dr. Lourdes Mercado\n4. Dr. Elena Magno\n5. Dr. Ana Cruz",
+   "options": [
+    "Dr. Lourdes Mercado",
+    "Engr. Ramon Zamora",
+    "Dr. Ana Cruz",
+    "Dr. Elena Magno",
+    "Atty. Corazon Jimenez"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Cruz, Ana; Jimenez, Corazon; Magno, Elena; Mercado, Lourdes; Zamora, Ramon. The first is Dr. Ana Cruz.",
+   "id": "CLR-FIL-095"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed last?\n1. Atty. Antonio Valdez\n2. Engr. Lourdes Balagtas\n3. Dr. Ramon Ramos\n4. Prof. Dante Macaraeg\n5. Engr. Maria Enriquez",
+   "options": [
+    "Atty. Antonio Valdez",
+    "Engr. Maria Enriquez",
+    "Prof. Dante Macaraeg",
+    "Dr. Ramon Ramos",
+    "Engr. Lourdes Balagtas"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ignore the titles and file by surname, then first name: Balagtas, Lourdes; Enriquez, Maria; Macaraeg, Dante; Ramos, Ramon; Valdez, Antonio. The last is Atty. Antonio Valdez.",
+   "id": "CLR-FIL-096"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed first?\n1. Prof. Maria Tan\n2. Engr. Liza Zulueta\n3. Prof. Carlos Pascual\n4. Atty. Rosa Mercado\n5. Atty. Rico Garces",
+   "options": [
+    "Atty. Rico Garces",
+    "Atty. Rosa Mercado",
+    "Engr. Liza Zulueta",
+    "Prof. Carlos Pascual",
+    "Prof. Maria Tan"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ignore the titles and file by surname, then first name: Garces, Rico; Mercado, Rosa; Pascual, Carlos; Tan, Maria; Zulueta, Liza. The first is Atty. Rico Garces.",
+   "id": "CLR-FIL-097"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 1,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Atty. Corazon Dizon\n2. Engr. Antonio Salvador\n3. Dr. Corazon Navarro\n4. Atty. Luz Salazar\n5. Engr. Elena Reyes",
+   "options": [
+    "Engr. Elena Reyes",
+    "Atty. Corazon Dizon",
+    "Dr. Corazon Navarro",
+    "Atty. Luz Salazar",
+    "Engr. Antonio Salvador"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Dizon, Corazon; Navarro, Corazon; Reyes, Elena; Salazar, Luz; Salvador, Antonio. The second is Dr. Corazon Navarro.",
+   "id": "CLR-FIL-098"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed first?\n1. Atty. Marissa Javier\n2. Dr. Marcela Javier\n3. Atty. Marvin Abad\n4. Dr. Marites Abad\n5. Engr. Maria Espino",
+   "options": [
+    "Dr. Marcela Javier",
+    "Atty. Marvin Abad",
+    "Engr. Maria Espino",
+    "Dr. Marites Abad",
+    "Atty. Marissa Javier"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ignore the titles and file by surname, then first name: Abad, Marites; Abad, Marvin; Espino, Maria; Javier, Marcela; Javier, Marissa. The first is Dr. Marites Abad.",
+   "id": "CLR-FIL-099"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed first?\n1. Dr. Marlon Magno\n2. Dr. Mario Magno\n3. Dr. Marcela Cruz\n4. Atty. Maria Cruz\n5. Prof. Marvin Castillo",
+   "options": [
+    "Dr. Marcela Cruz",
+    "Atty. Maria Cruz",
+    "Prof. Marvin Castillo",
+    "Dr. Marlon Magno",
+    "Dr. Mario Magno"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Castillo, Marvin; Cruz, Marcela; Cruz, Maria; Magno, Mario; Magno, Marlon. The first is Prof. Marvin Castillo.",
+   "id": "CLR-FIL-100"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Atty. Marcela Tan\n2. Prof. Marissa Tan\n3. Prof. Marvin Francisco\n4. Prof. Marites Francisco\n5. Dr. Marlon Quiambao",
+   "options": [
+    "Prof. Marites Francisco",
+    "Prof. Marissa Tan",
+    "Dr. Marlon Quiambao",
+    "Prof. Marvin Francisco",
+    "Atty. Marcela Tan"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ignore the titles and file by surname, then first name: Francisco, Marites; Francisco, Marvin; Quiambao, Marlon; Tan, Marcela; Tan, Marissa. The second is Prof. Marvin Francisco.",
+   "id": "CLR-FIL-101"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Prof. Marissa Padilla\n2. Engr. Mario Padilla\n3. Dr. Marco Abad\n4. Engr. Marites Abad\n5. Prof. Marcela Roxas",
+   "options": [
+    "Engr. Marites Abad",
+    "Dr. Marco Abad",
+    "Engr. Mario Padilla",
+    "Prof. Marissa Padilla",
+    "Prof. Marcela Roxas"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ignore the titles and file by surname, then first name: Abad, Marco; Abad, Marites; Padilla, Mario; Padilla, Marissa; Roxas, Marcela. The second is Engr. Marites Abad.",
+   "id": "CLR-FIL-102"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Prof. Marco Flores\n2. Dr. Marlon Flores\n3. Dr. Maria Abad\n4. Dr. Marissa Abad\n5. Prof. Marites Evangelista",
+   "options": [
+    "Prof. Marites Evangelista",
+    "Prof. Marco Flores",
+    "Dr. Marissa Abad",
+    "Dr. Marlon Flores",
+    "Dr. Maria Abad"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Abad, Maria; Abad, Marissa; Evangelista, Marites; Flores, Marco; Flores, Marlon. The second is Dr. Marissa Abad.",
+   "id": "CLR-FIL-103"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed third?\n1. Engr. Maria Aguilar\n2. Atty. Marlon Aguilar\n3. Prof. Marco Salvador\n4. Atty. Mario Salvador\n5. Prof. Marites Yap",
+   "options": [
+    "Atty. Marlon Aguilar",
+    "Atty. Mario Salvador",
+    "Prof. Marites Yap",
+    "Engr. Maria Aguilar",
+    "Prof. Marco Salvador"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ignore the titles and file by surname, then first name: Aguilar, Maria; Aguilar, Marlon; Salvador, Marco; Salvador, Mario; Yap, Marites. The third is Prof. Marco Salvador.",
+   "id": "CLR-FIL-104"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed third?\n1. Atty. Marcela Navarro\n2. Prof. Marites Navarro\n3. Prof. Maria Javier\n4. Prof. Marissa Javier\n5. Engr. Marlon Ong",
+   "options": [
+    "Engr. Marlon Ong",
+    "Prof. Marites Navarro",
+    "Atty. Marcela Navarro",
+    "Prof. Marissa Javier",
+    "Prof. Maria Javier"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ignore the titles and file by surname, then first name: Javier, Maria; Javier, Marissa; Navarro, Marcela; Navarro, Marites; Ong, Marlon. The third is Atty. Marcela Navarro.",
+   "id": "CLR-FIL-105"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 2,
+   "question": "Files are arranged by surname, then by first name. Titles (Dr., Atty., Engr., Prof.) are ignored. Which name is filed second?\n1. Engr. Mario Rivera\n2. Dr. Marcela Rivera\n3. Atty. Marvin Villegas\n4. Engr. Marites Villegas\n5. Dr. Maria Garces",
+   "options": [
+    "Dr. Marcela Rivera",
+    "Engr. Marites Villegas",
+    "Atty. Marvin Villegas",
+    "Dr. Maria Garces",
+    "Engr. Mario Rivera"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ignore the titles and file by surname, then first name: Garces, Maria; Rivera, Marcela; Rivera, Mario; Villegas, Marites; Villegas, Marvin. The second is Dr. Marcela Rivera.",
+   "id": "CLR-FIL-106"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Antonio Sandoval\n2. Teresa Dizon\n3. Teresa San Pedro\n4. Teresa De la Cruz\n5. Teresa Del Mundo\nWhich is the correct filing order?",
+   "options": [
+    "32514",
+    "31254",
+    "21543",
+    "32451",
+    "45213"
+   ],
+   "correctAnswer": 4,
+   "explanation": "45213. Keys: delacruz, delmundo, dizon, sandoval, sanpedro.",
+   "id": "CLR-FIL-107"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Maria Delos Reyes\n2. Corazon Dela Vega\n3. Dante Sandoval\n4. Rico Dela Paz\n5. Luz De Guzman\nWhich is the correct filing order?",
+   "options": [
+    "45132",
+    "13245",
+    "52413",
+    "54213",
+    "45213"
+   ],
+   "correctAnswer": 3,
+   "explanation": "54213. Keys: deguzman, delapaz, delavega, delosreyes, sandoval.",
+   "id": "CLR-FIL-108"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Elena Delgado\n2. Ramon Dumlao\n3. Corazon Del Mundo\n4. Juan San Pedro\n5. Fe De la Cruz\nWhich is the correct filing order?",
+   "options": [
+    "51234",
+    "51243",
+    "51324",
+    "15342",
+    "42513"
+   ],
+   "correctAnswer": 2,
+   "explanation": "51324. Keys: delacruz, delgado, delmundo, dumlao, sanpedro.",
+   "id": "CLR-FIL-109"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Miguel Santos\n2. Nena Dizon\n3. Ramon Delgado\n4. Teresa De Castro\n5. Lourdes San Jose\nWhich is the correct filing order?",
+   "options": [
+    "23415",
+    "21435",
+    "45321",
+    "43251",
+    "53124"
+   ],
+   "correctAnswer": 3,
+   "explanation": "43251. Keys: decastro, delgado, dizon, sanjose, santos.",
+   "id": "CLR-FIL-110"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Lourdes Dela Vega\n2. Teresa De Leon\n3. Carlos Santos\n4. Luz Sandoval\n5. Noel De Guzman\nWhich is the correct filing order?",
+   "options": [
+    "51243",
+    "15243",
+    "51432",
+    "12345",
+    "51423"
+   ],
+   "correctAnswer": 0,
+   "explanation": "51243. Keys: deguzman, delavega, deleon, sandoval, santos.",
+   "id": "CLR-FIL-111"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Antonio Delgado\n2. Gloria San Jose\n3. Elena De Leon\n4. Ana Dela Vega\n5. Rico Santos\nWhich is the correct filing order?",
+   "options": [
+    "43125",
+    "35412",
+    "41325",
+    "24351",
+    "14352"
+   ],
+   "correctAnswer": 0,
+   "explanation": "43125. Keys: delavega, deleon, delgado, sanjose, santos.",
+   "id": "CLR-FIL-112"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Juan Del Mundo\n2. Rosa De la Cruz\n3. Liza Delos Reyes\n4. Juan Dizon\n5. Lourdes De Castro\nWhich is the correct filing order?",
+   "options": [
+    "52134",
+    "35241",
+    "51234",
+    "52314",
+    "15243"
+   ],
+   "correctAnswer": 0,
+   "explanation": "52134. Keys: decastro, delacruz, delmundo, delosreyes, dizon.",
+   "id": "CLR-FIL-113"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 3,
+   "question": "Files are arranged letter by letter by surname. Prefixes such as De la, Del, San are part of the surname; ignore spaces.\n1. Ana Sanchez\n2. Teresa San Jose\n3. Luz San Pedro\n4. Gloria De Leon\n5. Noel Del Rosario\nWhich is the correct filing order?",
+   "options": [
+    "23415",
+    "35421",
+    "42531",
+    "52341",
+    "45123"
+   ],
+   "correctAnswer": 4,
+   "explanation": "45123. Keys: deleon, delrosario, sanchez, sanjose, sanpedro.",
+   "id": "CLR-FIL-114"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. Gold and Silver Pawnshop\n2. Pearl of the Orient Hotel\n3. Cafe de Manila\n4. The Rose Garden\n5. City of Angels Hotel\nWhich is the correct filing order?",
+   "options": [
+    "35142",
+    "31524",
+    "24351",
+    "35124",
+    "13245"
+   ],
+   "correctAnswer": 3,
+   "explanation": "35124. Keys: cafedemanila, cityangelshotel, goldsilverpawnshop, pearlorienthotel, rosegarden.",
+   "id": "CLR-FIL-115"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. City of Angels Hotel\n2. Rice and Shine Diner\n3. Mother and Child Clinic\n4. The Garden Grill\n5. Cafe de Manila\nWhich is the correct filing order?",
+   "options": [
+    "54132",
+    "51423",
+    "42315",
+    "51432",
+    "15432"
+   ],
+   "correctAnswer": 3,
+   "explanation": "51432. Keys: cafedemanila, cityangelshotel, gardengrill, motherchildclinic, riceshinediner.",
+   "id": "CLR-FIL-116"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. The Bread Basket\n2. Mabuhay Travel and Tours\n3. The Golden Gate Hotel\n4. Gold and Silver Pawnshop\n5. Cafe de Manila\nWhich is the correct filing order?",
+   "options": [
+    "15324",
+    "24351",
+    "15342",
+    "52431",
+    "31245"
+   ],
+   "correctAnswer": 2,
+   "explanation": "15342. Keys: breadbasket, cafedemanila, goldengatehotel, goldsilverpawnshop, mabuhaytraveltours.",
+   "id": "CLR-FIL-117"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. The Rose Garden\n2. The City Pharmacy\n3. Blue Moon Bakery\n4. The Blue Door Cafe\n5. The Mango Tree\nWhich is the correct filing order?",
+   "options": [
+    "15432",
+    "43521",
+    "13254",
+    "52143",
+    "43251"
+   ],
+   "correctAnswer": 4,
+   "explanation": "43251. Keys: bluedoorcafe, bluemoonbakery, citypharmacy, mangotree, rosegarden.",
+   "id": "CLR-FIL-118"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. Bread and Butter Bistro\n2. The Rose Garden\n3. The Garden Grill\n4. The City Pharmacy\n5. Coffee and Cream\nWhich is the correct filing order?",
+   "options": [
+    "32514",
+    "14532",
+    "25314",
+    "15432",
+    "41532"
+   ],
+   "correctAnswer": 1,
+   "explanation": "14532. Keys: breadbutterbistro, citypharmacy, coffeecream, gardengrill, rosegarden.",
+   "id": "CLR-FIL-119"
+  },
+  {
+   "level": "both",
+   "skill": "Indexing Rules",
+   "tier": 4,
+   "question": "Business names are filed letter by letter, ignoring spaces and the words \"The\", \"of\", and \"and\".\n1. Mabuhay Travel and Tours\n2. Garden of Eden Resort\n3. The Coffee House\n4. Coffee and Cream\n5. The City Pharmacy\nWhich is the correct filing order?",
+   "options": [
+    "14532",
+    "51423",
+    "41253",
+    "54321",
+    "13524"
+   ],
+   "correctAnswer": 3,
+   "explanation": "54321. Keys: citypharmacy, coffeecream, coffeehouse, gardenedenresort, mabuhaytraveltours.",
+   "id": "CLR-FIL-120"
+  }
+ ]
+}

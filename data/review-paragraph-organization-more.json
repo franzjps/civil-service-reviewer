@@ -1,0 +1,965 @@
+{
+  "module": "paragraph-organization",
+  "questions": [
+    {
+      "id": "POX-001",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 1,
+      "question": "1. Finally, the whole house smelled of fresh bread.\n2. I decided to bake bread for the first time.\n3. After that, I shaped it and placed it in a hot oven.\n4. First, I mixed flour, yeast, and water into a sticky dough.\n5. Then I let the dough rest for an hour until it doubled in size.",
+      "options": [
+        "24351",
+        "24513",
+        "24531",
+        "23541",
+        "42531"
+      ],
+      "correctAnswer": 2,
+      "explanation": "24531. 2. I decided to bake bread for the first time. 4. First, I mixed flour, yeast, and water into a sticky dough. 5. Then I let the dough rest for an hour until it doubled in size. 3. After that, I shaped it and placed it in a hot oven. 1. Finally, the whole house smelled of fresh bread."
+    },
+    {
+      "id": "POX-002",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 2,
+      "question": "1. With the card, he borrowed three novels.\n2. The librarian then issued him a card with his name on it.\n3. Mario wanted to borrow books from the public library.\n4. He first filled out an application form at the front desk.\n5. He promised to return them within two weeks.",
+      "options": [
+        "34215",
+        "32415",
+        "34125",
+        "43215",
+        "31245"
+      ],
+      "correctAnswer": 0,
+      "explanation": "34215. 3. Mario wanted to borrow books from the public library. 4. He first filled out an application form at the front desk. 2. The librarian then issued him a card with his name on it. 1. With the card, he borrowed three novels. 5. He promised to return them within two weeks."
+    },
+    {
+      "id": "POX-003",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 3,
+      "question": "1. She removed the wheel and took out the punctured tube.\n2. Next, she found a small hole and covered it with a patch.\n3. Ana's bicycle had a flat tire.\n4. After the glue dried, she put the tube back inside the tire.\n5. At last, she pumped it up and rode to school.",
+      "options": [
+        "32145",
+        "51243",
+        "31425",
+        "13245",
+        "31245"
+      ],
+      "correctAnswer": 4,
+      "explanation": "31245. 3. Ana's bicycle had a flat tire. 1. She removed the wheel and took out the punctured tube. 2. Next, she found a small hole and covered it with a patch. 4. After the glue dried, she put the tube back inside the tire. 5. At last, she pumped it up and rode to school."
+    },
+    {
+      "id": "POX-004",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 4,
+      "question": "1. By morning, it was wagging its tail happily.\n2. We gave it warm milk and a blanket.\n3. Eventually, we adopted the puppy and named him Bantay.\n4. It was thin and shivering from the cold.\n5. A stray puppy wandered into our yard.",
+      "options": [
+        "54123",
+        "54213",
+        "34215",
+        "54231",
+        "45213"
+      ],
+      "correctAnswer": 1,
+      "explanation": "54213. 5. A stray puppy wandered into our yard. 4. It was thin and shivering from the cold. 2. We gave it warm milk and a blanket. 1. By morning, it was wagging its tail happily. 3. Eventually, we adopted the puppy and named him Bantay."
+    },
+    {
+      "id": "POX-005",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 1,
+      "question": "1. Parents brought their children early in the morning.\n2. The health center announced a free vaccination drive.\n3. Afterwards, the children rested for fifteen minutes under observation.\n4. Nurses checked each child's record before giving the injection.\n5. Everyone then received a card showing the date of the next dose.",
+      "options": [
+        "21453",
+        "51432",
+        "23415",
+        "21435",
+        "21345"
+      ],
+      "correctAnswer": 3,
+      "explanation": "21435. 2. The health center announced a free vaccination drive. 1. Parents brought their children early in the morning. 4. Nurses checked each child's record before giving the injection. 3. Afterwards, the children rested for fifteen minutes under observation. 5. Everyone then received a card showing the date of the next dose."
+    },
+    {
+      "id": "POX-006",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 2,
+      "question": "1. First, they looked for their names on the posted list.\n2. Inside the booth, each voter filled in the ballot privately.\n3. Once they found their precinct, they lined up to get a ballot.\n4. Election day began before sunrise for many voters.\n5. Last, they fed the ballot into the machine and had a finger marked with ink.",
+      "options": [
+        "14325",
+        "51324",
+        "41352",
+        "41325",
+        "42315"
+      ],
+      "correctAnswer": 3,
+      "explanation": "41325. 4. Election day began before sunrise for many voters. 1. First, they looked for their names on the posted list. 3. Once they found their precinct, they lined up to get a ballot. 2. Inside the booth, each voter filled in the ballot privately. 5. Last, they fed the ballot into the machine and had a finger marked with ink."
+    },
+    {
+      "id": "POX-007",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 3,
+      "question": "1. Rico realized his wallet was missing when he reached the bus terminal.\n2. He immediately retraced his steps to the jeepney stop.\n3. Rico thanked the guard and left a note of gratitude for the honest student.\n4. The guard checked his ID before handing it back.\n5. There, a vendor told him that a student had turned it in to the guard.",
+      "options": [
+        "15243",
+        "12543",
+        "21543",
+        "12453",
+        "12534"
+      ],
+      "correctAnswer": 1,
+      "explanation": "12543. 1. Rico realized his wallet was missing when he reached the bus terminal. 2. He immediately retraced his steps to the jeepney stop. 5. There, a vendor told him that a student had turned it in to the guard. 4. The guard checked his ID before handing it back. 3. Rico thanked the guard and left a note of gratitude for the honest student."
+    },
+    {
+      "id": "POX-008",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 4,
+      "question": "1. Experts expect future devices to be even more closely tied to daily life.\n2. By the 1990s, phones had become small enough to fit in a pocket.\n3. Today, smartphones serve as computers, wallets, and maps.\n4. Then, in the 2000s, phones gained cameras and web browsers.\n5. In the 1970s, the first mobile phones were as heavy as bricks.",
+      "options": [
+        "25431",
+        "12435",
+        "53421",
+        "54231",
+        "52431"
+      ],
+      "correctAnswer": 4,
+      "explanation": "52431. 5. In the 1970s, the first mobile phones were as heavy as bricks. 2. By the 1990s, phones had become small enough to fit in a pocket. 4. Then, in the 2000s, phones gained cameras and web browsers. 3. Today, smartphones serve as computers, wallets, and maps. 1. Experts expect future devices to be even more closely tied to daily life."
+    },
+    {
+      "id": "POX-009",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 2,
+      "question": "1. Months later, the shoots turned golden and were ready for harvest.\n2. Within weeks, the seedlings grew into green shoots.\n3. Finally, the grain was dried under the sun and stored in sacks.\n4. The farmer and his family then cut and threshed the stalks.\n5. A farmer planted rice seedlings in the flooded field.",
+      "options": [
+        "52143",
+        "54123",
+        "51243",
+        "25143",
+        "52413"
+      ],
+      "correctAnswer": 0,
+      "explanation": "52143. 5. A farmer planted rice seedlings in the flooded field. 2. Within weeks, the seedlings grew into green shoots. 1. Months later, the shoots turned golden and were ready for harvest. 4. The farmer and his family then cut and threshed the stalks. 3. Finally, the grain was dried under the sun and stored in sacks."
+    },
+    {
+      "id": "POX-010",
+      "level": "both",
+      "skill": "Sentence Sequencing",
+      "tier": 3,
+      "question": "1. Lena wanted to join the school paper.\n2. Her hard work paid off when the editor accepted her first article.\n3. However, she had never written a news story before.\n4. So she asked her teacher for tips and practiced every night.\n5. Now she writes a column every week.",
+      "options": [
+        "13245",
+        "13452",
+        "13425",
+        "12435",
+        "53421"
+      ],
+      "correctAnswer": 2,
+      "explanation": "13425. 1. Lena wanted to join the school paper. 3. However, she had never written a news story before. 4. So she asked her teacher for tips and practiced every night. 2. Her hard work paid off when the editor accepted her first article. 5. Now she writes a column every week."
+    },
+    {
+      "id": "POX-011",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 1,
+      "question": "A. First, volunteers gathered at the basketball court and were given gloves and sacks.\nB. Our barangay held a clean-up drive last Saturday.\nC. Finally, the captain thanked everyone and promised to hold the drive monthly.\nD. After that, they sorted the collected trash into recyclables and waste.\nE. Then they split into groups and swept each street. What should be the 2nd sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A is the 2nd sentence. Correct order: B-A-E-D-C."
+    },
+    {
+      "id": "POX-012",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 2,
+      "question": "A. Many then began repairing roofs with the help of neighbors.\nB. Because of this warning, the mayor ordered families in coastal areas to evacuate.\nC. When the storm finally passed, they returned home to assess the damage.\nD. The evacuees stayed in school gymnasiums, where relief workers gave them food.\nE. A typhoon was forecast to hit the province on Thursday. What should be the 3rd sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "D is the 3rd sentence. Correct order: E-B-D-C-A."
+    },
+    {
+      "id": "POX-013",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 3,
+      "question": "A. Before the 15th century, books were copied by hand and were very rare.\nB. This changed when Johannes Gutenberg built a printing press with movable metal type.\nC. Eventually, ordinary people could read the same ideas as scholars.\nD. As a result, literacy spread across Europe.\nE. Books could now be produced quickly and cheaply. What should be the 4th sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "D is the 4th sentence. Correct order: A-B-E-D-C."
+    },
+    {
+      "id": "POX-014",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 4,
+      "question": "A. Next, practice answering common questions aloud with a friend.\nB. Following these steps will make you appear confident and prepared.\nC. To begin with, research the company so you can answer questions about its goals.\nD. On the day itself, arrive fifteen minutes early to stay calm.\nE. Preparing for a job interview takes more than choosing what to wear. What should be the 5th sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B is the 5th sentence. Correct order: E-C-A-D-B."
+    },
+    {
+      "id": "POX-015",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 1,
+      "question": "A. The vapor rises and cools, forming clouds.\nB. Once the clouds grow heavy, the water falls as rain.\nC. First, the sun heats oceans and lakes, turning water into vapor.\nD. Water on earth is constantly moving in a cycle.\nE. This rain flows back into rivers and the sea, and the cycle begins again. What should be the 1st sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "D is the 1st sentence. Correct order: D-C-A-B-E."
+    },
+    {
+      "id": "POX-016",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 2,
+      "question": "A. Eventually, coffeehouses opened in cities around the world.\nB. Soon, traders carried the beans across Arabia.\nC. Coffee began as a wild plant in the highlands of Ethiopia.\nD. Monks heard of this and brewed the berries into a drink to stay awake during prayers.\nE. According to legend, a goatherd noticed his goats became lively after eating its berries. What should be the 3rd sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "D is the 3rd sentence. Correct order: C-E-D-B-A."
+    },
+    {
+      "id": "POX-017",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 3,
+      "question": "A. Once you know where the money goes, you can cut unnecessary spending.\nB. Saving money is a habit that anyone can learn.\nC. To start, write down all your monthly expenses.\nD. Over time, these small deposits grow into a safety fund.\nE. Then set aside a fixed amount as soon as you receive your salary. What should be the 4th sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 4,
+      "explanation": "E is the 4th sentence. Correct order: B-C-A-E-D."
+    },
+    {
+      "id": "POX-018",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 4,
+      "question": "A. Our school held a fire drill on Monday morning.\nB. They lined up quietly and followed their teacher to the field.\nC. Afterwards, the principal praised the class for staying calm.\nD. There, the teacher counted every student to make sure no one was missing.\nE. When the alarm rang, students stopped what they were doing. What should be the 2nd sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 4,
+      "explanation": "E is the 2nd sentence. Correct order: A-E-B-D-C."
+    },
+    {
+      "id": "POX-019",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 2,
+      "question": "A. Female sea turtles return to the beach where they were born to lay eggs.\nB. Finally, they crawl toward the sea, guided by the moonlight on the water.\nC. She then lays about a hundred eggs and covers them carefully.\nD. After two months, the hatchlings break out of their shells.\nE. First, each one digs a deep hole in the sand with her flippers. What should be the 5th sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B is the 5th sentence. Correct order: A-E-C-D-B."
+    },
+    {
+      "id": "POX-020",
+      "level": "both",
+      "skill": "Sentence Position",
+      "tier": 3,
+      "question": "A. The mango tree is a common sight in many Philippine backyards.\nB. However, few people know that it takes years before a young tree bears fruit.\nC. Hence, every ripe mango is the result of patient care.\nD. During this time, the tree needs regular watering and pruning.\nE. Once it finally flowers, farmers wrap the young fruits to protect them from insects. What should be the 3rd sentence?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "explanation": "D is the 3rd sentence. Correct order: A-B-D-E-C."
+    },
+    {
+      "id": "POX-021",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 1,
+      "question": "Which sentence best fits the blank?\n____ Mangoes are sweet, bananas are rich in potassium, and papayas aid digestion.",
+      "options": [
+        "Fruits are sold in markets.",
+        "Papayas are the best fruit.",
+        "Vegetables are cheaper than fruit.",
+        "Tropical fruits offer both flavor and nutrition.",
+        "Potassium is found only in bananas."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The details name tastes and health benefits of different fruits, so the topic sentence covers them all."
+    },
+    {
+      "id": "POX-022",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 2,
+      "question": "What is the main idea of the paragraph?\nMany Filipinos travel by jeepney because it is cheap and runs along most routes. Riders can hop on and off almost anywhere. Its open design even lets passengers chat with strangers.",
+      "options": [
+        "Jeepneys are painted in bright colors.",
+        "The jeepney is a convenient and affordable form of transport.",
+        "Buses are better than jeepneys.",
+        "Strangers should not talk to each other.",
+        "Jeepneys only run in cities."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every detail (low fare, many routes, easy boarding) supports the jeepney's convenience and affordability."
+    },
+    {
+      "id": "POX-023",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 3,
+      "question": "Which sentence would be the best topic sentence?\n____ Lack of sleep makes it hard to concentrate, weakens the immune system, and puts drivers at risk of accidents.",
+      "options": [
+        "Getting too little sleep harms both health and safety.",
+        "Everyone sleeps at night.",
+        "Drivers should avoid highways.",
+        "Immune systems fight colds.",
+        "Beds are available in many sizes."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The supporting details are harms to health and safety, so the topic sentence must name them."
+    },
+    {
+      "id": "POX-024",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 4,
+      "question": "Which title best expresses the main idea of the paragraph?\nBefore refrigerators were invented, people kept food from spoiling by salting, smoking, and drying it. Fishermen dried fish under the sun, and families pickled vegetables in vinegar.",
+      "options": [
+        "The History of the Refrigerator",
+        "How to Catch Fish",
+        "Traditional Ways of Preserving Food",
+        "Why Vinegar Is Sour",
+        "Modern Kitchen Appliances"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Salting, smoking, drying and pickling are all methods of preserving food; the paragraph is not about refrigerators."
+    },
+    {
+      "id": "POX-025",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 1,
+      "question": "Which sentence best fits the blank?\n____ For example, a plastic bag may be used for a few seconds, but it can last hundreds of years in the soil.",
+      "options": [
+        "Plastic bags are always free.",
+        "Soil is needed to grow rice.",
+        "Shops should sell more bags.",
+        "Some bags are very large.",
+        "Plastic waste stays in the environment for a very long time."
+      ],
+      "correctAnswer": 4,
+      "explanation": "\"For example\" introduces an illustration of long-lasting plastic waste, which the topic sentence must state."
+    },
+    {
+      "id": "POX-026",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 2,
+      "question": "What is the main idea of the paragraph?\nSome people think that talent alone makes a great pianist. Yet most famous musicians practiced for hours every day from childhood. Their success came less from natural gift than from steady effort.",
+      "options": [
+        "Talent is all that is needed.",
+        "Pianos are hard to learn.",
+        "Consistent practice matters more than talent for musical success.",
+        "Children should quit music.",
+        "Famous musicians are born rich."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The paragraph rejects the talent-only view and stresses steady effort."
+    },
+    {
+      "id": "POX-027",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 3,
+      "question": "Which sentence is the topic sentence of the paragraph?\n(1) The bahay kubo is designed to suit the tropical climate. (2) Its raised floor keeps out floods and animals. (3) Its woven walls let air pass through. (4) Its roof of palm leaves sheds heavy rain.",
+      "options": [
+        "Sentence 2",
+        "Sentence 3",
+        "Sentence 4",
+        "None of the sentences",
+        "Sentence 1"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sentence 1 states the general idea; sentences 2-4 give specific design features that support it."
+    },
+    {
+      "id": "POX-028",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 4,
+      "question": "Which sentence best fits the blank?\n____ A lighthouse warns ships of rocks, a siren warns villagers of floods, and a flashing light warns drivers of danger.",
+      "options": [
+        "Lighthouses are tall.",
+        "Signals help people avoid danger.",
+        "Ships are large vessels.",
+        "Drivers must be licensed.",
+        "Floods occur in July."
+      ],
+      "correctAnswer": 1,
+      "explanation": "All three examples are warning signals, so the general idea is that signals protect people from danger."
+    },
+    {
+      "id": "POX-029",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 2,
+      "question": "What is the main idea of the paragraph?\nA student who borrows a classmate's notes should return them promptly. Lending notes is an act of trust, and keeping them too long may leave the owner unprepared for the exam. Returning them with thanks shows respect.",
+      "options": [
+        "Notes are unimportant.",
+        "Exams should be cancelled.",
+        "Classmates should never share.",
+        "Borrowed notes should be returned promptly and gratefully.",
+        "Students should write less."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each sentence supports returning borrowed notes quickly and with thanks."
+    },
+    {
+      "id": "POX-030",
+      "level": "both",
+      "skill": "Main Idea & Topic Sentences",
+      "tier": 3,
+      "question": "Which sentence best states the main idea of the paragraph?\nAlthough many believe goldfish have a three-second memory, experiments show they can recognize feeding times, find their way through mazes, and remember trained tasks for months.",
+      "options": [
+        "Goldfish have far better memories than people assume.",
+        "Goldfish are the easiest pets.",
+        "Mazes are used to feed fish.",
+        "Memory lasts three seconds in all animals.",
+        "Scientists dislike goldfish."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The experiments contradict the common belief and show goldfish remember well."
+    },
+    {
+      "id": "POX-031",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 1,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Volcanoes form when molten rock rises through cracks in the earth's crust. (2) The pressure can build up until the rock bursts out as lava. (3) My cousin took a train to Naga last year. (4) The lava cools and hardens, slowly building a mountain.",
+      "options": [
+        "All sentences belong",
+        "Sentence 3",
+        "Sentence 4",
+        "Sentence 1",
+        "Sentence 2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sentence 3 is about a train trip, not about how volcanoes form."
+    },
+    {
+      "id": "POX-032",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 2,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Solar panels turn sunlight into electricity. (2) They require little maintenance once installed. (3) Many roofs in the city are painted red. (4) Over time, they can reduce a family's power bill.",
+      "options": [
+        "All sentences belong",
+        "Sentence 4",
+        "Sentence 1",
+        "Sentence 3",
+        "Sentence 2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sentence 3 describes roof color and does not discuss solar panels."
+    },
+    {
+      "id": "POX-033",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 3,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Adopting a pet teaches children responsibility. (2) Feeding and walking an animal every day builds discipline. (3) Dogs have been companions to people for thousands of years. (4) Caring for a living thing also encourages kindness.",
+      "options": [
+        "Sentence 3",
+        "Sentence 4",
+        "All sentences belong",
+        "Sentence 1",
+        "Sentence 2"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sentence 3 gives history of dogs, while the others list what children learn from owning a pet."
+    },
+    {
+      "id": "POX-034",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 4,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) The marathon begins at dawn to avoid the afternoon heat. (2) Runners receive water at every two kilometers. (3) Medical teams wait at the finish line. (4) The price of running shoes has increased this year.",
+      "options": [
+        "Sentence 1",
+        "Sentence 3",
+        "All sentences belong",
+        "Sentence 2",
+        "Sentence 4"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Sentence 4 is about shoe prices; the others describe how the race protects runners."
+    },
+    {
+      "id": "POX-035",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 1,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) The mayor is planning a new road. (2) Bees communicate through dancing. (3) The dance shows other bees where flowers are. (4) The angle of the dance tells the direction of the food.",
+      "options": [
+        "Sentence 4",
+        "Sentence 3",
+        "Sentence 1",
+        "All sentences belong",
+        "Sentence 2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sentence 1 is about a road; sentences 2-4 all explain how bees communicate."
+    },
+    {
+      "id": "POX-036",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 2,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Typhoons are given names by weather agencies. (2) Using names makes warnings easier to remember. (3) Clear names help people share information quickly during emergencies. (4) A simple name can be understood across languages.",
+      "options": [
+        "Sentence 1",
+        "All sentences belong",
+        "Sentence 2",
+        "Sentence 4",
+        "Sentence 3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every sentence supports the idea that naming typhoons makes communication easier."
+    },
+    {
+      "id": "POX-037",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 3,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Learning a second language improves memory. (2) Bilingual people often switch tasks more easily. (3) Studies show it may delay age-related mental decline. (4) Some bakeries open at midnight.",
+      "options": [
+        "All sentences belong",
+        "Sentence 1",
+        "Sentence 3",
+        "Sentence 4",
+        "Sentence 2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sentence 4 is about bakeries and has no link to the benefits of learning a language."
+    },
+    {
+      "id": "POX-038",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 4,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) A good leader listens before deciding. (2) Pineapples grow best in sandy soil. (3) Listening helps a leader understand the team's concerns. (4) Decisions made with input are more likely to be accepted.",
+      "options": [
+        "Sentence 2",
+        "Sentence 1",
+        "Sentence 3",
+        "Sentence 4",
+        "All sentences belong"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sentence 2 is about farming, not about leadership."
+    },
+    {
+      "id": "POX-039",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 2,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) The Banaue Rice Terraces were carved into mountains by hand. (2) Ifugao farmers built them over many centuries. (3) Stone walls hold the soil in place on every level. (4) Today, they are a World Heritage Site that draws visitors.",
+      "options": [
+        "Sentence 1",
+        "Sentence 3",
+        "Sentence 2",
+        "Sentence 4",
+        "All sentences belong"
+      ],
+      "correctAnswer": 4,
+      "explanation": "All sentences describe the rice terraces, so none is off-topic."
+    },
+    {
+      "id": "POX-040",
+      "level": "both",
+      "skill": "Unity & Coherence",
+      "tier": 3,
+      "question": "Which sentence does NOT belong in the paragraph?\n(1) Online shopping saves time because stores are open at all hours. (2) Buyers can compare prices from many sellers within minutes. (3) Public libraries lend books for free. (4) Delivery lets shoppers receive goods without leaving home.",
+      "options": [
+        "All sentences belong",
+        "Sentence 4",
+        "Sentence 3",
+        "Sentence 2",
+        "Sentence 1"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sentence 3 is about libraries, while the others list advantages of online shopping."
+    },
+    {
+      "id": "POX-041",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 1,
+      "question": "Choose the best transition.\nThe road was flooded. ____, we had to take a longer route.",
+      "options": [
+        "As a result",
+        "However",
+        "For instance",
+        "Meanwhile",
+        "Likewise"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The longer route is the effect of the flood, so a cause-effect transition fits."
+    },
+    {
+      "id": "POX-042",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 2,
+      "question": "Choose the best transition.\nJose loves basketball. ____, his brother prefers swimming.",
+      "options": [
+        "Therefore",
+        "As a result",
+        "In contrast",
+        "In addition",
+        "For instance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The two brothers' preferences differ, so a contrast transition is needed."
+    },
+    {
+      "id": "POX-043",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 3,
+      "question": "Choose the best transition.\nMany birds fly south in winter. ____, the swallow travels over 10,000 kilometers each way.",
+      "options": [
+        "However",
+        "Therefore",
+        "Otherwise",
+        "Instead",
+        "For example"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The second sentence gives a specific case of the first, which \"For example\" introduces."
+    },
+    {
+      "id": "POX-044",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 4,
+      "question": "Choose the best transition.\nRain is expected tomorrow. ____, bring an umbrella.",
+      "options": [
+        "However",
+        "Therefore",
+        "For instance",
+        "In contrast",
+        "Similarly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bringing an umbrella is a result of the forecast."
+    },
+    {
+      "id": "POX-045",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 1,
+      "question": "Choose the best transition.\nWash your hands before cooking. ____, germs may spread to the food.",
+      "options": [
+        "For example",
+        "Similarly",
+        "Finally",
+        "Otherwise",
+        "In addition"
+      ],
+      "correctAnswer": 3,
+      "explanation": "\"Otherwise\" states what happens if the instruction is not followed."
+    },
+    {
+      "id": "POX-046",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 2,
+      "question": "Choose the best transition.\nHe trained for months. ____, he lost the race.",
+      "options": [
+        "Therefore",
+        "As a result",
+        "Similarly",
+        "For instance",
+        "Nevertheless"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Losing despite training is unexpected, so a contrast word is required."
+    },
+    {
+      "id": "POX-047",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 3,
+      "question": "Which transition word signals that an example will follow?",
+      "options": [
+        "For instance",
+        "However",
+        "Therefore",
+        "Meanwhile",
+        "Finally"
+      ],
+      "correctAnswer": 0,
+      "explanation": "\"For instance\" introduces an example."
+    },
+    {
+      "id": "POX-048",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 4,
+      "question": "Which transition word best signals a contrast?",
+      "options": [
+        "Likewise",
+        "Besides",
+        "On the other hand",
+        "As a result",
+        "For example"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"On the other hand\" presents an opposing point; the others show similarity, addition, result or example."
+    },
+    {
+      "id": "POX-049",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 2,
+      "question": "Choose the best transition.\nThe chef chopped the onions. ____, he fried them in oil. Finally, he added the tomatoes.",
+      "options": [
+        "However",
+        "Next",
+        "For example",
+        "In contrast",
+        "Instead"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"Next\" continues the sequence between the first step and \"Finally\"."
+    },
+    {
+      "id": "POX-050",
+      "level": "both",
+      "skill": "Transitions & Cues",
+      "tier": 3,
+      "question": "Choose the best transition.\nThe new bridge reduces travel time. ____, it makes the town safer by providing an escape route during floods.",
+      "options": [
+        "Nevertheless",
+        "Otherwise",
+        "Instead",
+        "Moreover",
+        "In contrast"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The second sentence adds another benefit, so an addition word fits."
+    },
+    {
+      "id": "POX-051",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 1,
+      "question": "Which sentence best concludes the paragraph?\nReading daily improves vocabulary and sharpens focus. It also reduces stress and sparks imagination. ____",
+      "options": [
+        "Books are sold in many stores.",
+        "Some novels are very long.",
+        "Libraries close at five.",
+        "Reading glasses are sold in pharmacies.",
+        "In short, a daily reading habit enriches the mind."
+      ],
+      "correctAnswer": 4,
+      "explanation": "A conclusion sums up the benefits; the others add unrelated facts."
+    },
+    {
+      "id": "POX-052",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 2,
+      "question": "Which sentence best concludes the paragraph?\nWalking to school saves money on fare and keeps children active. It also lets them enjoy fresh air and chat with friends. ____",
+      "options": [
+        "Thus, walking to school benefits a child's wallet and health.",
+        "Shoes should be replaced every year.",
+        "Some schools start at seven.",
+        "Jeepneys have many seats.",
+        "Fresh air is invisible."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion restates the benefits already given."
+    },
+    {
+      "id": "POX-053",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 3,
+      "question": "Which sentence best concludes the paragraph?\nSome critics say the new curfew punishes the innocent. Yet police report that accidents involving minors fell by half since it began. ____",
+      "options": [
+        "Curfews are always unfair.",
+        "Police should never speak to minors.",
+        "On balance, the curfew appears to have made young people safer.",
+        "Accidents have nothing to do with night.",
+        "The curfew should be ended immediately."
+      ],
+      "correctAnswer": 2,
+      "explanation": "It weighs both views and follows the evidence given, the drop in accidents."
+    },
+    {
+      "id": "POX-054",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 4,
+      "question": "Which sentence best concludes the paragraph?\nFerries connect thousands of islands, carrying goods and passengers where bridges cannot reach. ____",
+      "options": [
+        "Bridges are made of steel.",
+        "Some ferries are painted white.",
+        "Passengers bring many bags.",
+        "Hence, ferries are vital to life in an archipelago.",
+        "Islands are surrounded by air."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The conclusion draws the general importance of ferries from the detail."
+    },
+    {
+      "id": "POX-055",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 1,
+      "question": "Which sentence best concludes the paragraph?\nA single tree absorbs carbon dioxide, shades homes, and shelters birds. ____",
+      "options": [
+        "Birds sing in the morning.",
+        "Therefore, planting trees helps people and nature alike.",
+        "Homes have roofs.",
+        "Carbon is a black solid.",
+        "Trees can be very tall."
+      ],
+      "correctAnswer": 1,
+      "explanation": "It sums up the benefits and points to an action that follows."
+    },
+    {
+      "id": "POX-056",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 2,
+      "question": "Which sentence best concludes the paragraph?\nThe experiment was repeated five times with different groups, and each result matched the first. ____",
+      "options": [
+        "These consistent results strongly support the original conclusion.",
+        "The experiment was boring.",
+        "Five is an odd number.",
+        "The first group was smaller.",
+        "Different groups wore different uniforms."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The conclusion states what the repeated, matching results prove."
+    },
+    {
+      "id": "POX-057",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 3,
+      "question": "Which sentence best concludes the paragraph?\nGood manners cost nothing but earn respect. Saying \"po\" and \"opo\" shows regard for elders, and thanking others builds friendship. ____",
+      "options": [
+        "Elders often wear glasses.",
+        "Friendship begins in kindergarten.",
+        "Some words are short.",
+        "Simple courtesy therefore strengthens relationships.",
+        "Respect is expensive."
+      ],
+      "correctAnswer": 3,
+      "explanation": "It generalizes from the examples of courtesy."
+    },
+    {
+      "id": "POX-058",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 4,
+      "question": "Which sentence best concludes the paragraph?\nEarly sailors used the stars to find direction at night. They also studied the wind and the waves. ____",
+      "options": [
+        "Stars are very hot.",
+        "Thus, ancient sailors relied on nature to guide their voyages.",
+        "Waves make a loud sound.",
+        "Ships are now built of steel.",
+        "Night follows the day."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The conclusion summarizes how sailors used natural signs."
+    },
+    {
+      "id": "POX-059",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 2,
+      "question": "Which sentence best concludes the paragraph?\nSleeping late, skipping breakfast, and cramming at the last minute all lower exam scores. ____",
+      "options": [
+        "Breakfast is served at eight.",
+        "Exams are held in classrooms.",
+        "Some students stay up to watch films.",
+        "Scores are written in ink.",
+        "Good study habits, not last-minute effort, lead to better results."
+      ],
+      "correctAnswer": 4,
+      "explanation": "It draws the lesson implied by the poor habits listed."
+    },
+    {
+      "id": "POX-060",
+      "level": "both",
+      "skill": "Conclusions",
+      "tier": 3,
+      "question": "Which sentence best concludes the paragraph?\nNot only does volunteering help those in need, but it also gives the volunteer new skills and friends. ____",
+      "options": [
+        "Volunteers should be paid.",
+        "Skills are learned only in school.",
+        "Volunteering therefore benefits both the giver and the receiver.",
+        "Friends always live nearby.",
+        "Those in need are few."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The conclusion combines the two benefits stated."
+    }
+  ]
+}

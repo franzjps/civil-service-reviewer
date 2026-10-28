@@ -1,0 +1,1925 @@
+{
+ "module": "checking-comparing",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nDSJGO | DSJGO\nZYPNF | ZYONF\nFIYWE | FIWYE\nPGOYH | PGOYH\nTEAAQ | TAEAQ",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4. Different: pair(s) 2, 3, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-001"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nCYUOR | CYUOR\nGEHMS | GEHMS\nNUKVY | NUKNY\nBMKZI | MBKZI\nONLER | ONLER",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 5. Different: pair(s) 3, 4. So the answer is 3 pairs.",
+   "id": "CLR-CHE-002"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nBUIBA | RUIBA\nVAWLL | VAWLL\nRMDHW | MRDHW\nYDQNI | YDQNI\nITRNW | ITRNW",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 4, 5. Different: pair(s) 1, 3. So the answer is 3 pairs.",
+   "id": "CLR-CHE-003"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nHPBSS | HNBSS\nSRLCX | SSLCX\nSTZHD | STZHD\nHARQR | HBRQR\nNMNQZ | NMNXZ",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-004"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nCQRXU | CQRXU\nYJVFT | YVJFT\nUXDPU | UXDPU\nTJYYU | TJYYU\nHYENK | HYENK",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5. Different: pair(s) 2. So the answer is 4 pairs.",
+   "id": "CLR-CHE-005"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nNEJVQ | NEJVQ\nOSUQB | SOUQB\nIOHOF | IOHFO\nIQNMS | QINMS\nVDDAY | VDDYA",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1. Different: pair(s) 2, 3, 4, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-006"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nPCTKP | PCKTP\nXLVFK | XVLFK\nZHLLS | ZHLLS\nEJDBP | EJDBP\nFLTYQ | FLTYQ",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4, 5. Different: pair(s) 1, 2. So the answer is 3 pairs.",
+   "id": "CLR-CHE-007"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nESFKM | ESFKM\nTNTTY | TNTTY\nJDJZM | JJDZM\nCATZH | CATZH\nWEGWA | WEGWA",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 4, 5. Different: pair(s) 3. So the answer is 4 pairs.",
+   "id": "CLR-CHE-008"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nOCYKBR | OCYKBR\nMGSNIY | MGSNIY\nLTFKIU | LTFKUI\nCIDSQX | CIDSQB\nYQSRGE | YQSRGE\nRBKWYV | RBKYWV",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 5. Different: pair(s) 3, 4, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-009"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nGUTPZI | GUTHZI\nUQLVYL | UQLVYI\nNVYIOT | NVYIOT\nLQFGOB | QLFGOB\nUFKZJP | UFKZJP\nTRCRQT | TRCRQT",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 5, 6. Different: pair(s) 1, 2, 4. So the answer is 3 pairs.",
+   "id": "CLR-CHE-010"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nAJGMKP | AJGMKP\nSMUBQV | SMUBOV\nUTKZSB | UTKZBS\nNARWAY | NRAWAY\nYGSNQC | YSGNQC\nTBENGY | TBENGY",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 6. Different: pair(s) 2, 3, 4, 5. So the answer is 4 pairs.",
+   "id": "CLR-CHE-011"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nNARRTF | NARTRF\nQLHPYW | QLHPWY\nBMHAUT | BMHAUT\nYKXIYG | YKXYIG\nLURYPN | LURPYN\nYZBQQG | YZWQQG",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-012"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nXRHCMR | XRHGMR\nGGFJUH | GGFJUH\nQYXPZT | QYXZPT\nYKAZFI | YKAZFI\nLDKBNL | LDKBNL\nEAHYCN | EAHYCN",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 4, 5, 6. Different: pair(s) 1, 3. So the answer is 4 pairs.",
+   "id": "CLR-CHE-013"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nOTQFQU | OTQFQU\nLKLLVK | IKLLVK\nOTLMRX | OTLMRX\nNGPVTK | NGPVTK\nSNVOTJ | KNVOTJ\nHPPZAA | HPPAZA",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4. Different: pair(s) 2, 5, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-014"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nFRBKSV | FRBKSV\nXVRCMJ | XVRCMJ\nMFEGCA | MFEGAC\nKOUWIF | KOVWIF\nAOCVLM | AOVCLM\nZOGSZL | ZOGSZL",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 6. Different: pair(s) 3, 4, 5. So the answer is 3 pairs.",
+   "id": "CLR-CHE-015"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nKVQHOL | KVQHOL\nECOJKN | ECOJNK\nMDASVU | MDASVU\nGPJHTR | GPJHTR\nYBHOKE | YBHOKE\nZXDDWD | ZXDDWD",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5, 6. Different: pair(s) 2. So the answer is 5 pairs.",
+   "id": "CLR-CHE-016"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nKWSJEVF | KWSJEVE\nFPYNCPH | FPYNCHP\nHQNYURN | HNQYURN\nFSVTPCY | FSVTPCY\nEUYUKLA | EUYUKAL\nQIBDGFJ | QIBGDFJ",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4. Different: pair(s) 1, 2, 3, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-017"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nVJDIIIZ | VJDILIZ\nJFSDTAY | JFSDTAY\nLELIFZA | LELIFZA\nRHDLZIA | RHDLZIA\nBCZDPBM | BCZDPBM\nNCELDFH | NCELDFH",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 4, 5, 6. Different: pair(s) 1. So the answer is 1 pair.",
+   "id": "CLR-CHE-018"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nDKGGEKK | DKGGEKK\nLXQAULP | LXQUALP\nLONTQDY | LONTQDY\nSPNJMIK | SPNJMIK\nEOYWLQC | EOYWLQC\nQFSMJIC | QFSMJIC",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5, 6. Different: pair(s) 2. So the answer is 1 pair.",
+   "id": "CLR-CHE-019"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nIYHDXWW | IYHXDWW\nVFIYTWI | VFIYTWH\nIGYTEBU | IGYTEBI\nFJEHBSU | FJEHBSU\nKZKJJGL | KZKJJGL\nEGLTZPF | GELTZPF",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4, 5. Different: pair(s) 1, 2, 3, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-020"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nGNAJMNK | NGAJMNK\nMMNEBSA | MMNEBSA\nEKELSKR | EKELSKR\nEBJPVSH | EBJPVSH\nIHIDUGT | IHIDUKT\nRVRYWJB | RVRYWJB",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 4, 6. Different: pair(s) 1, 5. So the answer is 4 pairs.",
+   "id": "CLR-CHE-021"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nIQZHINB | IQZHINB\nBUBJBEU | BUBJBXU\nOAGAEXP | OAGAFXP\nXPRCNBR | XPRCNBR\nXJVLADI | XJVLADI\nOUCFFTG | OUCFFTG",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4, 5, 6. Different: pair(s) 2, 3. So the answer is 4 pairs.",
+   "id": "CLR-CHE-022"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nFIAIYAU | FLAIYAU\nSAPNMZZ | SAPNMZZ\nGGLECOU | GGLENOU\nTWYXQZT | TWYXQTZ\nGQPELUN | GQPELUN\nDDHWIRE | DDHWRIE",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 5. Different: pair(s) 1, 3, 4, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-023"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nXYBBJQE | XYBBJEQ\nHOGCORF | HOGCORF\nTTZKLXX | TTZKLXX\nHWPTCXA | HWPTXCA\nSEQYCBJ | SEQCYBJ\nRPITJQN | RIPTJQN",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3. Different: pair(s) 1, 4, 5, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-024"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\nHYLUFGOV | HYLUGFOV\nJSIGHQUZ | JSIGHQUZ\nQTVJYZYC | QTVJYZYC\nYOKTOUSL | YOKTOUSL\nTOZJXSWI | TOZJXSIW\nDEYFARPV | DEYFARPV",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 4, 6. Different: pair(s) 1, 5. So the answer is 4 pairs.",
+   "id": "CLR-CHE-025"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\nAFEPUFCF | AFEPUFCF\nETDTCFUO | EADTCFUO\nWJLGEQOX | WJLGEQOX\nQMBEDNKM | QMBEDNKM\nQJBCNIOT | QJBCNIOT\nZZPCXANC | ZZPCXANC",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5, 6. Different: pair(s) 2. So the answer is 5 pairs.",
+   "id": "CLR-CHE-026"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\nLZUDOHDZ | LUZDOHDZ\nSOGGCVHI | SOGGCVHI\nPSRJQOPT | PRSJQOPT\nIPSPDPTY | IPSPDPXY\nUXJBWAJL | UXJRWAJL\nUTIKXGTV | UTIKCGTV",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2. Different: pair(s) 1, 3, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-027"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\nBQPMPEOO | VQPMPEOO\nOADORUGL | OCDORUGL\nKEMCDKRE | KECMDKRE\nIFDFBYQI | IFDFBYIQ\nJWFYSAUW | JWFYSAUW\nGYMHGKHN | GYHMGKHN",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 5. Different: pair(s) 1, 2, 3, 4, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-028"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nKFLIVODK | KFLIVODK\nSIGUOGFE | SIUGOGFE\nLIIIOXMQ | LIIIOXMQ\nRZMSFGBQ | RZMSFGBQ\nOWTEMOQR | OWTEMOQR\nPXGTCZKA | PXGTCZKA",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5, 6. Different: pair(s) 2. So the answer is 1 pair.",
+   "id": "CLR-CHE-029"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Strings",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nDZDWELGT | DZDWLEGT\nNXPSRCKW | NPXSRCKW\nZWNNLNLI | ZWNNLNLI\nVMTCQUPO | VMTCQUPD\nQSKMVLZA | QSKMVIZA\nKSMBRQXS | KSNBRQXS",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-030"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n268887 | 268887\n624333 | 614333\n831502 | 841502\n450059 | 450059\n708004 | 778004",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4. Different: pair(s) 2, 3, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-031"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n385696 | 385697\n438783 | 438783\n556097 | 556097\n870245 | 070245\n437769 | 437769",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 5. Different: pair(s) 1, 4. So the answer is 3 pairs.",
+   "id": "CLR-CHE-032"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n806678 | 806628\n495090 | 485090\n422741 | 422741\n048384 | 048384\n474194 | 474914",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4. Different: pair(s) 1, 2, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-033"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n953909 | 959309\n171493 | 171498\n081500 | 081500\n695292 | 695922\n427437 | 472437",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-034"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n490538 | 490738\n233377 | 293377\n638587 | 638587\n961055 | 963055\n153190 | 103190",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-035"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n400642 | 400142\n641359 | 641359\n148017 | 148107\n371240 | 371940\n427367 | 327367",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2. Different: pair(s) 1, 3, 4, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-036"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n934710 | 934701\n623342 | 623324\n677963 | 679763\n808161 | 808611\n906560 | 906560",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 5. Different: pair(s) 1, 2, 3, 4. So the answer is 1 pair.",
+   "id": "CLR-CHE-037"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\n418438 | 418438\n020690 | 020690\n197212 | 107212\n387968 | 587968\n341951 | 349951",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2. Different: pair(s) 3, 4, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-038"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\n8757203 | 8747203\n4333158 | 4333518\n2608571 | 2608571\n1585336 | 1585336\n8239947 | 8239947\n0474876 | 0744876",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4, 5. Different: pair(s) 1, 2, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-039"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\n8202603 | 8202600\n0536310 | 0536130\n2182087 | 2180287\n2714150 | 2714150\n1270434 | 1270474\n5483068 | 5483068",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4, 6. Different: pair(s) 1, 2, 3, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-040"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\n1650009 | 1620009\n7875767 | 7875767\n9841653 | 9814653\n3420577 | 3422577\n4564983 | 4564985\n7384067 | 7348067",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2. Different: pair(s) 1, 3, 4, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-041"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\n9822299 | 8922299\n7094991 | 7094990\n1048862 | 1084862\n1531698 | 9531698\n5368752 | 5368752\n6693008 | 6690308",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 5. Different: pair(s) 1, 2, 3, 4, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-042"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\n7997848 | 7997848\n5642235 | 5642235\n8573154 | 8537154\n2438064 | 2439064\n7634934 | 7634939\n6772047 | 6772447",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2. Different: pair(s) 3, 4, 5, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-043"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\n0100589 | 3100589\n2241534 | 2241534\n9859588 | 9895588\n3437119 | 3437119\n0619468 | 0619488\n0564289 | 1564289",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 4. Different: pair(s) 1, 3, 5, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-044"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\n3772351 | 3772351\n1891252 | 1819252\n4580577 | 4580578\n6347779 | 6847779\n3732362 | 7332362\n3852173 | 3582173",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1. Different: pair(s) 2, 3, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-045"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\n8694396 | 8694396\n9620680 | 9620680\n2745888 | 2745888\n9708700 | 9708700\n1454307 | 1456307\n3294839 | 3294839",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 4, 6. Different: pair(s) 5. So the answer is 5 pairs.",
+   "id": "CLR-CHE-046"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\n54412972 | 54412972\n86901019 | 86905019\n64107338 | 64107338\n99420220 | 9920220\n96684491 | 96684491\n29496547 | 29496574",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 5. Different: pair(s) 2, 4, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-047"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\n17558972 | 17558942\n26186699 | 26126699\n47879218 | 47897218\n22439475 | 22439275\n79452309 | 79452309\n5490748 | 54907248",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 5. Different: pair(s) 1, 2, 3, 4, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-048"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\n92327910 | 92329710\n32947554 | 32947554\n65059396 | 60559396\n21086277 | 21086287\n92381797 | 92381797\n08217776 | 08271776",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 5. Different: pair(s) 1, 3, 4, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-049"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\n50203532 | 50203532\n41336753 | 43136753\n64636426 | 64636426\n06814685 | 06814685\n03842525 | 0384525\n41672552 | 41672552",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 6. Different: pair(s) 2, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-050"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\n72528166 | 74528166\n52475263 | 52475263\n7210832 | 57210832\n71498780 | 71498870\n08490687 | 08490607\n41334868 | 14334868",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2. Different: pair(s) 1, 3, 4, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-051"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\n49591956 | 94591956\n90038770 | 90308770\n01358593 | 01358593\n28616746 | 28614746\n16851834 | 16851384\n92506763 | 29506763",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-052"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\n12871194 | 12871194\n26976735 | 26977635\n47486627 | 47468627\n81840584 | 18840584\n59533192 | 59533192\n39722177 | 89722177",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 5. Different: pair(s) 2, 3, 4, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-053"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\n13323506 | 13323500\n91265220 | 91265220\n75236227 | 65236227\n49004499 | 4004499\n38582770 | 38582170\n43438748 | 44338748",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2. Different: pair(s) 1, 3, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-054"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\n259526983 | 255926983\n522115946 | 522115946\n612337926 | 612337926\n563072831 | 563072831\n927924284 | 297924284\n285026139 | 285026139",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 4, 6. Different: pair(s) 1, 5. So the answer is 4 pairs.",
+   "id": "CLR-CHE-055"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\n455787174 | 455787174\n943886807 | 943886807\n684277346 | 684277346\n564589180 | 564589180\n448891341 | 448891341\n126347699 | 216347699",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 4, 5. Different: pair(s) 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-056"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\n105352479 | 105325479\n868635354 | 886635354\n508738279 | 508732879\n249857633 | 249857633\n564884451 | 664884451\n961260067 | 961260167",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4. Different: pair(s) 1, 2, 3, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-057"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\n683411233 | 683411233\n629461816 | 629461816\n725303623 | 725303623\n051825250 | 051325250\n621408274 | 621408274\n871531075 | 871531075",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 5, 6. Different: pair(s) 4. So the answer is 5 pairs.",
+   "id": "CLR-CHE-058"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\n37268770 | 377268770\n997448087 | 979448087\n469393511 | 469393511\n913282998 | 913282998\n785072867 | 705072867\n472233757 | 472233757",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4, 6. Different: pair(s) 1, 2, 5. So the answer is 3 pairs.",
+   "id": "CLR-CHE-059"
+  },
+  {
+   "level": "both",
+   "skill": "Number Strings",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\n43342533 | 463342533\n077991122 | 707991122\n229405087 | 229405087\n707776460 | 707776460\n325755415 | 325755415\n298138818 | 298338818",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4, 5. Different: pair(s) 1, 2, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-060"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nCorazon Morales, 55 Bonifacio St., Baguio | Corazon Morales, 55 Bonifacio St., Baguio\nLiza Quiambao, 50 Bonifacio St., Pasig | Liza Quiambao, 50 Bonifacio St., Pasig\nLourdes Ong, 44 Osmeña St., Cebu City | Lourdes Ong, 44 Osmeña St., Cebu City\nElena Santillan, 17 Del Pilar St., Manila | Elena Santillan, 71 Del Pilar St., Manila\nCarlos Padilla, 42 Del Pilar St., Baguio | Carlos Padilla, 42 Del Pilar St., Baguio",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 5. Different: pair(s) 4. So the answer is 4 pairs.",
+   "id": "CLR-CHE-061"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nRico Cabrera, 35 Quezon St., Baguio | Ricu Cabrera, 35 Quezon St., Baguio\nMaria Cruz, 93 Burgos St., Marikina | Maria Cruz, 93 Burgos St., Marikina\nPedro Tan, 83 Aguinaldo St., Davao City | Pedro Tan, 83 Aguinaldo St., Davao City\nLuz Gonzales, 13 Mabini St., Iloilo City | Luz Gonzales, 31 Mabini St., Iloilo City\nElena Lacson, 20 Bonifacio St., Cebu City | Elena Lakson, 20 Bonifacio St., Cebu City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3. Different: pair(s) 1, 4, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-062"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nMiguel Rivera, 36 Quezon St., Davao City | Miguel Rivera, 36 Quezon St., Davao City\nMaria Mercado, 35 Bonifacio St., Manila | Maria Mercado, 35 Bonifacio St., Manila\nGloria Fernandez, 23 Aguinaldo St., Tarlac | Gloria Fernandaz, 23 Aguinaldo St., Tarlac\nNena Francisco, 17 Mabini St., Marikina | Nena Francisco, 71 Mabini St., Marikina\nGloria Ibarra, 98 Mabini St., Iloilo City | Gloria Ibarra, 98 Mabini St., Iloilo City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 5. Different: pair(s) 3, 4. So the answer is 3 pairs.",
+   "id": "CLR-CHE-063"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nRosa Santillan, 98 Osmeña St., Manila | Rosa Santillan, 98 Osmeña St., Manila\nGloria Mendoza, 72 Bonifacia St., Marikina | Gloria Mendoza, 72 Bonifacio St., Marikina\nMaria Gonzales, 64 Del Pilar St., Manila | Maria Gonzales, 64 Del Pilar St., Manila\nPedro Domingo, 63 Del Pilar St., Iloilo City | Pedro Domingo, 63 Del Pilar St., Iloilo City\nAntonio Villegas, 34 Luna St., Iloilo City | Antonio Villegas, 34 Luna St., Iloilo City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 5. Different: pair(s) 2. So the answer is 4 pairs.",
+   "id": "CLR-CHE-064"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nLuz Uy, 82 Luna St., Manila | Luz Uy, 28 Luna St., Manila\nLuz Mendoza, 96 Rizal St., Marikina | Luz Mendoza, 96 Rizal St., Marikina\nTeresa Enriquez, 84 Mabini St., Marikina | Teresa Enriquez, 48 Mabini St., Marikina\nJuan Torres, 40 Mabini St., Cebu City | Juan Torres, 40 Mabini St., Cebu City\nAntonio Zamora, 39 Osmeña St., Davao City | Antonio Zamora, 93 Osmeña St., Davao City",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 4. Different: pair(s) 1, 3, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-065"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nEduardo Belmonte, 88 Del Pilar St., Pasig | Eduardo Belmonte, 88 Del Pilar St., Pasig\nLourdes Evangelista, 85 Rizal St., Baguio | Lourdes Evangelista, 58 Rizal St., Baguio\nJuan Santos, 16 Mabini St., Tarlac | Juan Santos, 16 Mabini St., Tarlac\nNena Salasar, 92 Rizal St., Baguio | Nena Salazar, 92 Rizal St., Baguio\nRico Ibarra, 17 Magsaysay St., Manil | Rico Ibarra, 17 Magsaysay St., Manila",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3. Different: pair(s) 2, 4, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-066"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nNana Vergara, 18 Rizal St., Tarlac | Nena Vergara, 18 Rizal St., Tarlac\nDante Guevarra, 70 Bonifacio St., Pasig | Danta Guevarra, 70 Bonifacio St., Pasig\nNena Tolentino, 42 Rizal St., Iloilo City | Nena Tolentino, 42 Rizal St., Iloilo City\nElena Enriquez, 81 Burgos St., Cebu City | Elena Enriquez, 81 Burgos St., Cebu City\nPedro Cruz, 78 Rizaa St., Baguio | Pedro Cruz, 78 Rizal St., Baguio",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4. Different: pair(s) 1, 2, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-067"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 1,
+   "question": "How many pairs are exactly alike?\nRosa Lacson, 83 Aguinaldo St., Tarlac | Rosa Lacson, 83 Aguinaldo St., Tarla\nRamon Pascual, 29 Luna St., Cebu City | Ramon Pascual, 92 Luna St., Cebu City\nLourdas Galang, 45 Rizal St., Cebu City | Lourdes Galang, 45 Rizal St., Cebu City\nJuan Evangelista, 11 Bonifacio St., Marikina | Juan Evangelista, 11 Bonifacio St., Marikina\nGloria Gonzales, 40 Mabina St., Tarlac | Gloria Gonzales, 40 Mabini St., Tarlac",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4. Different: pair(s) 1, 2, 3, 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-068"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nGloria Lim, 17 Rizal St., Davao City | Gloria Lim, 17 Rizal St., Davao City\nFe Ramirez, 15 Quezoa St., Iloilo City | Fe Ramirez, 15 Quezon St., Iloilo City\nAntonio Balagtas, 89 Bonifacio St., Manila | Antonio Balagtas, 89 Bonifacio St., Manila\nElena Vergara, 30 Quezon St., Cebu City | Elena Vergara, 30 Quezon St., Cebu City\nPedro Diaz, 67 Osmeña St., Iloilo City | Pedro Diaz, 66 Osmeña St., Iloilo City\nEduardo Mendoza, 70 Del Pilar St., Tarlac | Eduardo Mendoza, 70 Del Pilar St., Tarlac",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3, 4, 6. Different: pair(s) 2, 5. So the answer is 4 pairs.",
+   "id": "CLR-CHE-069"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nFe Santiago, 85 Magsaysay St., Marikina | Fe Santiago, 85 Magsaysay St., Marikina\nAntonio Nepomuceno, 92 Burgos St., Pasig | Antonio Nepomuceno, 92 Burgoa St., Pasig\nEduardo Vargara, 57 Rizal St., Iloilo City | Eduardo Vergara, 57 Rizal St., Iloilo City\nNoel Nepomuceno, 39 Aguinaldo St., Davao City | Noel Nepomuceno, 39 Aguinaldo St., Davao City\nTeresa Castro, 79 Osmeña St., Baguio | Teresa Castro, 79 Osmeño St., Baguio\nMaria Cuenca, 17 Bonifacio St., Davao City | Maria Cuenca, 17 Bonifacio St., Davao City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4, 6. Different: pair(s) 2, 3, 5. So the answer is 3 pairs.",
+   "id": "CLR-CHE-070"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nEduardo Valdez, 80 Rizal St., Cebu City | Eduardo Valdaz, 80 Rizal St., Cebu City\nCarlos Salazar, 34 Mabini St., Marikina | Carlos Salazar, 34 Mabini St., Marikina\nDante Roxas, 41 Bonifacio St., Marikina | Dante Roxas, 14 Bonifacio St., Marikina\nFe Cabrara, 22 Luna St., Manila | Fe Cabrera, 22 Luna St., Manila\nTeresa Valdez, 45 Magsaysay St., Iloilo City | Teresa Valdez, 45 Magsaysay St., Iloilo City\nEduardo Aquino, 33 Quezon St., Manila | Eduardo Aquino, 33 Quezon St., Manila",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 5, 6. Different: pair(s) 1, 3, 4. So the answer is 3 pairs.",
+   "id": "CLR-CHE-071"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nRamon Lazaro, 35 Aguinaldo St., Cebu City | Ramon Lazaro, 35 Aguinaldo St., Cebu City\nFe Gutierrez, 82 Rizal St., Cebu City | Fe Gutierrez, 82 Rizal St., Cebu City\nRosa Garcia, 56 Burgos St., Baguio | Rosa Garcia, 56 Burgos St., Baguio\nAntonio Santos, 91 Quezon Ave., Manila | Antonio Santos, 91 Quezon St., Manila\nAna Pangilinan, 93 Mabini St., Marikina | Ana Pangilinan, 93 Mabini St., Marikina\nNoel Garces, 43 Quezon St., Cebu City | Noel Garces, 43 Quezon Ave., Cebu City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 5. Different: pair(s) 4, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-072"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nMaria Villegas, 28 Luna St., Manila | Maria Villegas, 28 Luna St., Manila\nRamon Jimenez, 78 Quezon St., Tarlac | Ramon Jimenez, 78 Quezon St., Tarlac\nLiza Lopez, 32 Mabini St., Davao City | Liza Lopez, 32 Mabini St., Davao City\nNoel Gonzales, 13 Bonifacio St., Manila | Noel Gonzales, 13 Bonifacio St., Manila\nLuz Mercado, 29 Magsaysay St., Iloilo City | Luz Marcado, 29 Magsaysay St., Iloilo City\nLuz Zamora, 41 Magsaysay St., Cebu City | Lus Zamora, 41 Magsaysay St., Cebu City",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 4. Different: pair(s) 5, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-073"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nLourdes Zamora, 60 Luna St., Manila | Lourdes Zamora, 60 Luna St., Manila\nPedro Lim, 52 Mabini St., Manila | Pedro Lim, 25 Mabini St., Manila\nLiza Bernardo, 32 Magsaysay St., Cebu City | Liza Bernardo, 32 Magsaysaa St., Cebu City\nLuz Soriano, 92 Quezon St., Iloilo City | Luz Soriano, 92 Quezon St., Iloilo City\nTeresa Mercado, 90 Mabini St., Marikina | Teresa Mercado, 90 Mabini St., Marikina\nCarlos Lopez, 60 Quezon St., Pasig | Carlos Lopez, 60 Quezon St., Pasig",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4, 5, 6. Different: pair(s) 2, 3. So the answer is 2 pairs.",
+   "id": "CLR-CHE-074"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are NOT exactly alike?\nAna Lazaro, 63 Mabini St., Pasig | Ana Lazaro, 36 Mabini St., Pasig\nJuan Villanuava, 83 Del Pilar St., Cebu City | Juan Villanueva, 83 Del Pilar St., Cebu City\nLiza Mercado, 31 Rizal St., Iloilo City | Liza Mercado, 31 Rizal St., Iloilo City\nRico Javier, 13 Luna St., Manila | Rico Javier, 13 Luna Ave., Manila\nNena Flores, 88 Luna Ave., Baguio | Nena Flores, 88 Luna St., Baguio\nDante Rivera, 31 Aguinaldo St., Davao City | Dante Rivera, 13 Aguinaldo St., Davao City",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-075"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 2,
+   "question": "How many pairs are exactly alike?\nTerasa Tolentino, 65 Rizal St., Pasig | Teresa Tolentino, 65 Rizal St., Pasig\nCarlos Valdez, 84 Rizal St., Manila | Carlos Valdez, 84 Rizaa St., Manila\nJose Castillo, 65 Mabini St., Tarlac | Jose Castillo, 65 Mabini St., Tarlac\nEduardo Ramos, 45 Magsaysay St., Baguio | Eduardo Ramos, 45 Magsaysay St., Baguio\nAntonyo Fernandez, 69 Luna St., Cebu City | Antonio Fernandez, 69 Luna St., Cebu City\nTeresa Ong, 36 Rizal St., Cebu City | Teresa Ong, 36 Rizaa St., Cebu City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3, 4. Different: pair(s) 1, 2, 5, 6. So the answer is 2 pairs.",
+   "id": "CLR-CHE-076"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nJose Uy, 34 Burgos St., Davao City | Jose Uy, 43 Burgos St., Davao City\nLiza Tan, 87 Aguinaldo St., Baguio | Liza Tan, 87 Aguinaldo St., Baguio\nAntonio Magno, 36 Luna St., Iloilo City | Antonyo Magno, 36 Luna St., Iloilo City\nFe Zamora, 82 Rizal St., Manila | Fa Zamora, 82 Rizal St., Manila\nAna Belmonte, 61 Luna St., Iloilo City | Ana Belmonte, 61 Luna St., Iloilo City\nCarlos Pascual, 51 Mabini St., Marikina | Carlos Pascual, 15 Mabini St., Marikina",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 5. Different: pair(s) 1, 3, 4, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-077"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nNoel Lazaro, 97 Quezon St., Tarlac | Noel Lazaro, 97 Quezon St., Tarlac\nLuz Nepomuceno, 34 Luna St., Tarlac | Luz Nepomuceno, 34 Luna St., Tarlac\nNena Dalisay, 49 Burgos St., Manila | Nena Dalisay, 49 Burgos St., Manila\nDante Dalisay, 73 Aguinaldo St., Pasig | Dante Dalisay, 73 Aguinaldo St., Pasig\nPedro Ramos, 82 Rizal St., Pasig | Pedro Ramos, 82 Rizal St., Pasig\nNoel Soriano, 44 Luna St., Tarlac | Noel Soriano, 44 Luna Ave., Tarlac",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 4, 5. Different: pair(s) 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-078"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nLiza Mercado, 66 Luno St., Pasig | Liza Mercado, 66 Luna St., Pasig\nGloria Lopez, 24 Mabini St., Iloilo City | Gloria Lopez, 24 Mabini St., Iloilo City\nAntonio Bautista, 51 Quezon St., Manila | Antonio Bautista, 51 Quezon St., Manila\nJose Padilla, 44 Del Pilar St., Davao City | Jose Padilla, 44 Del Pilar St., Davao City\nRico Ramos, 33 Osmeña St., Marikina | Rico Ramos, 34 Osmeña St., Marikina\nAna Evangelista, 38 Magsaysay St., Iloilo City | Ana Evangelista, 38 Magsaysay St., Iloilo City",
+   "options": [
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 4, 6. Different: pair(s) 1, 5. So the answer is 2 pairs.",
+   "id": "CLR-CHE-079"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nJose Domingo, 35 Osmeña St., Manila | Jose Domingo, 35 Osmeña St., Manila\nMaria Velasco, 85 Quezon St., Marikina | Maria Velasco, 85 Quezon St., Marikina\nNoel Mendoza, 12 Del Pilar St., Marikina | Noel Mendoza, 12 Del Pilar St., Marikina\nRosa Reynoso, 69 Del Pilar St., Marikina | Rosa Reynoso, 96 Del Pilar St., Marikina\nFe Torres, 66 Burgos St., Manila | Fe Torres, 66 Burgos St., Manila\nTeresa Cabrera, 27 Luna St., Pasig | Teresa Cabrera, 27 Luna St., Pasig",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 5, 6. Different: pair(s) 4. So the answer is 5 pairs.",
+   "id": "CLR-CHE-080"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nLourdes Paraiso, 90 Luna St., Davao City | Lourdes Paraiso, 09 Luna St., Davao City\nNoel Santos, 82 Quezon St., Baguio | Noel Santos, 28 Quezon St., Baguio\nLourdes Diaz, 29 Osmeña St., Davao City | Lourdes Dias, 29 Osmeña St., Davao City\nElena Ocampo, 45 Mabina St., Davao City | Elena Ocampo, 45 Mabini St., Davao City\nGloria Cabrera, 34 Mabini St., Davao City | Gloria Cabrera, 34 Mabini St., Davao City\nLourdes Galang, 76 Aguinaldo St., Davao City | Lourdes Galang, 76 Aguinalda St., Davao City",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 5. Different: pair(s) 1, 2, 3, 4, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-081"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nTeresa Nepomuceno, 79 Burgos Ave., Marikina | Teresa Nepomuceno, 79 Burgos St., Marikina\nEduardo Salvador, 11 Mabini St., Iloilo City | Eduardo Salvador, 11 Mabini St., Iloilo City\nRosa Aquino, 89 Luna St., Marikina | Rosa Aquino, 89 Luna St., Marikina\nJuan Bautista, 12 Aguinaldo St., Baguio | Juan Bautysta, 12 Aguinaldo St., Baguio\nNoel Lacson, 16 Aguinaldo St., Cebu City | Noel Lacson, 16 Aguinaldo St., Cebu City\nLuz Bonifacio, 15 Burgos St., Cebu City | Luz Bonifacio, 15 Burgoa St., Cebu City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 3, 5. Different: pair(s) 1, 4, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-082"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are exactly alike?\nMaria Macaraeg, 33 Mabina St., Tarlac | Maria Macaraeg, 33 Mabini St., Tarlac\nJose Villegas, 82 Magsaysay St., Marikina | Jose Villegas, 28 Magsaysay St., Marikina\nLuz Mercado, 62 Rizal St., Cebu City | Luz Mercado, 62 Rizal St., Cebu City\nCarlos Garcia, 81 Mabini St., Baguio | Carlos Garcia, 18 Mabini St., Baguio\nTeresa Reynoso, 50 Mabini St., Pasig | Teresa Reinoso, 50 Mabini St., Pasig\nPedro Nepomuceno, 90 Del Pilar St., Iloilo City | Pedro Nepomuceno, 90 Del Pilaa St., Iloilo City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 3. Different: pair(s) 1, 2, 4, 5, 6. So the answer is 1 pair.",
+   "id": "CLR-CHE-083"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 3,
+   "question": "How many pairs are NOT exactly alike?\nCarlos Ong, 33 Aguinaldo St., Tarlac | Carlos Ong, 33 Aguinalda St., Tarlac\nPedro Ocampo, 33 Bonifacio St., Manila | Pedro Ocampo, 33 Bonifacio St., Manila\nRico Torres, 52 Quezon St., Cebu City | Rico Torres, 25 Quezon St., Cebu City\nElena Dalisay, 98 Aguinaldo St., Cebu City | Elena Dalisay, 98 Aguinaldo St., Cebu City\nFe Tan, 85 Bonifacio St., Cebu City | Fe Tan, 85 Bonifacio Ave., Cebu City\nNoel Uy, 71 Osmeña St., Iloilo City | Noel Uy, 71 Osmeña St., Iloilo City",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 2, 4, 6. Different: pair(s) 1, 3, 5. So the answer is 3 pairs.",
+   "id": "CLR-CHE-084"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nAntonio Macaraeg, 45 Mabini St., Cebu City | Antonio Macaraeg, 45 Mabini St., Cebu City\nNoel Morales, 33 Quezon Ave., Marikina | Noel Morales, 33 Quezon St., Marikina\nNena Uy, 54 Osmeña St., Baguio | Nena Uy, 54 Osmeña St., Baguio\nNena Lazaru, 56 Quezon St., Davao City | Nena Lazaro, 56 Quezon St., Davao City\nDante Nepomuceno, 25 Rizal St., Manila | Dante Nepumuceno, 25 Rizal St., Manila\nNoal Zamora, 14 Burgos St., Cebu City | Noel Zamora, 14 Burgos St., Cebu City",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 3. Different: pair(s) 2, 4, 5, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-085"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nCarlos Velasco, 76 Mabini St., Tarlac | Carlos Velasco, 76 Mabini St., Tarlac\nFe Bernardo, 92 Rizal Ave., Iloilo City | Fe Bernardo, 92 Rizal St., Iloilo City\nRosa Roxas, 53 Quezon St., Iloilo City | Rosa Roxas, 53 Quezon Ave., Iloilo City\nNoel Santiago, 76 Rizal St., Tarlac | Noel Santiago, 76 Rizal St., Tarlac\nJuan Francisco, 70 Mabini St., Pasig | Juan Francisco, 70 Mabini St., Pasig\nFe Enriquez, 27 Bonifacio St., Davao City | Fe Enryquez, 27 Bonifacio St., Davao City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4, 5. Different: pair(s) 2, 3, 6. So the answer is 3 pairs.",
+   "id": "CLR-CHE-086"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nCorazon Nepomuceno, 39 Burgos St., Cebu City | Corazon Nepomuceno, 93 Burgos St., Cebu City\nDante Santos, 39 Bonifacio St., Pasig | Dante Santos, 39 Bonifacio Ave., Pasig\nMiguel Santiago, 31 Rizal St., Manila | Miguel Santiago, 13 Rizal St., Manila\nLuz Velasco, 16 Del Pilar St., Iloilo City | Luz Velasco, 16 Del Pilar St., Iloilo City\nElena Alvarez, 63 Aguinaldo Ave., Baguio | Elena Alvarez, 63 Aguinaldo St., Baguio\nLourdes Flores, 84 Aguinaldo St., Tarlac | Lourdes Flores, 84 Aguinaldo Ave., Tarlac",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 4. Different: pair(s) 1, 2, 3, 5, 6. So the answer is 5 pairs.",
+   "id": "CLR-CHE-087"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nCarlos Abad, 63 Aguinaldo St., Iloilo City | Carlos Abad, 63 Aguinaldo St., Iloilo City\nAna Guevarra, 73 Magsaysay St., Tarlac | Ana Guevarra, 73 Magsaysay St., Tarlac\nCarlos Paraiso, 62 Mabini St., Davao City | Carlos Paraiso, 62 Mabini St., Davao City\nDante Tolentino, 81 Aguinaldo St., Manila | Dante Tolentino, 81 Aguinaldo St., Manila\nCorazon Lazaro, 14 Osmeña St., Davao City | Corazon Lazaro, 41 Osmeña St., Davao City\nRosa Ocampo, 60 Burgos St., Manila | Rosa Ocampo, 60 Burgos St., Manila",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 2, 3, 4, 6. Different: pair(s) 5. So the answer is 1 pair.",
+   "id": "CLR-CHE-088"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are exactly alike?\nRamon Tolentino, 92 Del Pilar St., Davao City | Ramon Tolentino, 92 Del Pilar St., Davao City\nAntonio Salvador, 43 Burgos St., Iloilo City | Antonio Salvador, 43 Burgoa St., Iloilo City\nGloria Dizon, 72 Bonifacio St., Davao City | Gloria Dizon, 27 Bonifacio St., Davao City\nNena Nepomuceno, 89 Magsaysay St., Pasig | Nena Nepomuceno, 89 Magsaysay St., Pasig\nRico Magno, 93 Rizal St., Marikina | Rico Magno, 93 Rizal St., Marikina\nFe Uy, 82 Del Pilar St., Davao City | Fe Uy, 82 Del Pilar St., Davao City",
+   "options": [
+    "0 pairs",
+    "1 pair",
+    "2 pairs",
+    "3 pairs",
+    "4 pairs"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4, 5, 6. Different: pair(s) 2, 3. So the answer is 4 pairs.",
+   "id": "CLR-CHE-089"
+  },
+  {
+   "level": "both",
+   "skill": "Names & Addresses",
+   "tier": 4,
+   "question": "How many pairs are NOT exactly alike?\nFe Galang, 60 Magsaysay St., Manila | Fe Galang, 60 Magsaysay St., Manila\nMaria Rivera, 35 Bonifacio Ave., Pasig | Maria Rivera, 35 Bonifacio St., Pasig\nAntonio Roxas, 11 Bonifacio St., Marikina | Antonio Roxaz, 11 Bonifacio St., Marikina\nDante Tan, 58 Magsaysay St., Iloilo City | Dante Tan, 58 Magsaysay St., Iloilo City\nRico Paraizo, 89 Burgos St., Cebu City | Rico Paraiso, 89 Burgos St., Cebu City\nCarlos Santyago, 11 Quezon St., Pasig | Carlos Santiago, 11 Quezon St., Pasig",
+   "options": [
+    "2 pairs",
+    "3 pairs",
+    "4 pairs",
+    "5 pairs",
+    "6 pairs"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare each pair character by character. Exactly alike: pair(s) 1, 4. Different: pair(s) 2, 3, 5, 6. So the answer is 4 pairs.",
+   "id": "CLR-CHE-090"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n675194",
+   "options": [
+    "765194",
+    "675194",
+    "675914",
+    "677194",
+    "670194"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only 675194 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-091"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n164956",
+   "options": [
+    "164965",
+    "146956",
+    "164956",
+    "164916",
+    "169456"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only 164956 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-092"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n290119",
+   "options": [
+    "297119",
+    "230119",
+    "291019",
+    "290119",
+    "490119"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only 290119 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-093"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n164333",
+   "options": [
+    "163433",
+    "164383",
+    "614333",
+    "164333",
+    "164833"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only 164333 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-094"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n499921",
+   "options": [
+    "499291",
+    "499921",
+    "499521",
+    "492921",
+    "949921"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only 499921 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-095"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n653089",
+   "options": [
+    "653589",
+    "658089",
+    "653889",
+    "653089",
+    "953089"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only 653089 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-096"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n408379",
+   "options": [
+    "438379",
+    "448379",
+    "908379",
+    "408379",
+    "408359"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only 408379 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-097"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 1,
+   "question": "Which of the following is exactly the same as the given code?\n199125",
+   "options": [
+    "199125",
+    "199825",
+    "199225",
+    "129125",
+    "199152"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Only 199125 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-098"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nEF3826",
+   "options": [
+    "FF3826",
+    "EF3826",
+    "EF3823",
+    "EE3826",
+    "EF8326"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only EF3826 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-099"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nPN8457",
+   "options": [
+    "PN8427",
+    "PN8467",
+    "PN4857",
+    "RN8457",
+    "PN8457"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Only PN8457 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-100"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nQU4878",
+   "options": [
+    "QU4788",
+    "QU4887",
+    "OU4878",
+    "QU4878",
+    "QU4888"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only QU4878 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-101"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nRJ5452",
+   "options": [
+    "RO5452",
+    "RJ5452",
+    "JR5452",
+    "BJ5452",
+    "RJ4452"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only RJ5452 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-102"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nEL4169",
+   "options": [
+    "E4L169",
+    "EI4169",
+    "EL4160",
+    "EL4196",
+    "EL4169"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Only EL4169 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-103"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nWT6490",
+   "options": [
+    "WT9490",
+    "WY6490",
+    "WT6890",
+    "WT6492",
+    "WT6490"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Only WT6490 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-104"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nDX5805",
+   "options": [
+    "DB5805",
+    "DX5805",
+    "DX5850",
+    "D5X805",
+    "DY5805"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only DX5805 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-105"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 2,
+   "question": "Which of the following is exactly the same as the given code?\nCN6862",
+   "options": [
+    "CN6862",
+    "CN6562",
+    "CN6682",
+    "GN6862",
+    "CN6826"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Only CN6862 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-106"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nEQ-4053-NN",
+   "options": [
+    "EQ-4053-NN",
+    "EO-4053-NN",
+    "EQ-4053-NM",
+    "EQ-4003-NN",
+    "EQ-4052-NN"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Only EQ-4053-NN matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-107"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nNO-4247-LA",
+   "options": [
+    "NO-4240-LA",
+    "ON-4247-LA",
+    "NO-4247-LA",
+    "NO-4274-LA",
+    "NO-4247-IA"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only NO-4247-LA matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-108"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nLX-9533-EY",
+   "options": [
+    "LX-5933-EY",
+    "LX-9583-EY",
+    "LX-9533-YE",
+    "LX-9533-EY",
+    "LX-9538-EY"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only LX-9533-EY matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-109"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nSX-1577-LV",
+   "options": [
+    "SX-1577-LU",
+    "SX-1575-LV",
+    "SX-1597-LV",
+    "SX-1577-LV",
+    "SX-2577-LV"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only SX-1577-LV matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-110"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nMP-9568-LV",
+   "options": [
+    "MP-9568-LV",
+    "MP-0568-LV",
+    "NP-9568-LV",
+    "MP-9568-LU",
+    "MP-9548-LV"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Only MP-9568-LV matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-111"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nDA-4452-OY",
+   "options": [
+    "DA-4452-YO",
+    "DA-4452-OY",
+    "DA-4452-OC",
+    "DA-4457-OY",
+    "DA-4452-OB"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only DA-4452-OY matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-112"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nMN-9127-KI",
+   "options": [
+    "MN-9127-KL",
+    "MN-9177-KI",
+    "MN-9127-KI",
+    "MN-1927-KI",
+    "MN-9927-KI"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only MN-9127-KI matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-113"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 3,
+   "question": "Which of the following is exactly the same as the given code?\nVG-3277-RY",
+   "options": [
+    "VG-9277-RY",
+    "VG-3277-RY",
+    "VG-3727-RY",
+    "UG-3277-RY",
+    "VG-3277-RD"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only VG-3277-RY matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-114"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nKD-2482-XF/54",
+   "options": [
+    "DK-2482-XF/54",
+    "KD-2482-XF/24",
+    "KD-2482-XF/59",
+    "KD-2482-XF/54",
+    "KD-4282-XF/54"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Only KD-2482-XF/54 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-115"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nTF-5819-NU/13",
+   "options": [
+    "TE-5819-NU/13",
+    "TF-5814-NU/13",
+    "TF-5819-NU/13",
+    "TF-5859-NU/13",
+    "TF-9819-NU/13"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only TF-5819-NU/13 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-116"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nUJ-3406-PZ/17",
+   "options": [
+    "UJ-3406-PZ/17",
+    "UJ-3406-PZ/18",
+    "UJ-3406-PZ/67",
+    "UJ-3406-RZ/17",
+    "UJ-3401-PZ/17"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Only UJ-3406-PZ/17 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-117"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nDO-0985-IA/81",
+   "options": [
+    "DQ-0985-IA/81",
+    "DO-0985-IA/81",
+    "DO-0985-IF/81",
+    "OO-0985-IA/81",
+    "DO-0985-LA/81"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Only DO-0985-IA/81 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-118"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nOW-4654-SK/14",
+   "options": [
+    "OW-4654-SL/14",
+    "OW-4658-SK/14",
+    "OW-4654-SK/14",
+    "OW-4604-SK/14",
+    "OW-0654-SK/14"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Only OW-4654-SK/14 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-119"
+  },
+  {
+   "level": "both",
+   "skill": "Find the Match",
+   "tier": 4,
+   "question": "Which of the following is exactly the same as the given code?\nOD-8950-IG/54",
+   "options": [
+    "OD-8950-IG/45",
+    "OD-8950-IC/54",
+    "OO-8950-IG/54",
+    "OD-8950-LG/54",
+    "OD-8950-IG/54"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Only OD-8950-IG/54 matches the given code character by character. The other choices each differ in at least one character.",
+   "id": "CLR-CHE-120"
+  }
+ ]
+}

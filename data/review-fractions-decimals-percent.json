@@ -1,0 +1,1925 @@
+{
+ "module": "fractions-decimals-percent",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "1/6 + 1/3 = ?",
+   "options": [
+    "1/3",
+    "2/9",
+    "1",
+    "1/2",
+    "1/4"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Use a common denominator of 6: the sum is 1/2.",
+   "id": "NUM-FRA-001"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "3/4 + 3/10 = ?",
+   "options": [
+    "21/40",
+    "21/10",
+    "21/20",
+    "1",
+    "11/10"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Use a common denominator of 20: the sum is 21/20.",
+   "id": "NUM-FRA-002"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "2/5 + 1/2 = ?",
+   "options": [
+    "9/10",
+    "4/5",
+    "9/11",
+    "1",
+    "9/5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Use a common denominator of 10: the sum is 9/10.",
+   "id": "NUM-FRA-003"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "5/6 + 1/3 = ?",
+   "options": [
+    "7/12",
+    "1",
+    "7/3",
+    "4/3",
+    "7/6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Use a common denominator of 6: the sum is 7/6.",
+   "id": "NUM-FRA-004"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "1/6 + 2/9 = ?",
+   "options": [
+    "7/9",
+    "1/3",
+    "7/19",
+    "7/18",
+    "4/9"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Use a common denominator of 18: the sum is 7/18.",
+   "id": "NUM-FRA-005"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "1/6 + 1/2 = ?",
+   "options": [
+    "1/3",
+    "1",
+    "2/3",
+    "4/3",
+    "1/2"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Use a common denominator of 6: the sum is 2/3.",
+   "id": "NUM-FRA-006"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "2/3 + 1/4 = ?",
+   "options": [
+    "1",
+    "11/12",
+    "5/6",
+    "11/6",
+    "11/13"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Use a common denominator of 12: the sum is 11/12.",
+   "id": "NUM-FRA-007"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 1,
+   "question": "3/8 + 2/9 = ?",
+   "options": [
+    "7/12",
+    "43/73",
+    "43/36",
+    "43/72",
+    "11/18"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Use a common denominator of 72: the sum is 43/72.",
+   "id": "NUM-FRA-008"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "2 1/2 × 2 1/3 = ?",
+   "options": [
+    "5 5/6",
+    "11 2/3",
+    "6",
+    "5 2/3",
+    "5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Improper fractions: 5/2 × 7/3 = 35/6 = 5 5/6.",
+   "id": "NUM-FRA-009"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "4 1/2 − 3 1/6 = ?",
+   "options": [
+    "1",
+    "1 1/3",
+    "2 2/3",
+    "1 2/3",
+    "2/3"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Convert to improper fractions and subtract: the result is 1 1/3.",
+   "id": "NUM-FRA-010"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "6 3/4 × 2 1/2 = ?",
+   "options": [
+    "17",
+    "16 7/8",
+    "15",
+    "16 3/4",
+    "33 3/4"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Improper fractions: 27/4 × 5/2 = 135/8 = 16 7/8.",
+   "id": "NUM-FRA-011"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "2 1/4 − 1 1/3 = ?",
+   "options": [
+    "11/12",
+    "1",
+    "1 5/6",
+    "11/13",
+    "5/6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Convert to improper fractions and subtract: the result is 11/12.",
+   "id": "NUM-FRA-012"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "6 1/2 × 2 1/6 = ?",
+   "options": [
+    "14 1/6",
+    "13",
+    "28 1/6",
+    "14 1/12",
+    "14"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Improper fractions: 13/2 × 13/6 = 169/12 = 14 1/12.",
+   "id": "NUM-FRA-013"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "4 3/4 − 2 1/3 = ?",
+   "options": [
+    "2 1/3",
+    "4 5/6",
+    "2 1/2",
+    "2 3/13",
+    "2 5/12"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Convert to improper fractions and subtract: the result is 2 5/12.",
+   "id": "NUM-FRA-014"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "2 2/3 − 1 1/6 = ?",
+   "options": [
+    "3",
+    "3/4",
+    "1 1/2",
+    "2",
+    "1"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Convert to improper fractions and subtract: the result is 1 1/2.",
+   "id": "NUM-FRA-015"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 2,
+   "question": "4 1/4 − 1 1/4 = ?",
+   "options": [
+    "3",
+    "6",
+    "1 1/2",
+    "4",
+    "2"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Convert to improper fractions and subtract: the result is 3.",
+   "id": "NUM-FRA-016"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(2/3) ÷ (2/3) × 8 = ?",
+   "options": [
+    "8",
+    "7",
+    "4",
+    "16",
+    "9"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 8: the result is 8.",
+   "id": "NUM-FRA-017"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(2/3) ÷ (3/8) × 4 = ?",
+   "options": [
+    "65/9",
+    "7",
+    "32/5",
+    "128/9",
+    "64/9"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 4: the result is 64/9.",
+   "id": "NUM-FRA-018"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(5/6) ÷ (3/5) × 8 = ?",
+   "options": [
+    "11",
+    "10",
+    "200/9",
+    "100/9",
+    "101/9"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 8: the result is 100/9.",
+   "id": "NUM-FRA-019"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(5/6) ÷ (2/3) × 4 = ?",
+   "options": [
+    "10",
+    "5",
+    "5/2",
+    "6",
+    "4"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 4: the result is 5.",
+   "id": "NUM-FRA-020"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(3/4) ÷ (2/3) × 12 = ?",
+   "options": [
+    "13",
+    "27",
+    "27/2",
+    "9",
+    "14"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 12: the result is 27/2.",
+   "id": "NUM-FRA-021"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(3/4) ÷ (3/8) × 8 = ?",
+   "options": [
+    "17",
+    "16",
+    "8",
+    "32",
+    "15"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 8: the result is 16.",
+   "id": "NUM-FRA-022"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(2/3) ÷ (1/2) × 6 = ?",
+   "options": [
+    "4",
+    "8",
+    "7",
+    "9",
+    "16"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 6: the result is 8.",
+   "id": "NUM-FRA-023"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 3,
+   "question": "(3/4) ÷ (2/3) × 6 = ?",
+   "options": [
+    "7",
+    "13/2",
+    "27/5",
+    "27/4",
+    "27/2"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide by multiplying by the reciprocal, then multiply by 6: the result is 27/4.",
+   "id": "NUM-FRA-024"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "5/8 of a number is 45. What is 2/3 of the same number?",
+   "options": [
+    "48",
+    "50",
+    "68",
+    "72",
+    "30"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The number is 45 ÷ 5/8 = 72. Then 2/3 of 72 = 48.",
+   "id": "NUM-FRA-025"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "3/4 of a number is 27. What is 1/4 of the same number?",
+   "options": [
+    "9",
+    "16",
+    "11",
+    "12",
+    "36"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The number is 27 ÷ 3/4 = 36. Then 1/4 of 36 = 9.",
+   "id": "NUM-FRA-026"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "3/5 of a number is 36. What is 1/3 of the same number?",
+   "options": [
+    "17",
+    "15",
+    "12",
+    "20",
+    "60"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The number is 36 ÷ 3/5 = 60. Then 1/3 of 60 = 20.",
+   "id": "NUM-FRA-027"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "5/8 of a number is 30. What is 2/3 of the same number?",
+   "options": [
+    "12",
+    "27",
+    "48",
+    "20",
+    "32"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The number is 30 ÷ 5/8 = 48. Then 2/3 of 48 = 32.",
+   "id": "NUM-FRA-028"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "3/5 of a number is 36. What is 2/3 of the same number?",
+   "options": [
+    "40",
+    "20",
+    "39",
+    "60",
+    "24"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The number is 36 ÷ 3/5 = 60. Then 2/3 of 60 = 40.",
+   "id": "NUM-FRA-029"
+  },
+  {
+   "level": "both",
+   "skill": "Fractions",
+   "tier": 4,
+   "question": "5/8 of a number is 25. What is 1/4 of the same number?",
+   "options": [
+    "15",
+    "12",
+    "10",
+    "40",
+    "20"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The number is 25 ÷ 5/8 = 40. Then 1/4 of 40 = 10.",
+   "id": "NUM-FRA-030"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "2.9 + 0.63 = ?",
+   "options": [
+    "3.63",
+    "3.43",
+    "2.53",
+    "4.53",
+    "3.53"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Line up the decimal points: 2.9 + 0.63 = 3.53.",
+   "id": "NUM-FRA-031"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "9.6 − 0.53 = ?",
+   "options": [
+    "8.97",
+    "9.07",
+    "9.17",
+    "10.07",
+    "8.07"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Line up the decimal points: 9.6 − 0.53 = 9.07.",
+   "id": "NUM-FRA-032"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "7.7 + 0.61 = ?",
+   "options": [
+    "8.31",
+    "8.21",
+    "9.31",
+    "7.31",
+    "8.41"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Line up the decimal points: 7.7 + 0.61 = 8.31.",
+   "id": "NUM-FRA-033"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "7.3 − 0.29 = ?",
+   "options": [
+    "7.01",
+    "6.91",
+    "6.01",
+    "8.01",
+    "7.11"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Line up the decimal points: 7.3 − 0.29 = 7.01.",
+   "id": "NUM-FRA-034"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "7.3 − 0.27 = ?",
+   "options": [
+    "7.13",
+    "7.03",
+    "6.93",
+    "8.03",
+    "6.03"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Line up the decimal points: 7.3 − 0.27 = 7.03.",
+   "id": "NUM-FRA-035"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "3.1 + 0.38 = ?",
+   "options": [
+    "2.48",
+    "3.48",
+    "3.38",
+    "4.48",
+    "3.58"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Line up the decimal points: 3.1 + 0.38 = 3.48.",
+   "id": "NUM-FRA-036"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "4.1 + 0.24 = ?",
+   "options": [
+    "4.44",
+    "3.34",
+    "4.34",
+    "5.34",
+    "4.24"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Line up the decimal points: 4.1 + 0.24 = 4.34.",
+   "id": "NUM-FRA-037"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 1,
+   "question": "4.4 + 0.32 = ?",
+   "options": [
+    "3.72",
+    "5.72",
+    "4.82",
+    "4.62",
+    "4.72"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Line up the decimal points: 4.4 + 0.32 = 4.72.",
+   "id": "NUM-FRA-038"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.7 × 0.22 = ?",
+   "options": [
+    "15.4",
+    "0.92",
+    "0.154",
+    "0.0154",
+    "1.54"
+   ],
+   "correctAnswer": 2,
+   "explanation": "0.7 × 0.22: multiply the digits, then place the decimal point two + one places from the right: 0.154.",
+   "id": "NUM-FRA-039"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.5 × 0.23 = ?",
+   "options": [
+    "0.73",
+    "0.115",
+    "0.0115",
+    "11.5",
+    "1.15"
+   ],
+   "correctAnswer": 1,
+   "explanation": "0.5 × 0.23: multiply the digits, then place the decimal point two + one places from the right: 0.115.",
+   "id": "NUM-FRA-040"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.7 × 0.18 = ?",
+   "options": [
+    "1.26",
+    "0.88",
+    "0.0126",
+    "12.6",
+    "0.126"
+   ],
+   "correctAnswer": 4,
+   "explanation": "0.7 × 0.18: multiply the digits, then place the decimal point two + one places from the right: 0.126.",
+   "id": "NUM-FRA-041"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.4 × 0.41 = ?",
+   "options": [
+    "1.64",
+    "0.81",
+    "0.164",
+    "0.0164",
+    "16.4"
+   ],
+   "correctAnswer": 2,
+   "explanation": "0.4 × 0.41: multiply the digits, then place the decimal point two + one places from the right: 0.164.",
+   "id": "NUM-FRA-042"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.8 × 0.22 = ?",
+   "options": [
+    "1.02",
+    "17.6",
+    "1.76",
+    "0.0176",
+    "0.176"
+   ],
+   "correctAnswer": 4,
+   "explanation": "0.8 × 0.22: multiply the digits, then place the decimal point two + one places from the right: 0.176.",
+   "id": "NUM-FRA-043"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.3 × 0.26 = ?",
+   "options": [
+    "0.078",
+    "7.8",
+    "0.56",
+    "0.78",
+    "0.0078"
+   ],
+   "correctAnswer": 0,
+   "explanation": "0.3 × 0.26: multiply the digits, then place the decimal point two + one places from the right: 0.078.",
+   "id": "NUM-FRA-044"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.8 × 0.33 = ?",
+   "options": [
+    "2.64",
+    "1.13",
+    "0.264",
+    "26.4",
+    "0.0264"
+   ],
+   "correctAnswer": 2,
+   "explanation": "0.8 × 0.33: multiply the digits, then place the decimal point two + one places from the right: 0.264.",
+   "id": "NUM-FRA-045"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 2,
+   "question": "0.7 × 0.32 = ?",
+   "options": [
+    "0.224",
+    "2.24",
+    "22.4",
+    "1.02",
+    "0.0224"
+   ],
+   "correctAnswer": 0,
+   "explanation": "0.7 × 0.32: multiply the digits, then place the decimal point two + one places from the right: 0.224.",
+   "id": "NUM-FRA-046"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 7/40 as a decimal.",
+   "options": [
+    "0.175",
+    "0.0175",
+    "0.225",
+    "1.75",
+    "5.7143"
+   ],
+   "correctAnswer": 0,
+   "explanation": "7 ÷ 40 = 0.175.",
+   "id": "NUM-FRA-047"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 1/25 as a decimal.",
+   "options": [
+    "0.004",
+    "0.4",
+    "0.09",
+    "0.04",
+    "25"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 ÷ 25 = 0.04.",
+   "id": "NUM-FRA-048"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 19/20 as a decimal.",
+   "options": [
+    "0.95",
+    "1",
+    "0.095",
+    "1.0526",
+    "9.5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "19 ÷ 20 = 0.95.",
+   "id": "NUM-FRA-049"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 7/16 as a decimal.",
+   "options": [
+    "0.0438",
+    "4.375",
+    "0.4875",
+    "0.4375",
+    "2.2857"
+   ],
+   "correctAnswer": 3,
+   "explanation": "7 ÷ 16 = 0.4375.",
+   "id": "NUM-FRA-050"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 19/25 as a decimal.",
+   "options": [
+    "0.76",
+    "7.6",
+    "0.81",
+    "0.076",
+    "1.3158"
+   ],
+   "correctAnswer": 0,
+   "explanation": "19 ÷ 25 = 0.76.",
+   "id": "NUM-FRA-051"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 1/5 as a decimal.",
+   "options": [
+    "5",
+    "0.02",
+    "0.25",
+    "0.2",
+    "2"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 ÷ 5 = 0.2.",
+   "id": "NUM-FRA-052"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 4/5 as a decimal.",
+   "options": [
+    "8",
+    "0.08",
+    "1.25",
+    "0.85",
+    "0.8"
+   ],
+   "correctAnswer": 4,
+   "explanation": "4 ÷ 5 = 0.8.",
+   "id": "NUM-FRA-053"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 3,
+   "question": "Express 23/25 as a decimal.",
+   "options": [
+    "0.97",
+    "0.92",
+    "1.087",
+    "0.092",
+    "9.2"
+   ],
+   "correctAnswer": 1,
+   "explanation": "23 ÷ 25 = 0.92.",
+   "id": "NUM-FRA-054"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "6 ÷ 0.5 = ?",
+   "options": [
+    "120",
+    "1.2",
+    "3",
+    "12",
+    "17"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Move the decimal point so the divisor is a whole number: 6 ÷ 0.5 = 12.",
+   "id": "NUM-FRA-055"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "0.48 ÷ 0.04 = ?",
+   "options": [
+    "1.2",
+    "32",
+    "0.0192",
+    "120",
+    "12"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Move the decimal point so the divisor is a whole number: 0.48 ÷ 0.04 = 12.",
+   "id": "NUM-FRA-056"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "4.5 ÷ 0.5 = ?",
+   "options": [
+    "0.9",
+    "9",
+    "2.25",
+    "6",
+    "90"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Move the decimal point so the divisor is a whole number: 4.5 ÷ 0.5 = 9.",
+   "id": "NUM-FRA-057"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "1.8 ÷ 0.2 = ?",
+   "options": [
+    "0.36",
+    "90",
+    "0.9",
+    "9",
+    "6"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Move the decimal point so the divisor is a whole number: 1.8 ÷ 0.2 = 9.",
+   "id": "NUM-FRA-058"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "1.2 ÷ 0.2 = ?",
+   "options": [
+    "6",
+    "0.24",
+    "60",
+    "2",
+    "0.6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Move the decimal point so the divisor is a whole number: 1.2 ÷ 0.2 = 6.",
+   "id": "NUM-FRA-059"
+  },
+  {
+   "level": "both",
+   "skill": "Decimals",
+   "tier": 4,
+   "question": "0.6 ÷ 0.2 = ?",
+   "options": [
+    "30",
+    "3",
+    "8",
+    "0.12",
+    "0.3"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Move the decimal point so the divisor is a whole number: 0.6 ÷ 0.2 = 3.",
+   "id": "NUM-FRA-060"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 12% of 240?",
+   "options": [
+    "288",
+    "28.8",
+    "20",
+    "2.88",
+    "28.9"
+   ],
+   "correctAnswer": 1,
+   "explanation": "12% of 240 = 12/100 × 240 = 28.8.",
+   "id": "NUM-FRA-061"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 15% of 240?",
+   "options": [
+    "16",
+    "360",
+    "34",
+    "3.6",
+    "36"
+   ],
+   "correctAnswer": 4,
+   "explanation": "15% of 240 = 15/100 × 240 = 36.",
+   "id": "NUM-FRA-062"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 75% of 80?",
+   "options": [
+    "66",
+    "1.0667",
+    "600",
+    "6",
+    "60"
+   ],
+   "correctAnswer": 4,
+   "explanation": "75% of 80 = 75/100 × 80 = 60.",
+   "id": "NUM-FRA-063"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 60% of 120?",
+   "options": [
+    "7.2",
+    "77",
+    "2",
+    "720",
+    "72"
+   ],
+   "correctAnswer": 4,
+   "explanation": "60% of 120 = 60/100 × 120 = 72.",
+   "id": "NUM-FRA-064"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 60% of 360?",
+   "options": [
+    "2160",
+    "216",
+    "21.6",
+    "6",
+    "222"
+   ],
+   "correctAnswer": 1,
+   "explanation": "60% of 360 = 60/100 × 360 = 216.",
+   "id": "NUM-FRA-065"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 40% of 40?",
+   "options": [
+    "16",
+    "160",
+    "1.6",
+    "1",
+    "14"
+   ],
+   "correctAnswer": 0,
+   "explanation": "40% of 40 = 40/100 × 40 = 16.",
+   "id": "NUM-FRA-066"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 75% of 40?",
+   "options": [
+    "0.5333",
+    "3",
+    "300",
+    "31",
+    "30"
+   ],
+   "correctAnswer": 4,
+   "explanation": "75% of 40 = 75/100 × 40 = 30.",
+   "id": "NUM-FRA-067"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 1,
+   "question": "What is 12% of 80?",
+   "options": [
+    "9.6",
+    "0.96",
+    "96",
+    "9.7",
+    "6.6667"
+   ],
+   "correctAnswer": 0,
+   "explanation": "12% of 80 = 12/100 × 80 = 9.6.",
+   "id": "NUM-FRA-068"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 80 is 32?",
+   "options": [
+    "80%",
+    "50%",
+    "45%",
+    "40%",
+    "35%"
+   ],
+   "correctAnswer": 3,
+   "explanation": "32 ÷ 80 × 100 = 40%.",
+   "id": "NUM-FRA-069"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 80 is 12?",
+   "options": [
+    "30%",
+    "25%",
+    "15%",
+    "20%",
+    "10%"
+   ],
+   "correctAnswer": 2,
+   "explanation": "12 ÷ 80 × 100 = 15%.",
+   "id": "NUM-FRA-070"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 80 is 20?",
+   "options": [
+    "35%",
+    "25%",
+    "30%",
+    "50%",
+    "20%"
+   ],
+   "correctAnswer": 1,
+   "explanation": "20 ÷ 80 × 100 = 25%.",
+   "id": "NUM-FRA-071"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 250 is 50?",
+   "options": [
+    "40%",
+    "15%",
+    "20%",
+    "25%",
+    "30%"
+   ],
+   "correctAnswer": 2,
+   "explanation": "50 ÷ 250 × 100 = 20%.",
+   "id": "NUM-FRA-072"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 200 is 40?",
+   "options": [
+    "20%",
+    "15%",
+    "25%",
+    "30%",
+    "40%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "40 ÷ 200 × 100 = 20%.",
+   "id": "NUM-FRA-073"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 200 is 30?",
+   "options": [
+    "15%",
+    "30%",
+    "10%",
+    "25%",
+    "20%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "30 ÷ 200 × 100 = 15%.",
+   "id": "NUM-FRA-074"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 200 is 150?",
+   "options": [
+    "80%",
+    "85%",
+    "70%",
+    "150%",
+    "75%"
+   ],
+   "correctAnswer": 4,
+   "explanation": "150 ÷ 200 × 100 = 75%.",
+   "id": "NUM-FRA-075"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 2,
+   "question": "What percent of 40 is 10?",
+   "options": [
+    "30%",
+    "35%",
+    "25%",
+    "20%",
+    "50%"
+   ],
+   "correctAnswer": 2,
+   "explanation": "10 ÷ 40 × 100 = 25%.",
+   "id": "NUM-FRA-076"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "40% of a number is 16. What is the number?",
+   "options": [
+    "20",
+    "40",
+    "56",
+    "38",
+    "64"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Number = 16 ÷ 40% = 16 × 100 ÷ 40 = 40.",
+   "id": "NUM-FRA-077"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "40% of a number is 48. What is the number?",
+   "options": [
+    "120",
+    "122",
+    "118",
+    "192",
+    "88"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Number = 48 ÷ 40% = 48 × 100 ÷ 40 = 120.",
+   "id": "NUM-FRA-078"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "30% of a number is 12. What is the number?",
+   "options": [
+    "20",
+    "40",
+    "36",
+    "42",
+    "38"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Number = 12 ÷ 30% = 12 × 100 ÷ 30 = 40.",
+   "id": "NUM-FRA-079"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "30% of a number is 36. What is the number?",
+   "options": [
+    "108",
+    "66",
+    "100",
+    "130",
+    "120"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Number = 36 ÷ 30% = 36 × 100 ÷ 30 = 120.",
+   "id": "NUM-FRA-080"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "20% of a number is 8. What is the number?",
+   "options": [
+    "28",
+    "43",
+    "40",
+    "47",
+    "16"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Number = 8 ÷ 20% = 8 × 100 ÷ 20 = 40.",
+   "id": "NUM-FRA-081"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "40% of a number is 24. What is the number?",
+   "options": [
+    "64",
+    "55",
+    "96",
+    "80",
+    "60"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Number = 24 ÷ 40% = 24 × 100 ÷ 40 = 60.",
+   "id": "NUM-FRA-082"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "40% of a number is 80. What is the number?",
+   "options": [
+    "120",
+    "203",
+    "200",
+    "320",
+    "205"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Number = 80 ÷ 40% = 80 × 100 ÷ 40 = 200.",
+   "id": "NUM-FRA-083"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 3,
+   "question": "40% of a number is 120. What is the number?",
+   "options": [
+    "280",
+    "160",
+    "480",
+    "302",
+    "300"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Number = 120 ÷ 40% = 120 × 100 ÷ 40 = 300.",
+   "id": "NUM-FRA-084"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 10% and then decreased by 50%. What is the net percent change?",
+   "options": [
+    "−45%",
+    "−47%",
+    "−40%",
+    "45%",
+    "−44%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply the factors: 110% × 50% = 55% of the original, a net decrease of 45%.",
+   "id": "NUM-FRA-085"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 20% and then decreased by 40%. What is the net percent change?",
+   "options": [
+    "−28%",
+    "−27%",
+    "−20%",
+    "−30%",
+    "28%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply the factors: 120% × 60% = 72% of the original, a net decrease of 28%.",
+   "id": "NUM-FRA-086"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 50% and then decreased by 30%. What is the net percent change?",
+   "options": [
+    "−5%",
+    "5%",
+    "20%",
+    "3%",
+    "6%"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply the factors: 150% × 70% = 105% of the original, a net increase of 5%.",
+   "id": "NUM-FRA-087"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 25% and then decreased by 25%. What is the net percent change?",
+   "options": [
+    "0%",
+    "6.25%",
+    "−5.25%",
+    "−6.25%",
+    "−8.25%"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply the factors: 125% × 75% = 93.75% of the original, a net decrease of 6.25%.",
+   "id": "NUM-FRA-088"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 50% and then decreased by 20%. What is the net percent change?",
+   "options": [
+    "−20%",
+    "20%",
+    "21%",
+    "30%",
+    "18%"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply the factors: 150% × 80% = 120% of the original, a net increase of 20%.",
+   "id": "NUM-FRA-089"
+  },
+  {
+   "level": "both",
+   "skill": "Percent",
+   "tier": 4,
+   "question": "A price is increased by 50% and then decreased by 40%. What is the net percent change?",
+   "options": [
+    "−10%",
+    "−9%",
+    "−6%",
+    "10%",
+    "−12%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply the factors: 150% × 60% = 90% of the original, a net decrease of 10%.",
+   "id": "NUM-FRA-090"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱800 is sold at 30% discount. What is the selling price?",
+   "options": [
+    "770",
+    "240",
+    "564",
+    "555",
+    "560"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Discount = 30% of ₱800 = ₱240. Price = 800 − 240 = ₱560.",
+   "id": "NUM-FRA-091"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱1200 is sold at 20% discount. What is the selling price?",
+   "options": [
+    "970",
+    "240",
+    "1180",
+    "960",
+    "963"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Discount = 20% of ₱1200 = ₱240. Price = 1200 − 240 = ₱960.",
+   "id": "NUM-FRA-092"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱1200 is sold at 15% discount. What is the selling price?",
+   "options": [
+    "180",
+    "1185",
+    "1020",
+    "1027",
+    "1021"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Discount = 15% of ₱1200 = ₱180. Price = 1200 − 180 = ₱1020.",
+   "id": "NUM-FRA-093"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱2000 is sold at 25% discount. What is the selling price?",
+   "options": [
+    "1500",
+    "1504",
+    "1503",
+    "1975",
+    "500"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Discount = 25% of ₱2000 = ₱500. Price = 2000 − 500 = ₱1500.",
+   "id": "NUM-FRA-094"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱400 is sold at 10% discount. What is the selling price?",
+   "options": [
+    "364",
+    "360",
+    "355",
+    "40",
+    "390"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Discount = 10% of ₱400 = ₱40. Price = 400 − 40 = ₱360.",
+   "id": "NUM-FRA-095"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱500 is sold at 25% discount. What is the selling price?",
+   "options": [
+    "475",
+    "395",
+    "125",
+    "375",
+    "371"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Discount = 25% of ₱500 = ₱125. Price = 500 − 125 = ₱375.",
+   "id": "NUM-FRA-096"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱2000 is sold at 15% discount. What is the selling price?",
+   "options": [
+    "300",
+    "1700",
+    "1710",
+    "1985",
+    "1690"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Discount = 15% of ₱2000 = ₱300. Price = 2000 − 300 = ₱1700.",
+   "id": "NUM-FRA-097"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 1,
+   "question": "A shirt priced at ₱2500 is sold at 20% discount. What is the selling price?",
+   "options": [
+    "2000",
+    "2001",
+    "2002",
+    "500",
+    "2480"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Discount = 20% of ₱2500 = ₱500. Price = 2500 − 500 = ₱2000.",
+   "id": "NUM-FRA-098"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱300 and adds a 40% markup. What is the selling price?",
+   "options": [
+    "120",
+    "424",
+    "340",
+    "415",
+    "420"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Markup = ₱120; price = ₱300 + ₱120 = ₱420.",
+   "id": "NUM-FRA-099"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱800 and adds a 40% markup. What is the selling price?",
+   "options": [
+    "1120",
+    "320",
+    "840",
+    "1125",
+    "1116"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Markup = ₱320; price = ₱800 + ₱320 = ₱1120.",
+   "id": "NUM-FRA-100"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱800 and adds a 30% markup. What is the selling price?",
+   "options": [
+    "830",
+    "1040",
+    "1060",
+    "240",
+    "1050"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Markup = ₱240; price = ₱800 + ₱240 = ₱1040.",
+   "id": "NUM-FRA-101"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱400 and adds a 10% markup. What is the selling price?",
+   "options": [
+    "440",
+    "410",
+    "437",
+    "446",
+    "40"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Markup = ₱40; price = ₱400 + ₱40 = ₱440.",
+   "id": "NUM-FRA-102"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱400 and adds a 20% markup. What is the selling price?",
+   "options": [
+    "476",
+    "480",
+    "487",
+    "420",
+    "80"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Markup = ₱80; price = ₱400 + ₱80 = ₱480.",
+   "id": "NUM-FRA-103"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱300 and adds a 30% markup. What is the selling price?",
+   "options": [
+    "90",
+    "330",
+    "390",
+    "392",
+    "386"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Markup = ₱90; price = ₱300 + ₱90 = ₱390.",
+   "id": "NUM-FRA-104"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱800 and adds a 25% markup. What is the selling price?",
+   "options": [
+    "997",
+    "1000",
+    "1020",
+    "200",
+    "825"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Markup = ₱200; price = ₱800 + ₱200 = ₱1000.",
+   "id": "NUM-FRA-105"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 2,
+   "question": "A store buys an item for ₱400 and adds a 25% markup. What is the selling price?",
+   "options": [
+    "100",
+    "520",
+    "500",
+    "425",
+    "510"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Markup = ₱100; price = ₱400 + ₱100 = ₱500.",
+   "id": "NUM-FRA-106"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱5000 at 4% per year for 2 years?",
+   "options": [
+    "402",
+    "200",
+    "405",
+    "400",
+    "5400"
+   ],
+   "correctAnswer": 3,
+   "explanation": "I = P × R × T = 5000 × 4/100 × 2 = ₱400.",
+   "id": "NUM-FRA-107"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱2000 at 2% per year for 5 years?",
+   "options": [
+    "200",
+    "198",
+    "220",
+    "40",
+    "2200"
+   ],
+   "correctAnswer": 0,
+   "explanation": "I = P × R × T = 2000 × 2/100 × 5 = ₱200.",
+   "id": "NUM-FRA-108"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱12000 at 4% per year for 2 years?",
+   "options": [
+    "960",
+    "957",
+    "12960",
+    "480",
+    "964"
+   ],
+   "correctAnswer": 0,
+   "explanation": "I = P × R × T = 12000 × 4/100 × 2 = ₱960.",
+   "id": "NUM-FRA-109"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱12000 at 4% per year for 5 years?",
+   "options": [
+    "2403",
+    "14400",
+    "480",
+    "2400",
+    "2397"
+   ],
+   "correctAnswer": 3,
+   "explanation": "I = P × R × T = 12000 × 4/100 × 5 = ₱2400.",
+   "id": "NUM-FRA-110"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱8000 at 3% per year for 5 years?",
+   "options": [
+    "1201",
+    "9200",
+    "1200",
+    "240",
+    "1204"
+   ],
+   "correctAnswer": 2,
+   "explanation": "I = P × R × T = 8000 × 3/100 × 5 = ₱1200.",
+   "id": "NUM-FRA-111"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱10000 at 6% per year for 4 years?",
+   "options": [
+    "2395",
+    "600",
+    "2400",
+    "2402",
+    "12400"
+   ],
+   "correctAnswer": 2,
+   "explanation": "I = P × R × T = 10000 × 6/100 × 4 = ₱2400.",
+   "id": "NUM-FRA-112"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱5000 at 2% per year for 3 years?",
+   "options": [
+    "300",
+    "100",
+    "303",
+    "5300",
+    "307"
+   ],
+   "correctAnswer": 0,
+   "explanation": "I = P × R × T = 5000 × 2/100 × 3 = ₱300.",
+   "id": "NUM-FRA-113"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 3,
+   "question": "How much simple interest is earned on ₱8000 at 5% per year for 3 years?",
+   "options": [
+    "400",
+    "1197",
+    "1203",
+    "1200",
+    "9200"
+   ],
+   "correctAnswer": 3,
+   "explanation": "I = P × R × T = 8000 × 5/100 × 3 = ₱1200.",
+   "id": "NUM-FRA-114"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 30% and 10% are equivalent to a single discount of:",
+   "options": [
+    "35.5%",
+    "42%",
+    "40%",
+    "37%",
+    "39%"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Remaining = 70% × 90% = 63%, so the single discount is 37%, not 40%.",
+   "id": "NUM-FRA-115"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 50% and 20% are equivalent to a single discount of:",
+   "options": [
+    "60%",
+    "62%",
+    "70%",
+    "58.5%",
+    "65%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Remaining = 50% × 80% = 40%, so the single discount is 60%, not 70%.",
+   "id": "NUM-FRA-116"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 15% and 10% are equivalent to a single discount of:",
+   "options": [
+    "23.5%",
+    "22%",
+    "28.5%",
+    "25%",
+    "25.5%"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Remaining = 85% × 90% = 76.5%, so the single discount is 23.5%, not 25%.",
+   "id": "NUM-FRA-117"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 25% and 10% are equivalent to a single discount of:",
+   "options": [
+    "35%",
+    "31%",
+    "34.5%",
+    "37.5%",
+    "32.5%"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Remaining = 75% × 90% = 67.5%, so the single discount is 32.5%, not 35%.",
+   "id": "NUM-FRA-118"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 30% and 20% are equivalent to a single discount of:",
+   "options": [
+    "46%",
+    "42.5%",
+    "44%",
+    "50%",
+    "49%"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Remaining = 70% × 80% = 56%, so the single discount is 44%, not 50%.",
+   "id": "NUM-FRA-119"
+  },
+  {
+   "level": "both",
+   "skill": "Discount, Markup & Interest",
+   "tier": 4,
+   "question": "Successive discounts of 40% and 10% are equivalent to a single discount of:",
+   "options": [
+    "51%",
+    "48%",
+    "50%",
+    "46%",
+    "44.5%"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Remaining = 60% × 90% = 54%, so the single discount is 46%, not 50%.",
+   "id": "NUM-FRA-120"
+  }
+ ]
+}

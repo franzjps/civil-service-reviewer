@@ -1,0 +1,965 @@
+{
+  "module": "word-meaning",
+  "questions": [
+    {
+      "id": "WMX-001",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 1,
+      "question": "The ardent supporter attended every rally. ARDENT means:",
+      "options": [
+        "timid",
+        "passionate",
+        "careless",
+        "indifferent",
+        "reluctant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ardent describes strong, burning enthusiasm, so it is closest to passionate."
+    },
+    {
+      "id": "WMX-002",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 1,
+      "question": "Mang Ruben is a frugal man who saves part of his pay each month. FRUGAL means:",
+      "options": [
+        "lazy",
+        "greedy",
+        "wasteful",
+        "gloomy",
+        "thrifty"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Frugal means careful with money; thrifty is its synonym."
+    },
+    {
+      "id": "WMX-003",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 1,
+      "question": "Please give me your candid opinion of the plan. CANDID means:",
+      "options": [
+        "vague",
+        "polite",
+        "frank",
+        "secret",
+        "angry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Candid means honest and straightforward, like frank."
+    },
+    {
+      "id": "WMX-004",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 1,
+      "question": "The diligent clerk finished all her reports early. DILIGENT means:",
+      "options": [
+        "forgetful",
+        "talkative",
+        "hardworking",
+        "strict",
+        "sleepy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diligent describes steady, careful effort; hardworking is the synonym."
+    },
+    {
+      "id": "WMX-005",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 2,
+      "question": "The auditor was meticulous in checking every entry. METICULOUS means:",
+      "options": [
+        "quick-tempered",
+        "careless",
+        "generous",
+        "secretive",
+        "extremely careful"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Meticulous means very attentive to detail, i.e., extremely careful."
+    },
+    {
+      "id": "WMX-006",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 2,
+      "question": "The mayor gave a lucid explanation of the new ordinance. LUCID means:",
+      "options": [
+        "emotional",
+        "boring",
+        "confusing",
+        "clear",
+        "lengthy"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lucid means easily understood; clear is the synonym."
+    },
+    {
+      "id": "WMX-007",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 2,
+      "question": "Her tenacious efforts finally won the case. TENACIOUS means:",
+      "options": [
+        "weak",
+        "hasty",
+        "random",
+        "fearful",
+        "persistent"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Tenacious means holding firmly to a purpose, which is persistent."
+    },
+    {
+      "id": "WMX-008",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 2,
+      "question": "The benevolent donor funded the scholarships of ten students. BENEVOLENT means:",
+      "options": [
+        "proud",
+        "cunning",
+        "kind and charitable",
+        "wealthy",
+        "cautious"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benevolent means well-meaning and generous toward others."
+    },
+    {
+      "id": "WMX-009",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 3,
+      "question": "Mobile phones have become ubiquitous in the workplace. UBIQUITOUS means:",
+      "options": [
+        "very expensive",
+        "found everywhere",
+        "outdated",
+        "rarely seen",
+        "forbidden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ubiquitous means present or seen everywhere at once."
+    },
+    {
+      "id": "WMX-010",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 3,
+      "question": "A pragmatic manager chooses solutions that actually work. PRAGMATIC means:",
+      "options": [
+        "stubborn",
+        "dishonest",
+        "hesitant",
+        "idealistic",
+        "practical"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pragmatic means dealing with matters sensibly and realistically, i.e., practical."
+    },
+    {
+      "id": "WMX-011",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 3,
+      "question": "The typewriter is now obsolete in most offices. OBSOLETE means:",
+      "options": [
+        "fragile",
+        "popular",
+        "valuable",
+        "outdated",
+        "improved"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Obsolete means no longer in use because newer things replaced it; outdated is the synonym."
+    },
+    {
+      "id": "WMX-012",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 3,
+      "question": "The fame of the one-hit singer proved ephemeral. EPHEMERAL means:",
+      "options": [
+        "short-lived",
+        "scandalous",
+        "growing",
+        "eternal",
+        "deserved"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ephemeral describes something that lasts only a very short time."
+    },
+    {
+      "id": "WMX-013",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 4,
+      "question": "The obsequious aide laughed at every joke of his superior. OBSEQUIOUS means:",
+      "options": [
+        "fawning",
+        "rebellious",
+        "clumsy",
+        "sincere",
+        "reserved"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Obsequious means excessively eager to please, i.e., fawning or servile."
+    },
+    {
+      "id": "WMX-014",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 4,
+      "question": "The recalcitrant employee refused to follow any new rule. RECALCITRANT means:",
+      "options": [
+        "absent-minded",
+        "cheerful",
+        "stubbornly defiant",
+        "timid",
+        "overworked"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Recalcitrant means resisting authority or control; stubbornly defiant fits."
+    },
+    {
+      "id": "WMX-015",
+      "level": "both",
+      "skill": "Synonyms",
+      "tier": 4,
+      "question": "His perfunctory review of the document missed several errors. PERFUNCTORY means:",
+      "options": [
+        "courageous",
+        "delayed",
+        "painstaking",
+        "done with little care",
+        "thorough"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Perfunctory describes an action done routinely with minimal effort or interest."
+    },
+    {
+      "id": "WMX-016",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 1,
+      "question": "Clean water is becoming scarce in some areas. The antonym of SCARCE is:",
+      "options": [
+        "abundant",
+        "limited",
+        "rare",
+        "costly",
+        "dirty"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Scarce means insufficient; its opposite is abundant."
+    },
+    {
+      "id": "WMX-017",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 1,
+      "question": "The museum displays ancient tools. The antonym of ANCIENT is:",
+      "options": [
+        "heavy",
+        "old",
+        "historic",
+        "modern",
+        "broken"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ancient means very old; modern is the opposite."
+    },
+    {
+      "id": "WMX-018",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 1,
+      "question": "Joel was reluctant to speak in public. The antonym of RELUCTANT is:",
+      "options": [
+        "shy",
+        "tired",
+        "eager",
+        "afraid",
+        "unwilling"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reluctant means unwilling; eager means keenly willing."
+    },
+    {
+      "id": "WMX-019",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 1,
+      "question": "The generous owner gave bonuses to all staff. The antonym of GENEROUS is:",
+      "options": [
+        "kind",
+        "busy",
+        "rich",
+        "stingy",
+        "fair"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Generous means giving freely; stingy means unwilling to give."
+    },
+    {
+      "id": "WMX-020",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 2,
+      "question": "The glass wall was nearly transparent. The antonym of TRANSPARENT is:",
+      "options": [
+        "opaque",
+        "shiny",
+        "clear",
+        "thin",
+        "colorful"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transparent lets light through; opaque does not."
+    },
+    {
+      "id": "WMX-021",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 2,
+      "question": "The champion remained humble despite his fame. The antonym of HUMBLE is:",
+      "options": [
+        "arrogant",
+        "modest",
+        "quiet",
+        "famous",
+        "honest"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Humble means not proud; arrogant means overly proud."
+    },
+    {
+      "id": "WMX-022",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 2,
+      "question": "The neighbors were hostile toward the newcomers. The antonym of HOSTILE is:",
+      "options": [
+        "angry",
+        "distant",
+        "unfriendly",
+        "careful",
+        "friendly"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hostile means unfriendly or antagonistic; friendly is the opposite."
+    },
+    {
+      "id": "WMX-023",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 2,
+      "question": "The contract's terms were vague. The antonym of VAGUE is:",
+      "options": [
+        "general",
+        "unclear",
+        "brief",
+        "hidden",
+        "explicit"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Vague means not clearly stated; explicit means stated clearly and in detail."
+    },
+    {
+      "id": "WMX-024",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 3,
+      "question": "The lethargic patient could hardly leave his bed. The antonym of LETHARGIC is:",
+      "options": [
+        "energetic",
+        "ill",
+        "sluggish",
+        "calm",
+        "weary"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lethargic means sluggish and lacking energy; energetic is the opposite."
+    },
+    {
+      "id": "WMX-025",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 3,
+      "question": "The taciturn witness answered only in single words. The antonym of TACITURN is:",
+      "options": [
+        "honest",
+        "rude",
+        "silent",
+        "talkative",
+        "nervous"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Taciturn means reserved and saying little; talkative is the opposite."
+    },
+    {
+      "id": "WMX-026",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 3,
+      "question": "The villagers were oblivious to the approaching storm. The antonym of OBLIVIOUS is:",
+      "options": [
+        "ignorant",
+        "afraid",
+        "calm",
+        "aware",
+        "careless"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Oblivious means unaware; aware is the opposite."
+    },
+    {
+      "id": "WMX-027",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 3,
+      "question": "The magnanimous winner forgave his rival's insults. The antonym of MAGNANIMOUS is:",
+      "options": [
+        "wealthy",
+        "proud",
+        "petty",
+        "generous",
+        "noble"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Magnanimous means generous and forgiving; petty means small-minded and spiteful."
+    },
+    {
+      "id": "WMX-028",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 4,
+      "question": "The laconic reply of the spokesperson disappointed reporters. The antonym of LACONIC is:",
+      "options": [
+        "curt",
+        "verbose",
+        "brief",
+        "evasive",
+        "silent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Laconic means using very few words; verbose means using too many."
+    },
+    {
+      "id": "WMX-029",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 4,
+      "question": "The sanguine investor expected the market to rise. The antonym of SANGUINE is:",
+      "options": [
+        "pessimistic",
+        "greedy",
+        "calm",
+        "cautious",
+        "hopeful"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sanguine means optimistic; pessimistic is the opposite."
+    },
+    {
+      "id": "WMX-030",
+      "level": "both",
+      "skill": "Antonyms",
+      "tier": 4,
+      "question": "The ostentatious mansion was the talk of the town. The antonym of OSTENTATIOUS is:",
+      "options": [
+        "unassuming",
+        "expensive",
+        "showy",
+        "grand",
+        "lavish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ostentatious means flashy and meant to impress; unassuming means modest and plain."
+    },
+    {
+      "id": "WMX-031",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 1,
+      "question": "At the seminar, the host told a joke to break the ice. BREAK THE ICE means:",
+      "options": [
+        "ease the tension among strangers",
+        "start an argument",
+        "cancel an event",
+        "end the meeting",
+        "cool a drink"
+      ],
+      "correctAnswer": 0,
+      "explanation": "To break the ice is to make people feel comfortable at the start of a social situation."
+    },
+    {
+      "id": "WMX-032",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 1,
+      "question": "The exam was a piece of cake for Lorna. A PIECE OF CAKE means:",
+      "options": [
+        "unfair",
+        "a reward",
+        "very easy",
+        "very long",
+        "very sweet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A piece of cake is something that takes little effort."
+    },
+    {
+      "id": "WMX-033",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 1,
+      "question": "Ramon stayed home because he was under the weather. UNDER THE WEATHER means:",
+      "options": [
+        "unemployed",
+        "slightly ill",
+        "in the rain",
+        "late",
+        "very angry"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Under the weather means feeling a bit sick."
+    },
+    {
+      "id": "WMX-034",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 1,
+      "question": "It was midnight, so Carla decided to hit the sack. HIT THE SACK means:",
+      "options": [
+        "go shopping",
+        "start cooking",
+        "punch a bag",
+        "leave work",
+        "go to bed"
+      ],
+      "correctAnswer": 4,
+      "explanation": "To hit the sack is an informal way of saying to go to bed."
+    },
+    {
+      "id": "WMX-035",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 2,
+      "question": "Don't spill the beans about the surprise party. SPILL THE BEANS means:",
+      "options": [
+        "waste food",
+        "tell a lie",
+        "reveal a secret",
+        "cook early",
+        "make a mess"
+      ],
+      "correctAnswer": 2,
+      "explanation": "To spill the beans is to disclose confidential information."
+    },
+    {
+      "id": "WMX-036",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 2,
+      "question": "Mia burned the midnight oil to finish her report. BURN THE MIDNIGHT OIL means:",
+      "options": [
+        "work late into the night",
+        "waste resources",
+        "cook at night",
+        "waste money",
+        "sleep early"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The idiom refers to working or studying until very late."
+    },
+    {
+      "id": "WMX-037",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 2,
+      "question": "Ben had to bite the bullet and accept the pay cut. BITE THE BULLET means:",
+      "options": [
+        "hurt himself",
+        "refuse the offer",
+        "act recklessly",
+        "endure something unpleasant bravely",
+        "quarrel with his boss"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To bite the bullet is to face a difficult situation with courage."
+    },
+    {
+      "id": "WMX-038",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 2,
+      "question": "Our supervisor visits the province once in a blue moon. ONCE IN A BLUE MOON means:",
+      "options": [
+        "at night",
+        "very rarely",
+        "every month",
+        "very soon",
+        "every year without fail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Once in a blue moon means an event that happens very seldom."
+    },
+    {
+      "id": "WMX-039",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 3,
+      "question": "Stop beating around the bush and tell us what happened. BEAT AROUND THE BUSH means:",
+      "options": [
+        "search carefully",
+        "hunt animals",
+        "avoid getting to the point",
+        "lose one's temper",
+        "speak loudly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The idiom means talking indirectly instead of addressing the main issue."
+    },
+    {
+      "id": "WMX-040",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 3,
+      "question": "After years of losses, the owner finally threw in the towel. THROW IN THE TOWEL means:",
+      "options": [
+        "start over",
+        "celebrate",
+        "get angry",
+        "clean up",
+        "give up"
+      ],
+      "correctAnswer": 4,
+      "explanation": "To throw in the towel is to admit defeat and quit."
+    },
+    {
+      "id": "WMX-041",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 3,
+      "question": "Being late again was the last straw for the manager. THE LAST STRAW means:",
+      "options": [
+        "the best solution",
+        "an unavoidable loss",
+        "a small reward",
+        "the first warning",
+        "the final problem that makes patience run out"
+      ],
+      "correctAnswer": 4,
+      "explanation": "It refers to the final burden that makes a situation intolerable."
+    },
+    {
+      "id": "WMX-042",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 3,
+      "question": "Losing that job was a blessing in disguise, since it led her to a better career. A BLESSING IN DISGUISE means:",
+      "options": [
+        "a hidden enemy",
+        "a religious act",
+        "an unlucky event",
+        "a secret gift",
+        "a good thing that seemed bad at first"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The phrase describes something that turns out to be beneficial despite looking unfortunate."
+    },
+    {
+      "id": "WMX-043",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 4,
+      "question": "By insulting the committee, he burned his bridges with the agency. BURN ONE'S BRIDGES means:",
+      "options": [
+        "travel abroad",
+        "take a big risk for profit",
+        "build new alliances",
+        "destroy any chance of returning or reconciling",
+        "settle a debt"
+      ],
+      "correctAnswer": 3,
+      "explanation": "To burn one's bridges is to cut off ties so that going back is impossible."
+    },
+    {
+      "id": "WMX-044",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 4,
+      "question": "The inspector turned a blind eye to the violations. TURN A BLIND EYE means:",
+      "options": [
+        "feel pity",
+        "report immediately",
+        "investigate closely",
+        "lose sight",
+        "deliberately ignore"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The idiom means pretending not to notice something wrong."
+    },
+    {
+      "id": "WMX-045",
+      "level": "both",
+      "skill": "Idioms & Expressions",
+      "tier": 4,
+      "question": "Nobody mentioned the budget deficit, the elephant in the room. THE ELEPHANT IN THE ROOM means:",
+      "options": [
+        "an obvious problem everyone avoids discussing",
+        "a welcome guest",
+        "a past success",
+        "a very large expense",
+        "a minor concern"
+      ],
+      "correctAnswer": 0,
+      "explanation": "It refers to a major issue that people are aware of but avoid talking about."
+    },
+    {
+      "id": "WMX-046",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 1,
+      "question": "Ang ibig sabihin ng salitang GALAK ay:",
+      "options": [
+        "galit",
+        "lungkot",
+        "pagod",
+        "tuwa",
+        "takot"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ang 'galak' ay kasingkahulugan ng 'tuwa'."
+    },
+    {
+      "id": "WMX-047",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 1,
+      "question": "Ang kasalungat ng salitang MASIPAG ay:",
+      "options": [
+        "tamad",
+        "matalino",
+        "matiyaga",
+        "malakas",
+        "mabilis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ang 'masipag' ay may sigasig sa gawain; ang kabaligtaran nito ay 'tamad'."
+    },
+    {
+      "id": "WMX-048",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 1,
+      "question": "Ano ang kahulugan ng salawikaing 'Kapag may itinanim, may aanihin'?",
+      "options": [
+        "Masama ang tamad",
+        "Mahalaga ang pera",
+        "Iwasan ang pagsasaka",
+        "Dapat laging magtanim",
+        "Ang pagsisikap ay may magandang bunga"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ang kasabihan ay nagtuturo na ang pagsisikap ay may gantimpala."
+    },
+    {
+      "id": "WMX-049",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 1,
+      "question": "Ang sawikaing 'bukas-palad' ay nangangahulugang:",
+      "options": [
+        "madaldal",
+        "mapagbigay",
+        "masungit",
+        "mayabang",
+        "matakaw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang taong bukas-palad ay laging handang magbigay o tumulong."
+    },
+    {
+      "id": "WMX-050",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 2,
+      "question": "Ang taong HAMPASLUPA ay:",
+      "options": [
+        "magaling",
+        "mayaman",
+        "masayahin",
+        "walang-wala sa buhay",
+        "matapang"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ang 'hampaslupa' ay tawag sa taong lubhang mahirap."
+    },
+    {
+      "id": "WMX-051",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 2,
+      "question": "Ang sawikaing 'balat-sibuyas' ay tumutukoy sa taong:",
+      "options": [
+        "maramot",
+        "mabilis kumilos",
+        "matapang",
+        "madaling masaktan ang damdamin",
+        "makapal ang mukha"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tulad ng manipis na balat ng sibuyas, madaling mapikon ang taong balat-sibuyas."
+    },
+    {
+      "id": "WMX-052",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 2,
+      "question": "Ang kasingkahulugan ng NAGDADALAMHATI ay:",
+      "options": [
+        "nagmamadali",
+        "nagagalak",
+        "nagtatampo",
+        "nagdiriwang",
+        "nagluluksa"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Ang 'dalamhati' ay matinding lungkot, kaya ang nagdadalamhati ay nagluluksa."
+    },
+    {
+      "id": "WMX-053",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 2,
+      "question": "Ang kasalungat ng MAPAGKUMBABA ay:",
+      "options": [
+        "mapagtimpi",
+        "mapagpasalamat",
+        "mapagmataas",
+        "mapagmahal",
+        "mapagbigay"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ang mapagkumbaba ay hindi nagmamalaki; ang kabaligtaran nito ay mapagmataas."
+    },
+    {
+      "id": "WMX-054",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 3,
+      "question": "Ang sawikaing 'kapit-tuko' ay nangangahulugang:",
+      "options": [
+        "mahilig mangisda",
+        "madaling sumuko",
+        "mahigpit ang pagkakahawak",
+        "magaling umakyat",
+        "mabilis tumakbo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kilala ang tuko sa napakahigpit na kapit, kaya ito ang pinagmulan ng sawikain."
+    },
+    {
+      "id": "WMX-055",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 3,
+      "question": "Ano ang aral ng salawikaing 'Ang hindi lumingon sa pinanggalingan ay hindi makararating sa paroroonan'?",
+      "options": [
+        "Dapat kilalanin ang pinagmulan at tumanaw ng utang na loob",
+        "Laging tumingin sa likod",
+        "Magmadali sa paglalakbay",
+        "Iwasan ang mga kaibigan",
+        "Huwag nang bumalik sa probinsya"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ipinapaalala nito na ang taong hindi marunong lumingon sa pinagmulan at tumanaw ng utang na loob ay mahihirapang magtagumpay."
+    },
+    {
+      "id": "WMX-056",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 3,
+      "question": "Ang sawikaing 'nagbibilang ng poste' ay tumutukoy sa taong:",
+      "options": [
+        "nagbabantay sa daan",
+        "nagtatrabaho sa kuryente",
+        "mahusay sa matematika",
+        "walang trabaho",
+        "mahilig maglakad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ang taong walang magawang trabaho ay inilalarawang nagbibilang ng poste."
+    },
+    {
+      "id": "WMX-057",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 3,
+      "question": "Ang kasingkahulugan ng DALISAY ay:",
+      "options": [
+        "matigas",
+        "marumi",
+        "busilak",
+        "mahina",
+        "madilim"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ang 'dalisay' ay malinis at walang halo, gaya ng 'busilak'."
+    },
+    {
+      "id": "WMX-058",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 4,
+      "question": "Ang ibig sabihin ng salitang SALAT ay:",
+      "options": [
+        "tahimik",
+        "kapos",
+        "labis",
+        "tapat",
+        "maaga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang 'salat' ay kulang o kapos sa pangangailangan."
+    },
+    {
+      "id": "WMX-059",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 4,
+      "question": "Ang sawikaing 'alog na ang baba' ay nangangahulugang:",
+      "options": [
+        "gutom na",
+        "nilalamig",
+        "bata pa",
+        "matanda na",
+        "nagagalit"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ang pag-alog ng baba ay palatandaan ng katandaan, kaya 'matanda na' ang kahulugan."
+    },
+    {
+      "id": "WMX-060",
+      "level": "both",
+      "skill": "Filipino Words",
+      "tier": 4,
+      "question": "Ano ang ipinahihiwatig ng salawikaing 'Nasa Diyos ang awa, nasa tao ang gawa'?",
+      "options": [
+        "Diyos lang ang gagawa ng lahat",
+        "Ang tao ay hindi marunong maawa",
+        "Dapat magsikap ang tao at hindi umasa sa dasal lamang",
+        "Walang silbi ang pagsisikap",
+        "Awa lang ang kailangan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ipinapaalala nito na bukod sa pananalig sa Diyos, kailangan ding kumilos ang tao."
+    }
+  ]
+}

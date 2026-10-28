@@ -1,0 +1,1925 @@
+{
+ "module": "word-problems",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Dante is 3 times as old as Felix. Their ages add up to 52. How old is Felix?",
+   "options": [
+    "39",
+    "16",
+    "11",
+    "9",
+    "13"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Felix: x, Dante: 3x. 4x = 52, so x = 13.",
+   "id": "NUM-WOR-001"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Elena is 4 times as old as Noel. Their ages add up to 55. How old is Noel?",
+   "options": [
+    "44",
+    "11",
+    "21",
+    "12",
+    "31"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Noel: x, Elena: 4x. 5x = 55, so x = 11.",
+   "id": "NUM-WOR-002"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Hugo is 4 times as old as Ben. Their ages add up to 55. How old is Ben?",
+   "options": [
+    "11",
+    "10",
+    "18",
+    "44",
+    "13"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ben: x, Hugo: 4x. 5x = 55, so x = 11.",
+   "id": "NUM-WOR-003"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Mia is 3 times as old as Noel. Their ages add up to 56. How old is Noel?",
+   "options": [
+    "24",
+    "18",
+    "15",
+    "42",
+    "14"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Noel: x, Mia: 3x. 4x = 56, so x = 14.",
+   "id": "NUM-WOR-004"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Elena is 2 times as old as Ana. Their ages add up to 42. How old is Ana?",
+   "options": [
+    "16",
+    "14",
+    "13",
+    "19",
+    "28"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ana: x, Elena: 2x. 3x = 42, so x = 14.",
+   "id": "NUM-WOR-005"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Ben is 4 times as old as Elena. Their ages add up to 70. How old is Elena?",
+   "options": [
+    "34",
+    "56",
+    "16",
+    "18",
+    "14"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Elena: x, Ben: 4x. 5x = 70, so x = 14.",
+   "id": "NUM-WOR-006"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Elena is 4 times as old as Iris. Their ages add up to 35. How old is Iris?",
+   "options": [
+    "5",
+    "7",
+    "28",
+    "12",
+    "2"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Iris: x, Elena: 4x. 5x = 35, so x = 7.",
+   "id": "NUM-WOR-007"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 1,
+   "question": "Mia is 2 times as old as Carla. Their ages add up to 27. How old is Carla?",
+   "options": [
+    "9",
+    "8",
+    "18",
+    "19",
+    "6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Carla: x, Mia: 2x. 3x = 27, so x = 9.",
+   "id": "NUM-WOR-008"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Felix is 18 years old and Dante is 7. In how many years will Felix be twice as old as Dante?",
+   "options": [
+    "3",
+    "10",
+    "11",
+    "4",
+    "14"
+   ],
+   "correctAnswer": 3,
+   "explanation": "18 + x = 2(7 + x) gives x = 18 − 14 = 4.",
+   "id": "NUM-WOR-009"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Joel is 35 years old and Iris is 13. In how many years will Joel be twice as old as Iris?",
+   "options": [
+    "9",
+    "16",
+    "14",
+    "29",
+    "22"
+   ],
+   "correctAnswer": 0,
+   "explanation": "35 + x = 2(13 + x) gives x = 35 − 26 = 9.",
+   "id": "NUM-WOR-010"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Mia is 21 years old and Dante is 5. In how many years will Mia be twice as old as Dante?",
+   "options": [
+    "9",
+    "16",
+    "6",
+    "11",
+    "15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "21 + x = 2(5 + x) gives x = 21 − 10 = 11.",
+   "id": "NUM-WOR-011"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Hugo is 35 years old and Ana is 10. In how many years will Hugo be twice as old as Ana?",
+   "options": [
+    "19",
+    "25",
+    "14",
+    "15",
+    "11"
+   ],
+   "correctAnswer": 3,
+   "explanation": "35 + x = 2(10 + x) gives x = 35 − 20 = 15.",
+   "id": "NUM-WOR-012"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Felix is 22 years old and Gina is 8. In how many years will Felix be twice as old as Gina?",
+   "options": [
+    "11",
+    "14",
+    "12",
+    "6",
+    "26"
+   ],
+   "correctAnswer": 3,
+   "explanation": "22 + x = 2(8 + x) gives x = 22 − 16 = 6.",
+   "id": "NUM-WOR-013"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Hugo is 33 years old and Gina is 10. In how many years will Hugo be twice as old as Gina?",
+   "options": [
+    "3",
+    "33",
+    "23",
+    "13",
+    "15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "33 + x = 2(10 + x) gives x = 33 − 20 = 13.",
+   "id": "NUM-WOR-014"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Iris is 31 years old and Ben is 11. In how many years will Iris be twice as old as Ben?",
+   "options": [
+    "10",
+    "29",
+    "20",
+    "4",
+    "9"
+   ],
+   "correctAnswer": 4,
+   "explanation": "31 + x = 2(11 + x) gives x = 31 − 22 = 9.",
+   "id": "NUM-WOR-015"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 2,
+   "question": "Hugo is 28 years old and Felix is 7. In how many years will Hugo be twice as old as Felix?",
+   "options": [
+    "14",
+    "13",
+    "19",
+    "21",
+    "4"
+   ],
+   "correctAnswer": 0,
+   "explanation": "28 + x = 2(7 + x) gives x = 28 − 14 = 14.",
+   "id": "NUM-WOR-016"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Gina is 3 times as old as Iris. In 2 years, the sum of their ages will be 24. How old is Gina now?",
+   "options": [
+    "18",
+    "17",
+    "16",
+    "5",
+    "15"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Now: Iris = x, Gina = 3x. In 2 years: x + 2 + 3x + 2 = 24, so 4x = 20, x = 5, and Gina = 15.",
+   "id": "NUM-WOR-017"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Dante is 3 times as old as Iris. In 5 years, the sum of their ages will be 50. How old is Dante now?",
+   "options": [
+    "29",
+    "36",
+    "10",
+    "30",
+    "35"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Now: Iris = x, Dante = 3x. In 5 years: x + 5 + 3x + 5 = 50, so 4x = 40, x = 10, and Dante = 30.",
+   "id": "NUM-WOR-018"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Carla is 4 times as old as Hugo. In 5 years, the sum of their ages will be 60. How old is Carla now?",
+   "options": [
+    "42",
+    "20",
+    "40",
+    "10",
+    "45"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Now: Hugo = x, Carla = 4x. In 5 years: x + 5 + 4x + 5 = 60, so 5x = 50, x = 10, and Carla = 40.",
+   "id": "NUM-WOR-019"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Dante is 4 times as old as Iris. In 6 years, the sum of their ages will be 37. How old is Dante now?",
+   "options": [
+    "26",
+    "20",
+    "23",
+    "5",
+    "19"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Now: Iris = x, Dante = 4x. In 6 years: x + 6 + 4x + 6 = 37, so 5x = 25, x = 5, and Dante = 20.",
+   "id": "NUM-WOR-020"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Iris is 4 times as old as Felix. In 4 years, the sum of their ages will be 43. How old is Iris now?",
+   "options": [
+    "32",
+    "28",
+    "27",
+    "7",
+    "35"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Now: Felix = x, Iris = 4x. In 4 years: x + 4 + 4x + 4 = 43, so 5x = 35, x = 7, and Iris = 28.",
+   "id": "NUM-WOR-021"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Elena is 3 times as old as Carla. In 4 years, the sum of their ages will be 52. How old is Elena now?",
+   "options": [
+    "23",
+    "11",
+    "36",
+    "33",
+    "37"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Now: Carla = x, Elena = 3x. In 4 years: x + 4 + 3x + 4 = 52, so 4x = 44, x = 11, and Elena = 33.",
+   "id": "NUM-WOR-022"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Ana is 4 times as old as Carla. In 2 years, the sum of their ages will be 34. How old is Ana now?",
+   "options": [
+    "6",
+    "20",
+    "24",
+    "28",
+    "26"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Now: Carla = x, Ana = 4x. In 2 years: x + 2 + 4x + 2 = 34, so 5x = 30, x = 6, and Ana = 24.",
+   "id": "NUM-WOR-023"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 3,
+   "question": "Carla is 3 times as old as Felix. In 4 years, the sum of their ages will be 32. How old is Carla now?",
+   "options": [
+    "22",
+    "18",
+    "6",
+    "14",
+    "38"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Now: Felix = x, Carla = 3x. In 4 years: x + 4 + 3x + 4 = 32, so 4x = 24, x = 6, and Carla = 18.",
+   "id": "NUM-WOR-024"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Carla was three times as old as Gina. Now their ages total 46. How old is Carla now?",
+   "options": [
+    "27",
+    "39",
+    "14",
+    "32",
+    "12"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Let Gina now = x. Then Carla now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 46, so x = 14 and Carla = 32.",
+   "id": "NUM-WOR-025"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Hugo was three times as old as Noel. Now their ages total 42. How old is Hugo now?",
+   "options": [
+    "33",
+    "29",
+    "32",
+    "13",
+    "24"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Let Noel now = x. Then Hugo now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 42, so x = 13 and Hugo = 29.",
+   "id": "NUM-WOR-026"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Gina was three times as old as Joel. Now their ages total 50. How old is Gina now?",
+   "options": [
+    "55",
+    "36",
+    "15",
+    "30",
+    "35"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Let Joel now = x. Then Gina now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 50, so x = 15 and Gina = 35.",
+   "id": "NUM-WOR-027"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Hugo was three times as old as Noel. Now their ages total 54. How old is Hugo now?",
+   "options": [
+    "38",
+    "39",
+    "33",
+    "36",
+    "16"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Let Noel now = x. Then Hugo now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 54, so x = 16 and Hugo = 38.",
+   "id": "NUM-WOR-028"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Ben was three times as old as Noel. Now their ages total 54. How old is Ben now?",
+   "options": [
+    "35",
+    "36",
+    "33",
+    "16",
+    "38"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Let Noel now = x. Then Ben now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 54, so x = 16 and Ben = 38.",
+   "id": "NUM-WOR-029"
+  },
+  {
+   "level": "both",
+   "skill": "Age Problems",
+   "tier": 4,
+   "question": "Five years ago, Ana was three times as old as Felix. Now their ages total 26. How old is Ana now?",
+   "options": [
+    "12",
+    "7",
+    "9",
+    "23",
+    "17"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Let Felix now = x. Then Ana now = 5 + 3(x − 5) = 3x − 10. Sum: 4x − 10 = 26, so x = 9 and Ana = 17.",
+   "id": "NUM-WOR-030"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 50 km/h for 5 hours. How far does it go?",
+   "options": [
+    "250 km",
+    "300 km",
+    "500 km",
+    "55 km",
+    "200 km"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Distance = speed × time = 50 × 5 = 250 km.",
+   "id": "NUM-WOR-031"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 45 km/h for 5 hours. How far does it go?",
+   "options": [
+    "225 km",
+    "270 km",
+    "50 km",
+    "450 km",
+    "180 km"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Distance = speed × time = 45 × 5 = 225 km.",
+   "id": "NUM-WOR-032"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 60 km/h for 2 hours. How far does it go?",
+   "options": [
+    "120 km",
+    "62 km",
+    "240 km",
+    "180 km",
+    "60 km"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Distance = speed × time = 60 × 2 = 120 km.",
+   "id": "NUM-WOR-033"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 60 km/h for 5 hours. How far does it go?",
+   "options": [
+    "360 km",
+    "300 km",
+    "65 km",
+    "240 km",
+    "600 km"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Distance = speed × time = 60 × 5 = 300 km.",
+   "id": "NUM-WOR-034"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 45 km/h for 3 hours. How far does it go?",
+   "options": [
+    "135 km",
+    "180 km",
+    "48 km",
+    "90 km",
+    "270 km"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Distance = speed × time = 45 × 3 = 135 km.",
+   "id": "NUM-WOR-035"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 45 km/h for 2 hours. How far does it go?",
+   "options": [
+    "45 km",
+    "180 km",
+    "135 km",
+    "90 km",
+    "47 km"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Distance = speed × time = 45 × 2 = 90 km.",
+   "id": "NUM-WOR-036"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 72 km/h for 4 hours. How far does it go?",
+   "options": [
+    "76 km",
+    "288 km",
+    "576 km",
+    "360 km",
+    "216 km"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Distance = speed × time = 72 × 4 = 288 km.",
+   "id": "NUM-WOR-037"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 1,
+   "question": "A bus travels at 45 km/h for 4 hours. How far does it go?",
+   "options": [
+    "180 km",
+    "135 km",
+    "49 km",
+    "225 km",
+    "360 km"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Distance = speed × time = 45 × 4 = 180 km.",
+   "id": "NUM-WOR-038"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 30 km/h and returns by the same road at 70 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "50 km/h",
+    "39 km/h",
+    "42 km/h",
+    "46 km/h",
+    "51 km/h"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×30×70 ÷ 100 = 42 km/h.",
+   "id": "NUM-WOR-039"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 15 km/h and returns by the same road at 60 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "28 km/h",
+    "21 km/h",
+    "33 km/h",
+    "37 km/h",
+    "24 km/h"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×15×60 ÷ 75 = 24 km/h.",
+   "id": "NUM-WOR-040"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 20 km/h and returns by the same road at 60 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "40 km/h",
+    "27 km/h",
+    "39 km/h",
+    "30 km/h",
+    "34 km/h"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×20×60 ÷ 80 = 30 km/h.",
+   "id": "NUM-WOR-041"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 30 km/h and returns by the same road at 60 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "45 km/h",
+    "37 km/h",
+    "49 km/h",
+    "44 km/h",
+    "40 km/h"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×30×60 ÷ 90 = 40 km/h.",
+   "id": "NUM-WOR-042"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 10 km/h and returns by the same road at 90 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "15 km/h",
+    "27 km/h",
+    "22 km/h",
+    "50 km/h",
+    "18 km/h"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×10×90 ÷ 100 = 18 km/h.",
+   "id": "NUM-WOR-043"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 60 km/h and returns by the same road at 100 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "84 km/h",
+    "72 km/h",
+    "79 km/h",
+    "80 km/h",
+    "75 km/h"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×60×100 ÷ 160 = 75 km/h.",
+   "id": "NUM-WOR-044"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 30 km/h and returns by the same road at 45 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "45 km/h",
+    "40 km/h",
+    "36 km/h",
+    "37 km/h",
+    "33 km/h"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×30×45 ÷ 75 = 36 km/h.",
+   "id": "NUM-WOR-045"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 2,
+   "question": "A car goes to town at 15 km/h and returns by the same road at 30 km/h. What is its average speed for the whole trip?",
+   "options": [
+    "22 km/h",
+    "29 km/h",
+    "20 km/h",
+    "24 km/h",
+    "17 km/h"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Average speed = total distance ÷ total time = 2ab/(a+b) = 2×15×30 ÷ 45 = 20 km/h.",
+   "id": "NUM-WOR-046"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 920 km apart travel toward each other at 30 km/h and 85 km/h. In how many hours will they meet?",
+   "options": [
+    "8",
+    "30",
+    "9",
+    "7",
+    "18"
+   ],
+   "correctAnswer": 0,
+   "explanation": "They close the gap at 30+85 = 115 km/h, so time = 920 ÷ 115 = 8 hours.",
+   "id": "NUM-WOR-047"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 195 km apart travel toward each other at 30 km/h and 35 km/h. In how many hours will they meet?",
+   "options": [
+    "10",
+    "3",
+    "6",
+    "13",
+    "4"
+   ],
+   "correctAnswer": 1,
+   "explanation": "They close the gap at 30+35 = 65 km/h, so time = 195 ÷ 65 = 3 hours.",
+   "id": "NUM-WOR-048"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 750 km apart travel toward each other at 80 km/h and 45 km/h. In how many hours will they meet?",
+   "options": [
+    "3",
+    "1",
+    "9",
+    "6",
+    "26"
+   ],
+   "correctAnswer": 3,
+   "explanation": "They close the gap at 80+45 = 125 km/h, so time = 750 ÷ 125 = 6 hours.",
+   "id": "NUM-WOR-049"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 400 km apart travel toward each other at 40 km/h and 60 km/h. In how many hours will they meet?",
+   "options": [
+    "5",
+    "10",
+    "14",
+    "4",
+    "24"
+   ],
+   "correctAnswer": 3,
+   "explanation": "They close the gap at 40+60 = 100 km/h, so time = 400 ÷ 100 = 4 hours.",
+   "id": "NUM-WOR-050"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 480 km apart travel toward each other at 35 km/h and 45 km/h. In how many hours will they meet?",
+   "options": [
+    "7",
+    "4",
+    "3",
+    "6",
+    "13"
+   ],
+   "correctAnswer": 3,
+   "explanation": "They close the gap at 35+45 = 80 km/h, so time = 480 ÷ 80 = 6 hours.",
+   "id": "NUM-WOR-051"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 780 km apart travel toward each other at 100 km/h and 95 km/h. In how many hours will they meet?",
+   "options": [
+    "5",
+    "7",
+    "4",
+    "10",
+    "14"
+   ],
+   "correctAnswer": 2,
+   "explanation": "They close the gap at 100+95 = 195 km/h, so time = 780 ÷ 195 = 4 hours.",
+   "id": "NUM-WOR-052"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 510 km apart travel toward each other at 55 km/h and 30 km/h. In how many hours will they meet?",
+   "options": [
+    "7",
+    "4",
+    "9",
+    "13",
+    "6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "They close the gap at 55+30 = 85 km/h, so time = 510 ÷ 85 = 6 hours.",
+   "id": "NUM-WOR-053"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 3,
+   "question": "Two trains 900 km apart travel toward each other at 95 km/h and 85 km/h. In how many hours will they meet?",
+   "options": [
+    "6",
+    "5",
+    "10",
+    "9",
+    "11"
+   ],
+   "correctAnswer": 1,
+   "explanation": "They close the gap at 95+85 = 180 km/h, so time = 900 ÷ 180 = 5 hours.",
+   "id": "NUM-WOR-054"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 60 km/h. 2 hour(s) later, a car leaves the same place on the same road at 90 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "4",
+    "2",
+    "1",
+    "6",
+    "7"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Head start = 60 × 2 = 120 km. The car gains 90 − 60 = 30 km each hour, so time = 120 ÷ 30 = 4 hours.",
+   "id": "NUM-WOR-055"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 50 km/h. 2 hour(s) later, a car leaves the same place on the same road at 70 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "10",
+    "7",
+    "2",
+    "15",
+    "5"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Head start = 50 × 2 = 100 km. The car gains 70 − 50 = 20 km each hour, so time = 100 ÷ 20 = 5 hours.",
+   "id": "NUM-WOR-056"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 60 km/h. 3 hour(s) later, a car leaves the same place on the same road at 90 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "6",
+    "7",
+    "3",
+    "9",
+    "11"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Head start = 60 × 3 = 180 km. The car gains 90 − 60 = 30 km each hour, so time = 180 ÷ 30 = 6 hours.",
+   "id": "NUM-WOR-057"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 50 km/h. 3 hour(s) later, a car leaves the same place on the same road at 80 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "8",
+    "5",
+    "11",
+    "3",
+    "4"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Head start = 50 × 3 = 150 km. The car gains 80 − 50 = 30 km each hour, so time = 150 ÷ 30 = 5 hours.",
+   "id": "NUM-WOR-058"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 50 km/h. 3 hour(s) later, a car leaves the same place on the same road at 60 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "21",
+    "18",
+    "3",
+    "11",
+    "15"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Head start = 50 × 3 = 150 km. The car gains 60 − 50 = 10 km each hour, so time = 150 ÷ 10 = 15 hours.",
+   "id": "NUM-WOR-059"
+  },
+  {
+   "level": "both",
+   "skill": "Speed, Distance & Time",
+   "tier": 4,
+   "question": "A truck leaves at 40 km/h. 3 hour(s) later, a car leaves the same place on the same road at 60 km/h. How many hours after the car leaves will it catch up?",
+   "options": [
+    "6",
+    "1",
+    "11",
+    "3",
+    "9"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Head start = 40 × 3 = 120 km. The car gains 60 − 40 = 20 km each hour, so time = 120 ÷ 20 = 6 hours.",
+   "id": "NUM-WOR-060"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Joel can finish a job in 20 days. What fraction of the job does Joel finish in 5 days?",
+   "options": [
+    "1/2",
+    "1/5",
+    "3/4",
+    "1/4",
+    "1/8"
+   ],
+   "correctAnswer": 3,
+   "explanation": "In one day Joel does 1/20 of the job, so in 5 days Joel does 5 × 1/20 = 5/20 = 1/4.",
+   "id": "NUM-WOR-061"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Felix can finish a job in 15 days. What fraction of the job does Felix finish in 3 days?",
+   "options": [
+    "1/6",
+    "7/10",
+    "2/5",
+    "1/5",
+    "1/10"
+   ],
+   "correctAnswer": 3,
+   "explanation": "In one day Felix does 1/15 of the job, so in 3 days Felix does 3 × 1/15 = 3/15 = 1/5.",
+   "id": "NUM-WOR-062"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Ben can finish a job in 24 days. What fraction of the job does Ben finish in 2 days?",
+   "options": [
+    "1/12",
+    "1/6",
+    "7/12",
+    "1/13",
+    "1/24"
+   ],
+   "correctAnswer": 0,
+   "explanation": "In one day Ben does 1/24 of the job, so in 2 days Ben does 2 × 1/24 = 2/24 = 1/12.",
+   "id": "NUM-WOR-063"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Gina can finish a job in 15 days. What fraction of the job does Gina finish in 5 days?",
+   "options": [
+    "5/6",
+    "2/3",
+    "1/6",
+    "1/4",
+    "1/3"
+   ],
+   "correctAnswer": 4,
+   "explanation": "In one day Gina does 1/15 of the job, so in 5 days Gina does 5 × 1/15 = 5/15 = 1/3.",
+   "id": "NUM-WOR-064"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Elena can finish a job in 24 days. What fraction of the job does Elena finish in 2 days?",
+   "options": [
+    "1/12",
+    "1/24",
+    "1/13",
+    "7/12",
+    "1/6"
+   ],
+   "correctAnswer": 0,
+   "explanation": "In one day Elena does 1/24 of the job, so in 2 days Elena does 2 × 1/24 = 2/24 = 1/12.",
+   "id": "NUM-WOR-065"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Ana can finish a job in 12 days. What fraction of the job does Ana finish in 3 days?",
+   "options": [
+    "1/4",
+    "1/2",
+    "3/4",
+    "1/8",
+    "1/5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "In one day Ana does 1/12 of the job, so in 3 days Ana does 3 × 1/12 = 3/12 = 1/4.",
+   "id": "NUM-WOR-066"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Mia can finish a job in 12 days. What fraction of the job does Mia finish in 4 days?",
+   "options": [
+    "1/6",
+    "1/3",
+    "5/6",
+    "1/4",
+    "2/3"
+   ],
+   "correctAnswer": 1,
+   "explanation": "In one day Mia does 1/12 of the job, so in 4 days Mia does 4 × 1/12 = 4/12 = 1/3.",
+   "id": "NUM-WOR-067"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 1,
+   "question": "Gina can finish a job in 30 days. What fraction of the job does Gina finish in 5 days?",
+   "options": [
+    "1/7",
+    "1/3",
+    "1/12",
+    "1/6",
+    "2/3"
+   ],
+   "correctAnswer": 3,
+   "explanation": "In one day Gina does 1/30 of the job, so in 5 days Gina does 5 × 1/30 = 5/30 = 1/6.",
+   "id": "NUM-WOR-068"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Ana can do a job in 4 days and Joel in 12 days. Working together, how many days will they need?",
+   "options": [
+    "3",
+    "16",
+    "1",
+    "9",
+    "8"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Combined rate = 1/4 + 1/12 = 16/48, so time = 48/16 = 3 days.",
+   "id": "NUM-WOR-069"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Mia can do a job in 21 days and Elena in 28 days. Working together, how many days will they need?",
+   "options": [
+    "24",
+    "12",
+    "49",
+    "7",
+    "14"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Combined rate = 1/21 + 1/28 = 49/588, so time = 588/49 = 12 days.",
+   "id": "NUM-WOR-070"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Dante can do a job in 24 days and Felix in 8 days. Working together, how many days will they need?",
+   "options": [
+    "7",
+    "2",
+    "16",
+    "32",
+    "6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Combined rate = 1/24 + 1/8 = 32/192, so time = 192/32 = 6 days.",
+   "id": "NUM-WOR-071"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Carla can do a job in 5 days and Mia in 20 days. Working together, how many days will they need?",
+   "options": [
+    "12",
+    "10",
+    "5",
+    "4",
+    "25"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Combined rate = 1/5 + 1/20 = 25/100, so time = 100/25 = 4 days.",
+   "id": "NUM-WOR-072"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Mia can do a job in 28 days and Carla in 21 days. Working together, how many days will they need?",
+   "options": [
+    "49",
+    "32",
+    "24",
+    "8",
+    "12"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Combined rate = 1/28 + 1/21 = 49/588, so time = 588/49 = 12 days.",
+   "id": "NUM-WOR-073"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Ben can do a job in 21 days and Dante in 28 days. Working together, how many days will they need?",
+   "options": [
+    "8",
+    "24",
+    "2",
+    "12",
+    "49"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Combined rate = 1/21 + 1/28 = 49/588, so time = 588/49 = 12 days.",
+   "id": "NUM-WOR-074"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Joel can do a job in 10 days and Dante in 15 days. Working together, how many days will they need?",
+   "options": [
+    "5",
+    "6",
+    "9",
+    "25",
+    "12"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Combined rate = 1/10 + 1/15 = 25/150, so time = 150/25 = 6 days.",
+   "id": "NUM-WOR-075"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 2,
+   "question": "Iris can do a job in 12 days and Dante in 4 days. Working together, how many days will they need?",
+   "options": [
+    "8",
+    "9",
+    "23",
+    "16",
+    "3"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Combined rate = 1/12 + 1/4 = 16/48, so time = 48/16 = 3 days.",
+   "id": "NUM-WOR-076"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Mia works alone on a job for 4 days; the job would take Mia 8 days in all. Elena, who needs 26 days alone, finishes the rest. How many days does Elena work?",
+   "options": [
+    "20",
+    "13",
+    "4",
+    "16",
+    "22"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Mia did 4/8, leaving 1/2. Elena needs 1/2 × 26 = 13 days.",
+   "id": "NUM-WOR-077"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Felix works alone on a job for 3 days; the job would take Felix 10 days in all. Ben, who needs 20 days alone, finishes the rest. How many days does Ben work?",
+   "options": [
+    "21",
+    "14",
+    "17",
+    "12",
+    "7"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Felix did 3/10, leaving 7/10. Ben needs 7/10 × 20 = 14 days.",
+   "id": "NUM-WOR-078"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Carla works alone on a job for 3 days; the job would take Carla 15 days in all. Iris, who needs 10 days alone, finishes the rest. How many days does Iris work?",
+   "options": [
+    "7",
+    "11",
+    "12",
+    "13",
+    "8"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Carla did 3/15, leaving 4/5. Iris needs 4/5 × 10 = 8 days.",
+   "id": "NUM-WOR-079"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Carla works alone on a job for 2 days; the job would take Carla 7 days in all. Gina, who needs 28 days alone, finishes the rest. How many days does Gina work?",
+   "options": [
+    "21",
+    "5",
+    "20",
+    "17",
+    "26"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Carla did 2/7, leaving 5/7. Gina needs 5/7 × 28 = 20 days.",
+   "id": "NUM-WOR-080"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Mia works alone on a job for 5 days; the job would take Mia 7 days in all. Hugo, who needs 21 days alone, finishes the rest. How many days does Hugo work?",
+   "options": [
+    "2",
+    "16",
+    "6",
+    "1",
+    "7"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Mia did 5/7, leaving 2/7. Hugo needs 2/7 × 21 = 6 days.",
+   "id": "NUM-WOR-081"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Ben works alone on a job for 5 days; the job would take Ben 10 days in all. Mia, who needs 26 days alone, finishes the rest. How many days does Mia work?",
+   "options": [
+    "21",
+    "13",
+    "33",
+    "23",
+    "5"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ben did 5/10, leaving 1/2. Mia needs 1/2 × 26 = 13 days.",
+   "id": "NUM-WOR-082"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Noel works alone on a job for 3 days; the job would take Noel 6 days in all. Felix, who needs 8 days alone, finishes the rest. How many days does Felix work?",
+   "options": [
+    "3",
+    "4",
+    "8",
+    "6",
+    "5"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Noel did 3/6, leaving 1/2. Felix needs 1/2 × 8 = 4 days.",
+   "id": "NUM-WOR-083"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 3,
+   "question": "Noel works alone on a job for 4 days; the job would take Noel 12 days in all. Iris, who needs 27 days alone, finishes the rest. How many days does Iris work?",
+   "options": [
+    "18",
+    "38",
+    "28",
+    "23",
+    "8"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Noel did 4/12, leaving 2/3. Iris needs 2/3 × 27 = 18 days.",
+   "id": "NUM-WOR-084"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 4 hours. A drain empties the full tank in 20 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "4",
+    "3",
+    "5",
+    "24",
+    "16"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Net rate = 1/4 − 1/20 = 16/80; time = 80/16 = 5 hours.",
+   "id": "NUM-WOR-085"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 5 hours. A drain empties the full tank in 30 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "16",
+    "4",
+    "25",
+    "35",
+    "6"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Net rate = 1/5 − 1/30 = 25/150; time = 150/25 = 6 hours.",
+   "id": "NUM-WOR-086"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 9 hours. A drain empties the full tank in 12 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "33",
+    "32",
+    "21",
+    "36",
+    "3"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Net rate = 1/9 − 1/12 = 3/108; time = 108/3 = 36 hours.",
+   "id": "NUM-WOR-087"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 15 hours. A drain empties the full tank in 20 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "5",
+    "65",
+    "35",
+    "64",
+    "60"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Net rate = 1/15 − 1/20 = 5/300; time = 300/5 = 60 hours.",
+   "id": "NUM-WOR-088"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 11 hours. A drain empties the full tank in 22 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "33",
+    "25",
+    "22",
+    "17",
+    "11"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Net rate = 1/11 − 1/22 = 11/242; time = 242/11 = 22 hours.",
+   "id": "NUM-WOR-089"
+  },
+  {
+   "level": "both",
+   "skill": "Work Problems",
+   "tier": 4,
+   "question": "A pipe fills a tank in 12 hours. A drain empties the full tank in 18 hours. With both open, how many hours to fill the tank?",
+   "options": [
+    "36",
+    "26",
+    "30",
+    "6",
+    "42"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Net rate = 1/12 − 1/18 = 6/216; time = 216/6 = 36 hours.",
+   "id": "NUM-WOR-090"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 4 consecutive integers is 30. What is the smallest integer?",
+   "options": [
+    "4",
+    "6",
+    "9",
+    "7",
+    "8"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Let the integers be n, n+1, …: 4n + 6 = 30, so n = 6.",
+   "id": "NUM-WOR-091"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 3 consecutive integers is 93. What is the smallest integer?",
+   "options": [
+    "50",
+    "31",
+    "10",
+    "30",
+    "32"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Let the integers be n, n+1, …: 3n + 3 = 93, so n = 30.",
+   "id": "NUM-WOR-092"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 3 consecutive integers is 99. What is the smallest integer?",
+   "options": [
+    "32",
+    "34",
+    "37",
+    "52",
+    "33"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Let the integers be n, n+1, …: 3n + 3 = 99, so n = 32.",
+   "id": "NUM-WOR-093"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 4 consecutive integers is 154. What is the smallest integer?",
+   "options": [
+    "37",
+    "38",
+    "34",
+    "40",
+    "33"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Let the integers be n, n+1, …: 4n + 6 = 154, so n = 37.",
+   "id": "NUM-WOR-094"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 3 consecutive integers is 42. What is the smallest integer?",
+   "options": [
+    "16",
+    "15",
+    "19",
+    "14",
+    "13"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Let the integers be n, n+1, …: 3n + 3 = 42, so n = 13.",
+   "id": "NUM-WOR-095"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 3 consecutive integers is 48. What is the smallest integer?",
+   "options": [
+    "16",
+    "25",
+    "21",
+    "17",
+    "15"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Let the integers be n, n+1, …: 3n + 3 = 48, so n = 15.",
+   "id": "NUM-WOR-096"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 3 consecutive integers is 108. What is the smallest integer?",
+   "options": [
+    "34",
+    "15",
+    "35",
+    "36",
+    "37"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Let the integers be n, n+1, …: 3n + 3 = 108, so n = 35.",
+   "id": "NUM-WOR-097"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 1,
+   "question": "The sum of 4 consecutive integers is 38. What is the smallest integer?",
+   "options": [
+    "9",
+    "13",
+    "11",
+    "8",
+    "28"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Let the integers be n, n+1, …: 4n + 6 = 38, so n = 8.",
+   "id": "NUM-WOR-098"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 35 and their difference is 5. What is the larger number?",
+   "options": [
+    "20",
+    "40",
+    "21",
+    "15",
+    "5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (35 + 5) ÷ 2 = 20.",
+   "id": "NUM-WOR-099"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 59 and their difference is 23. What is the larger number?",
+   "options": [
+    "18",
+    "41",
+    "23",
+    "36",
+    "38"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (59 + 23) ÷ 2 = 41.",
+   "id": "NUM-WOR-100"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 70 and their difference is 18. What is the larger number?",
+   "options": [
+    "40",
+    "44",
+    "51",
+    "26",
+    "18"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (70 + 18) ÷ 2 = 44.",
+   "id": "NUM-WOR-101"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 55 and their difference is 7. What is the larger number?",
+   "options": [
+    "31",
+    "24",
+    "21",
+    "7",
+    "41"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (55 + 7) ÷ 2 = 31.",
+   "id": "NUM-WOR-102"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 26 and their difference is 12. What is the larger number?",
+   "options": [
+    "22",
+    "7",
+    "24",
+    "12",
+    "19"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (26 + 12) ÷ 2 = 19.",
+   "id": "NUM-WOR-103"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 26 and their difference is 6. What is the larger number?",
+   "options": [
+    "10",
+    "14",
+    "6",
+    "16",
+    "21"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (26 + 6) ÷ 2 = 16.",
+   "id": "NUM-WOR-104"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 57 and their difference is 25. What is the larger number?",
+   "options": [
+    "25",
+    "41",
+    "16",
+    "48",
+    "44"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (57 + 25) ÷ 2 = 41.",
+   "id": "NUM-WOR-105"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 2,
+   "question": "The sum of two numbers is 74 and their difference is 10. What is the larger number?",
+   "options": [
+    "32",
+    "37",
+    "42",
+    "10",
+    "39"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Larger = (sum + difference) ÷ 2 = (74 + 10) ÷ 2 = 42.",
+   "id": "NUM-WOR-106"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱130 in all. There are 6 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "6",
+    "13",
+    "9",
+    "5",
+    "10"
+   ],
+   "correctAnswer": 4,
+   "explanation": "₱5 coins: 6 × 5 = 30. Remaining ₱100 ÷ 10 = 10.",
+   "id": "NUM-WOR-107"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱150 in all. There are 4 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "15",
+    "4",
+    "13",
+    "33",
+    "18"
+   ],
+   "correctAnswer": 2,
+   "explanation": "₱5 coins: 4 × 5 = 20. Remaining ₱130 ÷ 10 = 13.",
+   "id": "NUM-WOR-108"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱115 in all. There are 13 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "5",
+    "13",
+    "12",
+    "11",
+    "9"
+   ],
+   "correctAnswer": 0,
+   "explanation": "₱5 coins: 13 × 5 = 65. Remaining ₱50 ÷ 10 = 5.",
+   "id": "NUM-WOR-109"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱110 in all. There are 8 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "4",
+    "11",
+    "8",
+    "7",
+    "3"
+   ],
+   "correctAnswer": 3,
+   "explanation": "₱5 coins: 8 × 5 = 40. Remaining ₱70 ÷ 10 = 7.",
+   "id": "NUM-WOR-110"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱145 in all. There are 5 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "14",
+    "5",
+    "22",
+    "12",
+    "7"
+   ],
+   "correctAnswer": 3,
+   "explanation": "₱5 coins: 5 × 5 = 25. Remaining ₱120 ÷ 10 = 12.",
+   "id": "NUM-WOR-111"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱90 in all. There are 12 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "9",
+    "3",
+    "5",
+    "12",
+    "8"
+   ],
+   "correctAnswer": 1,
+   "explanation": "₱5 coins: 12 × 5 = 60. Remaining ₱30 ÷ 10 = 3.",
+   "id": "NUM-WOR-112"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱95 in all. There are 5 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "4",
+    "5",
+    "7",
+    "9",
+    "12"
+   ],
+   "correctAnswer": 2,
+   "explanation": "₱5 coins: 5 × 5 = 25. Remaining ₱70 ÷ 10 = 7.",
+   "id": "NUM-WOR-113"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 3,
+   "question": "A jar holds ₱5 and ₱10 coins worth ₱100 in all. There are 10 five-peso coins. How many ten-peso coins are there?",
+   "options": [
+    "10",
+    "5",
+    "25",
+    "9",
+    "11"
+   ],
+   "correctAnswer": 1,
+   "explanation": "₱5 coins: 10 × 5 = 50. Remaining ₱50 ÷ 10 = 5.",
+   "id": "NUM-WOR-114"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "6 kg of rice at ₱50/kg is mixed with 4 kg at ₱20/kg. What is the price per kg of the mixture?",
+   "options": [
+    "40",
+    "38",
+    "35",
+    "48",
+    "39"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Total cost = 6×50 + 4×20 = 380; total kg = 10; price = 38.",
+   "id": "NUM-WOR-115"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "8 kg of rice at ₱70/kg is mixed with 2 kg at ₱75/kg. What is the price per kg of the mixture?",
+   "options": [
+    "71",
+    "68",
+    "72",
+    "75",
+    "91"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total cost = 8×70 + 2×75 = 710; total kg = 10; price = 71.",
+   "id": "NUM-WOR-116"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "2 kg of rice at ₱65/kg is mixed with 5 kg at ₱30/kg. What is the price per kg of the mixture?",
+   "options": [
+    "35",
+    "30",
+    "40",
+    "47",
+    "45"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total cost = 2×65 + 5×30 = 280; total kg = 7; price = 40.",
+   "id": "NUM-WOR-117"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "2 kg of rice at ₱65/kg is mixed with 3 kg at ₱45/kg. What is the price per kg of the mixture?",
+   "options": [
+    "50",
+    "53",
+    "52",
+    "55",
+    "57"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Total cost = 2×65 + 3×45 = 265; total kg = 5; price = 53.",
+   "id": "NUM-WOR-118"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "4 kg of rice at ₱40/kg is mixed with 7 kg at ₱95/kg. What is the price per kg of the mixture?",
+   "options": [
+    "81",
+    "67",
+    "77",
+    "82",
+    "75"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Total cost = 4×40 + 7×95 = 825; total kg = 11; price = 75.",
+   "id": "NUM-WOR-119"
+  },
+  {
+   "level": "both",
+   "skill": "Number & Money Problems",
+   "tier": 4,
+   "question": "2 kg of rice at ₱50/kg is mixed with 8 kg at ₱20/kg. What is the price per kg of the mixture?",
+   "options": [
+    "35",
+    "27",
+    "28",
+    "6",
+    "26"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Total cost = 2×50 + 8×20 = 260; total kg = 10; price = 26.",
+   "id": "NUM-WOR-120"
+  }
+ ]
+}

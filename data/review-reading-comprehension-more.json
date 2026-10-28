@@ -1,0 +1,1178 @@
+{
+  "module": "reading-comprehension",
+  "questions": [
+    {
+      "id": "RCX-001",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 1,
+      "passage": "Fireflies produce light through a chemical reaction inside their abdomens. An enzyme called luciferase helps a compound called luciferin combine with oxygen, releasing energy as light with almost no heat. Each species flashes in its own pattern, and these patterns help males and females of the same species find one another in the dark. Some predatory fireflies copy the flash of another species to lure males close, and then eat them. Scientists are studying the reaction because such efficient light could inspire better lamps and medical tests.",
+      "question": "Which is the best title for the passage?",
+      "options": [
+        "The Dangers of Predatory Insects",
+        "Why Lamps Waste So Much Heat",
+        "Fireflies Found Only in Dark Places",
+        "How Fireflies Make and Use Their Light",
+        "The Life Cycle of Beetles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The passage explains how the light is produced, how flashes serve mating, and why it interests scientists."
+    },
+    {
+      "id": "RCX-002",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "Fireflies produce light through a chemical reaction inside their abdomens. An enzyme called luciferase helps a compound called luciferin combine with oxygen, releasing energy as light with almost no heat. Each species flashes in its own pattern, and these patterns help males and females of the same species find one another in the dark. Some predatory fireflies copy the flash of another species to lure males close, and then eat them. Scientists are studying the reaction because such efficient light could inspire better lamps and medical tests.",
+      "question": "According to the passage, what do the flash patterns of fireflies help them do?",
+      "options": [
+        "Keep predators away",
+        "Find mates of their own species",
+        "Produce more luciferase",
+        "Warm their bodies at night",
+        "Locate sources of oxygen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passage says the patterns help males and females of the same species find one another."
+    },
+    {
+      "id": "RCX-003",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "Fireflies produce light through a chemical reaction inside their abdomens. An enzyme called luciferase helps a compound called luciferin combine with oxygen, releasing energy as light with almost no heat. Each species flashes in its own pattern, and these patterns help males and females of the same species find one another in the dark. Some predatory fireflies copy the flash of another species to lure males close, and then eat them. Scientists are studying the reaction because such efficient light could inspire better lamps and medical tests.",
+      "question": "Which substance is combined with oxygen to release light?",
+      "options": [
+        "Luciferase",
+        "Heat",
+        "Abdomen fluid",
+        "A predator's flash",
+        "Luciferin"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Luciferase is the enzyme that helps; luciferin is the compound that combines with oxygen."
+    },
+    {
+      "id": "RCX-004",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "Fireflies produce light through a chemical reaction inside their abdomens. An enzyme called luciferase helps a compound called luciferin combine with oxygen, releasing energy as light with almost no heat. Each species flashes in its own pattern, and these patterns help males and females of the same species find one another in the dark. Some predatory fireflies copy the flash of another species to lure males close, and then eat them. Scientists are studying the reaction because such efficient light could inspire better lamps and medical tests.",
+      "question": "What can be inferred about the predatory fireflies?",
+      "options": [
+        "They produce more heat than other fireflies.",
+        "They cannot make light of their own.",
+        "Males can be deceived by flash patterns that look familiar.",
+        "They hunt only during the day.",
+        "They are immune to luciferase."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The predators copy another species' flash to lure males, implying males respond to the pattern they recognize."
+    },
+    {
+      "id": "RCX-005",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "Fireflies produce light through a chemical reaction inside their abdomens. An enzyme called luciferase helps a compound called luciferin combine with oxygen, releasing energy as light with almost no heat. Each species flashes in its own pattern, and these patterns help males and females of the same species find one another in the dark. Some predatory fireflies copy the flash of another species to lure males close, and then eat them. Scientists are studying the reaction because such efficient light could inspire better lamps and medical tests.",
+      "question": "Why does the author mention lamps and medical tests in the last sentence?",
+      "options": [
+        "To criticize current lamp makers",
+        "To show possible practical uses of the research",
+        "To prove fireflies are harmless",
+        "To compare insects with machines",
+        "To warn that the reaction is dangerous"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sentence says efficient light 'could inspire' better lamps and tests, pointing to applications."
+    },
+    {
+      "id": "RCX-006",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "Antibiotics treat infections caused by bacteria, not by viruses. Colds and influenza are viral, so taking antibiotics for them offers no benefit. Worse, each unnecessary dose gives surviving bacteria a chance to adapt, producing strains that no longer respond to the drug. Health workers call this antimicrobial resistance, and it is now regarded as one of the greatest threats to modern medicine, since routine surgery and cancer treatment both depend on antibiotics to prevent infection. Patients should therefore take antibiotics only when prescribed and should finish the full course.",
+      "question": "Which statement best expresses the main idea?",
+      "options": [
+        "Viruses are more dangerous than bacteria.",
+        "Doctors should avoid prescribing any medicine.",
+        "Colds can be cured by antibiotics.",
+        "Surgery is no longer safe for anyone.",
+        "Antibiotics should be used only when needed because misuse leads to resistant bacteria."
+      ],
+      "correctAnswer": 4,
+      "explanation": "The passage warns against unnecessary use and explains resistance."
+    },
+    {
+      "id": "RCX-007",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "Antibiotics treat infections caused by bacteria, not by viruses. Colds and influenza are viral, so taking antibiotics for them offers no benefit. Worse, each unnecessary dose gives surviving bacteria a chance to adapt, producing strains that no longer respond to the drug. Health workers call this antimicrobial resistance, and it is now regarded as one of the greatest threats to modern medicine, since routine surgery and cancer treatment both depend on antibiotics to prevent infection. Patients should therefore take antibiotics only when prescribed and should finish the full course.",
+      "question": "According to the passage, why do antibiotics not help against influenza?",
+      "options": [
+        "Influenza bacteria are too strong.",
+        "Influenza needs surgery.",
+        "Influenza is caused by a virus.",
+        "Antibiotics are too expensive.",
+        "Influenza is not an infection."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Colds and influenza are viral, and antibiotics treat bacteria."
+    },
+    {
+      "id": "RCX-008",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "Antibiotics treat infections caused by bacteria, not by viruses. Colds and influenza are viral, so taking antibiotics for them offers no benefit. Worse, each unnecessary dose gives surviving bacteria a chance to adapt, producing strains that no longer respond to the drug. Health workers call this antimicrobial resistance, and it is now regarded as one of the greatest threats to modern medicine, since routine surgery and cancer treatment both depend on antibiotics to prevent infection. Patients should therefore take antibiotics only when prescribed and should finish the full course.",
+      "question": "As used in the passage, 'adapt' most nearly means",
+      "options": [
+        "change in order to survive",
+        "disappear",
+        "spread by air",
+        "become weaker",
+        "be prescribed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Surviving bacteria change so they no longer respond to the drug."
+    },
+    {
+      "id": "RCX-009",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "Antibiotics treat infections caused by bacteria, not by viruses. Colds and influenza are viral, so taking antibiotics for them offers no benefit. Worse, each unnecessary dose gives surviving bacteria a chance to adapt, producing strains that no longer respond to the drug. Health workers call this antimicrobial resistance, and it is now regarded as one of the greatest threats to modern medicine, since routine surgery and cancer treatment both depend on antibiotics to prevent infection. Patients should therefore take antibiotics only when prescribed and should finish the full course.",
+      "question": "Which is a reasonable inference from the passage?",
+      "options": [
+        "Cancer will become curable.",
+        "Viruses will turn into bacteria.",
+        "Antibiotics will no longer be made.",
+        "If resistance grows, procedures that rely on infection prevention may become riskier.",
+        "Patients will no longer need doctors."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Surgery and cancer treatment depend on antibiotics, so losing their effect raises risk."
+    },
+    {
+      "id": "RCX-010",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "Antibiotics treat infections caused by bacteria, not by viruses. Colds and influenza are viral, so taking antibiotics for them offers no benefit. Worse, each unnecessary dose gives surviving bacteria a chance to adapt, producing strains that no longer respond to the drug. Health workers call this antimicrobial resistance, and it is now regarded as one of the greatest threats to modern medicine, since routine surgery and cancer treatment both depend on antibiotics to prevent infection. Patients should therefore take antibiotics only when prescribed and should finish the full course.",
+      "question": "The author's main purpose is to",
+      "options": [
+        "describe how bacteria reproduce",
+        "advertise a new medicine",
+        "urge responsible use of antibiotics",
+        "compare viruses and fungi",
+        "argue against vaccination"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The final sentence advises taking antibiotics only when prescribed and finishing the course."
+    },
+    {
+      "id": "RCX-011",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 1,
+      "passage": "Mang Tonyo has repaired shoes in Quiapo for forty years. His stall is small, but customers travel from other districts because he returns each pair looking nearly new. Once a customer offered him double the price to finish a job overnight. Mang Tonyo refused politely. \"Good work needs time,\" he said. \"If I hurry, the shoes will come back to me in a month, and so will you, angry.\" The customer laughed, left the shoes, and returned three days later. He paid the regular price and brought two friends.",
+      "question": "What is the best title for this passage?",
+      "options": [
+        "The Shoemaker Who Valued Quality",
+        "A Costly Overnight Job",
+        "Life in Quiapo's Markets",
+        "Why Customers Get Angry",
+        "How to Open a Stall"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mang Tonyo prefers quality over speed and money, and this earns customers."
+    },
+    {
+      "id": "RCX-012",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "Mang Tonyo has repaired shoes in Quiapo for forty years. His stall is small, but customers travel from other districts because he returns each pair looking nearly new. Once a customer offered him double the price to finish a job overnight. Mang Tonyo refused politely. \"Good work needs time,\" he said. \"If I hurry, the shoes will come back to me in a month, and so will you, angry.\" The customer laughed, left the shoes, and returned three days later. He paid the regular price and brought two friends.",
+      "question": "How long has Mang Tonyo repaired shoes?",
+      "options": [
+        "Four years",
+        "Three days",
+        "Two decades",
+        "Forty years",
+        "One month"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The first sentence says forty years."
+    },
+    {
+      "id": "RCX-013",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "Mang Tonyo has repaired shoes in Quiapo for forty years. His stall is small, but customers travel from other districts because he returns each pair looking nearly new. Once a customer offered him double the price to finish a job overnight. Mang Tonyo refused politely. \"Good work needs time,\" he said. \"If I hurry, the shoes will come back to me in a month, and so will you, angry.\" The customer laughed, left the shoes, and returned three days later. He paid the regular price and brought two friends.",
+      "question": "Why did the customer bring two friends?",
+      "options": [
+        "He wanted to haggle with them.",
+        "He was satisfied with Mang Tonyo's careful work.",
+        "He found the work cheap.",
+        "He wanted to return the shoes.",
+        "He was afraid of Mang Tonyo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "After the careful job, he paid the regular price and brought friends, showing trust."
+    },
+    {
+      "id": "RCX-014",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "Mang Tonyo has repaired shoes in Quiapo for forty years. His stall is small, but customers travel from other districts because he returns each pair looking nearly new. Once a customer offered him double the price to finish a job overnight. Mang Tonyo refused politely. \"Good work needs time,\" he said. \"If I hurry, the shoes will come back to me in a month, and so will you, angry.\" The customer laughed, left the shoes, and returned three days later. He paid the regular price and brought two friends.",
+      "question": "The word 'hurry' in the passage most nearly means",
+      "options": [
+        "delay",
+        "repair",
+        "refuse",
+        "decorate",
+        "rush"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Hurrying the work means rushing it, which Mang Tonyo says harms quality."
+    },
+    {
+      "id": "RCX-015",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "Mang Tonyo has repaired shoes in Quiapo for forty years. His stall is small, but customers travel from other districts because he returns each pair looking nearly new. Once a customer offered him double the price to finish a job overnight. Mang Tonyo refused politely. \"Good work needs time,\" he said. \"If I hurry, the shoes will come back to me in a month, and so will you, angry.\" The customer laughed, left the shoes, and returned three days later. He paid the regular price and brought two friends.",
+      "question": "Why does Mang Tonyo refuse the double price?",
+      "options": [
+        "He is too tired to work at night.",
+        "He wants the customer to pay later.",
+        "He does not need any money.",
+        "He believes a rushed job would damage his reputation and bring complaints.",
+        "He dislikes customers from other districts."
+      ],
+      "correctAnswer": 3,
+      "explanation": "He says hurried shoes would come back and the customer would be angry, implying a rushed job hurts his reputation."
+    },
+    {
+      "id": "RCX-016",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "Between 1946 and 1948, the young Philippine Republic faced a heavy task of rebuilding. Manila had been among the most devastated cities of the Second World War, and farms, roads, and schools across the islands lay in ruins. The government depended on foreign aid and war-damage payments, but these funds arrived slowly and often did not match the scale of the destruction. Some historians argue that the delay allowed corruption and unrest to take root, while others stress that the new nation simply lacked experienced institutions. Both views agree on one point: recovery was far harder than the leaders of independence had expected.",
+      "question": "What is the passage mainly about?",
+      "options": [
+        "The causes of the Second World War",
+        "The difficulties of rebuilding the Philippines after the war",
+        "How Manila was founded",
+        "The success of early foreign aid",
+        "The biography of one president"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passage covers the destruction, slow aid, and differing explanations for the difficult recovery."
+    },
+    {
+      "id": "RCX-017",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "Between 1946 and 1948, the young Philippine Republic faced a heavy task of rebuilding. Manila had been among the most devastated cities of the Second World War, and farms, roads, and schools across the islands lay in ruins. The government depended on foreign aid and war-damage payments, but these funds arrived slowly and often did not match the scale of the destruction. Some historians argue that the delay allowed corruption and unrest to take root, while others stress that the new nation simply lacked experienced institutions. Both views agree on one point: recovery was far harder than the leaders of independence had expected.",
+      "question": "According to the passage, what was true of the foreign aid?",
+      "options": [
+        "It was refused by the government.",
+        "It arrived before the war ended.",
+        "It was used only for farms.",
+        "It was larger than needed.",
+        "It came slowly and did not match the damage."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Funds 'arrived slowly and often did not match the scale of the destruction'."
+    },
+    {
+      "id": "RCX-018",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "Between 1946 and 1948, the young Philippine Republic faced a heavy task of rebuilding. Manila had been among the most devastated cities of the Second World War, and farms, roads, and schools across the islands lay in ruins. The government depended on foreign aid and war-damage payments, but these funds arrived slowly and often did not match the scale of the destruction. Some historians argue that the delay allowed corruption and unrest to take root, while others stress that the new nation simply lacked experienced institutions. Both views agree on one point: recovery was far harder than the leaders of independence had expected.",
+      "question": "What do the two groups of historians have in common?",
+      "options": [
+        "They both blame foreign countries.",
+        "They both deny corruption existed.",
+        "They both think the recovery faced serious problems.",
+        "They both praise the leaders.",
+        "They both ignore Manila."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The last sentence says both views agree recovery was far harder than expected."
+    },
+    {
+      "id": "RCX-019",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "Between 1946 and 1948, the young Philippine Republic faced a heavy task of rebuilding. Manila had been among the most devastated cities of the Second World War, and farms, roads, and schools across the islands lay in ruins. The government depended on foreign aid and war-damage payments, but these funds arrived slowly and often did not match the scale of the destruction. Some historians argue that the delay allowed corruption and unrest to take root, while others stress that the new nation simply lacked experienced institutions. Both views agree on one point: recovery was far harder than the leaders of independence had expected.",
+      "question": "The phrase 'take root' most nearly means",
+      "options": [
+        "become established",
+        "be removed",
+        "be hidden",
+        "be forgotten",
+        "be planted in farms"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Corruption and unrest 'took root' means they became established."
+    },
+    {
+      "id": "RCX-020",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "Between 1946 and 1948, the young Philippine Republic faced a heavy task of rebuilding. Manila had been among the most devastated cities of the Second World War, and farms, roads, and schools across the islands lay in ruins. The government depended on foreign aid and war-damage payments, but these funds arrived slowly and often did not match the scale of the destruction. Some historians argue that the delay allowed corruption and unrest to take root, while others stress that the new nation simply lacked experienced institutions. Both views agree on one point: recovery was far harder than the leaders of independence had expected.",
+      "question": "The author's treatment of the historians' views can best be described as",
+      "options": [
+        "strongly critical of one view",
+        "dismissive of both views",
+        "humorous toward both",
+        "emotional and personal",
+        "balanced and impartial"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Both views are presented fairly, with a neutral statement of their common ground."
+    },
+    {
+      "id": "RCX-021",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "Plastic bags take hundreds of years to break down, and even then they split into tiny fragments that remain in soil and water. Several Philippine cities have responded with ordinances that charge shoppers for bags or ban them outright. Early reports show a clear drop in bag use at supermarkets. However, critics note that some stores simply switched to thicker reusable plastic, which is heavier and may not be reused at all. The success of such policies, they argue, depends on enforcement and on whether shoppers actually change their habits.",
+      "question": "Which best states the main idea?",
+      "options": [
+        "Plastic bags break down quickly.",
+        "Supermarkets oppose all ordinances.",
+        "Bag ordinances reduce bag use, but their lasting success depends on enforcement and habits.",
+        "Thicker plastic is always better.",
+        "Only large cities can ban bags."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The passage reports a drop in use and then critics' caution about enforcement and habits."
+    },
+    {
+      "id": "RCX-022",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "Plastic bags take hundreds of years to break down, and even then they split into tiny fragments that remain in soil and water. Several Philippine cities have responded with ordinances that charge shoppers for bags or ban them outright. Early reports show a clear drop in bag use at supermarkets. However, critics note that some stores simply switched to thicker reusable plastic, which is heavier and may not be reused at all. The success of such policies, they argue, depends on enforcement and on whether shoppers actually change their habits.",
+      "question": "What happens to plastic bags after they break down?",
+      "options": [
+        "They become tiny fragments that stay in soil and water.",
+        "They turn into fertilizer.",
+        "They vanish completely.",
+        "They dissolve in a week.",
+        "They are recycled by nature."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The passage says they split into tiny fragments that remain."
+    },
+    {
+      "id": "RCX-023",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "Plastic bags take hundreds of years to break down, and even then they split into tiny fragments that remain in soil and water. Several Philippine cities have responded with ordinances that charge shoppers for bags or ban them outright. Early reports show a clear drop in bag use at supermarkets. However, critics note that some stores simply switched to thicker reusable plastic, which is heavier and may not be reused at all. The success of such policies, they argue, depends on enforcement and on whether shoppers actually change their habits.",
+      "question": "What can be inferred about the thicker reusable plastic bags?",
+      "options": [
+        "They are made from paper.",
+        "They break down faster.",
+        "They are banned by ordinance.",
+        "They could create more plastic waste if shoppers discard them after one use.",
+        "They are cheaper than thin bags."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Critics say they are heavier and may not be reused, implying more waste."
+    },
+    {
+      "id": "RCX-024",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "Plastic bags take hundreds of years to break down, and even then they split into tiny fragments that remain in soil and water. Several Philippine cities have responded with ordinances that charge shoppers for bags or ban them outright. Early reports show a clear drop in bag use at supermarkets. However, critics note that some stores simply switched to thicker reusable plastic, which is heavier and may not be reused at all. The success of such policies, they argue, depends on enforcement and on whether shoppers actually change their habits.",
+      "question": "In this passage, 'enforcement' most nearly means",
+      "options": [
+        "setting up new stores",
+        "making sure rules are obeyed",
+        "paying a fee",
+        "writing a law",
+        "recycling plastic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Success depends on rules actually being followed."
+    },
+    {
+      "id": "RCX-025",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "Plastic bags take hundreds of years to break down, and even then they split into tiny fragments that remain in soil and water. Several Philippine cities have responded with ordinances that charge shoppers for bags or ban them outright. Early reports show a clear drop in bag use at supermarkets. However, critics note that some stores simply switched to thicker reusable plastic, which is heavier and may not be reused at all. The success of such policies, they argue, depends on enforcement and on whether shoppers actually change their habits.",
+      "question": "The tone of the final sentence is best described as",
+      "options": [
+        "cautious",
+        "triumphant",
+        "hostile",
+        "careless",
+        "sorrowful"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Critics point out conditions the policy needs, a cautious view."
+    },
+    {
+      "id": "RCX-026",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "The first thing many people notice about a modern smartphone is its screen, but the real marvel lies inside. A single phone contains processors millions of times more capable than the computers that guided the first moon landing. Its battery, camera, and radio are packed into a space thinner than a finger. Such progress was made possible by decades of shrinking transistors, the tiny switches that carry out calculations. Yet this progress has a limit, since transistors cannot be made smaller than a few atoms across without behaving unpredictably.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Smartphones have the best screens.",
+        "Moon landings used smartphones.",
+        "Batteries are the most important part.",
+        "Smartphones are remarkably powerful because of tiny transistors, though shrinking them has limits.",
+        "Transistors have no limits."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The passage describes the power, the transistor reason, and the limit."
+    },
+    {
+      "id": "RCX-027",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "The first thing many people notice about a modern smartphone is its screen, but the real marvel lies inside. A single phone contains processors millions of times more capable than the computers that guided the first moon landing. Its battery, camera, and radio are packed into a space thinner than a finger. Such progress was made possible by decades of shrinking transistors, the tiny switches that carry out calculations. Yet this progress has a limit, since transistors cannot be made smaller than a few atoms across without behaving unpredictably.",
+      "question": "What are transistors, according to the passage?",
+      "options": [
+        "Cameras inside phones",
+        "Tiny switches that carry out calculations",
+        "Batteries of moon landing craft",
+        "Radios for phone calls",
+        "Screens of computers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The passage defines them as tiny switches that carry out calculations."
+    },
+    {
+      "id": "RCX-028",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "The first thing many people notice about a modern smartphone is its screen, but the real marvel lies inside. A single phone contains processors millions of times more capable than the computers that guided the first moon landing. Its battery, camera, and radio are packed into a space thinner than a finger. Such progress was made possible by decades of shrinking transistors, the tiny switches that carry out calculations. Yet this progress has a limit, since transistors cannot be made smaller than a few atoms across without behaving unpredictably.",
+      "question": "As used in the passage, 'marvel' most nearly means",
+      "options": [
+        "problem",
+        "cost",
+        "weakness",
+        "mistake",
+        "wonder"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The 'real marvel' is the impressive thing inside the phone."
+    },
+    {
+      "id": "RCX-029",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "The first thing many people notice about a modern smartphone is its screen, but the real marvel lies inside. A single phone contains processors millions of times more capable than the computers that guided the first moon landing. Its battery, camera, and radio are packed into a space thinner than a finger. Such progress was made possible by decades of shrinking transistors, the tiny switches that carry out calculations. Yet this progress has a limit, since transistors cannot be made smaller than a few atoms across without behaving unpredictably.",
+      "question": "What can be inferred about future improvements in processor power?",
+      "options": [
+        "They will stop completely.",
+        "They will rely on bigger screens.",
+        "They may need ways other than simply making transistors smaller.",
+        "They will come from moon landing computers.",
+        "They will occur without any research."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Since transistors cannot shrink indefinitely, further progress must come differently."
+    },
+    {
+      "id": "RCX-030",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "A government employee was offered a box of expensive chocolates by a contractor whose permit she had just approved. \"It is only a token of thanks,\" the contractor said. She declined, explaining that public servants may not accept gifts from people who deal with their office. The contractor was puzzled; the permit had been granted fairly, after all. She replied that the rule exists not only to prevent bribery, but also to protect the public's trust. If gifts were common, she said, citizens would always wonder whether decisions had been bought, even when they had not.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Contractors should offer better gifts.",
+        "Public servants avoid gifts from people they deal with to protect public trust.",
+        "Permits are approved too quickly.",
+        "Chocolates are forbidden food.",
+        "Fair decisions never need rules."
+      ],
+      "correctAnswer": 1,
+      "explanation": "She explains the rule protects public trust."
+    },
+    {
+      "id": "RCX-031",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "A government employee was offered a box of expensive chocolates by a contractor whose permit she had just approved. \"It is only a token of thanks,\" the contractor said. She declined, explaining that public servants may not accept gifts from people who deal with their office. The contractor was puzzled; the permit had been granted fairly, after all. She replied that the rule exists not only to prevent bribery, but also to protect the public's trust. If gifts were common, she said, citizens would always wonder whether decisions had been bought, even when they had not.",
+      "question": "What did the contractor offer the employee?",
+      "options": [
+        "A permit",
+        "A bribe in cash",
+        "A new job",
+        "A lunch invitation",
+        "A box of expensive chocolates"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The passage says a box of expensive chocolates."
+    },
+    {
+      "id": "RCX-032",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "A government employee was offered a box of expensive chocolates by a contractor whose permit she had just approved. \"It is only a token of thanks,\" the contractor said. She declined, explaining that public servants may not accept gifts from people who deal with their office. The contractor was puzzled; the permit had been granted fairly, after all. She replied that the rule exists not only to prevent bribery, but also to protect the public's trust. If gifts were common, she said, citizens would always wonder whether decisions had been bought, even when they had not.",
+      "question": "What can be inferred about the permit decision?",
+      "options": [
+        "It was bought with the gift.",
+        "It was approved illegally.",
+        "It was probably granted on its merits.",
+        "It was delayed for months.",
+        "It was refused at first."
+      ],
+      "correctAnswer": 2,
+      "explanation": "The passage says it was granted fairly; the gift came after."
+    },
+    {
+      "id": "RCX-033",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "A government employee was offered a box of expensive chocolates by a contractor whose permit she had just approved. \"It is only a token of thanks,\" the contractor said. She declined, explaining that public servants may not accept gifts from people who deal with their office. The contractor was puzzled; the permit had been granted fairly, after all. She replied that the rule exists not only to prevent bribery, but also to protect the public's trust. If gifts were common, she said, citizens would always wonder whether decisions had been bought, even when they had not.",
+      "question": "The word 'token' in 'a token of thanks' most nearly means",
+      "options": [
+        "a small symbol",
+        "a coin for transport",
+        "a legal document",
+        "a large reward",
+        "a hidden payment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The contractor means a small expression of thanks."
+    },
+    {
+      "id": "RCX-034",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "A government employee was offered a box of expensive chocolates by a contractor whose permit she had just approved. \"It is only a token of thanks,\" the contractor said. She declined, explaining that public servants may not accept gifts from people who deal with their office. The contractor was puzzled; the permit had been granted fairly, after all. She replied that the rule exists not only to prevent bribery, but also to protect the public's trust. If gifts were common, she said, citizens would always wonder whether decisions had been bought, even when they had not.",
+      "question": "Why does the author include the employee's statement about citizens wondering?",
+      "options": [
+        "To prove the contractor was guilty",
+        "To suggest citizens are suspicious by nature",
+        "To argue gifts are harmless",
+        "To show that the appearance of corruption can harm trust even when no wrongdoing occurred",
+        "To criticize the permit process"
+      ],
+      "correctAnswer": 3,
+      "explanation": "She says citizens would wonder whether decisions were bought 'even when they had not', so appearance matters."
+    },
+    {
+      "id": "RCX-035",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "Mangroves grow where rivers meet the sea, their tangled roots rising above muddy water. These roots slow incoming waves, trapping sediment and building up the shore. During typhoons, coastal villages shielded by wide mangrove belts have suffered far less damage than those without them. Mangroves also serve as nurseries for fish and crabs, supporting local livelihoods. Despite these benefits, large areas have been cleared for fishponds and housing. Replanting efforts have had mixed results, since seedlings planted in the wrong location often die within a year.",
+      "question": "Which is the best title?",
+      "options": [
+        "How to Build a Fishpond",
+        "Typhoons in Coastal Villages",
+        "The Value of Mangroves and the Threats They Face",
+        "Crabs and Their Nurseries",
+        "The Rivers of the Philippines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The passage covers mangrove benefits and their loss."
+    },
+    {
+      "id": "RCX-036",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "Mangroves grow where rivers meet the sea, their tangled roots rising above muddy water. These roots slow incoming waves, trapping sediment and building up the shore. During typhoons, coastal villages shielded by wide mangrove belts have suffered far less damage than those without them. Mangroves also serve as nurseries for fish and crabs, supporting local livelihoods. Despite these benefits, large areas have been cleared for fishponds and housing. Replanting efforts have had mixed results, since seedlings planted in the wrong location often die within a year.",
+      "question": "According to the passage, what do mangrove roots do to waves?",
+      "options": [
+        "Slow them down",
+        "Redirect them inland",
+        "Make them stronger",
+        "Turn them into mud",
+        "Remove their salt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The roots slow incoming waves."
+    },
+    {
+      "id": "RCX-037",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "Mangroves grow where rivers meet the sea, their tangled roots rising above muddy water. These roots slow incoming waves, trapping sediment and building up the shore. During typhoons, coastal villages shielded by wide mangrove belts have suffered far less damage than those without them. Mangroves also serve as nurseries for fish and crabs, supporting local livelihoods. Despite these benefits, large areas have been cleared for fishponds and housing. Replanting efforts have had mixed results, since seedlings planted in the wrong location often die within a year.",
+      "question": "Why have replanting efforts had mixed results?",
+      "options": [
+        "Villagers refuse to help.",
+        "Fish eat the seedlings.",
+        "Typhoons come every year.",
+        "Seedlings placed in unsuitable spots often die.",
+        "Mangroves cannot be planted."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The passage says seedlings planted in the wrong location die within a year."
+    },
+    {
+      "id": "RCX-038",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "Mangroves grow where rivers meet the sea, their tangled roots rising above muddy water. These roots slow incoming waves, trapping sediment and building up the shore. During typhoons, coastal villages shielded by wide mangrove belts have suffered far less damage than those without them. Mangroves also serve as nurseries for fish and crabs, supporting local livelihoods. Despite these benefits, large areas have been cleared for fishponds and housing. Replanting efforts have had mixed results, since seedlings planted in the wrong location often die within a year.",
+      "question": "The word 'livelihoods' most nearly means",
+      "options": [
+        "ways of travelling",
+        "ways of earning a living",
+        "living areas",
+        "types of fish",
+        "kinds of weather"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nurseries for fish and crabs support people's income."
+    },
+    {
+      "id": "RCX-039",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "Mangroves grow where rivers meet the sea, their tangled roots rising above muddy water. These roots slow incoming waves, trapping sediment and building up the shore. During typhoons, coastal villages shielded by wide mangrove belts have suffered far less damage than those without them. Mangroves also serve as nurseries for fish and crabs, supporting local livelihoods. Despite these benefits, large areas have been cleared for fishponds and housing. Replanting efforts have had mixed results, since seedlings planted in the wrong location often die within a year.",
+      "question": "The author's purpose in the last two sentences is to",
+      "options": [
+        "blame fishpond owners alone",
+        "claim replanting is useless",
+        "describe a type of fish",
+        "praise housing developers",
+        "show that protecting mangroves needs more than planting seedlings"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Clearing continues and replanting often fails, so planting alone is not sufficient."
+    },
+    {
+      "id": "RCX-040",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 1,
+      "passage": "In many Filipino homes, a younger person greets an elder by taking the elder's hand and pressing it to the forehead. This gesture, called mano, is accompanied by the words \"Mano po.\" The elder usually replies with a blessing. Outsiders sometimes mistake the custom for a mere formality, but for Filipinos it expresses gratitude and respect for the experience elders carry. Children first learn the custom by imitation, long before they can explain it. By the time they are adults, many perform it without thinking, much like a handshake elsewhere.",
+      "question": "What is the passage mainly about?",
+      "options": [
+        "How to shake hands",
+        "The speech of elders",
+        "Greetings in other countries",
+        "The Filipino custom of mano and its meaning",
+        "How children learn to read"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The passage describes mano and what it expresses."
+    },
+    {
+      "id": "RCX-041",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "In many Filipino homes, a younger person greets an elder by taking the elder's hand and pressing it to the forehead. This gesture, called mano, is accompanied by the words \"Mano po.\" The elder usually replies with a blessing. Outsiders sometimes mistake the custom for a mere formality, but for Filipinos it expresses gratitude and respect for the experience elders carry. Children first learn the custom by imitation, long before they can explain it. By the time they are adults, many perform it without thinking, much like a handshake elsewhere.",
+      "question": "What does the elder usually do in reply to 'Mano po'?",
+      "options": [
+        "Shakes hands",
+        "Gives a blessing",
+        "Asks a question",
+        "Gives a gift",
+        "Walks away"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The elder 'usually replies with a blessing'."
+    },
+    {
+      "id": "RCX-042",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "In many Filipino homes, a younger person greets an elder by taking the elder's hand and pressing it to the forehead. This gesture, called mano, is accompanied by the words \"Mano po.\" The elder usually replies with a blessing. Outsiders sometimes mistake the custom for a mere formality, but for Filipinos it expresses gratitude and respect for the experience elders carry. Children first learn the custom by imitation, long before they can explain it. By the time they are adults, many perform it without thinking, much like a handshake elsewhere.",
+      "question": "The word 'formality' in the passage most nearly means",
+      "options": [
+        "a family gathering",
+        "a lesson",
+        "a punishment",
+        "a type of blessing",
+        "an empty ritual"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Outsiders see it as a mere custom without meaning."
+    },
+    {
+      "id": "RCX-043",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "In many Filipino homes, a younger person greets an elder by taking the elder's hand and pressing it to the forehead. This gesture, called mano, is accompanied by the words \"Mano po.\" The elder usually replies with a blessing. Outsiders sometimes mistake the custom for a mere formality, but for Filipinos it expresses gratitude and respect for the experience elders carry. Children first learn the custom by imitation, long before they can explain it. By the time they are adults, many perform it without thinking, much like a handshake elsewhere.",
+      "question": "What can be inferred from the comparison to a handshake?",
+      "options": [
+        "Mano is used only among strangers.",
+        "Mano is rarer than a handshake.",
+        "Mano is so familiar that it becomes automatic.",
+        "Handshakes are forbidden.",
+        "Mano is difficult to learn."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adults perform it 'without thinking', as people do a handshake."
+    },
+    {
+      "id": "RCX-044",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "In many Filipino homes, a younger person greets an elder by taking the elder's hand and pressing it to the forehead. This gesture, called mano, is accompanied by the words \"Mano po.\" The elder usually replies with a blessing. Outsiders sometimes mistake the custom for a mere formality, but for Filipinos it expresses gratitude and respect for the experience elders carry. Children first learn the custom by imitation, long before they can explain it. By the time they are adults, many perform it without thinking, much like a handshake elsewhere.",
+      "question": "The author's attitude toward the custom is best described as",
+      "options": [
+        "respectful and explanatory",
+        "scornful",
+        "indifferent",
+        "fearful",
+        "mocking"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The author explains the custom's meaning without judgment against it."
+    },
+    {
+      "id": "RCX-045",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 3,
+      "passage": "Dr. Reyes asked her students to compare two accounts of the same historical event, one written by a soldier and the other by a villager. The accounts differed widely. The soldier described a disciplined retreat, while the villager remembered chaos and fear. Some students decided that one writer must be lying. Dr. Reyes disagreed. She explained that each person records what they could see, and what they were prepared to notice. Historians, she said, rarely trust a single source; they place many accounts side by side and look for what they confirm, and for what they cannot explain.",
+      "question": "Which statement best expresses the central idea?",
+      "options": [
+        "Soldiers lie more than villagers.",
+        "Single sources are most reliable.",
+        "Historical events never happened.",
+        "Students should avoid old documents.",
+        "Historians compare many accounts because every witness sees from a limited viewpoint."
+      ],
+      "correctAnswer": 4,
+      "explanation": "Dr. Reyes says each person records what they could see, and historians compare sources."
+    },
+    {
+      "id": "RCX-046",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "Dr. Reyes asked her students to compare two accounts of the same historical event, one written by a soldier and the other by a villager. The accounts differed widely. The soldier described a disciplined retreat, while the villager remembered chaos and fear. Some students decided that one writer must be lying. Dr. Reyes disagreed. She explained that each person records what they could see, and what they were prepared to notice. Historians, she said, rarely trust a single source; they place many accounts side by side and look for what they confirm, and for what they cannot explain.",
+      "question": "How did the villager describe the event?",
+      "options": [
+        "As a disciplined retreat",
+        "As a celebration",
+        "As chaos and fear",
+        "As a peaceful march",
+        "As a minor event"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The villager remembered chaos and fear."
+    },
+    {
+      "id": "RCX-047",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "Dr. Reyes asked her students to compare two accounts of the same historical event, one written by a soldier and the other by a villager. The accounts differed widely. The soldier described a disciplined retreat, while the villager remembered chaos and fear. Some students decided that one writer must be lying. Dr. Reyes disagreed. She explained that each person records what they could see, and what they were prepared to notice. Historians, she said, rarely trust a single source; they place many accounts side by side and look for what they confirm, and for what they cannot explain.",
+      "question": "As used in the passage, 'confirm' most nearly means",
+      "options": [
+        "support as true",
+        "deny",
+        "copy",
+        "forget",
+        "interrupt"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Historians look for what accounts support in common."
+    },
+    {
+      "id": "RCX-048",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "Dr. Reyes asked her students to compare two accounts of the same historical event, one written by a soldier and the other by a villager. The accounts differed widely. The soldier described a disciplined retreat, while the villager remembered chaos and fear. Some students decided that one writer must be lying. Dr. Reyes disagreed. She explained that each person records what they could see, and what they were prepared to notice. Historians, she said, rarely trust a single source; they place many accounts side by side and look for what they confirm, and for what they cannot explain.",
+      "question": "What can be inferred about Dr. Reyes's view of the differing accounts?",
+      "options": [
+        "Both are certainly false.",
+        "The villager is the better witness.",
+        "The soldier lied to protect himself.",
+        "Both may be honest but incomplete.",
+        "The event cannot be studied."
+      ],
+      "correctAnswer": 3,
+      "explanation": "She rejects the idea that one must be lying, saying each records what they could notice."
+    },
+    {
+      "id": "RCX-049",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "Dr. Reyes asked her students to compare two accounts of the same historical event, one written by a soldier and the other by a villager. The accounts differed widely. The soldier described a disciplined retreat, while the villager remembered chaos and fear. Some students decided that one writer must be lying. Dr. Reyes disagreed. She explained that each person records what they could see, and what they were prepared to notice. Historians, she said, rarely trust a single source; they place many accounts side by side and look for what they confirm, and for what they cannot explain.",
+      "question": "Why does the author describe the students' reaction?",
+      "options": [
+        "To praise the students",
+        "To contrast a hasty conclusion with the historian's careful method",
+        "To shame the soldier",
+        "To show the lesson failed",
+        "To prove the villager exaggerated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The students jump to 'someone is lying'; Dr. Reyes offers a more careful approach."
+    },
+    {
+      "id": "RCX-050",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "The town council was divided over the proposal to close the old market for renovation. Supporters, mostly shop owners with newer stalls, pointed to leaking roofs and fire hazards. Opponents, mainly longtime vendors, feared that a year without income would drive them out for good, since the promised temporary stalls were still only drawings. When the mayor finally announced the vote, she added that renovation would begin only after the temporary site was built and tested. The room, which had been tense for an hour, quietly relaxed. Even a few opponents nodded as they gathered their bags.",
+      "question": "What is the passage mainly about?",
+      "options": [
+        "A council dispute over closing the old market and how it was eased",
+        "The history of the market",
+        "The fire hazards of stalls",
+        "How to design a temporary site",
+        "A mayor's election"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The dispute and the mayor's compromise form the passage."
+    },
+    {
+      "id": "RCX-051",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "The town council was divided over the proposal to close the old market for renovation. Supporters, mostly shop owners with newer stalls, pointed to leaking roofs and fire hazards. Opponents, mainly longtime vendors, feared that a year without income would drive them out for good, since the promised temporary stalls were still only drawings. When the mayor finally announced the vote, she added that renovation would begin only after the temporary site was built and tested. The room, which had been tense for an hour, quietly relaxed. Even a few opponents nodded as they gathered their bags.",
+      "question": "Why did the opponents fear the closure?",
+      "options": [
+        "The roofs were too new.",
+        "They preferred newer stalls.",
+        "The mayor had resigned.",
+        "They would lose income for a year and might be forced out.",
+        "Fire would spread."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Longtime vendors feared a year without income."
+    },
+    {
+      "id": "RCX-052",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "The town council was divided over the proposal to close the old market for renovation. Supporters, mostly shop owners with newer stalls, pointed to leaking roofs and fire hazards. Opponents, mainly longtime vendors, feared that a year without income would drive them out for good, since the promised temporary stalls were still only drawings. When the mayor finally announced the vote, she added that renovation would begin only after the temporary site was built and tested. The room, which had been tense for an hour, quietly relaxed. Even a few opponents nodded as they gathered their bags.",
+      "question": "What can be inferred from the nodding of some opponents?",
+      "options": [
+        "They intended to leave the market.",
+        "The mayor's condition addressed part of their concern.",
+        "They wanted a longer meeting.",
+        "They disliked the supporters.",
+        "They had not heard her."
+      ],
+      "correctAnswer": 1,
+      "explanation": "The temporary site's completion first answered their main fear, so tension eased."
+    },
+    {
+      "id": "RCX-053",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "The town council was divided over the proposal to close the old market for renovation. Supporters, mostly shop owners with newer stalls, pointed to leaking roofs and fire hazards. Opponents, mainly longtime vendors, feared that a year without income would drive them out for good, since the promised temporary stalls were still only drawings. When the mayor finally announced the vote, she added that renovation would begin only after the temporary site was built and tested. The room, which had been tense for an hour, quietly relaxed. Even a few opponents nodded as they gathered their bags.",
+      "question": "As used in the passage, 'tense' most nearly means",
+      "options": [
+        "empty",
+        "noisy",
+        "cheerful",
+        "slow",
+        "strained"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The room relaxed afterward, so tense means strained."
+    },
+    {
+      "id": "RCX-054",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "The town council was divided over the proposal to close the old market for renovation. Supporters, mostly shop owners with newer stalls, pointed to leaking roofs and fire hazards. Opponents, mainly longtime vendors, feared that a year without income would drive them out for good, since the promised temporary stalls were still only drawings. When the mayor finally announced the vote, she added that renovation would begin only after the temporary site was built and tested. The room, which had been tense for an hour, quietly relaxed. Even a few opponents nodded as they gathered their bags.",
+      "question": "The details about supporters being 'mostly shop owners with newer stalls' and opponents 'longtime vendors' mainly serve to",
+      "options": [
+        "suggest the vote was unfair",
+        "ridicule the opponents",
+        "show that each side's position was tied to its circumstances",
+        "prove the roofs were safe",
+        "argue the mayor favored shop owners"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The descriptions explain why each group took its stance without taking sides."
+    },
+    {
+      "id": "RCX-055",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "Scientists once believed that the human brain stopped forming new connections after childhood. Research over recent decades has overturned this view. Learning a language, practicing an instrument, or even navigating a new city can strengthen existing connections and build new ones, a property called neuroplasticity. The changes are gradual and demand effort; a few days of casual study will not rewire anything. Nevertheless, the finding is encouraging, because it suggests that adults who feel too old to learn a new skill may be underestimating themselves.",
+      "question": "Which best states the main idea?",
+      "options": [
+        "Children learn more quickly than adults.",
+        "The adult brain can still change through sustained learning.",
+        "Brains stop developing in childhood.",
+        "Languages are easy to learn.",
+        "Neuroplasticity harms memory."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Research shows connections can strengthen and form in adults, with effort."
+    },
+    {
+      "id": "RCX-056",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "Scientists once believed that the human brain stopped forming new connections after childhood. Research over recent decades has overturned this view. Learning a language, practicing an instrument, or even navigating a new city can strengthen existing connections and build new ones, a property called neuroplasticity. The changes are gradual and demand effort; a few days of casual study will not rewire anything. Nevertheless, the finding is encouraging, because it suggests that adults who feel too old to learn a new skill may be underestimating themselves.",
+      "question": "What is the property of the brain that allows new connections called?",
+      "options": [
+        "Navigation",
+        "Instrumentation",
+        "Rewiring",
+        "Childhood",
+        "Neuroplasticity"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The passage names it neuroplasticity."
+    },
+    {
+      "id": "RCX-057",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "Scientists once believed that the human brain stopped forming new connections after childhood. Research over recent decades has overturned this view. Learning a language, practicing an instrument, or even navigating a new city can strengthen existing connections and build new ones, a property called neuroplasticity. The changes are gradual and demand effort; a few days of casual study will not rewire anything. Nevertheless, the finding is encouraging, because it suggests that adults who feel too old to learn a new skill may be underestimating themselves.",
+      "question": "The word 'overturned' as used in the passage most nearly means",
+      "options": [
+        "repeated",
+        "confirmed",
+        "reversed",
+        "hidden",
+        "delayed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Research showed the old belief to be wrong."
+    },
+    {
+      "id": "RCX-058",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "Scientists once believed that the human brain stopped forming new connections after childhood. Research over recent decades has overturned this view. Learning a language, practicing an instrument, or even navigating a new city can strengthen existing connections and build new ones, a property called neuroplasticity. The changes are gradual and demand effort; a few days of casual study will not rewire anything. Nevertheless, the finding is encouraging, because it suggests that adults who feel too old to learn a new skill may be underestimating themselves.",
+      "question": "What does the author imply about casual, short-term study?",
+      "options": [
+        "It is unlikely to produce lasting change.",
+        "It is harmful to the brain.",
+        "It works faster than long study.",
+        "It is preferred by scientists.",
+        "It rewires the brain overnight."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The passage says changes are gradual and a few days of casual study will not rewire anything."
+    },
+    {
+      "id": "RCX-059",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 3,
+      "passage": "Scientists once believed that the human brain stopped forming new connections after childhood. Research over recent decades has overturned this view. Learning a language, practicing an instrument, or even navigating a new city can strengthen existing connections and build new ones, a property called neuroplasticity. The changes are gradual and demand effort; a few days of casual study will not rewire anything. Nevertheless, the finding is encouraging, because it suggests that adults who feel too old to learn a new skill may be underestimating themselves.",
+      "question": "The final sentence mainly serves to",
+      "options": [
+        "warn against learning",
+        "criticize the research",
+        "mock older adults",
+        "offer encouragement to adult learners",
+        "describe an experiment"
+      ],
+      "correctAnswer": 3,
+      "explanation": "It calls the finding 'encouraging' for adults who feel too old."
+    },
+    {
+      "id": "RCX-060",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 2,
+      "passage": "When Kuya Mark was promoted to supervisor, his office mates expected little to change. He still ate lunch with them, still joked about traffic, and still stayed late to help when deadlines loomed. But one Monday, he quietly returned a report to a close friend, noting three errors that could embarrass the whole section. The friend was hurt at first, since the mistakes seemed small. By Friday, though, the friend admitted that the client had asked about the very figures Mark had flagged. Mark said nothing, only slid a cup of coffee across the desk.",
+      "question": "What is the best title?",
+      "options": [
+        "Traffic and Deadlines",
+        "The Cost of Lunch",
+        "A Supervisor Who Stays a Friend but Holds the Standard",
+        "A Friend's Error Report",
+        "How to Get Promoted"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mark remains friendly but corrects errors firmly."
+    },
+    {
+      "id": "RCX-061",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 1,
+      "passage": "When Kuya Mark was promoted to supervisor, his office mates expected little to change. He still ate lunch with them, still joked about traffic, and still stayed late to help when deadlines loomed. But one Monday, he quietly returned a report to a close friend, noting three errors that could embarrass the whole section. The friend was hurt at first, since the mistakes seemed small. By Friday, though, the friend admitted that the client had asked about the very figures Mark had flagged. Mark said nothing, only slid a cup of coffee across the desk.",
+      "question": "How many errors did Mark find in the report?",
+      "options": [
+        "Three",
+        "One",
+        "Five",
+        "Ten",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The passage says three errors."
+    },
+    {
+      "id": "RCX-062",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 3,
+      "passage": "When Kuya Mark was promoted to supervisor, his office mates expected little to change. He still ate lunch with them, still joked about traffic, and still stayed late to help when deadlines loomed. But one Monday, he quietly returned a report to a close friend, noting three errors that could embarrass the whole section. The friend was hurt at first, since the mistakes seemed small. By Friday, though, the friend admitted that the client had asked about the very figures Mark had flagged. Mark said nothing, only slid a cup of coffee across the desk.",
+      "question": "What can be inferred about the client's question?",
+      "options": [
+        "It showed the friend was dishonest.",
+        "It meant the report was perfect.",
+        "It upset Mark.",
+        "It proved that Mark's corrections were worthwhile.",
+        "It was unrelated to the report."
+      ],
+      "correctAnswer": 3,
+      "explanation": "The client asked about the figures Mark flagged, so the corrections mattered."
+    },
+    {
+      "id": "RCX-063",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 2,
+      "passage": "When Kuya Mark was promoted to supervisor, his office mates expected little to change. He still ate lunch with them, still joked about traffic, and still stayed late to help when deadlines loomed. But one Monday, he quietly returned a report to a close friend, noting three errors that could embarrass the whole section. The friend was hurt at first, since the mistakes seemed small. By Friday, though, the friend admitted that the client had asked about the very figures Mark had flagged. Mark said nothing, only slid a cup of coffee across the desk.",
+      "question": "The word 'flagged' in the passage most nearly means",
+      "options": [
+        "waved",
+        "pointed out",
+        "removed",
+        "approved",
+        "copied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mark marked the figures for attention."
+    },
+    {
+      "id": "RCX-064",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "When Kuya Mark was promoted to supervisor, his office mates expected little to change. He still ate lunch with them, still joked about traffic, and still stayed late to help when deadlines loomed. But one Monday, he quietly returned a report to a close friend, noting three errors that could embarrass the whole section. The friend was hurt at first, since the mistakes seemed small. By Friday, though, the friend admitted that the client had asked about the very figures Mark had flagged. Mark said nothing, only slid a cup of coffee across the desk.",
+      "question": "What is the purpose of the coffee at the end?",
+      "options": [
+        "To pay for the mistakes",
+        "To punish the friend",
+        "To end the friendship",
+        "To hide the errors",
+        "To show Mark's quiet goodwill without gloating"
+      ],
+      "correctAnswer": 4,
+      "explanation": "He says nothing and offers coffee, maintaining friendship without saying 'I told you so'."
+    },
+    {
+      "id": "RCX-065",
+      "level": "both",
+      "skill": "Main Idea & Title",
+      "tier": 3,
+      "passage": "In 1991, the eruption of Mount Pinatubo ejected so much ash and sulfur dioxide into the atmosphere that global temperatures fell by about half a degree Celsius over the next two years. The sulfur formed tiny droplets that reflected sunlight back into space. Some researchers have proposed copying this effect deliberately to counter climate change. Critics reply that the cooling would be temporary, that it would not reduce the carbon dioxide that is acidifying the oceans, and that changing rainfall patterns might harm farmers in some regions even as others benefit. For these reasons, most scientists treat the idea as a last resort rather than a solution.",
+      "question": "Which is the best summary of the passage?",
+      "options": [
+        "Volcanoes should be triggered on purpose.",
+        "Pinatubo erupted in 1991 and ended climate change.",
+        "Ocean acidity is caused by sulfur droplets.",
+        "A volcanic eruption cooled the Earth, but copying the effect is considered a risky and limited option.",
+        "Farmers benefit from all rainfall changes."
+      ],
+      "correctAnswer": 3,
+      "explanation": "It describes the cooling, the proposal, and the criticisms that make it a last resort."
+    },
+    {
+      "id": "RCX-066",
+      "level": "both",
+      "skill": "Details & Facts",
+      "tier": 2,
+      "passage": "In 1991, the eruption of Mount Pinatubo ejected so much ash and sulfur dioxide into the atmosphere that global temperatures fell by about half a degree Celsius over the next two years. The sulfur formed tiny droplets that reflected sunlight back into space. Some researchers have proposed copying this effect deliberately to counter climate change. Critics reply that the cooling would be temporary, that it would not reduce the carbon dioxide that is acidifying the oceans, and that changing rainfall patterns might harm farmers in some regions even as others benefit. For these reasons, most scientists treat the idea as a last resort rather than a solution.",
+      "question": "According to the passage, how did the sulfur cool the Earth?",
+      "options": [
+        "It absorbed carbon dioxide.",
+        "It formed droplets that reflected sunlight.",
+        "It increased rainfall everywhere.",
+        "It melted polar ice.",
+        "It blocked ocean acidity."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tiny droplets reflected sunlight into space."
+    },
+    {
+      "id": "RCX-067",
+      "level": "both",
+      "skill": "Vocabulary in Context",
+      "tier": 3,
+      "passage": "In 1991, the eruption of Mount Pinatubo ejected so much ash and sulfur dioxide into the atmosphere that global temperatures fell by about half a degree Celsius over the next two years. The sulfur formed tiny droplets that reflected sunlight back into space. Some researchers have proposed copying this effect deliberately to counter climate change. Critics reply that the cooling would be temporary, that it would not reduce the carbon dioxide that is acidifying the oceans, and that changing rainfall patterns might harm farmers in some regions even as others benefit. For these reasons, most scientists treat the idea as a last resort rather than a solution.",
+      "question": "The word 'deliberately' means",
+      "options": [
+        "by accident",
+        "reluctantly",
+        "quickly",
+        "naturally",
+        "on purpose"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Copying the effect deliberately contrasts with the natural eruption."
+    },
+    {
+      "id": "RCX-068",
+      "level": "both",
+      "skill": "Inference & Conclusions",
+      "tier": 4,
+      "passage": "In 1991, the eruption of Mount Pinatubo ejected so much ash and sulfur dioxide into the atmosphere that global temperatures fell by about half a degree Celsius over the next two years. The sulfur formed tiny droplets that reflected sunlight back into space. Some researchers have proposed copying this effect deliberately to counter climate change. Critics reply that the cooling would be temporary, that it would not reduce the carbon dioxide that is acidifying the oceans, and that changing rainfall patterns might harm farmers in some regions even as others benefit. For these reasons, most scientists treat the idea as a last resort rather than a solution.",
+      "question": "What can be inferred about the proposed method?",
+      "options": [
+        "It would remove carbon dioxide.",
+        "It would last for decades.",
+        "It would not address a cause of ocean acidification.",
+        "It would help all farmers equally.",
+        "It has been proven safe."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Critics say it would not reduce the carbon dioxide acidifying the oceans."
+    },
+    {
+      "id": "RCX-069",
+      "level": "both",
+      "skill": "Purpose & Tone",
+      "tier": 4,
+      "passage": "In 1991, the eruption of Mount Pinatubo ejected so much ash and sulfur dioxide into the atmosphere that global temperatures fell by about half a degree Celsius over the next two years. The sulfur formed tiny droplets that reflected sunlight back into space. Some researchers have proposed copying this effect deliberately to counter climate change. Critics reply that the cooling would be temporary, that it would not reduce the carbon dioxide that is acidifying the oceans, and that changing rainfall patterns might harm farmers in some regions even as others benefit. For these reasons, most scientists treat the idea as a last resort rather than a solution.",
+      "question": "The phrase 'last resort rather than a solution' shows that most scientists",
+      "options": [
+        "regard the idea with caution",
+        "are eager to try it",
+        "deny the eruption's effect",
+        "want the idea banned",
+        "consider it harmless"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A last resort is used only when nothing else works, signaling caution."
+    }
+  ]
+}

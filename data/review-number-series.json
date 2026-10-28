@@ -1,0 +1,1925 @@
+{
+ "module": "number-series",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  25, 31, 37, 43, 49, __",
+   "options": [
+    "55",
+    "61",
+    "35",
+    "58",
+    "54"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term adds 6, so the next term is 49 + 6 = 55.",
+   "id": "NUM-NUM-001"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  20, 25, 30, 35, 40, __",
+   "options": [
+    "51",
+    "50",
+    "44",
+    "65",
+    "45"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term adds 5, so the next term is 40 + 5 = 45.",
+   "id": "NUM-NUM-002"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  26, 33, 40, 47, 54, __",
+   "options": [
+    "60",
+    "51",
+    "61",
+    "71",
+    "68"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term adds 7, so the next term is 54 + 7 = 61.",
+   "id": "NUM-NUM-003"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  6, 9, 12, 15, 18, __",
+   "options": [
+    "20",
+    "21",
+    "24",
+    "31",
+    "25"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term adds 3, so the next term is 18 + 3 = 21.",
+   "id": "NUM-NUM-004"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  22, 24, 26, 28, 30, __",
+   "options": [
+    "32",
+    "37",
+    "31",
+    "30",
+    "34"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term adds 2, so the next term is 30 + 2 = 32.",
+   "id": "NUM-NUM-005"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  1, 7, 13, 19, 25, __",
+   "options": [
+    "21",
+    "30",
+    "11",
+    "37",
+    "31"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term adds 6, so the next term is 25 + 6 = 31.",
+   "id": "NUM-NUM-006"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  26, 34, 42, 50, 58, __",
+   "options": [
+    "62",
+    "71",
+    "66",
+    "65",
+    "74"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term adds 8, so the next term is 58 + 8 = 66.",
+   "id": "NUM-NUM-007"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 1,
+   "question": "What number comes next?  26, 28, 30, 32, 34, __",
+   "options": [
+    "35",
+    "37",
+    "42",
+    "36",
+    "38"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Each term adds 2, so the next term is 34 + 2 = 36.",
+   "id": "NUM-NUM-008"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  89, 80, 71, 62, 53, __",
+   "options": [
+    "54",
+    "43",
+    "44",
+    "34",
+    "53"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term subtracts 9: 53 − 9 = 44.",
+   "id": "NUM-NUM-009"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  83, 77, 71, 65, 59, __",
+   "options": [
+    "52",
+    "53",
+    "33",
+    "59",
+    "58"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term subtracts 6: 59 − 6 = 53.",
+   "id": "NUM-NUM-010"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  92, 86, 80, 74, 68, __",
+   "options": [
+    "62",
+    "61",
+    "68",
+    "65",
+    "72"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term subtracts 6: 68 − 6 = 62.",
+   "id": "NUM-NUM-011"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  46, 42, 38, 34, 30, __",
+   "options": [
+    "32",
+    "26",
+    "23",
+    "30",
+    "25"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term subtracts 4: 30 − 4 = 26.",
+   "id": "NUM-NUM-012"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  41, 37, 33, 29, 25, __",
+   "options": [
+    "21",
+    "18",
+    "20",
+    "25",
+    "19"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term subtracts 4: 25 − 4 = 21.",
+   "id": "NUM-NUM-013"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  96, 92, 88, 84, 80, __",
+   "options": [
+    "81",
+    "75",
+    "76",
+    "96",
+    "80"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term subtracts 4: 80 − 4 = 76.",
+   "id": "NUM-NUM-014"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  67, 59, 51, 43, 35, __",
+   "options": [
+    "27",
+    "28",
+    "35",
+    "33",
+    "26"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term subtracts 8: 35 − 8 = 27.",
+   "id": "NUM-NUM-015"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 2,
+   "question": "What number comes next?  55, 48, 41, 34, 27, __",
+   "options": [
+    "27",
+    "20",
+    "18",
+    "16",
+    "19"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term subtracts 7: 27 − 7 = 20.",
+   "id": "NUM-NUM-016"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  10, 12, 17, 25, 36, __",
+   "options": [
+    "30",
+    "47",
+    "49",
+    "50",
+    "52"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The differences grow by 3: 2, 5, 8, 11, so the next difference is 14 and the next term is 50.",
+   "id": "NUM-NUM-017"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  9, 12, 16, 21, 27, __",
+   "options": [
+    "34",
+    "44",
+    "33",
+    "30",
+    "37"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The differences grow by 1: 3, 4, 5, 6, so the next difference is 7 and the next term is 34.",
+   "id": "NUM-NUM-018"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  9, 13, 20, 30, 43, __",
+   "options": [
+    "59",
+    "66",
+    "60",
+    "49",
+    "56"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The differences grow by 3: 4, 7, 10, 13, so the next difference is 16 and the next term is 59.",
+   "id": "NUM-NUM-019"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  6, 8, 11, 15, 20, __",
+   "options": [
+    "31",
+    "25",
+    "26",
+    "23",
+    "27"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The differences grow by 1: 2, 3, 4, 5, so the next difference is 6 and the next term is 26.",
+   "id": "NUM-NUM-020"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  8, 11, 16, 23, 32, __",
+   "options": [
+    "41",
+    "44",
+    "50",
+    "42",
+    "43"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The differences grow by 2: 3, 5, 7, 9, so the next difference is 11 and the next term is 43.",
+   "id": "NUM-NUM-021"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  5, 9, 16, 26, 39, __",
+   "options": [
+    "65",
+    "51",
+    "50",
+    "52",
+    "55"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The differences grow by 3: 4, 7, 10, 13, so the next difference is 16 and the next term is 55.",
+   "id": "NUM-NUM-022"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  4, 5, 9, 16, 26, __",
+   "options": [
+    "36",
+    "38",
+    "59",
+    "39",
+    "40"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The differences grow by 3: 1, 4, 7, 10, so the next difference is 13 and the next term is 39.",
+   "id": "NUM-NUM-023"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 3,
+   "question": "What number comes next?  1, 2, 5, 10, 17, __",
+   "options": [
+    "26",
+    "27",
+    "31",
+    "21",
+    "24"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The differences grow by 2: 1, 3, 5, 7, so the next difference is 9 and the next term is 26.",
+   "id": "NUM-NUM-024"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  16, 19, 22, 25, __, 31, 34",
+   "options": [
+    "38",
+    "31",
+    "28",
+    "27",
+    "29"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The common difference is 3, so the missing term is 25 + 3 = 28.",
+   "id": "NUM-NUM-025"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  7, 11, 15, 19, __, 27, 31",
+   "options": [
+    "24",
+    "23",
+    "25",
+    "33",
+    "22"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The common difference is 4, so the missing term is 19 + 4 = 23.",
+   "id": "NUM-NUM-026"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  20, 23, 26, 29, __, 35, 38",
+   "options": [
+    "33",
+    "42",
+    "32",
+    "31",
+    "39"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The common difference is 3, so the missing term is 29 + 3 = 32.",
+   "id": "NUM-NUM-027"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  5, 12, __, 26, 33, 40, 47",
+   "options": [
+    "19",
+    "20",
+    "9",
+    "18",
+    "22"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The common difference is 7, so the missing term is 12 + 7 = 19.",
+   "id": "NUM-NUM-028"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  14, 19, 24, 29, __, 39, 44",
+   "options": [
+    "35",
+    "33",
+    "34",
+    "37",
+    "32"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The common difference is 5, so the missing term is 29 + 5 = 34.",
+   "id": "NUM-NUM-029"
+  },
+  {
+   "level": "both",
+   "skill": "Arithmetic Series",
+   "tier": 4,
+   "question": "What number is missing?  11, 15, 19, 23, __, 31, 35",
+   "options": [
+    "28",
+    "26",
+    "27",
+    "24",
+    "29"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The common difference is 4, so the missing term is 23 + 4 = 27.",
+   "id": "NUM-NUM-030"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  4, 12, 36, 108, __",
+   "options": [
+    "326",
+    "324",
+    "111",
+    "180",
+    "344"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 3 each time: 108 × 3 = 324.",
+   "id": "NUM-NUM-031"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  2, 4, 8, 16, __",
+   "options": [
+    "24",
+    "32",
+    "34",
+    "31",
+    "18"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 2 each time: 16 × 2 = 32.",
+   "id": "NUM-NUM-032"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  4, 8, 16, 32, __",
+   "options": [
+    "34",
+    "64",
+    "69",
+    "66",
+    "48"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 2 each time: 32 × 2 = 64.",
+   "id": "NUM-NUM-033"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  1, 2, 4, 8, __",
+   "options": [
+    "10",
+    "14",
+    "12",
+    "26",
+    "16"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Multiply by 2 each time: 8 × 2 = 16.",
+   "id": "NUM-NUM-034"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  3, 9, 27, 81, __",
+   "options": [
+    "84",
+    "135",
+    "243",
+    "249",
+    "247"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by 3 each time: 81 × 3 = 243.",
+   "id": "NUM-NUM-035"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  3, 6, 12, 24, __",
+   "options": [
+    "47",
+    "48",
+    "36",
+    "53",
+    "26"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 2 each time: 24 × 2 = 48.",
+   "id": "NUM-NUM-036"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  2, 6, 18, 54, __",
+   "options": [
+    "57",
+    "162",
+    "90",
+    "159",
+    "165"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 3 each time: 54 × 3 = 162.",
+   "id": "NUM-NUM-037"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 1,
+   "question": "What number comes next?  1, 3, 9, 27, __",
+   "options": [
+    "81",
+    "87",
+    "76",
+    "30",
+    "45"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply by 3 each time: 27 × 3 = 81.",
+   "id": "NUM-NUM-038"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  243, 81, 27, 9, __",
+   "options": [
+    "10",
+    "8",
+    "6",
+    "3",
+    "4"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide by 3 each time: 9 ÷ 3 = 3.",
+   "id": "NUM-NUM-039"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  729, 243, 81, 27, __",
+   "options": [
+    "9",
+    "6",
+    "19",
+    "24",
+    "11"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Divide by 3 each time: 27 ÷ 3 = 9.",
+   "id": "NUM-NUM-040"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  96, 48, 24, 12, __",
+   "options": [
+    "4",
+    "9",
+    "6",
+    "10",
+    "8"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide by 2 each time: 12 ÷ 2 = 6.",
+   "id": "NUM-NUM-041"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  64, 32, 16, 8, __",
+   "options": [
+    "24",
+    "4",
+    "6",
+    "2",
+    "10"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide by 2 each time: 8 ÷ 2 = 4.",
+   "id": "NUM-NUM-042"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  2048, 512, 128, 32, __",
+   "options": [
+    "13",
+    "28",
+    "8",
+    "4",
+    "9"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide by 4 each time: 32 ÷ 4 = 8.",
+   "id": "NUM-NUM-043"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  1024, 256, 64, 16, __",
+   "options": [
+    "5",
+    "12",
+    "4",
+    "3",
+    "8"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide by 4 each time: 16 ÷ 4 = 4.",
+   "id": "NUM-NUM-044"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  32, 16, 8, 4, __",
+   "options": [
+    "5",
+    "6",
+    "3",
+    "2",
+    "8"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide by 2 each time: 4 ÷ 2 = 2.",
+   "id": "NUM-NUM-045"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 2,
+   "question": "What number comes next?  486, 162, 54, 18, __",
+   "options": [
+    "16",
+    "7",
+    "6",
+    "5",
+    "15"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide by 3 each time: 18 ÷ 3 = 6.",
+   "id": "NUM-NUM-046"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  5, 10, 20, 40, __, 160",
+   "options": [
+    "80",
+    "83",
+    "60",
+    "100",
+    "81"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ratio is 2; missing term = 40 × 2 = 80.",
+   "id": "NUM-NUM-047"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  4, 12, 36, 108, __, 972",
+   "options": [
+    "330",
+    "322",
+    "540",
+    "328",
+    "324"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ratio is 3; missing term = 108 × 3 = 324.",
+   "id": "NUM-NUM-048"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  4, 8, 16, __, 64, 128",
+   "options": [
+    "40",
+    "30",
+    "27",
+    "32",
+    "36"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ratio is 2; missing term = 16 × 2 = 32.",
+   "id": "NUM-NUM-049"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  3, 9, __, 81, 243, 729",
+   "options": [
+    "27",
+    "45",
+    "23",
+    "47",
+    "24"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ratio is 3; missing term = 9 × 3 = 27.",
+   "id": "NUM-NUM-050"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  2, 6, __, 54, 162, 486",
+   "options": [
+    "17",
+    "15",
+    "24",
+    "18",
+    "30"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ratio is 3; missing term = 6 × 3 = 18.",
+   "id": "NUM-NUM-051"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  5, 15, __, 135, 405, 1215",
+   "options": [
+    "75",
+    "50",
+    "65",
+    "52",
+    "45"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ratio is 3; missing term = 15 × 3 = 45.",
+   "id": "NUM-NUM-052"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  2, 6, 18, __, 162, 486",
+   "options": [
+    "54",
+    "60",
+    "55",
+    "34",
+    "90"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ratio is 3; missing term = 18 × 3 = 54.",
+   "id": "NUM-NUM-053"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 3,
+   "question": "What number is missing?  3, 6, 12, __, 48, 96",
+   "options": [
+    "30",
+    "34",
+    "24",
+    "25",
+    "14"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ratio is 2; missing term = 12 × 2 = 24.",
+   "id": "NUM-NUM-054"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  5, −10, 20, −40, __",
+   "options": [
+    "80",
+    "−42",
+    "−80",
+    "86",
+    "60"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply by −2 each time (the signs alternate): −40 × (−2) = 80.",
+   "id": "NUM-NUM-055"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  3, −6, 12, −24, __",
+   "options": [
+    "−26",
+    "−48",
+    "50",
+    "48",
+    "28"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply by −2 each time (the signs alternate): −24 × (−2) = 48.",
+   "id": "NUM-NUM-056"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  1, −2, 4, −8, __",
+   "options": [
+    "−16",
+    "−10",
+    "13",
+    "16",
+    "14"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Multiply by −2 each time (the signs alternate): −8 × (−2) = 16.",
+   "id": "NUM-NUM-057"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  6, −18, 54, −162, __",
+   "options": [
+    "−486",
+    "483",
+    "486",
+    "−165",
+    "487"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by −3 each time (the signs alternate): −162 × (−3) = 486.",
+   "id": "NUM-NUM-058"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  4, −8, 16, −32, __",
+   "options": [
+    "−34",
+    "65",
+    "64",
+    "59",
+    "−64"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by −2 each time (the signs alternate): −32 × (−2) = 64.",
+   "id": "NUM-NUM-059"
+  },
+  {
+   "level": "both",
+   "skill": "Geometric Series",
+   "tier": 4,
+   "question": "What number comes next?  5, −15, 45, −135, __",
+   "options": [
+    "395",
+    "405",
+    "415",
+    "−405",
+    "−138"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by −3 each time (the signs alternate): −135 × (−3) = 405.",
+   "id": "NUM-NUM-060"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  9, 15, 9, 15, 9, __",
+   "options": [
+    "10",
+    "9",
+    "15",
+    "13",
+    "22"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The pattern repeats 9, 15, so the next term is 15.",
+   "id": "NUM-NUM-061"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  7, 13, 7, 13, 7, __",
+   "options": [
+    "13",
+    "15",
+    "7",
+    "8",
+    "9"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The pattern repeats 7, 13, so the next term is 13.",
+   "id": "NUM-NUM-062"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  9, 14, 9, 14, 9, __",
+   "options": [
+    "17",
+    "9",
+    "21",
+    "14",
+    "12"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The pattern repeats 9, 14, so the next term is 14.",
+   "id": "NUM-NUM-063"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  3, 6, 3, 6, 3, __",
+   "options": [
+    "26",
+    "3",
+    "6",
+    "16",
+    "2"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The pattern repeats 3, 6, so the next term is 6.",
+   "id": "NUM-NUM-064"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  5, 9, 5, 9, 5, __",
+   "options": [
+    "7",
+    "13",
+    "12",
+    "9",
+    "5"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The pattern repeats 5, 9, so the next term is 9.",
+   "id": "NUM-NUM-065"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  4, 8, 4, 8, 4, __",
+   "options": [
+    "6",
+    "4",
+    "8",
+    "10",
+    "18"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The pattern repeats 4, 8, so the next term is 8.",
+   "id": "NUM-NUM-066"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  8, 10, 8, 10, 8, __",
+   "options": [
+    "7",
+    "20",
+    "8",
+    "13",
+    "10"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The pattern repeats 8, 10, so the next term is 10.",
+   "id": "NUM-NUM-067"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 1,
+   "question": "What number comes next?  4, 10, 4, 10, 4, __",
+   "options": [
+    "4",
+    "16",
+    "5",
+    "14",
+    "10"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The pattern repeats 4, 10, so the next term is 10.",
+   "id": "NUM-NUM-068"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  6, 60, 8, 56, 10, 52, __",
+   "options": [
+    "8",
+    "48",
+    "10",
+    "12",
+    "11"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Two interleaved series: +2 on odd places (6, 8, 10, …) and −4 on even places. Next odd-place term = 12.",
+   "id": "NUM-NUM-069"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  8, 46, 10, 40, 12, 34, __",
+   "options": [
+    "14",
+    "12",
+    "28",
+    "18",
+    "21"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Two interleaved series: +2 on odd places (8, 10, 12, …) and −6 on even places. Next odd-place term = 14.",
+   "id": "NUM-NUM-070"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  2, 51, 6, 48, 10, 45, __",
+   "options": [
+    "10",
+    "14",
+    "9",
+    "19",
+    "42"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Two interleaved series: +4 on odd places (2, 6, 10, …) and −3 on even places. Next odd-place term = 14.",
+   "id": "NUM-NUM-071"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  9, 48, 13, 42, 17, 36, __",
+   "options": [
+    "17",
+    "30",
+    "41",
+    "1",
+    "21"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Two interleaved series: +4 on odd places (9, 13, 17, …) and −6 on even places. Next odd-place term = 21.",
+   "id": "NUM-NUM-072"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  7, 57, 12, 53, 17, 49, __",
+   "options": [
+    "24",
+    "17",
+    "29",
+    "22",
+    "45"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Two interleaved series: +5 on odd places (7, 12, 17, …) and −4 on even places. Next odd-place term = 22.",
+   "id": "NUM-NUM-073"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  8, 51, 11, 47, 14, 43, __",
+   "options": [
+    "37",
+    "39",
+    "17",
+    "14",
+    "16"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Two interleaved series: +3 on odd places (8, 11, 14, …) and −4 on even places. Next odd-place term = 17.",
+   "id": "NUM-NUM-074"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  6, 48, 9, 45, 12, 42, __",
+   "options": [
+    "12",
+    "15",
+    "39",
+    "14",
+    "18"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Two interleaved series: +3 on odd places (6, 9, 12, …) and −3 on even places. Next odd-place term = 15.",
+   "id": "NUM-NUM-075"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 2,
+   "question": "What number comes next?  2, 60, 4, 58, 6, 56, __",
+   "options": [
+    "3",
+    "8",
+    "7",
+    "6",
+    "54"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Two interleaved series: +2 on odd places (2, 4, 6, …) and −2 on even places. Next odd-place term = 8.",
+   "id": "NUM-NUM-076"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  15, 30, 32, 64, 66, __",
+   "options": [
+    "112",
+    "68",
+    "137",
+    "130",
+    "132"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The pattern alternates ×2 and +2. The next step is ×2.",
+   "id": "NUM-NUM-077"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  2, 4, 6, 12, 14, __",
+   "options": [
+    "16",
+    "8",
+    "28",
+    "23",
+    "35"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The pattern alternates ×2 and +2. The next step is ×2.",
+   "id": "NUM-NUM-078"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  9, 18, 22, 44, 48, __",
+   "options": [
+    "96",
+    "86",
+    "98",
+    "52",
+    "95"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The pattern alternates ×2 and +4. The next step is ×2.",
+   "id": "NUM-NUM-079"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  4, 8, 11, 22, 25, __",
+   "options": [
+    "60",
+    "57",
+    "45",
+    "50",
+    "28"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The pattern alternates ×2 and +3. The next step is ×2.",
+   "id": "NUM-NUM-080"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  15, 30, 37, 74, 81, __",
+   "options": [
+    "88",
+    "165",
+    "168",
+    "162",
+    "169"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The pattern alternates ×2 and +7. The next step is ×2.",
+   "id": "NUM-NUM-081"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  9, 18, 24, 48, 54, __",
+   "options": [
+    "107",
+    "113",
+    "108",
+    "60",
+    "109"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The pattern alternates ×2 and +6. The next step is ×2.",
+   "id": "NUM-NUM-082"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  10, 20, 25, 50, 55, __",
+   "options": [
+    "110",
+    "60",
+    "90",
+    "130",
+    "120"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The pattern alternates ×2 and +5. The next step is ×2.",
+   "id": "NUM-NUM-083"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 3,
+   "question": "What number comes next?  13, 26, 33, 66, 73, __",
+   "options": [
+    "141",
+    "144",
+    "80",
+    "143",
+    "146"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The pattern alternates ×2 and +7. The next step is ×2.",
+   "id": "NUM-NUM-084"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  2, 5, 10, 16, 32, __",
+   "options": [
+    "21",
+    "65",
+    "41",
+    "35",
+    "47"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The steps alternate between adding 3, 6, … and doubling; the next term is 41.",
+   "id": "NUM-NUM-085"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  3, 7, 14, 22, 44, __",
+   "options": [
+    "56",
+    "48",
+    "89",
+    "60",
+    "52"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The steps alternate between adding 4, 8, … and doubling; the next term is 56.",
+   "id": "NUM-NUM-086"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  6, 9, 18, 24, 48, __",
+   "options": [
+    "58",
+    "97",
+    "63",
+    "57",
+    "51"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The steps alternate between adding 3, 6, … and doubling; the next term is 57.",
+   "id": "NUM-NUM-087"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  4, 7, 14, 20, 40, __",
+   "options": [
+    "29",
+    "46",
+    "49",
+    "43",
+    "81"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The steps alternate between adding 3, 6, … and doubling; the next term is 49.",
+   "id": "NUM-NUM-088"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  5, 9, 18, 26, 52, __",
+   "options": [
+    "60",
+    "66",
+    "64",
+    "56",
+    "105"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The steps alternate between adding 4, 8, … and doubling; the next term is 64.",
+   "id": "NUM-NUM-089"
+  },
+  {
+   "level": "both",
+   "skill": "Alternating Patterns",
+   "tier": 4,
+   "question": "What number comes next?  2, 6, 12, 20, 40, __",
+   "options": [
+    "42",
+    "81",
+    "44",
+    "52",
+    "72"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The steps alternate between adding 4, 8, … and doubling; the next term is 52.",
+   "id": "NUM-NUM-090"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  100, 121, 144, 169, __",
+   "options": [
+    "176",
+    "196",
+    "186",
+    "197",
+    "195"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are squares: 10², 11², 12², 13², so next is 14² = 196.",
+   "id": "NUM-NUM-091"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  36, 49, 64, 81, __",
+   "options": [
+    "80",
+    "100",
+    "102",
+    "101",
+    "99"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are squares: 6², 7², 8², 9², so next is 10² = 100.",
+   "id": "NUM-NUM-092"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  121, 144, 169, 196, __",
+   "options": [
+    "221",
+    "226",
+    "224",
+    "225",
+    "227"
+   ],
+   "correctAnswer": 3,
+   "explanation": "These are squares: 11², 12², 13², 14², so next is 15² = 225.",
+   "id": "NUM-NUM-093"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  64, 81, 100, 121, __",
+   "options": [
+    "140",
+    "144",
+    "142",
+    "143",
+    "134"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are squares: 8², 9², 10², 11², so next is 12² = 144.",
+   "id": "NUM-NUM-094"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  81, 100, 121, 144, __",
+   "options": [
+    "175",
+    "172",
+    "174",
+    "168",
+    "169"
+   ],
+   "correctAnswer": 4,
+   "explanation": "These are squares: 9², 10², 11², 12², so next is 13² = 169.",
+   "id": "NUM-NUM-095"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  169, 196, 225, 256, __",
+   "options": [
+    "269",
+    "284",
+    "289",
+    "299",
+    "288"
+   ],
+   "correctAnswer": 2,
+   "explanation": "These are squares: 13², 14², 15², 16², so next is 17² = 289.",
+   "id": "NUM-NUM-096"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  144, 169, 196, 225, __",
+   "options": [
+    "236",
+    "254",
+    "246",
+    "255",
+    "256"
+   ],
+   "correctAnswer": 4,
+   "explanation": "These are squares: 12², 13², 14², 15², so next is 16² = 256.",
+   "id": "NUM-NUM-097"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 1,
+   "question": "What number comes next?  49, 64, 81, 100, __",
+   "options": [
+    "128",
+    "131",
+    "123",
+    "120",
+    "121"
+   ],
+   "correctAnswer": 4,
+   "explanation": "These are squares: 7², 8², 9², 10², so next is 11² = 121.",
+   "id": "NUM-NUM-098"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  343, 512, 729, 1000, __",
+   "options": [
+    "1311",
+    "1331",
+    "1341",
+    "1330",
+    "1333"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 11³ = 1331.",
+   "id": "NUM-NUM-099"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  512, 729, 1000, 1331, __",
+   "options": [
+    "1730",
+    "1728",
+    "1738",
+    "1708",
+    "1735"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 12³ = 1728.",
+   "id": "NUM-NUM-100"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  27, 64, 125, 216, __",
+   "options": [
+    "353",
+    "323",
+    "343",
+    "350",
+    "338"
+   ],
+   "correctAnswer": 2,
+   "explanation": "These are cubes; next is 7³ = 343.",
+   "id": "NUM-NUM-101"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  64, 125, 216, 343, __",
+   "options": [
+    "522",
+    "512",
+    "510",
+    "511",
+    "518"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 8³ = 512.",
+   "id": "NUM-NUM-102"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  8, 27, 64, 125, __",
+   "options": [
+    "212",
+    "216",
+    "206",
+    "226",
+    "217"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 6³ = 216.",
+   "id": "NUM-NUM-103"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  1, 8, 27, 64, __",
+   "options": [
+    "130",
+    "125",
+    "122",
+    "131",
+    "135"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 5³ = 125.",
+   "id": "NUM-NUM-104"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  125, 216, 343, 512, __",
+   "options": [
+    "709",
+    "749",
+    "739",
+    "735",
+    "729"
+   ],
+   "correctAnswer": 4,
+   "explanation": "These are cubes; next is 9³ = 729.",
+   "id": "NUM-NUM-105"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 2,
+   "question": "What number comes next?  1000, 1331, 1728, 2197, __",
+   "options": [
+    "2743",
+    "2744",
+    "2724",
+    "2754",
+    "2734"
+   ],
+   "correctAnswer": 1,
+   "explanation": "These are cubes; next is 14³ = 2744.",
+   "id": "NUM-NUM-106"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  2, 2, 4, 6, 10, 16, __",
+   "options": [
+    "28",
+    "16",
+    "27",
+    "22",
+    "26"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-107"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  1, 3, 4, 7, 11, 18, __",
+   "options": [
+    "9",
+    "33",
+    "25",
+    "29",
+    "30"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-108"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  3, 4, 7, 11, 18, 29, __",
+   "options": [
+    "49",
+    "27",
+    "53",
+    "47",
+    "40"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-109"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  4, 4, 8, 12, 20, 32, __",
+   "options": [
+    "57",
+    "42",
+    "52",
+    "44",
+    "32"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-110"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  1, 4, 5, 9, 14, 23, __",
+   "options": [
+    "17",
+    "37",
+    "34",
+    "32",
+    "42"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-111"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  3, 2, 5, 7, 12, 19, __",
+   "options": [
+    "31",
+    "27",
+    "26",
+    "35",
+    "21"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-112"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  1, 5, 6, 11, 17, 28, __",
+   "options": [
+    "50",
+    "35",
+    "45",
+    "39",
+    "47"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-113"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 3,
+   "question": "What number comes next?  2, 3, 5, 8, 13, 21, __",
+   "options": [
+    "37",
+    "41",
+    "32",
+    "34",
+    "29"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Each term is the sum of the two terms before it (Fibonacci-type).",
+   "id": "NUM-NUM-114"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  2, 5, 10, 17, 26, __",
+   "options": [
+    "36",
+    "17",
+    "39",
+    "44",
+    "37"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term is a square plus 1: 6² + 1 = 37.",
+   "id": "NUM-NUM-115"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  50, 65, 82, 101, 122, __",
+   "options": [
+    "165",
+    "145",
+    "144",
+    "151",
+    "146"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term is a square plus 1: 12² + 1 = 145.",
+   "id": "NUM-NUM-116"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  197, 226, 257, 290, 325, __",
+   "options": [
+    "361",
+    "362",
+    "365",
+    "364",
+    "382"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Each term is a square plus 1: 19² + 1 = 362.",
+   "id": "NUM-NUM-117"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  5, 10, 17, 26, 37, __",
+   "options": [
+    "49",
+    "57",
+    "56",
+    "60",
+    "50"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term is a square plus 1: 7² + 1 = 50.",
+   "id": "NUM-NUM-118"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  65, 82, 101, 122, 145, __",
+   "options": [
+    "180",
+    "175",
+    "165",
+    "169",
+    "170"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Each term is a square plus 1: 13² + 1 = 170.",
+   "id": "NUM-NUM-119"
+  },
+  {
+   "level": "both",
+   "skill": "Squares, Cubes & Fibonacci",
+   "tier": 4,
+   "question": "What number comes next?  170, 197, 226, 257, 290, __",
+   "options": [
+    "325",
+    "328",
+    "335",
+    "323",
+    "324"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Each term is a square plus 1: 18² + 1 = 325.",
+   "id": "NUM-NUM-120"
+  }
+ ]
+}

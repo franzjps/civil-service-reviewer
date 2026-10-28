@@ -1,0 +1,1925 @@
+{
+ "module": "measurement-geometry",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 8 cm long and 5 cm wide. What is its area?",
+   "options": [
+    "48 cm²",
+    "13 cm²",
+    "35 cm²",
+    "40 cm²",
+    "26 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A = l × w = 8 × 5 = 40 cm².",
+   "id": "NUM-MEA-001"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 18 cm long and 5 cm wide. What is its perimeter?",
+   "options": [
+    "41 cm",
+    "48 cm",
+    "23 cm",
+    "46 cm",
+    "90 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "P = 2(l + w) = 2(18 + 5) = 46 cm.",
+   "id": "NUM-MEA-002"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 14 cm long and 11 cm wide. What is its perimeter?",
+   "options": [
+    "39 cm",
+    "52 cm",
+    "50 cm",
+    "154 cm",
+    "25 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "P = 2(l + w) = 2(14 + 11) = 50 cm.",
+   "id": "NUM-MEA-003"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 6 cm long and 7 cm wide. What is its perimeter?",
+   "options": [
+    "28 cm",
+    "42 cm",
+    "19 cm",
+    "13 cm",
+    "26 cm"
+   ],
+   "correctAnswer": 4,
+   "explanation": "P = 2(l + w) = 2(6 + 7) = 26 cm.",
+   "id": "NUM-MEA-004"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 17 cm long and 10 cm wide. What is its perimeter?",
+   "options": [
+    "44 cm",
+    "54 cm",
+    "56 cm",
+    "27 cm",
+    "170 cm"
+   ],
+   "correctAnswer": 1,
+   "explanation": "P = 2(l + w) = 2(17 + 10) = 54 cm.",
+   "id": "NUM-MEA-005"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 19 cm long and 11 cm wide. What is its area?",
+   "options": [
+    "209 cm²",
+    "228 cm²",
+    "198 cm²",
+    "30 cm²",
+    "60 cm²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = l × w = 19 × 11 = 209 cm².",
+   "id": "NUM-MEA-006"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 15 cm long and 14 cm wide. What is its perimeter?",
+   "options": [
+    "44 cm",
+    "210 cm",
+    "29 cm",
+    "58 cm",
+    "60 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "P = 2(l + w) = 2(15 + 14) = 58 cm.",
+   "id": "NUM-MEA-007"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 1,
+   "question": "A rectangle is 6 cm long and 8 cm wide. What is its area?",
+   "options": [
+    "28 cm²",
+    "14 cm²",
+    "54 cm²",
+    "40 cm²",
+    "48 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = l × w = 6 × 8 = 48 cm².",
+   "id": "NUM-MEA-008"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 13 cm and height 12 cm?",
+   "options": [
+    "156 cm²",
+    "91 cm²",
+    "78 cm²",
+    "39 cm²",
+    "25 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A = ½ × base × height = ½ × 13 × 12 = 78 cm².",
+   "id": "NUM-MEA-009"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 10 cm and height 4 cm?",
+   "options": [
+    "14 cm²",
+    "20 cm²",
+    "40 cm²",
+    "10 cm²",
+    "30 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A = ½ × base × height = ½ × 10 × 4 = 20 cm².",
+   "id": "NUM-MEA-010"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 14 cm and height 6 cm?",
+   "options": [
+    "20 cm²",
+    "84 cm²",
+    "56 cm²",
+    "21 cm²",
+    "42 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = ½ × base × height = ½ × 14 × 6 = 42 cm².",
+   "id": "NUM-MEA-011"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 5 cm and height 10 cm?",
+   "options": [
+    "15 cm²",
+    "12 cm²",
+    "30 cm²",
+    "50 cm²",
+    "25 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = ½ × base × height = ½ × 5 × 10 = 25 cm².",
+   "id": "NUM-MEA-012"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 17 cm and height 6 cm?",
+   "options": [
+    "23 cm²",
+    "102 cm²",
+    "25 cm²",
+    "51 cm²",
+    "68 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A = ½ × base × height = ½ × 17 × 6 = 51 cm².",
+   "id": "NUM-MEA-013"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 6 cm and height 8 cm?",
+   "options": [
+    "12 cm²",
+    "24 cm²",
+    "14 cm²",
+    "48 cm²",
+    "30 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A = ½ × base × height = ½ × 6 × 8 = 24 cm².",
+   "id": "NUM-MEA-014"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 10 cm and height 8 cm?",
+   "options": [
+    "80 cm²",
+    "18 cm²",
+    "20 cm²",
+    "40 cm²",
+    "50 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A = ½ × base × height = ½ × 10 × 8 = 40 cm².",
+   "id": "NUM-MEA-015"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 2,
+   "question": "What is the area of a triangle with base 10 cm and height 10 cm?",
+   "options": [
+    "20 cm²",
+    "60 cm²",
+    "50 cm²",
+    "25 cm²",
+    "100 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A = ½ × base × height = ½ × 10 × 10 = 50 cm².",
+   "id": "NUM-MEA-016"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 6 m and 22 m and height 10 m. What is its area?",
+   "options": [
+    "280 m²",
+    "150 m²",
+    "134 m²",
+    "132 m²",
+    "140 m²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = ½(a + b)h = ½(6 + 22)(10) = 140 m².",
+   "id": "NUM-MEA-017"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 7 m and 21 m and height 6 m. What is its area?",
+   "options": [
+    "84 m²",
+    "168 m²",
+    "147 m²",
+    "90 m²",
+    "77 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = ½(a + b)h = ½(7 + 21)(6) = 84 m².",
+   "id": "NUM-MEA-018"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 12 m and 24 m and height 10 m. What is its area?",
+   "options": [
+    "288 m²",
+    "180 m²",
+    "190 m²",
+    "360 m²",
+    "168 m²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A = ½(a + b)h = ½(12 + 24)(10) = 180 m².",
+   "id": "NUM-MEA-019"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 10 m and 23 m and height 8 m. What is its area?",
+   "options": [
+    "122 m²",
+    "140 m²",
+    "264 m²",
+    "230 m²",
+    "132 m²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = ½(a + b)h = ½(10 + 23)(8) = 132 m².",
+   "id": "NUM-MEA-020"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 9 m and 20 m and height 6 m. What is its area?",
+   "options": [
+    "87 m²",
+    "174 m²",
+    "180 m²",
+    "78 m²",
+    "93 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = ½(a + b)h = ½(9 + 20)(6) = 87 m².",
+   "id": "NUM-MEA-021"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 5 m and 22 m and height 6 m. What is its area?",
+   "options": [
+    "87 m²",
+    "76 m²",
+    "81 m²",
+    "110 m²",
+    "162 m²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A = ½(a + b)h = ½(5 + 22)(6) = 81 m².",
+   "id": "NUM-MEA-022"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 9 m and 23 m and height 4 m. What is its area?",
+   "options": [
+    "64 m²",
+    "128 m²",
+    "207 m²",
+    "55 m²",
+    "68 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = ½(a + b)h = ½(9 + 23)(4) = 64 m².",
+   "id": "NUM-MEA-023"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 3,
+   "question": "A trapezoid has parallel sides 10 m and 24 m and height 4 m. What is its area?",
+   "options": [
+    "240 m²",
+    "136 m²",
+    "58 m²",
+    "72 m²",
+    "68 m²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = ½(a + b)h = ½(10 + 24)(4) = 68 m².",
+   "id": "NUM-MEA-024"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 12 m on a side has a 3 m by 3 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "144 m²",
+    "153 m²",
+    "36 m²",
+    "138 m²",
+    "135 m²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Room area 144 m² minus the spot 9 m² = 135 m².",
+   "id": "NUM-MEA-025"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 12 m on a side has a 4 m by 4 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "128 m²",
+    "160 m²",
+    "32 m²",
+    "132 m²",
+    "144 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Room area 144 m² minus the spot 16 m² = 128 m².",
+   "id": "NUM-MEA-026"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 11 m on a side has a 3 m by 3 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "112 m²",
+    "32 m²",
+    "130 m²",
+    "115 m²",
+    "121 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Room area 121 m² minus the spot 9 m² = 112 m².",
+   "id": "NUM-MEA-027"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 11 m on a side has a 2 m by 2 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "121 m²",
+    "117 m²",
+    "119 m²",
+    "36 m²",
+    "125 m²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Room area 121 m² minus the spot 4 m² = 117 m².",
+   "id": "NUM-MEA-028"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 8 m on a side has a 4 m by 4 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "80 m²",
+    "16 m²",
+    "52 m²",
+    "64 m²",
+    "48 m²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Room area 64 m² minus the spot 16 m² = 48 m².",
+   "id": "NUM-MEA-029"
+  },
+  {
+   "level": "both",
+   "skill": "Perimeter & Area",
+   "tier": 4,
+   "question": "A square room 10 m on a side has a 3 m by 3 m square carpet-free spot. What is the area covered by the carpet?",
+   "options": [
+    "91 m²",
+    "100 m²",
+    "94 m²",
+    "109 m²",
+    "28 m²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Room area 100 m² minus the spot 9 m² = 91 m².",
+   "id": "NUM-MEA-030"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 11 cm? (Use π = 3.14)",
+   "options": [
+    "72.22 cm",
+    "138.16 cm",
+    "69.08 cm",
+    "34.54 cm",
+    "379.94 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "C = 2πr = 2 × 3.14 × 11 = 69.08 cm.",
+   "id": "NUM-MEA-031"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 3 cm? (Use π = 3.14)",
+   "options": [
+    "21.98 cm",
+    "9.42 cm",
+    "28.26 cm",
+    "18.84 cm",
+    "37.68 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "C = 2πr = 2 × 3.14 × 3 = 18.84 cm.",
+   "id": "NUM-MEA-032"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 5 cm? (Use π = 3.14)",
+   "options": [
+    "31.4 cm",
+    "78.5 cm",
+    "34.54 cm",
+    "15.7 cm",
+    "62.8 cm"
+   ],
+   "correctAnswer": 0,
+   "explanation": "C = 2πr = 2 × 3.14 × 5 = 31.4 cm.",
+   "id": "NUM-MEA-033"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 14 cm? (Use π = 3.14)",
+   "options": [
+    "43.96 cm",
+    "615.44 cm",
+    "175.84 cm",
+    "91.06 cm",
+    "87.92 cm"
+   ],
+   "correctAnswer": 4,
+   "explanation": "C = 2πr = 2 × 3.14 × 14 = 87.92 cm.",
+   "id": "NUM-MEA-034"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 10 cm? (Use π = 3.14)",
+   "options": [
+    "125.6 cm",
+    "314 cm",
+    "62.8 cm",
+    "65.94 cm",
+    "31.4 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "C = 2πr = 2 × 3.14 × 10 = 62.8 cm.",
+   "id": "NUM-MEA-035"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 6 cm? (Use π = 3.14)",
+   "options": [
+    "18.84 cm",
+    "113.04 cm",
+    "37.68 cm",
+    "40.82 cm",
+    "75.36 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "C = 2πr = 2 × 3.14 × 6 = 37.68 cm.",
+   "id": "NUM-MEA-036"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 15 cm? (Use π = 3.14)",
+   "options": [
+    "94.2 cm",
+    "188.4 cm",
+    "47.1 cm",
+    "706.5 cm",
+    "97.34 cm"
+   ],
+   "correctAnswer": 0,
+   "explanation": "C = 2πr = 2 × 3.14 × 15 = 94.2 cm.",
+   "id": "NUM-MEA-037"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 1,
+   "question": "What is the circumference of a circle with radius 7 cm? (Use π = 3.14)",
+   "options": [
+    "47.1 cm",
+    "153.86 cm",
+    "43.96 cm",
+    "21.98 cm",
+    "87.92 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "C = 2πr = 2 × 3.14 × 7 = 43.96 cm.",
+   "id": "NUM-MEA-038"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 8 cm? (Use π = 3.14)",
+   "options": [
+    "200.96 cm²",
+    "803.84 cm²",
+    "204.1 cm²",
+    "50.24 cm²",
+    "25.12 cm²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = πr² = 3.14 × 8² = 200.96 cm².",
+   "id": "NUM-MEA-039"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 11 cm? (Use π = 3.14)",
+   "options": [
+    "379.94 cm²",
+    "1519.76 cm²",
+    "383.08 cm²",
+    "34.54 cm²",
+    "69.08 cm²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "A = πr² = 3.14 × 11² = 379.94 cm².",
+   "id": "NUM-MEA-040"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 4 cm? (Use π = 3.14)",
+   "options": [
+    "53.38 cm²",
+    "200.96 cm²",
+    "25.12 cm²",
+    "50.24 cm²",
+    "12.56 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A = πr² = 3.14 × 4² = 50.24 cm².",
+   "id": "NUM-MEA-041"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 3 cm? (Use π = 3.14)",
+   "options": [
+    "31.4 cm²",
+    "113.04 cm²",
+    "28.26 cm²",
+    "18.84 cm²",
+    "9.42 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A = πr² = 3.14 × 3² = 28.26 cm².",
+   "id": "NUM-MEA-042"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 7 cm? (Use π = 3.14)",
+   "options": [
+    "43.96 cm²",
+    "153.86 cm²",
+    "157 cm²",
+    "615.44 cm²",
+    "21.98 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A = πr² = 3.14 × 7² = 153.86 cm².",
+   "id": "NUM-MEA-043"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 6 cm? (Use π = 3.14)",
+   "options": [
+    "116.18 cm²",
+    "18.84 cm²",
+    "452.16 cm²",
+    "113.04 cm²",
+    "37.68 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "A = πr² = 3.14 × 6² = 113.04 cm².",
+   "id": "NUM-MEA-044"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 12 cm? (Use π = 3.14)",
+   "options": [
+    "37.68 cm²",
+    "1808.64 cm²",
+    "455.3 cm²",
+    "75.36 cm²",
+    "452.16 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "A = πr² = 3.14 × 12² = 452.16 cm².",
+   "id": "NUM-MEA-045"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 2,
+   "question": "What is the area of a circle with radius 9 cm? (Use π = 3.14)",
+   "options": [
+    "56.52 cm²",
+    "254.34 cm²",
+    "1017.36 cm²",
+    "28.26 cm²",
+    "257.48 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A = πr² = 3.14 × 9² = 254.34 cm².",
+   "id": "NUM-MEA-046"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 62.8 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "100 cm",
+    "12 cm",
+    "20 cm",
+    "10 cm",
+    "9 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "r = C ÷ 2π = 62.8 ÷ 6.28 = 10 cm.",
+   "id": "NUM-MEA-047"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 18.84 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "2 cm",
+    "6 cm",
+    "5 cm",
+    "3 cm",
+    "9 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "r = C ÷ 2π = 18.84 ÷ 6.28 = 3 cm.",
+   "id": "NUM-MEA-048"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 43.96 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "14 cm",
+    "7 cm",
+    "6 cm",
+    "49 cm",
+    "9 cm"
+   ],
+   "correctAnswer": 1,
+   "explanation": "r = C ÷ 2π = 43.96 ÷ 6.28 = 7 cm.",
+   "id": "NUM-MEA-049"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 87.92 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "28 cm",
+    "13 cm",
+    "196 cm",
+    "16 cm",
+    "14 cm"
+   ],
+   "correctAnswer": 4,
+   "explanation": "r = C ÷ 2π = 87.92 ÷ 6.28 = 14 cm.",
+   "id": "NUM-MEA-050"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 37.68 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "6 cm",
+    "12 cm",
+    "8 cm",
+    "5 cm",
+    "36 cm"
+   ],
+   "correctAnswer": 0,
+   "explanation": "r = C ÷ 2π = 37.68 ÷ 6.28 = 6 cm.",
+   "id": "NUM-MEA-051"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 69.08 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "22 cm",
+    "121 cm",
+    "11 cm",
+    "13 cm",
+    "10 cm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "r = C ÷ 2π = 69.08 ÷ 6.28 = 11 cm.",
+   "id": "NUM-MEA-052"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 75.36 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "11 cm",
+    "144 cm",
+    "24 cm",
+    "14 cm",
+    "12 cm"
+   ],
+   "correctAnswer": 4,
+   "explanation": "r = C ÷ 2π = 75.36 ÷ 6.28 = 12 cm.",
+   "id": "NUM-MEA-053"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 3,
+   "question": "A circle has a circumference of 81.64 cm. What is its radius? (Use π = 3.14)",
+   "options": [
+    "12 cm",
+    "169 cm",
+    "15 cm",
+    "13 cm",
+    "26 cm"
+   ],
+   "correctAnswer": 3,
+   "explanation": "r = C ÷ 2π = 81.64 ÷ 6.28 = 13 cm.",
+   "id": "NUM-MEA-054"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 16 cm is cut from a square piece of cardboard with side 16 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "200.96 cm²",
+    "55.04 cm²",
+    "60.04 cm²",
+    "256 cm²",
+    "65.04 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Square 256 − circle (3.14 × 8²) 200.96 = 55.04 cm².",
+   "id": "NUM-MEA-055"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 52 cm is cut from a square piece of cardboard with side 52 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "2122.64 cm²",
+    "586.36 cm²",
+    "591.36 cm²",
+    "2704 cm²",
+    "581.36 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Square 2704 − circle (3.14 × 26²) 2122.64 = 581.36 cm².",
+   "id": "NUM-MEA-056"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 10 cm is cut from a square piece of cardboard with side 10 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "21.5 cm²",
+    "100 cm²",
+    "78.5 cm²",
+    "31.5 cm²",
+    "26.5 cm²"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Square 100 − circle (3.14 × 5²) 78.5 = 21.5 cm².",
+   "id": "NUM-MEA-057"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 56 cm is cut from a square piece of cardboard with side 56 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "679.24 cm²",
+    "674.24 cm²",
+    "2461.76 cm²",
+    "684.24 cm²",
+    "3136 cm²"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Square 3136 − circle (3.14 × 28²) 2461.76 = 674.24 cm².",
+   "id": "NUM-MEA-058"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 24 cm is cut from a square piece of cardboard with side 24 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "576 cm²",
+    "128.84 cm²",
+    "123.84 cm²",
+    "452.16 cm²",
+    "133.84 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Square 576 − circle (3.14 × 12²) 452.16 = 123.84 cm².",
+   "id": "NUM-MEA-059"
+  },
+  {
+   "level": "both",
+   "skill": "Circles",
+   "tier": 4,
+   "question": "A circle of diameter 46 cm is cut from a square piece of cardboard with side 46 cm. What is the area of the cardboard left over? (π = 3.14)",
+   "options": [
+    "2116 cm²",
+    "459.94 cm²",
+    "454.94 cm²",
+    "1661.06 cm²",
+    "464.94 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Square 2116 − circle (3.14 × 23²) 1661.06 = 454.94 cm².",
+   "id": "NUM-MEA-060"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 4 cm?",
+   "options": [
+    "68 cm³",
+    "96 cm³",
+    "16 cm³",
+    "64 cm³",
+    "12 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = s³ = 4³ = 64 cm³.",
+   "id": "NUM-MEA-061"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 12 cm?",
+   "options": [
+    "864 cm³",
+    "36 cm³",
+    "1728 cm³",
+    "144 cm³",
+    "1740 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = s³ = 12³ = 1728 cm³.",
+   "id": "NUM-MEA-062"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 9 cm?",
+   "options": [
+    "738 cm³",
+    "486 cm³",
+    "81 cm³",
+    "729 cm³",
+    "27 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = s³ = 9³ = 729 cm³.",
+   "id": "NUM-MEA-063"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 7 cm?",
+   "options": [
+    "343 cm³",
+    "21 cm³",
+    "294 cm³",
+    "49 cm³",
+    "350 cm³"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = s³ = 7³ = 343 cm³.",
+   "id": "NUM-MEA-064"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 8 cm?",
+   "options": [
+    "512 cm³",
+    "384 cm³",
+    "24 cm³",
+    "520 cm³",
+    "64 cm³"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = s³ = 8³ = 512 cm³.",
+   "id": "NUM-MEA-065"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 5 cm?",
+   "options": [
+    "15 cm³",
+    "25 cm³",
+    "125 cm³",
+    "150 cm³",
+    "130 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = s³ = 5³ = 125 cm³.",
+   "id": "NUM-MEA-066"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 10 cm?",
+   "options": [
+    "600 cm³",
+    "30 cm³",
+    "100 cm³",
+    "1010 cm³",
+    "1000 cm³"
+   ],
+   "correctAnswer": 4,
+   "explanation": "V = s³ = 10³ = 1000 cm³.",
+   "id": "NUM-MEA-067"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 1,
+   "question": "What is the volume of a cube with edge 2 cm?",
+   "options": [
+    "8 cm³",
+    "4 cm³",
+    "24 cm³",
+    "6 cm³",
+    "10 cm³"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = s³ = 2³ = 8 cm³.",
+   "id": "NUM-MEA-068"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 9 cm × 10 cm × 8 cm. What is its volume?",
+   "options": [
+    "484 cm³",
+    "98 cm³",
+    "810 cm³",
+    "720 cm³",
+    "27 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = l × w × h = 9 × 10 × 8 = 720 cm³.",
+   "id": "NUM-MEA-069"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 5 cm × 6 cm × 3 cm. What is its volume?",
+   "options": [
+    "14 cm³",
+    "126 cm³",
+    "90 cm³",
+    "33 cm³",
+    "120 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = l × w × h = 5 × 6 × 3 = 90 cm³.",
+   "id": "NUM-MEA-070"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 9 cm × 3 cm × 6 cm. What is its volume?",
+   "options": [
+    "18 cm³",
+    "162 cm³",
+    "198 cm³",
+    "33 cm³",
+    "189 cm³"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = l × w × h = 9 × 3 × 6 = 162 cm³.",
+   "id": "NUM-MEA-071"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 10 cm × 7 cm × 7 cm. What is its volume?",
+   "options": [
+    "560 cm³",
+    "77 cm³",
+    "490 cm³",
+    "378 cm³",
+    "24 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = l × w × h = 10 × 7 × 7 = 490 cm³.",
+   "id": "NUM-MEA-072"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 5 cm × 2 cm × 9 cm. What is its volume?",
+   "options": [
+    "90 cm³",
+    "100 cm³",
+    "146 cm³",
+    "16 cm³",
+    "19 cm³"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = l × w × h = 5 × 2 × 9 = 90 cm³.",
+   "id": "NUM-MEA-073"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 8 cm × 4 cm × 6 cm. What is its volume?",
+   "options": [
+    "208 cm³",
+    "18 cm³",
+    "192 cm³",
+    "38 cm³",
+    "224 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = l × w × h = 8 × 4 × 6 = 192 cm³.",
+   "id": "NUM-MEA-074"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 12 cm × 7 cm × 2 cm. What is its volume?",
+   "options": [
+    "252 cm³",
+    "21 cm³",
+    "86 cm³",
+    "168 cm³",
+    "244 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = l × w × h = 12 × 7 × 2 = 168 cm³.",
+   "id": "NUM-MEA-075"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 2,
+   "question": "A box measures 13 cm × 8 cm × 3 cm. What is its volume?",
+   "options": [
+    "312 cm³",
+    "416 cm³",
+    "334 cm³",
+    "24 cm³",
+    "107 cm³"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = l × w × h = 13 × 8 × 3 = 312 cm³.",
+   "id": "NUM-MEA-076"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 6 cm and height 8 cm? (π = 3.14)",
+   "options": [
+    "301.44 cm³",
+    "113.04 cm³",
+    "904.32 cm³",
+    "150.72 cm³",
+    "907.46 cm³"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = πr²h = 3.14 × 6² × 8 = 904.32 cm³.",
+   "id": "NUM-MEA-077"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 7 cm and height 14 cm? (π = 3.14)",
+   "options": [
+    "615.44 cm³",
+    "2154.04 cm³",
+    "2157.18 cm³",
+    "153.86 cm³",
+    "307.72 cm³"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = πr²h = 3.14 × 7² × 14 = 2154.04 cm³.",
+   "id": "NUM-MEA-078"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 3 cm and height 10 cm? (π = 3.14)",
+   "options": [
+    "94.2 cm³",
+    "282.6 cm³",
+    "28.26 cm³",
+    "188.4 cm³",
+    "285.74 cm³"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = πr²h = 3.14 × 3² × 10 = 282.6 cm³.",
+   "id": "NUM-MEA-079"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 6 cm and height 5 cm? (π = 3.14)",
+   "options": [
+    "568.34 cm³",
+    "565.2 cm³",
+    "94.2 cm³",
+    "113.04 cm³",
+    "188.4 cm³"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = πr²h = 3.14 × 6² × 5 = 565.2 cm³.",
+   "id": "NUM-MEA-080"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 6 cm and height 15 cm? (π = 3.14)",
+   "options": [
+    "113.04 cm³",
+    "565.2 cm³",
+    "282.6 cm³",
+    "1695.6 cm³",
+    "1698.74 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = πr²h = 3.14 × 6² × 15 = 1695.6 cm³.",
+   "id": "NUM-MEA-081"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 8 cm and height 10 cm? (π = 3.14)",
+   "options": [
+    "2012.74 cm³",
+    "2009.6 cm³",
+    "502.4 cm³",
+    "200.96 cm³",
+    "251.2 cm³"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = πr²h = 3.14 × 8² × 10 = 2009.6 cm³.",
+   "id": "NUM-MEA-082"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 5 cm and height 10 cm? (π = 3.14)",
+   "options": [
+    "78.5 cm³",
+    "788.14 cm³",
+    "314 cm³",
+    "785 cm³",
+    "157 cm³"
+   ],
+   "correctAnswer": 3,
+   "explanation": "V = πr²h = 3.14 × 5² × 10 = 785 cm³.",
+   "id": "NUM-MEA-083"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 3,
+   "question": "What is the volume of a cylinder with radius 7 cm and height 15 cm? (π = 3.14)",
+   "options": [
+    "2311.04 cm³",
+    "659.4 cm³",
+    "329.7 cm³",
+    "153.86 cm³",
+    "2307.9 cm³"
+   ],
+   "correctAnswer": 4,
+   "explanation": "V = πr²h = 3.14 × 7² × 15 = 2307.9 cm³.",
+   "id": "NUM-MEA-084"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 100 cm long, 50 cm wide and 45 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "225 liters",
+    "22 liters",
+    "22500 liters",
+    "2250 liters",
+    "230 liters"
+   ],
+   "correctAnswer": 0,
+   "explanation": "V = 100 × 50 × 45 = 225000 cm³; ÷ 1,000 = 225 liters.",
+   "id": "NUM-MEA-085"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 50 cm long, 60 cm wide and 50 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "15000 liters",
+    "15 liters",
+    "1500 liters",
+    "155 liters",
+    "150 liters"
+   ],
+   "correctAnswer": 4,
+   "explanation": "V = 50 × 60 × 50 = 150000 cm³; ÷ 1,000 = 150 liters.",
+   "id": "NUM-MEA-086"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 70 cm long, 80 cm wide and 60 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "33 liters",
+    "336 liters",
+    "3360 liters",
+    "33600 liters",
+    "341 liters"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = 70 × 80 × 60 = 336000 cm³; ÷ 1,000 = 336 liters.",
+   "id": "NUM-MEA-087"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 80 cm long, 40 cm wide and 40 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "12 liters",
+    "128 liters",
+    "12800 liters",
+    "133 liters",
+    "1280 liters"
+   ],
+   "correctAnswer": 1,
+   "explanation": "V = 80 × 40 × 40 = 128000 cm³; ÷ 1,000 = 128 liters.",
+   "id": "NUM-MEA-088"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 80 cm long, 20 cm wide and 35 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "61 liters",
+    "5 liters",
+    "5600 liters",
+    "560 liters",
+    "56 liters"
+   ],
+   "correctAnswer": 4,
+   "explanation": "V = 80 × 20 × 35 = 56000 cm³; ÷ 1,000 = 56 liters.",
+   "id": "NUM-MEA-089"
+  },
+  {
+   "level": "both",
+   "skill": "Volume & Capacity",
+   "tier": 4,
+   "question": "A tank is 100 cm long, 30 cm wide and 50 cm deep. How many liters can it hold? (1 liter = 1,000 cm³)",
+   "options": [
+    "1500 liters",
+    "155 liters",
+    "150 liters",
+    "15000 liters",
+    "15 liters"
+   ],
+   "correctAnswer": 2,
+   "explanation": "V = 100 × 30 × 50 = 150000 cm³; ÷ 1,000 = 150 liters.",
+   "id": "NUM-MEA-090"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 20 km to meters.",
+   "options": [
+    "200000 m",
+    "200 m",
+    "20000 m",
+    "2000 m",
+    "20 m"
+   ],
+   "correctAnswer": 2,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-091"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 15 km to meters.",
+   "options": [
+    "15000 m",
+    "15 m",
+    "150 m",
+    "150000 m",
+    "1500 m"
+   ],
+   "correctAnswer": 0,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-092"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 21 km to meters.",
+   "options": [
+    "2100 m",
+    "21000 m",
+    "210 m",
+    "21 m",
+    "210000 m"
+   ],
+   "correctAnswer": 1,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-093"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 8 km to meters.",
+   "options": [
+    "8 m",
+    "800 m",
+    "80 m",
+    "80000 m",
+    "8000 m"
+   ],
+   "correctAnswer": 4,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-094"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 23 km to meters.",
+   "options": [
+    "230 m",
+    "23 m",
+    "2300 m",
+    "23000 m",
+    "230000 m"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-095"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 14 km to meters.",
+   "options": [
+    "1400 m",
+    "140000 m",
+    "14 m",
+    "14000 m",
+    "140 m"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-096"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 24 km to meters.",
+   "options": [
+    "24000 m",
+    "240 m",
+    "2400 m",
+    "240000 m",
+    "24 m"
+   ],
+   "correctAnswer": 0,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-097"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 1,
+   "question": "Convert 5 km to meters.",
+   "options": [
+    "50 m",
+    "5000 m",
+    "5 m",
+    "50000 m",
+    "500 m"
+   ],
+   "correctAnswer": 1,
+   "explanation": "1 km = 1,000 m.",
+   "id": "NUM-MEA-098"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 2 hours and 45 minutes?",
+   "options": [
+    "47 minutes",
+    "175 minutes",
+    "120 minutes",
+    "245 minutes",
+    "165 minutes"
+   ],
+   "correctAnswer": 4,
+   "explanation": "2 × 60 + 45 = 165 minutes.",
+   "id": "NUM-MEA-099"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 4 hours and 15 minutes?",
+   "options": [
+    "240 minutes",
+    "19 minutes",
+    "255 minutes",
+    "415 minutes",
+    "265 minutes"
+   ],
+   "correctAnswer": 2,
+   "explanation": "4 × 60 + 15 = 255 minutes.",
+   "id": "NUM-MEA-100"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 3 hours and 20 minutes?",
+   "options": [
+    "180 minutes",
+    "210 minutes",
+    "200 minutes",
+    "23 minutes",
+    "320 minutes"
+   ],
+   "correctAnswer": 2,
+   "explanation": "3 × 60 + 20 = 200 minutes.",
+   "id": "NUM-MEA-101"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 6 hours and 45 minutes?",
+   "options": [
+    "405 minutes",
+    "645 minutes",
+    "51 minutes",
+    "415 minutes",
+    "360 minutes"
+   ],
+   "correctAnswer": 0,
+   "explanation": "6 × 60 + 45 = 405 minutes.",
+   "id": "NUM-MEA-102"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 2 hours and 30 minutes?",
+   "options": [
+    "230 minutes",
+    "160 minutes",
+    "120 minutes",
+    "32 minutes",
+    "150 minutes"
+   ],
+   "correctAnswer": 4,
+   "explanation": "2 × 60 + 30 = 150 minutes.",
+   "id": "NUM-MEA-103"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 2 hours and 15 minutes?",
+   "options": [
+    "145 minutes",
+    "120 minutes",
+    "135 minutes",
+    "17 minutes",
+    "215 minutes"
+   ],
+   "correctAnswer": 2,
+   "explanation": "2 × 60 + 15 = 135 minutes.",
+   "id": "NUM-MEA-104"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 5 hours and 45 minutes?",
+   "options": [
+    "300 minutes",
+    "345 minutes",
+    "355 minutes",
+    "545 minutes",
+    "50 minutes"
+   ],
+   "correctAnswer": 1,
+   "explanation": "5 × 60 + 45 = 345 minutes.",
+   "id": "NUM-MEA-105"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 2,
+   "question": "How many minutes are there in 5 hours and 20 minutes?",
+   "options": [
+    "25 minutes",
+    "330 minutes",
+    "300 minutes",
+    "320 minutes",
+    "520 minutes"
+   ],
+   "correctAnswer": 3,
+   "explanation": "5 × 60 + 20 = 320 minutes.",
+   "id": "NUM-MEA-106"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 144 km/h to meters per second.",
+   "options": [
+    "24 m/s",
+    "38 m/s",
+    "40 m/s",
+    "720 m/s",
+    "43 m/s"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by 1000/3600 = 5/18: 144 × 5/18 = 40 m/s.",
+   "id": "NUM-MEA-107"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 54 km/h to meters per second.",
+   "options": [
+    "15 m/s",
+    "18 m/s",
+    "270 m/s",
+    "9 m/s",
+    "13 m/s"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Multiply by 1000/3600 = 5/18: 54 × 5/18 = 15 m/s.",
+   "id": "NUM-MEA-108"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 108 km/h to meters per second.",
+   "options": [
+    "28 m/s",
+    "33 m/s",
+    "540 m/s",
+    "18 m/s",
+    "30 m/s"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Multiply by 1000/3600 = 5/18: 108 × 5/18 = 30 m/s.",
+   "id": "NUM-MEA-109"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 36 km/h to meters per second.",
+   "options": [
+    "6 m/s",
+    "8 m/s",
+    "10 m/s",
+    "13 m/s",
+    "180 m/s"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by 1000/3600 = 5/18: 36 × 5/18 = 10 m/s.",
+   "id": "NUM-MEA-110"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 126 km/h to meters per second.",
+   "options": [
+    "21 m/s",
+    "630 m/s",
+    "35 m/s",
+    "33 m/s",
+    "38 m/s"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by 1000/3600 = 5/18: 126 × 5/18 = 35 m/s.",
+   "id": "NUM-MEA-111"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 180 km/h to meters per second.",
+   "options": [
+    "53 m/s",
+    "50 m/s",
+    "30 m/s",
+    "48 m/s",
+    "900 m/s"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 1000/3600 = 5/18: 180 × 5/18 = 50 m/s.",
+   "id": "NUM-MEA-112"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 72 km/h to meters per second.",
+   "options": [
+    "23 m/s",
+    "360 m/s",
+    "20 m/s",
+    "18 m/s",
+    "12 m/s"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Multiply by 1000/3600 = 5/18: 72 × 5/18 = 20 m/s.",
+   "id": "NUM-MEA-113"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 3,
+   "question": "Convert 90 km/h to meters per second.",
+   "options": [
+    "450 m/s",
+    "25 m/s",
+    "15 m/s",
+    "23 m/s",
+    "28 m/s"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Multiply by 1000/3600 = 5/18: 90 × 5/18 = 25 m/s.",
+   "id": "NUM-MEA-114"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 6 m² to cm².",
+   "options": [
+    "60 cm²",
+    "600 cm²",
+    "60000 cm²",
+    "600000 cm²",
+    "6000 cm²"
+   ],
+   "correctAnswer": 2,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 6 × 10,000 = 60000.",
+   "id": "NUM-MEA-115"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 7 m² to cm².",
+   "options": [
+    "70 cm²",
+    "700000 cm²",
+    "7000 cm²",
+    "70000 cm²",
+    "700 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 7 × 10,000 = 70000.",
+   "id": "NUM-MEA-116"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 8 m² to cm².",
+   "options": [
+    "8000 cm²",
+    "80 cm²",
+    "800000 cm²",
+    "80000 cm²",
+    "800 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 8 × 10,000 = 80000.",
+   "id": "NUM-MEA-117"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 3 m² to cm².",
+   "options": [
+    "300000 cm²",
+    "300 cm²",
+    "3000 cm²",
+    "30000 cm²",
+    "30 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 3 × 10,000 = 30000.",
+   "id": "NUM-MEA-118"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 9 m² to cm².",
+   "options": [
+    "9000 cm²",
+    "90 cm²",
+    "900000 cm²",
+    "900 cm²",
+    "90000 cm²"
+   ],
+   "correctAnswer": 4,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 9 × 10,000 = 90000.",
+   "id": "NUM-MEA-119"
+  },
+  {
+   "level": "both",
+   "skill": "Unit Conversion",
+   "tier": 4,
+   "question": "Convert 4 m² to cm².",
+   "options": [
+    "400000 cm²",
+    "4000 cm²",
+    "400 cm²",
+    "40000 cm²",
+    "40 cm²"
+   ],
+   "correctAnswer": 3,
+   "explanation": "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 4 × 10,000 = 40000.",
+   "id": "NUM-MEA-120"
+  }
+ ]
+}

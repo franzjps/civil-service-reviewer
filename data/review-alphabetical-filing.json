@@ -1,0 +1,1925 @@
+{
+ "module": "alphabetical-filing",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words take, state, dark, medic, liberty were arranged in alphabetical order, which position would \"liberty\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. dark, 2. liberty, 3. medic, 4. state, 5. take. \"liberty\" is second.",
+   "id": "CLR-ALP-001"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words boot, film, require, stay, tap were arranged in alphabetical order, which position would \"require\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Alphabetical order: 1. boot, 2. film, 3. require, 4. stay, 5. tap. \"require\" is third.",
+   "id": "CLR-ALP-002"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words star, memory, light, tall, repose were arranged in alphabetical order, which position would \"light\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Alphabetical order: 1. light, 2. memory, 3. repose, 4. star, 5. tall. \"light\" is first.",
+   "id": "CLR-ALP-003"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words fine, rescue, medieval, line, pane were arranged in alphabetical order, which position would \"fine\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Alphabetical order: 1. fine, 2. line, 3. medieval, 4. pane, 5. rescue. \"fine\" is first.",
+   "id": "CLR-ALP-004"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words rescue, dare, find, paper, border were arranged in alphabetical order, which position would \"rescue\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Alphabetical order: 1. border, 2. dare, 3. find, 4. paper, 5. rescue. \"rescue\" is fifth.",
+   "id": "CLR-ALP-005"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words cable, one, bold, pantry, recall were arranged in alphabetical order, which position would \"cable\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. bold, 2. cable, 3. one, 4. pantry, 5. recall. \"cable\" is second.",
+   "id": "CLR-ALP-006"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words patch, calf, liable, melon, boat were arranged in alphabetical order, which position would \"calf\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. boat, 2. calf, 3. liable, 4. melon, 5. patch. \"calf\" is second.",
+   "id": "CLR-ALP-007"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 1,
+   "question": "If the words limit, memory, dark, take, office were arranged in alphabetical order, which position would \"dark\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Alphabetical order: 1. dark, 2. limit, 3. memory, 4. office, 5. take. \"dark\" is first.",
+   "id": "CLR-ALP-008"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words border, board, book, bond, body were arranged in alphabetical order, which position would \"body\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. board, 2. body, 3. bond, 4. book, 5. border. \"body\" is second.",
+   "id": "CLR-ALP-009"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words tact, tag, take, tall, talk were arranged in alphabetical order, which position would \"tag\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. tact, 2. tag, 3. take, 4. talk, 5. tall. \"tag\" is second.",
+   "id": "CLR-ALP-010"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words medic, medieval, melon, medium, memory were arranged in alphabetical order, which position would \"melon\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Alphabetical order: 1. medic, 2. medieval, 3. medium, 4. melon, 5. memory. \"melon\" is fourth.",
+   "id": "CLR-ALP-011"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words receipt, recent, recipe, refer, reckon were arranged in alphabetical order, which position would \"recent\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. receipt, 2. recent, 3. recipe, 4. reckon, 5. refer. \"recent\" is second.",
+   "id": "CLR-ALP-012"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words one, omit, office, olive, offer were arranged in alphabetical order, which position would \"olive\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Alphabetical order: 1. offer, 2. office, 3. olive, 4. omit, 5. one. \"olive\" is third.",
+   "id": "CLR-ALP-013"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words station, start, step, state, stern were arranged in alphabetical order, which position would \"step\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Alphabetical order: 1. start, 2. state, 3. station, 4. step, 5. stern. \"step\" is fourth.",
+   "id": "CLR-ALP-014"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words bolt, bond, bold, border, book were arranged in alphabetical order, which position would \"bold\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Alphabetical order: 1. bold, 2. bolt, 3. bond, 4. book, 5. border. \"bold\" is first.",
+   "id": "CLR-ALP-015"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 2,
+   "question": "If the words repose, result, reply, require, report were arranged in alphabetical order, which position would \"repose\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Alphabetical order: 1. reply, 2. report, 3. repose, 4. require, 5. result. \"repose\" is third.",
+   "id": "CLR-ALP-016"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words bolt, bone, boat, board, bold were arranged in descending order, which position would \"bone\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Descending order: 1. bone, 2. bolt, 3. bold, 4. boat, 5. board. \"bone\" is first.",
+   "id": "CLR-ALP-017"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words party, panel, pantry, pat, pane were arranged in alphabetical order, which position would \"party\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Alphabetical order: 1. pane, 2. panel, 3. pantry, 4. party, 5. pat. \"party\" is fourth.",
+   "id": "CLR-ALP-018"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words repair, resist, require, repeat, report were arranged in alphabetical order, which position would \"repeat\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. repair, 2. repeat, 3. report, 4. require, 5. resist. \"repeat\" is second.",
+   "id": "CLR-ALP-019"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words tap, take, tag, tackle, table were arranged in alphabetical order, which position would \"tag\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Alphabetical order: 1. table, 2. tackle, 3. tag, 4. take, 5. tap. \"tag\" is third.",
+   "id": "CLR-ALP-020"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words fire, film, file, fill, firm were arranged in alphabetical order, which position would \"firm\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Alphabetical order: 1. file, 2. fill, 3. film, 4. fire, 5. firm. \"firm\" is fifth.",
+   "id": "CLR-ALP-021"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words dark, dare, dash, dance, danger were arranged in descending order, which position would \"dare\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Descending order: 1. dash, 2. dark, 3. dare, 4. danger, 5. dance. \"dare\" is third.",
+   "id": "CLR-ALP-022"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words mediocre, medium, medic, melon, member were arranged in alphabetical order, which position would \"member\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Alphabetical order: 1. medic, 2. mediocre, 3. medium, 4. melon, 5. member. \"member\" is fifth.",
+   "id": "CLR-ALP-023"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 3,
+   "question": "If the words steel, star, steam, step, station were arranged in alphabetical order, which position would \"steel\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Alphabetical order: 1. star, 2. station, 3. steam, 4. steel, 5. step. \"steel\" is fourth.",
+   "id": "CLR-ALP-024"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words receipt, refer, reckon, receive, recall were arranged in alphabetical order, which position would \"receipt\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. recall, 2. receipt, 3. receive, 4. reckon, 5. refer. \"receipt\" is second.",
+   "id": "CLR-ALP-025"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words border, bolt, boat, book, bone were arranged in alphabetical order, which position would \"book\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Alphabetical order: 1. boat, 2. bolt, 3. bone, 4. book, 5. border. \"book\" is fourth.",
+   "id": "CLR-ALP-026"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words pane, party, pantry, panel, pace were arranged in alphabetical order, which position would \"panel\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Alphabetical order: 1. pace, 2. pane, 3. panel, 4. pantry, 5. party. \"panel\" is third.",
+   "id": "CLR-ALP-027"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words repeat, reply, repose, report, result were arranged in descending order, which position would \"reply\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Descending order: 1. result, 2. repose, 3. report, 4. reply, 5. repeat. \"reply\" is fourth.",
+   "id": "CLR-ALP-028"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words old, open, omit, olive, oil were arranged in descending order, which position would \"open\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Descending order: 1. open, 2. omit, 3. olive, 4. old, 5. oil. \"open\" is first.",
+   "id": "CLR-ALP-029"
+  },
+  {
+   "level": "both",
+   "skill": "Word Order",
+   "tier": 4,
+   "question": "If the words stand, stern, step, steam, star were arranged in alphabetical order, which position would \"star\" take?",
+   "options": [
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Alphabetical order: 1. stand, 2. star, 3. steam, 4. step, 5. stern. \"star\" is second.",
+   "id": "CLR-ALP-030"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Aquino, Fe\n2. Quiambao, Luz\n3. Evangelista, Teresa\n4. Flores, Noel\n5. Nepomuceno, Liza",
+   "options": [
+    "Aquino, Fe",
+    "Nepomuceno, Liza",
+    "Evangelista, Teresa",
+    "Quiambao, Luz",
+    "Flores, Noel"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Aquino, Fe; 2. Evangelista, Teresa; 3. Flores, Noel; 4. Nepomuceno, Liza; 5. Quiambao, Luz. The second name is Evangelista, Teresa.",
+   "id": "CLR-ALP-031"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Javier, Luz\n2. Zulueta, Lourdes\n3. Yap, Dante\n4. Santillan, Carlos\n5. Ocampo, Corazon",
+   "options": [
+    "Santillan, Carlos",
+    "Zulueta, Lourdes",
+    "Javier, Luz",
+    "Ocampo, Corazon",
+    "Yap, Dante"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Javier, Luz; 2. Ocampo, Corazon; 3. Santillan, Carlos; 4. Yap, Dante; 5. Zulueta, Lourdes. The third name is Santillan, Carlos.",
+   "id": "CLR-ALP-032"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Lim, Noel\n2. Quiambao, Juan\n3. Ong, Jose\n4. Vergara, Juan\n5. Bautista, Ana",
+   "options": [
+    "Lim, Noel",
+    "Ong, Jose",
+    "Quiambao, Juan",
+    "Bautista, Ana",
+    "Vergara, Juan"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Bautista, Ana; 2. Lim, Noel; 3. Ong, Jose; 4. Quiambao, Juan; 5. Vergara, Juan. The fourth name is Quiambao, Juan.",
+   "id": "CLR-ALP-033"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Aquino, Teresa\n2. Reynoso, Corazon\n3. Gonzales, Fe\n4. Dalisay, Ramon\n5. Espino, Miguel",
+   "options": [
+    "Dalisay, Ramon",
+    "Gonzales, Fe",
+    "Aquino, Teresa",
+    "Espino, Miguel",
+    "Reynoso, Corazon"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Aquino, Teresa; 2. Dalisay, Ramon; 3. Espino, Miguel; 4. Gonzales, Fe; 5. Reynoso, Corazon. The fourth name is Gonzales, Fe.",
+   "id": "CLR-ALP-034"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Lazaro, Miguel\n2. Manalo, Liza\n3. Villegas, Ramon\n4. Pascual, Jose\n5. Tolentino, Pedro",
+   "options": [
+    "Lazaro, Miguel",
+    "Pascual, Jose",
+    "Tolentino, Pedro",
+    "Manalo, Liza",
+    "Villegas, Ramon"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Lazaro, Miguel; 2. Manalo, Liza; 3. Pascual, Jose; 4. Tolentino, Pedro; 5. Villegas, Ramon. The third name is Pascual, Jose.",
+   "id": "CLR-ALP-035"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Uy, Maria\n2. Reyes, Ana\n3. Belmonte, Noel\n4. Villegas, Ana\n5. Castillo, Dante",
+   "options": [
+    "Villegas, Ana",
+    "Belmonte, Noel",
+    "Reyes, Ana",
+    "Uy, Maria",
+    "Castillo, Dante"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Belmonte, Noel; 2. Castillo, Dante; 3. Reyes, Ana; 4. Uy, Maria; 5. Villegas, Ana. The third name is Reyes, Ana.",
+   "id": "CLR-ALP-036"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Pascual, Corazon\n2. Yap, Dante\n3. Quiambao, Carlos\n4. Bernardo, Nena\n5. Aquino, Luz",
+   "options": [
+    "Pascual, Corazon",
+    "Bernardo, Nena",
+    "Yap, Dante",
+    "Quiambao, Carlos",
+    "Aquino, Luz"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Aquino, Luz; 2. Bernardo, Nena; 3. Pascual, Corazon; 4. Quiambao, Carlos; 5. Yap, Dante. The second name is Bernardo, Nena.",
+   "id": "CLR-ALP-037"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 1,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Abad, Eduardo\n2. Cabrera, Miguel\n3. Zulueta, Miguel\n4. Dalisay, Miguel\n5. Fernandez, Nena",
+   "options": [
+    "Fernandez, Nena",
+    "Abad, Eduardo",
+    "Cabrera, Miguel",
+    "Zulueta, Miguel",
+    "Dalisay, Miguel"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Abad, Eduardo; 2. Cabrera, Miguel; 3. Dalisay, Miguel; 4. Fernandez, Nena; 5. Zulueta, Miguel. The first name is Abad, Eduardo.",
+   "id": "CLR-ALP-038"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed last?\n1. Gutierrez, Dante\n2. Galang, Liza\n3. Garcia, Corazon\n4. Alvarez, Eduardo\n5. Vergara, Maria",
+   "options": [
+    "Alvarez, Eduardo",
+    "Vergara, Maria",
+    "Galang, Liza",
+    "Gutierrez, Dante",
+    "Garcia, Corazon"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Alvarez, Eduardo; 2. Galang, Liza; 3. Garcia, Corazon; 4. Gutierrez, Dante; 5. Vergara, Maria. The last name is Vergara, Maria.",
+   "id": "CLR-ALP-039"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed last?\n1. Dizon, Teresa\n2. Ocampo, Gloria\n3. Abad, Juan\n4. Alvarez, Elena\n5. Aguilar, Rosa",
+   "options": [
+    "Alvarez, Elena",
+    "Abad, Juan",
+    "Aguilar, Rosa",
+    "Ocampo, Gloria",
+    "Dizon, Teresa"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct filing order: 1. Abad, Juan; 2. Aguilar, Rosa; 3. Alvarez, Elena; 4. Dizon, Teresa; 5. Ocampo, Gloria. The last name is Ocampo, Gloria.",
+   "id": "CLR-ALP-040"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Lim, Dante\n2. Lopez, Teresa\n3. Domingo, Maria\n4. Lazaro, Nena\n5. Evangelista, Fe",
+   "options": [
+    "Lopez, Teresa",
+    "Domingo, Maria",
+    "Evangelista, Fe",
+    "Lim, Dante",
+    "Lazaro, Nena"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Domingo, Maria; 2. Evangelista, Fe; 3. Lazaro, Nena; 4. Lim, Dante; 5. Lopez, Teresa. The first name is Domingo, Maria.",
+   "id": "CLR-ALP-041"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Paraiso, Jose\n2. Pascual, Rico\n3. Ramirez, Juan\n4. Cruz, Jose\n5. Pangilinan, Liza",
+   "options": [
+    "Pangilinan, Liza",
+    "Pascual, Rico",
+    "Ramirez, Juan",
+    "Paraiso, Jose",
+    "Cruz, Jose"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Cruz, Jose; 2. Pangilinan, Liza; 3. Paraiso, Jose; 4. Pascual, Rico; 5. Ramirez, Juan. The second name is Pangilinan, Liza.",
+   "id": "CLR-ALP-042"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Gutierrez, Rico\n2. Aguilar, Eduardo\n3. Alvarez, Teresa\n4. Magno, Rosa\n5. Abad, Ramon",
+   "options": [
+    "Gutierrez, Rico",
+    "Alvarez, Teresa",
+    "Aguilar, Eduardo",
+    "Magno, Rosa",
+    "Abad, Ramon"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Abad, Ramon; 2. Aguilar, Eduardo; 3. Alvarez, Teresa; 4. Gutierrez, Rico; 5. Magno, Rosa. The third name is Alvarez, Teresa.",
+   "id": "CLR-ALP-043"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Castro, Juan\n2. Santiago, Fe\n3. Hernandez, Carlos\n4. Cabrera, Luz\n5. Cuenca, Lourdes",
+   "options": [
+    "Hernandez, Carlos",
+    "Cabrera, Luz",
+    "Santiago, Fe",
+    "Castro, Juan",
+    "Cuenca, Lourdes"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Cabrera, Luz; 2. Castro, Juan; 3. Cuenca, Lourdes; 4. Hernandez, Carlos; 5. Santiago, Fe. The first name is Cabrera, Luz.",
+   "id": "CLR-ALP-044"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Aquino, Noel\n2. Diaz, Ramon\n3. Dizon, Antonio\n4. Dalisay, Rico\n5. Pascual, Fe",
+   "options": [
+    "Pascual, Fe",
+    "Diaz, Ramon",
+    "Aquino, Noel",
+    "Dalisay, Rico",
+    "Dizon, Antonio"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Aquino, Noel; 2. Dalisay, Rico; 3. Diaz, Ramon; 4. Dizon, Antonio; 5. Pascual, Fe. The first name is Aquino, Noel.",
+   "id": "CLR-ALP-045"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 2,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Enriquez, Carlos\n2. Domingo, Ana\n3. Bernardo, Pedro\n4. Diaz, Nena\n5. Dalisay, Antonio",
+   "options": [
+    "Bernardo, Pedro",
+    "Domingo, Ana",
+    "Dalisay, Antonio",
+    "Enriquez, Carlos",
+    "Diaz, Nena"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Bernardo, Pedro; 2. Dalisay, Antonio; 3. Diaz, Nena; 4. Domingo, Ana; 5. Enriquez, Carlos. The second name is Dalisay, Antonio.",
+   "id": "CLR-ALP-046"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed last?\n1. Mendoza, Maria\n2. Mendoza, Marissa\n3. Mendoza, Marcela\n4. Mendoza, Marlon\n5. Mendoza, Marco",
+   "options": [
+    "Mendoza, Marlon",
+    "Mendoza, Maria",
+    "Mendoza, Marcela",
+    "Mendoza, Marissa",
+    "Mendoza, Marco"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Mendoza, Marcela; 2. Mendoza, Marco; 3. Mendoza, Maria; 4. Mendoza, Marissa; 5. Mendoza, Marlon. The last name is Mendoza, Marlon.",
+   "id": "CLR-ALP-047"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Alvarez, Marco\n2. Alvarez, Marcela\n3. Alvarez, Marlon\n4. Alvarez, Marvin\n5. Alvarez, Maria",
+   "options": [
+    "Alvarez, Marco",
+    "Alvarez, Marlon",
+    "Alvarez, Marcela",
+    "Alvarez, Maria",
+    "Alvarez, Marvin"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Alvarez, Marcela; 2. Alvarez, Marco; 3. Alvarez, Maria; 4. Alvarez, Marlon; 5. Alvarez, Marvin. The fourth name is Alvarez, Marlon.",
+   "id": "CLR-ALP-048"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Belmonte, Maria\n2. Belmonte, Marvin\n3. Belmonte, Marco\n4. Belmonte, Marissa\n5. Belmonte, Marcela",
+   "options": [
+    "Belmonte, Marcela",
+    "Belmonte, Marissa",
+    "Belmonte, Marco",
+    "Belmonte, Marvin",
+    "Belmonte, Maria"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct filing order: 1. Belmonte, Marcela; 2. Belmonte, Marco; 3. Belmonte, Maria; 4. Belmonte, Marissa; 5. Belmonte, Marvin. The third name is Belmonte, Maria.",
+   "id": "CLR-ALP-049"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Tolentino, Marissa\n2. Tolentino, Marco\n3. Tolentino, Marlon\n4. Tolentino, Maria\n5. Tolentino, Mario",
+   "options": [
+    "Tolentino, Maria",
+    "Tolentino, Marlon",
+    "Tolentino, Mario",
+    "Tolentino, Marissa",
+    "Tolentino, Marco"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Tolentino, Marco; 2. Tolentino, Maria; 3. Tolentino, Mario; 4. Tolentino, Marissa; 5. Tolentino, Marlon. The second name is Tolentino, Maria.",
+   "id": "CLR-ALP-050"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Lopez, Marvin\n2. Lopez, Marissa\n3. Lopez, Marlon\n4. Lopez, Maria\n5. Lopez, Marcela",
+   "options": [
+    "Lopez, Marcela",
+    "Lopez, Marlon",
+    "Lopez, Maria",
+    "Lopez, Marvin",
+    "Lopez, Marissa"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Lopez, Marcela; 2. Lopez, Maria; 3. Lopez, Marissa; 4. Lopez, Marlon; 5. Lopez, Marvin. The first name is Lopez, Marcela.",
+   "id": "CLR-ALP-051"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed last?\n1. Castro, Marco\n2. Castro, Marites\n3. Castro, Marcela\n4. Castro, Mario\n5. Castro, Marissa",
+   "options": [
+    "Castro, Mario",
+    "Castro, Marites",
+    "Castro, Marco",
+    "Castro, Marcela",
+    "Castro, Marissa"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Castro, Marcela; 2. Castro, Marco; 3. Castro, Mario; 4. Castro, Marissa; 5. Castro, Marites. The last name is Castro, Marites.",
+   "id": "CLR-ALP-052"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed first?\n1. Guevarra, Marcela\n2. Guevarra, Marites\n3. Guevarra, Mario\n4. Guevarra, Marlon\n5. Guevarra, Marco",
+   "options": [
+    "Guevarra, Marlon",
+    "Guevarra, Marcela",
+    "Guevarra, Mario",
+    "Guevarra, Marco",
+    "Guevarra, Marites"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Guevarra, Marcela; 2. Guevarra, Marco; 3. Guevarra, Mario; 4. Guevarra, Marites; 5. Guevarra, Marlon. The first name is Guevarra, Marcela.",
+   "id": "CLR-ALP-053"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 3,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Belmonte, Marcela\n2. Belmonte, Marites\n3. Belmonte, Marissa\n4. Belmonte, Mario\n5. Belmonte, Maria",
+   "options": [
+    "Belmonte, Marcela",
+    "Belmonte, Marissa",
+    "Belmonte, Marites",
+    "Belmonte, Mario",
+    "Belmonte, Maria"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Belmonte, Marcela; 2. Belmonte, Maria; 3. Belmonte, Mario; 4. Belmonte, Marissa; 5. Belmonte, Marites. The fourth name is Belmonte, Marissa.",
+   "id": "CLR-ALP-054"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Santiago, Mario\n2. Santiago, Marlon\n3. Santillan, Marites\n4. Santos, Mario\n5. Santana, Marvin",
+   "options": [
+    "Santana, Marvin",
+    "Santiago, Marlon",
+    "Santiago, Mario",
+    "Santos, Mario",
+    "Santillan, Marites"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct filing order: 1. Santana, Marvin; 2. Santiago, Mario; 3. Santiago, Marlon; 4. Santillan, Marites; 5. Santos, Mario. The fourth name is Santillan, Marites.",
+   "id": "CLR-ALP-055"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed fourth?\n1. Cuevas, Marissa\n2. Cuevas, Marcela\n3. Cruzat, Marissa\n4. Cuenca, Marites\n5. Cruzado, Marites",
+   "options": [
+    "Cruzado, Marites",
+    "Cuevas, Marissa",
+    "Cuevas, Marcela",
+    "Cruzat, Marissa",
+    "Cuenca, Marites"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct filing order: 1. Cruzado, Marites; 2. Cruzat, Marissa; 3. Cuenca, Marites; 4. Cuevas, Marcela; 5. Cuevas, Marissa. The fourth name is Cuevas, Marcela.",
+   "id": "CLR-ALP-056"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed last?\n1. Mena, Marcela\n2. Mena, Marco\n3. Mendoza, Maria\n4. Mendes, Maria\n5. Mendiola, Marco",
+   "options": [
+    "Mendoza, Maria",
+    "Mena, Marcela",
+    "Mendes, Maria",
+    "Mendiola, Marco",
+    "Mena, Marco"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Mena, Marcela; 2. Mena, Marco; 3. Mendes, Maria; 4. Mendiola, Marco; 5. Mendoza, Maria. The last name is Mendoza, Maria.",
+   "id": "CLR-ALP-057"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Santana, Maria\n2. Santana, Marissa\n3. Santillan, Maria\n4. Santiago, Marlon\n5. Santos, Mario",
+   "options": [
+    "Santiago, Marlon",
+    "Santana, Marissa",
+    "Santillan, Maria",
+    "Santos, Mario",
+    "Santana, Maria"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Santana, Maria; 2. Santana, Marissa; 3. Santiago, Marlon; 4. Santillan, Maria; 5. Santos, Mario. The third name is Santiago, Marlon.",
+   "id": "CLR-ALP-058"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed second?\n1. Reyes, Marcela\n2. Reyes, Marlon\n3. Reynoso, Marvin\n4. Rey, Marco\n5. Reyna, Maria",
+   "options": [
+    "Reyes, Marcela",
+    "Reynoso, Marvin",
+    "Rey, Marco",
+    "Reyes, Marlon",
+    "Reyna, Maria"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct filing order: 1. Rey, Marco; 2. Reyes, Marcela; 3. Reyes, Marlon; 4. Reyna, Maria; 5. Reynoso, Marvin. The second name is Reyes, Marcela.",
+   "id": "CLR-ALP-059"
+  },
+  {
+   "level": "both",
+   "skill": "Name Filing",
+   "tier": 4,
+   "question": "Files are arranged alphabetically by surname, then by first name. Which name is filed third?\n1. Gardiola, Marissa\n2. Gardiola, Marcela\n3. Garcia, Marvin\n4. Garay, Marlon\n5. Garces, Marcela",
+   "options": [
+    "Gardiola, Marissa",
+    "Garcia, Marvin",
+    "Garces, Marcela",
+    "Garay, Marlon",
+    "Gardiola, Marcela"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct filing order: 1. Garay, Marlon; 2. Garces, Marcela; 3. Garcia, Marvin; 4. Gardiola, Marcela; 5. Gardiola, Marissa. The third name is Garcia, Marvin.",
+   "id": "CLR-ALP-060"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nOng, Juan",
+   "options": [
+    "Aa – Ff",
+    "Fg – Lg",
+    "Lh – Qy",
+    "Qz – Vk",
+    "Vl – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"On\". It falls in the drawer Lh – Qy.",
+   "id": "CLR-ALP-061"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nRamirez, Jose",
+   "options": [
+    "Aa – Fn",
+    "Fo – La",
+    "Lb – Pq",
+    "Pr – Vh",
+    "Vi – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Ra\". It falls in the drawer Pr – Vh.",
+   "id": "CLR-ALP-062"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nMagno, Elena",
+   "options": [
+    "Aa – Fo",
+    "Fp – Kj",
+    "Kk – Pq",
+    "Pr – Uz",
+    "Va – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"Ma\". It falls in the drawer Kk – Pq.",
+   "id": "CLR-ALP-063"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nCabrera, Ramon",
+   "options": [
+    "Aa – Fh",
+    "Fi – Lp",
+    "Lq – Os",
+    "Ot – Uf",
+    "Ug – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"Ca\". It falls in the drawer Aa – Fh.",
+   "id": "CLR-ALP-064"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nZamora, Carlos",
+   "options": [
+    "Aa – Gj",
+    "Gk – Jn",
+    "Jo – Oy",
+    "Oz – To",
+    "Tp – Zz"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The filing key is \"Za\". It falls in the drawer Tp – Zz.",
+   "id": "CLR-ALP-065"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nManalo, Carlos",
+   "options": [
+    "Aa – Ep",
+    "Eq – Lm",
+    "Ln – Oy",
+    "Oz – Tn",
+    "To – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"Ma\". It falls in the drawer Ln – Oy.",
+   "id": "CLR-ALP-066"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nEvangelista, Rosa",
+   "options": [
+    "Aa – Dx",
+    "Dy – Kx",
+    "Ky – Pu",
+    "Pv – Tl",
+    "Tm – Zz"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The filing key is \"Ev\". It falls in the drawer Dy – Kx.",
+   "id": "CLR-ALP-067"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 1,
+   "question": "Files are kept by the first two letters of the surname.\nIn which drawer should this file be placed?\nZamora, Teresa",
+   "options": [
+    "Aa – Gd",
+    "Ge – Lf",
+    "Lg – Pd",
+    "Pe – Vo",
+    "Vp – Zz"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The filing key is \"Za\". It falls in the drawer Vp – Zz.",
+   "id": "CLR-ALP-068"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nRosa Santiago",
+   "options": [
+    "Aa – Fq",
+    "Fr – Kw",
+    "Kx – Ol",
+    "Om – Uy",
+    "Uz – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Sa\". It falls in the drawer Om – Uy.",
+   "id": "CLR-ALP-069"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nGloria Cruz",
+   "options": [
+    "Aa – Gc",
+    "Gd – Ln",
+    "Lo – Ph",
+    "Pi – Tm",
+    "Tn – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"Cr\". It falls in the drawer Aa – Gc.",
+   "id": "CLR-ALP-070"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nLuz Valdez",
+   "options": [
+    "Aa – Fd",
+    "Fe – Jz",
+    "Ka – Pq",
+    "Pr – Uz",
+    "Va – Zz"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The filing key is \"Va\". It falls in the drawer Va – Zz.",
+   "id": "CLR-ALP-071"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nJuan Bautista",
+   "options": [
+    "Aa – Fy",
+    "Fz – Lh",
+    "Li – Qs",
+    "Qt – Vn",
+    "Vo – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"Ba\". It falls in the drawer Aa – Fy.",
+   "id": "CLR-ALP-072"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nJose Cabrera",
+   "options": [
+    "Aa – Gl",
+    "Gm – Jf",
+    "Jg – Pd",
+    "Pe – Vc",
+    "Vd – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"Ca\". It falls in the drawer Aa – Gl.",
+   "id": "CLR-ALP-073"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nLourdes Nepomuceno",
+   "options": [
+    "Aa – Fe",
+    "Ff – La",
+    "Lb – Oy",
+    "Oz – Ui",
+    "Uj – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"Ne\". It falls in the drawer Lb – Oy.",
+   "id": "CLR-ALP-074"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nMiguel Paraiso",
+   "options": [
+    "Aa – Ff",
+    "Fg – Kw",
+    "Kx – Oy",
+    "Oz – Vx",
+    "Vy – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Pa\". It falls in the drawer Oz – Vx.",
+   "id": "CLR-ALP-075"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 2,
+   "question": "Files are kept by the first two letters of the surname (the last word in the name).\nIn which drawer should this file be placed?\nLiza Fernandez",
+   "options": [
+    "Aa – Ew",
+    "Ex – Kx",
+    "Ky – Oy",
+    "Oz – Vm",
+    "Vn – Zz"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The filing key is \"Fe\". It falls in the drawer Ex – Kx.",
+   "id": "CLR-ALP-076"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nHon. Juan Fernandez",
+   "options": [
+    "Aa – Ex",
+    "Ey – Jy",
+    "Jz – Pt",
+    "Pu – Tt",
+    "Tu – Zz"
+   ],
+   "correctAnswer": 1,
+   "explanation": "The filing key is \"Fe\". It falls in the drawer Ey – Jy.",
+   "id": "CLR-ALP-077"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nAtty. Nena Reynoso",
+   "options": [
+    "Aa – Fs",
+    "Ft – Kw",
+    "Kx – Qo",
+    "Qp – Up",
+    "Uq – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Re\". It falls in the drawer Qp – Up.",
+   "id": "CLR-ALP-078"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nEngr. Juan Valdez",
+   "options": [
+    "Aa – Fb",
+    "Fc – Lq",
+    "Lr – Oj",
+    "Ok – Un",
+    "Uo – Zz"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The filing key is \"Va\". It falls in the drawer Uo – Zz.",
+   "id": "CLR-ALP-079"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nHon. Rosa Salvador",
+   "options": [
+    "Aa – Fk",
+    "Fl – Jx",
+    "Jy – Om",
+    "On – Ul",
+    "Um – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Sa\". It falls in the drawer On – Ul.",
+   "id": "CLR-ALP-080"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nEngr. Rico Ong",
+   "options": [
+    "Aa – Ed",
+    "Ee – Lq",
+    "Lr – Pc",
+    "Pd – Vi",
+    "Vj – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"On\". It falls in the drawer Lr – Pc.",
+   "id": "CLR-ALP-081"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nEngr. Ramon Padilla",
+   "options": [
+    "Aa – Fg",
+    "Fh – Jd",
+    "Je – Qk",
+    "Ql – Vz",
+    "Wa – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"Pa\". It falls in the drawer Je – Qk.",
+   "id": "CLR-ALP-082"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nEngr. Pedro Ramos",
+   "options": [
+    "Aa – Fi",
+    "Fj – Lm",
+    "Ln – Qi",
+    "Qj – Uf",
+    "Ug – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Ra\". It falls in the drawer Qj – Uf.",
+   "id": "CLR-ALP-083"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 3,
+   "question": "Files are kept by the first two letters of the surname. Ignore titles such as Dr., Atty., and Engr.\nIn which drawer should this file be placed?\nProf. Luz Castro",
+   "options": [
+    "Aa – Er",
+    "Es – Jh",
+    "Ji – Pe",
+    "Pf – Vj",
+    "Vk – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"Ca\". It falls in the drawer Aa – Er.",
+   "id": "CLR-ALP-084"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Business files are kept by the first two letters of the first word. Ignore \"The\".\nIn which drawer should this file be placed?\nRoyal Pawnshop",
+   "options": [
+    "Aa – Fg",
+    "Fh – Kr",
+    "Ks – Px",
+    "Py – Tp",
+    "Tq – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Ro\". It falls in the drawer Py – Tp.",
+   "id": "CLR-ALP-085"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Business files are kept by the first two letters of the first word. Ignore \"The\".\nIn which drawer should this file be placed?\nSunrise Pharmacy",
+   "options": [
+    "Aa – Gd",
+    "Ge – Jc",
+    "Jd – Qj",
+    "Qk – Wc",
+    "Wd – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Su\". It falls in the drawer Qk – Wc.",
+   "id": "CLR-ALP-086"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Files are kept by the first two letters of the surname. A prefix such as De la, San, or Mac is part of the surname; ignore spaces.\nIn which drawer should this file be placed?\nNena De la Paz",
+   "options": [
+    "Aa – Fo",
+    "Fp – Ln",
+    "Lo – Ov",
+    "Ow – Uv",
+    "Uw – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"De\". It falls in the drawer Aa – Fo.",
+   "id": "CLR-ALP-087"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Files are kept by the first two letters of the surname. A prefix such as De la, San, or Mac is part of the surname; ignore spaces.\nIn which drawer should this file be placed?\nLuz De los Pedro",
+   "options": [
+    "Aa – Ez",
+    "Fa – Lb",
+    "Lc – Qi",
+    "Qj – Vn",
+    "Vo – Zz"
+   ],
+   "correctAnswer": 0,
+   "explanation": "The filing key is \"De\". It falls in the drawer Aa – Ez.",
+   "id": "CLR-ALP-088"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Business files are kept by the first two letters of the first word. Ignore \"The\".\nIn which drawer should this file be placed?\nMabuhay Dental Clinic",
+   "options": [
+    "Aa – Gl",
+    "Gm – Kn",
+    "Ko – Pc",
+    "Pd – Wd",
+    "We – Zz"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The filing key is \"Ma\". It falls in the drawer Ko – Pc.",
+   "id": "CLR-ALP-089"
+  },
+  {
+   "level": "both",
+   "skill": "File Drawer Ranges",
+   "tier": 4,
+   "question": "Business files are kept by the first two letters of the first word. Ignore \"The\".\nIn which drawer should this file be placed?\nRainbow Bakery",
+   "options": [
+    "Aa – Dw",
+    "Dx – La",
+    "Lb – Pb",
+    "Pc – Vl",
+    "Vm – Zz"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The filing key is \"Ra\". It falls in the drawer Pc – Vl.",
+   "id": "CLR-ALP-090"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Golden Printing\n2. Blue Boutique\n3. Rainbow Salon\n4. Metro Boutique\n5. Happy Salon\nWhich is the correct order?",
+   "options": [
+    "34512",
+    "21543",
+    "24135",
+    "31452",
+    "54312"
+   ],
+   "correctAnswer": 1,
+   "explanation": "21543. Blue Boutique → Golden Printing → Happy Salon → Metro Boutique → Rainbow Salon",
+   "id": "CLR-ALP-091"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Green Pawnshop\n2. Lucky Dental Clinic\n3. Happy Dental Clinic\n4. Metro Dental Clinic\n5. Bright Grocery\nWhich is the correct order?",
+   "options": [
+    "42315",
+    "51342",
+    "51324",
+    "42513",
+    "41352"
+   ],
+   "correctAnswer": 2,
+   "explanation": "51324. Bright Grocery → Green Pawnshop → Happy Dental Clinic → Lucky Dental Clinic → Metro Dental Clinic",
+   "id": "CLR-ALP-092"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Bayanihan Salon\n2. Metro Pawnshop\n3. Happy Bakery\n4. Silver Printing\n5. Golden Bookstore\nWhich is the correct order?",
+   "options": [
+    "12453",
+    "41325",
+    "35214",
+    "15324",
+    "54312"
+   ],
+   "correctAnswer": 3,
+   "explanation": "15324. Bayanihan Salon → Golden Bookstore → Happy Bakery → Metro Pawnshop → Silver Printing",
+   "id": "CLR-ALP-093"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Royal Laundry\n2. Metro Laundry\n3. Green Pawnshop\n4. Lucky Pharmacy\n5. Sunrise Boutique\nWhich is the correct order?",
+   "options": [
+    "34215",
+    "15243",
+    "34251",
+    "25413",
+    "31452"
+   ],
+   "correctAnswer": 0,
+   "explanation": "34215. Green Pawnshop → Lucky Pharmacy → Metro Laundry → Royal Laundry → Sunrise Boutique",
+   "id": "CLR-ALP-094"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Silver Boutique\n2. Metro Pawnshop\n3. Bayanihan Eatery\n4. Royal Hardware\n5. Lucky Bookstore\nWhich is the correct order?",
+   "options": [
+    "14235",
+    "32541",
+    "53412",
+    "35214",
+    "35241"
+   ],
+   "correctAnswer": 4,
+   "explanation": "35241. Bayanihan Eatery → Lucky Bookstore → Metro Pawnshop → Royal Hardware → Silver Boutique",
+   "id": "CLR-ALP-095"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Mabuhay Laundry\n2. Blue Grocery\n3. Happy Printing\n4. Pinoy Laundry\n5. Royal Bakery\nWhich is the correct order?",
+   "options": [
+    "34215",
+    "21354",
+    "23415",
+    "13452",
+    "23145"
+   ],
+   "correctAnswer": 4,
+   "explanation": "23145. Blue Grocery → Happy Printing → Mabuhay Laundry → Pinoy Laundry → Royal Bakery",
+   "id": "CLR-ALP-096"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Silver Laundry\n2. Pinoy Bookstore\n3. Mabuhay Pawnshop\n4. Green Hardware\n5. Rainbow Bookstore\nWhich is the correct order?",
+   "options": [
+    "43521",
+    "43251",
+    "13452",
+    "35412",
+    "34251"
+   ],
+   "correctAnswer": 1,
+   "explanation": "43251. Green Hardware → Mabuhay Pawnshop → Pinoy Bookstore → Rainbow Bookstore → Silver Laundry",
+   "id": "CLR-ALP-097"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 1,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Happy Salon\n2. Sunrise Pharmacy\n3. Lucky Grocery\n4. Royal Pawnshop\n5. Metro Dental Clinic\nWhich is the correct order?",
+   "options": [
+    "13542",
+    "13524",
+    "21534",
+    "13452",
+    "21435"
+   ],
+   "correctAnswer": 0,
+   "explanation": "13542. Happy Salon → Lucky Grocery → Metro Dental Clinic → Royal Pawnshop → Sunrise Pharmacy",
+   "id": "CLR-ALP-098"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Bayanihan Hardware\n2. Bayanihan Pharmacy\n3. Bayanihan Salon\n4. Bayanihan Grocery\n5. Bayanihan Dental Clinic\nWhich is the correct order?",
+   "options": [
+    "34251",
+    "45123",
+    "23145",
+    "54123",
+    "53142"
+   ],
+   "correctAnswer": 3,
+   "explanation": "54123. Bayanihan Dental Clinic → Bayanihan Grocery → Bayanihan Hardware → Bayanihan Pharmacy → Bayanihan Salon",
+   "id": "CLR-ALP-099"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Metro Grocery\n2. Metro Hardware\n3. Metro Pharmacy\n4. Metro Eatery\n5. Metro Bookstore\nWhich is the correct order?",
+   "options": [
+    "54123",
+    "12543",
+    "45123",
+    "32451",
+    "13245"
+   ],
+   "correctAnswer": 0,
+   "explanation": "54123. Metro Bookstore → Metro Eatery → Metro Grocery → Metro Hardware → Metro Pharmacy",
+   "id": "CLR-ALP-100"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Happy Pharmacy\n2. Happy Eatery\n3. Happy Hardware\n4. Happy Dental Clinic\n5. Happy Pawnshop\nWhich is the correct order?",
+   "options": [
+    "42351",
+    "43251",
+    "51342",
+    "14532",
+    "42315"
+   ],
+   "correctAnswer": 0,
+   "explanation": "42351. Happy Dental Clinic → Happy Eatery → Happy Hardware → Happy Pawnshop → Happy Pharmacy",
+   "id": "CLR-ALP-101"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Bright Pharmacy\n2. Bright Printing\n3. Bright Dental Clinic\n4. Bright Laundry\n5. Bright Grocery\nWhich is the correct order?",
+   "options": [
+    "53412",
+    "41523",
+    "35412",
+    "51324",
+    "15342"
+   ],
+   "correctAnswer": 2,
+   "explanation": "35412. Bright Dental Clinic → Bright Grocery → Bright Laundry → Bright Pharmacy → Bright Printing",
+   "id": "CLR-ALP-102"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Mabuhay Grocery\n2. Mabuhay Salon\n3. Mabuhay Eatery\n4. Mabuhay Bakery\n5. Mabuhay Hardware\nWhich is the correct order?",
+   "options": [
+    "25134",
+    "41352",
+    "31452",
+    "43215",
+    "43152"
+   ],
+   "correctAnswer": 4,
+   "explanation": "43152. Mabuhay Bakery → Mabuhay Eatery → Mabuhay Grocery → Mabuhay Hardware → Mabuhay Salon",
+   "id": "CLR-ALP-103"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Green Hardware\n2. Green Printing\n3. Green Boutique\n4. Green Grocery\n5. Green Salon\nWhich is the correct order?",
+   "options": [
+    "52143",
+    "21453",
+    "23451",
+    "34125",
+    "41523"
+   ],
+   "correctAnswer": 3,
+   "explanation": "34125. Green Boutique → Green Grocery → Green Hardware → Green Printing → Green Salon",
+   "id": "CLR-ALP-104"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Rainbow Salon\n2. Rainbow Grocery\n3. Rainbow Eatery\n4. Rainbow Bakery\n5. Rainbow Boutique\nWhich is the correct order?",
+   "options": [
+    "53241",
+    "45321",
+    "34152",
+    "35241",
+    "45231"
+   ],
+   "correctAnswer": 1,
+   "explanation": "45321. Rainbow Bakery → Rainbow Boutique → Rainbow Eatery → Rainbow Grocery → Rainbow Salon",
+   "id": "CLR-ALP-105"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 2,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation.\n1. Sunrise Bookstore\n2. Sunrise Salon\n3. Sunrise Pawnshop\n4. Sunrise Laundry\n5. Sunrise Printing\nWhich is the correct order?",
+   "options": [
+    "53421",
+    "32415",
+    "14352",
+    "41352",
+    "14325"
+   ],
+   "correctAnswer": 2,
+   "explanation": "14352. Sunrise Bookstore → Sunrise Laundry → Sunrise Pawnshop → Sunrise Printing → Sunrise Salon",
+   "id": "CLR-ALP-106"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Rainbow Bakery\n2. The Sunrise Printing\n3. Sunrise Laundry\n4. Sunrise Boutique\n5. Sunrise Pharmacy\nWhich is the correct order?",
+   "options": [
+    "13452",
+    "42531",
+    "14532",
+    "14352",
+    "45231"
+   ],
+   "correctAnswer": 3,
+   "explanation": "14352. Rainbow Bakery → Sunrise Boutique → Sunrise Laundry → Sunrise Pharmacy → The Sunrise Printing",
+   "id": "CLR-ALP-107"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Blue Eatery\n2. Lucky Pharmacy\n3. Lucky Salon\n4. Blue Hardware\n5. The Lucky Boutique\nWhich is the correct order?",
+   "options": [
+    "15423",
+    "54321",
+    "14523",
+    "41253",
+    "32451"
+   ],
+   "correctAnswer": 2,
+   "explanation": "14523. Blue Eatery → Blue Hardware → The Lucky Boutique → Lucky Pharmacy → Lucky Salon",
+   "id": "CLR-ALP-108"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. The Lucky Bookstore\n2. Lucky Pawnshop\n3. Lucky Pharmacy\n4. Bayanihan Salon\n5. Bayanihan Laundry\nWhich is the correct order?",
+   "options": [
+    "34512",
+    "32145",
+    "45123",
+    "23514",
+    "54123"
+   ],
+   "correctAnswer": 4,
+   "explanation": "54123. Bayanihan Laundry → Bayanihan Salon → The Lucky Bookstore → Lucky Pawnshop → Lucky Pharmacy",
+   "id": "CLR-ALP-109"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Metro Bakery\n2. Bayanihan Grocery\n3. Bayanihan Laundry\n4. Bayanihan Dental Clinic\n5. The Bayanihan Pawnshop\nWhich is the correct order?",
+   "options": [
+    "42351",
+    "15324",
+    "42531",
+    "54321",
+    "42315"
+   ],
+   "correctAnswer": 0,
+   "explanation": "42351. Bayanihan Dental Clinic → Bayanihan Grocery → Bayanihan Laundry → The Bayanihan Pawnshop → Metro Bakery",
+   "id": "CLR-ALP-110"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Happy Grocery\n2. Lucky Bookstore\n3. Lucky Bakery\n4. The Lucky Laundry\n5. Lucky Eatery\nWhich is the correct order?",
+   "options": [
+    "31254",
+    "13254",
+    "53421",
+    "34152",
+    "12354"
+   ],
+   "correctAnswer": 1,
+   "explanation": "13254. Happy Grocery → Lucky Bakery → Lucky Bookstore → Lucky Eatery → The Lucky Laundry",
+   "id": "CLR-ALP-111"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. The Sunrise Laundry\n2. Sunrise Dental Clinic\n3. Sunrise Pharmacy\n4. Sunrise Eatery\n5. Bright Bakery\nWhich is the correct order?",
+   "options": [
+    "13425",
+    "52431",
+    "21543",
+    "52413",
+    "52143"
+   ],
+   "correctAnswer": 3,
+   "explanation": "52413. Bright Bakery → Sunrise Dental Clinic → Sunrise Eatery → The Sunrise Laundry → Sunrise Pharmacy",
+   "id": "CLR-ALP-112"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Lucky Bakery\n2. Metro Grocery\n3. Lucky Pharmacy\n4. Lucky Laundry\n5. The Lucky Boutique\nWhich is the correct order?",
+   "options": [
+    "25341",
+    "54123",
+    "53124",
+    "15432",
+    "51432"
+   ],
+   "correctAnswer": 3,
+   "explanation": "15432. Lucky Bakery → The Lucky Boutique → Lucky Laundry → Lucky Pharmacy → Metro Grocery",
+   "id": "CLR-ALP-113"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 3,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Bright Laundry\n2. Bright Pawnshop\n3. Bright Grocery\n4. Bright Dental Clinic\n5. The Rainbow Bakery\nWhich is the correct order?",
+   "options": [
+    "52143",
+    "43215",
+    "34521",
+    "43125",
+    "31245"
+   ],
+   "correctAnswer": 3,
+   "explanation": "43125. Bright Dental Clinic → Bright Grocery → Bright Laundry → Bright Pawnshop → The Rainbow Bakery",
+   "id": "CLR-ALP-114"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Bright Eatery\n2. Green Boutique\n3. Sunrise Dental Clinic\n4. Green Bookstore\n5. The Sunrise Bakery\nWhich is the correct order?",
+   "options": [
+    "54231",
+    "12453",
+    "41253",
+    "14253",
+    "15324"
+   ],
+   "correctAnswer": 3,
+   "explanation": "14253. Bright Eatery → Green Bookstore → Green Boutique → The Sunrise Bakery → Sunrise Dental Clinic",
+   "id": "CLR-ALP-115"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Lucky Laundry\n2. The Sunrise Bookstore\n3. Lucky Grocery\n4. Silver Salon\n5. Lucky Dental Clinic\nWhich is the correct order?",
+   "options": [
+    "41352",
+    "23145",
+    "34215",
+    "24135",
+    "53142"
+   ],
+   "correctAnswer": 4,
+   "explanation": "53142. Lucky Dental Clinic → Lucky Grocery → Lucky Laundry → Silver Salon → The Sunrise Bookstore",
+   "id": "CLR-ALP-116"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Bayanihan Pawnshop\n2. The Bayanihan Printing\n3. Green Hardware\n4. Green Eatery\n5. Bayanihan Laundry\nWhich is the correct order?",
+   "options": [
+    "41352",
+    "52143",
+    "35241",
+    "51243",
+    "53421"
+   ],
+   "correctAnswer": 3,
+   "explanation": "51243. Bayanihan Laundry → Bayanihan Pawnshop → The Bayanihan Printing → Green Eatery → Green Hardware",
+   "id": "CLR-ALP-117"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Metro Bookstore\n2. Bayanihan Printing\n3. The Lucky Dental Clinic\n4. Lucky Bakery\n5. Metro Boutique\nWhich is the correct order?",
+   "options": [
+    "54123",
+    "53421",
+    "24135",
+    "24315",
+    "54231"
+   ],
+   "correctAnswer": 3,
+   "explanation": "24315. Bayanihan Printing → Lucky Bakery → The Lucky Dental Clinic → Metro Bookstore → Metro Boutique",
+   "id": "CLR-ALP-118"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. Bayanihan Bakery\n2. Bayanihan Pawnshop\n3. The Golden Laundry\n4. Golden Dental Clinic\n5. Golden Hardware\nWhich is the correct order?",
+   "options": [
+    "23154",
+    "12453",
+    "52314",
+    "12543",
+    "12435"
+   ],
+   "correctAnswer": 1,
+   "explanation": "12453. Bayanihan Bakery → Bayanihan Pawnshop → Golden Dental Clinic → Golden Hardware → The Golden Laundry",
+   "id": "CLR-ALP-119"
+  },
+  {
+   "level": "both",
+   "skill": "Business Names",
+   "tier": 4,
+   "question": "Arrange the names letter by letter, ignoring spaces and punctuation (ignore \"The\" at the start of a name).\n1. The Metro Salon\n2. Pinoy Hardware\n3. Metro Eatery\n4. Metro Laundry\n5. Metro Printing\nWhich is the correct order?",
+   "options": [
+    "34512",
+    "21543",
+    "21435",
+    "52341",
+    "34521"
+   ],
+   "correctAnswer": 0,
+   "explanation": "34512. Metro Eatery → Metro Laundry → Metro Printing → The Metro Salon → Pinoy Hardware",
+   "id": "CLR-ALP-120"
+  }
+ ]
+}

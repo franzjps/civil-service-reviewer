@@ -8,15 +8,31 @@ import {
 const $root = () => document.getElementById('study');
 const LEVEL_KEY = 'csr.study.level';
 
-const MODULES = [
-  { id: 'word-meaning', name: 'Word Meaning', icon: 'bi-book', file: 'review-word-meaning.json',
-    blurb: 'Vocabulary, synonyms, antonyms, context clues, English and Filipino expressions' },
-  { id: 'sentence-completion', name: 'Sentence Completion', icon: 'bi-input-cursor-text', file: 'review-sentence-completion.json', blurb: 'Context, transitions, logical relationships, grammar' },
-  { id: 'error-recognition', name: 'Error Recognition', icon: 'bi-bug', file: 'review-error-recognition.json', blurb: 'Subject–verb agreement, tenses, pronouns, ng/nang, daw/raw' },
-  { id: 'sentence-structure', name: 'Sentence Structure', icon: 'bi-diagram-3', file: 'review-sentence-structure.json', blurb: 'Clauses, parallelism, modifiers, sentence construction' },
-  { id: 'paragraph-organization', name: 'Paragraph Organization', icon: 'bi-list-ol', file: 'review-paragraph-organization.json', blurb: 'Sentence sequencing, main ideas, transitions, conclusions' },
-  { id: 'reading-comprehension', name: 'Reading Comprehension', icon: 'bi-journal-text', file: 'review-reading-comprehension.json', blurb: 'Main idea, details, inference, tone, purpose, vocabulary in context' }
+const AREAS = [
+  { id: 'verbal', name: 'Verbal Ability', icon: 'bi-chat-quote' },
+  { id: 'numerical', name: 'Numerical Ability', icon: 'bi-calculator' },
+  { id: 'clerical', name: 'Clerical Ability', icon: 'bi-folder2-open' }
 ];
+const MODULES = [
+  { area: 'verbal', id: 'word-meaning', name: 'Word Meaning', icon: 'bi-book', file: 'review-word-meaning.json',
+    blurb: 'Vocabulary, synonyms, antonyms, context clues, English and Filipino expressions' },
+  { area: 'verbal', id: 'sentence-completion', name: 'Sentence Completion', icon: 'bi-input-cursor-text', file: 'review-sentence-completion.json', blurb: 'Context, transitions, logical relationships, grammar' },
+  { area: 'verbal', id: 'error-recognition', name: 'Error Recognition', icon: 'bi-bug', file: 'review-error-recognition.json', blurb: 'Subject–verb agreement, tenses, pronouns, ng/nang, daw/raw' },
+  { area: 'verbal', id: 'sentence-structure', name: 'Sentence Structure', icon: 'bi-diagram-3', file: 'review-sentence-structure.json', blurb: 'Clauses, parallelism, modifiers, sentence construction' },
+  { area: 'verbal', id: 'paragraph-organization', name: 'Paragraph Organization', icon: 'bi-list-ol', file: 'review-paragraph-organization.json', blurb: 'Sentence sequencing, main ideas, transitions, conclusions' },
+  { area: 'verbal', id: 'reading-comprehension', name: 'Reading Comprehension', icon: 'bi-journal-text', file: 'review-reading-comprehension.json', blurb: 'Main idea, details, inference, tone, purpose, vocabulary in context' },
+  { area: 'numerical', id: 'number-operations', name: 'Number Operations', icon: 'bi-plus-slash-minus', file: 'review-number-operations.json', blurb: 'Order of operations, signed numbers, exponents and roots, GCF and LCM' },
+  { area: 'numerical', id: 'fractions-decimals-percent', name: 'Fractions, Decimals & Percent', icon: 'bi-percent', file: 'review-fractions-decimals-percent.json', blurb: 'Fraction and decimal arithmetic, percent, discount, markup, simple interest' },
+  { area: 'numerical', id: 'ratio-proportion-average', name: 'Ratio, Proportion & Average', icon: 'bi-bar-chart-line', file: 'review-ratio-proportion-average.json', blurb: 'Ratios, direct and inverse proportion, mean, median, mode, range' },
+  { area: 'numerical', id: 'word-problems', name: 'Word Problems', icon: 'bi-chat-left-text', file: 'review-word-problems.json', blurb: 'Age, speed-distance-time, work, number and money problems' },
+  { area: 'numerical', id: 'number-series', name: 'Number Series', icon: 'bi-graph-up-arrow', file: 'review-number-series.json', blurb: 'Arithmetic, geometric, alternating and special sequences' },
+  { area: 'numerical', id: 'measurement-geometry', name: 'Measurement & Geometry', icon: 'bi-rulers', file: 'review-measurement-geometry.json',   blurb: 'Perimeter, area, circles, volume, unit conversion' },
+    { area: 'clerical', id: 'alphabetical-filing', name: 'Alphabetical Filing', icon: 'bi-sort-alpha-down', file: 'review-alphabetical-filing.json', blurb: 'Word order, surnames, file drawer ranges, business names' },
+    { area: 'clerical', id: 'spelling', name: 'Spelling', icon: 'bi-spellcheck', file: 'review-spelling.json', blurb: 'Double letters, ie/ei, vowels, silent and tricky letters' },
+    { area: 'clerical', id: 'checking-comparing', name: 'Checking & Comparing', icon: 'bi-check2-square', file: 'review-checking-comparing.json', blurb: 'Spot differences in letters, numbers, names, addresses and codes' },
+    { area: 'clerical', id: 'alphabet-number-skills', name: 'Alphabet & Number Skills', icon: 'bi-sort-numeric-down', file: 'review-alphabet-number-skills.json', blurb: 'Letter positions, counting in strings, ordering numbers, letter codes' },
+    { area: 'clerical', id: 'filing-systems', name: 'Filing Systems', icon: 'bi-folder-check', file: 'review-filing-systems.json', blurb: 'Numeric, terminal-digit, chronological, alphanumeric and indexing rules' }
+  ];
 const METHOD = [
   ['Diagnostic assessment', 'A short test finds your weakest topics so you know what to study first.'],
   ['Active recall', 'Answer from memory before the choices appear. Mistakes trigger an explanation and a similar question.'],
@@ -49,8 +65,17 @@ async function loadModulePool() {
   const res = await fetch(`data/${mod.file}`, { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Could not load ${mod.file} (HTTP ${res.status}).`);
   const data = await res.json();
-  const all = (Array.isArray(data) ? data : data.questions || []).filter((q) => Array.isArray(q.options) && Number.isInteger(q.correctAnswer));
-  pool = all.filter((q) => q.level === level);
+  let all = Array.isArray(data) ? data : data.questions || [];
+  // The optional "-more" bank adds extra questions so learners cannot memorise a small set.
+  try {
+    const more = await fetch(`data/${mod.file.replace('.json', '-more.json')}`, { cache: 'no-cache' });
+    if (more.ok) {
+      const extra = await more.json();
+      all = all.concat(Array.isArray(extra) ? extra : extra.questions || []);
+    }
+  } catch { /* optional bank */ }
+  all = all.filter((q) => Array.isArray(q.options) && Number.isInteger(q.correctAnswer));
+  pool = all.filter((q) => q.level === level || q.level === 'both');
 }
 
 const tierName = (n) => TIERS.find((t) => t.n === n)?.name || '';
@@ -60,17 +85,19 @@ const barClass = (p) => (p < 0.6 ? 'bg-danger' : p < 0.8 ? 'bg-warning' : 'bg-su
 function hubView() {
   document.getElementById('studyTitle').textContent = 'Review';
   $root().innerHTML = `
-    <p class="text-muted">Pick a module. Each one uses the same five-step method: diagnose, recall, space, adapt, master.</p>
-    <div class="row g-3 mb-4">
-      ${MODULES.map((m) => m.file ? `
-        <div class="col-md-6 col-xl-4"><a class="study-module card h-100 text-decoration-none" href="study.html?m=${m.id}">
-          <div class="card-body"><i class="bi ${m.icon} fs-3 text-primary"></i><h2 class="h5 mt-2">${esc(m.name)}</h2><p class="small text-muted mb-0">${esc(m.blurb)}</p></div>
-          <div class="card-footer small text-primary fw-semibold">Start reviewing <i class="bi bi-arrow-right"></i></div></a></div>` : `
-        <div class="col-md-6 col-xl-4"><div class="study-module card h-100 disabled" aria-disabled="true">
-          <div class="card-body"><i class="bi ${m.icon} fs-3 text-secondary"></i><h2 class="h5 mt-2">${esc(m.name)}</h2><p class="small text-muted mb-0">${esc(m.blurb)}</p></div>
-          <div class="card-footer small text-muted">Coming soon</div></div></div>`).join('')}
-    </div>
-    <div class="card"><div class="card-body"><h2 class="h6">How it works</h2>
+    <p class="text-muted">Pick a subject card. Each one uses the same five-step method: diagnose, recall, space, adapt, master.</p>
+    ${AREAS.map((a) => `
+      <h2 class="study-area h5 mt-4 mb-3"><i class="bi ${a.icon} text-primary"></i> ${esc(a.name)}</h2>
+      <div class="row g-3 mb-2">
+        ${MODULES.filter((m) => m.area === a.id).map((m) => m.file ? `
+          <div class="col-md-6 col-xl-4"><a class="study-module card h-100 text-decoration-none" href="study.html?m=${m.id}">
+            <div class="card-body"><i class="bi ${m.icon} fs-3 text-primary"></i><h3 class="h5 mt-2">${esc(m.name)}</h3><p class="small text-muted mb-0">${esc(m.blurb)}</p></div>
+            <div class="card-footer small text-primary fw-semibold">Start reviewing <i class="bi bi-arrow-right"></i></div></a></div>` : `
+          <div class="col-md-6 col-xl-4"><div class="study-module card h-100 disabled" aria-disabled="true">
+            <div class="card-body"><i class="bi ${m.icon} fs-3 text-secondary"></i><h3 class="h5 mt-2">${esc(m.name)}</h3><p class="small text-muted mb-0">${esc(m.blurb)}</p></div>
+            <div class="card-footer small text-muted">Coming soon</div></div></div>`).join('')}
+      </div>`).join('')}
+    <div class="card mt-4"><div class="card-body"><h2 class="h6">How it works</h2>
       <ol class="mb-0 small">${METHOD.map(([t, d]) => `<li><strong>${t}.</strong> ${d}</li>`).join('')}</ol></div></div>`;
 }
 
@@ -155,7 +182,7 @@ function startPractice() {
   questionView();
 }
 
-const keepOrder = (q) => q.options.some((o) => /above|none of|both|all of|not presented|^no error$|^[A-E]$/i.test(o));
+const keepOrder = (q) => q.options.some((o) => /above|none of|both|all of|not presented|^no error$|^[A-E]$|^\d+ (pairs?|times?|letters?)$|^(first|second|third|fourth|fifth)$|^between \d|^[A-Z][a-z] – [A-Z][a-z]$/i.test(o));
 
 function questionView() {
   const q = run.queue[run.idx];

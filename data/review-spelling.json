@@ -1,0 +1,1925 @@
+{
+ "module": "spelling",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "dissappear",
+    "disappear",
+    "disapear",
+    "disappaer",
+    "disppear"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: disappear. Double letters to remember: pp.",
+   "id": "CLR-SPE-001"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "assessment",
+    "asessment",
+    "assessmment",
+    "assessmennt",
+    "assesment"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: assessment. Double letters to remember: ss.",
+   "id": "CLR-SPE-002"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "necessarry",
+    "neessary",
+    "necessary",
+    "necesary",
+    "neccessary"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: necessary. Double letters to remember: ss.",
+   "id": "CLR-SPE-003"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "wihthold",
+    "withholld",
+    "withold",
+    "witthhold",
+    "withhold"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: withhold. Double letters to remember: hh.",
+   "id": "CLR-SPE-004"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "accommoddate",
+    "accommodate",
+    "acommodate",
+    "accommodatte",
+    "accomodate"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: accommodate. Double letters to remember: cc, mm.",
+   "id": "CLR-SPE-005"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "sufficient",
+    "suffiient",
+    "sufficcient",
+    "suficient",
+    "sufficiennt"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: sufficient. Double letters to remember: ff.",
+   "id": "CLR-SPE-006"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "tommorrow",
+    "tomorow",
+    "tomorrow",
+    "tmoorrow",
+    "tomororw"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: tomorrow. Double letters to remember: rr.",
+   "id": "CLR-SPE-007"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "exaggerate",
+    "exaggerrate",
+    "exagerate",
+    "exxaggerate",
+    "exaggeratte"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: exaggerate. Double letters to remember: gg.",
+   "id": "CLR-SPE-008"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "opporrtunity",
+    "oportunity",
+    "opportunity",
+    "opporttunity",
+    "opportunnity"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: opportunity. Double letters to remember: pp.",
+   "id": "CLR-SPE-009"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "comunity",
+    "community",
+    "communnity",
+    "communitty",
+    "communiyt"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: community. Double letters to remember: mm.",
+   "id": "CLR-SPE-010"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "scucess",
+    "success",
+    "sucess",
+    "succes",
+    "succses"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: success. Double letters to remember: cc, ss.",
+   "id": "CLR-SPE-011"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "posession",
+    "possession",
+    "possesion",
+    "possessoin",
+    "possesison"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: possession. Double letters to remember: ss.",
+   "id": "CLR-SPE-012"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "witthhold",
+    "withholld",
+    "wthhold",
+    "withhold",
+    "withold"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: withhold. Double letters to remember: hh.",
+   "id": "CLR-SPE-013"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "opportunnity",
+    "opporrtunity",
+    "opporttunity",
+    "opportunitty",
+    "opportunity"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: opportunity. Double letters to remember: pp.",
+   "id": "CLR-SPE-014"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "recuring",
+    "recurring",
+    "reccurring",
+    "recurrinng",
+    "recurrig"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: recurring. Double letters to remember: rr.",
+   "id": "CLR-SPE-015"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "missppell",
+    "mispell",
+    "misspell",
+    "misspel",
+    "missell"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: misspell. Double letters to remember: ll, ss.",
+   "id": "CLR-SPE-016"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "embarrass",
+    "immeddiately",
+    "withhold",
+    "community",
+    "opportunity"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"immeddiately\" is misspelled. Correct spelling: immediately. Double letters to remember: mm.",
+   "id": "CLR-SPE-017"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "ocasionally",
+    "occasionaly",
+    "occasionnally",
+    "occassionally",
+    "occasionally"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: occasionally. Double letters to remember: cc, ll.",
+   "id": "CLR-SPE-018"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "dissatisfied",
+    "committee",
+    "accessible",
+    "necessary",
+    "withholld"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"withholld\" is misspelled. Correct spelling: withhold. Double letters to remember: hh.",
+   "id": "CLR-SPE-019"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "unnecessary",
+    "questionnaire",
+    "sufficient",
+    "begginning",
+    "allegiance"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"begginning\" is misspelled. Correct spelling: beginning. Double letters to remember: nn.",
+   "id": "CLR-SPE-020"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "acessible",
+    "accessible",
+    "accesible",
+    "accessibble",
+    "accessiblle"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: accessible. Double letters to remember: cc, ss.",
+   "id": "CLR-SPE-021"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "bookkeeper",
+    "ocurrence",
+    "preferred",
+    "misspell",
+    "beginning"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"ocurrence\" is misspelled. Correct spelling: occurrence. Double letters to remember: cc, rr.",
+   "id": "CLR-SPE-022"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "professional",
+    "tomorrow",
+    "accessible",
+    "sucess",
+    "necessary"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"sucess\" is misspelled. Correct spelling: success. Double letters to remember: cc, ss.",
+   "id": "CLR-SPE-023"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "emmbarrass",
+    "embarass",
+    "embarras",
+    "embbarrass",
+    "embarrass"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: embarrass. Double letters to remember: rr, ss.",
+   "id": "CLR-SPE-024"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "opportunitty",
+    "opportunity",
+    "oportunity",
+    "opporttunity",
+    "opportunnity"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: opportunity. Double letters to remember: pp.",
+   "id": "CLR-SPE-025"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "harasment",
+    "questionnaire",
+    "assessment",
+    "collaborate",
+    "address"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"harasment\" is misspelled. Correct spelling: harassment. Double letters to remember: ss.",
+   "id": "CLR-SPE-026"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "addrress",
+    "addres",
+    "adress",
+    "adrdess",
+    "address"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: address. Double letters to remember: dd, ss.",
+   "id": "CLR-SPE-027"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "withhold",
+    "assessment",
+    "difficcult",
+    "beginning",
+    "tomorrow"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"difficcult\" is misspelled. Correct spelling: difficult. Double letters to remember: ff.",
+   "id": "CLR-SPE-028"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "bookkeeper",
+    "bokkeeper",
+    "bookkeper",
+    "bookeeper",
+    "bookkeepper"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: bookkeeper. Double letters to remember: ee, kk, oo.",
+   "id": "CLR-SPE-029"
+  },
+  {
+   "level": "both",
+   "skill": "Double Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "immediattely",
+    "imediately",
+    "immediatelly",
+    "immediately",
+    "immeddiately"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: immediately. Double letters to remember: mm.",
+   "id": "CLR-SPE-030"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "conscence",
+    "consceince",
+    "conscience",
+    "coscience",
+    "consciene"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: conscience. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-031"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "speies",
+    "sepcies",
+    "speices",
+    "species",
+    "speceis"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: species. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-032"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "ceilig",
+    "ceiling",
+    "ceilign",
+    "ceilng",
+    "cieling"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: ceiling. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-033"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "piece",
+    "picee",
+    "peice",
+    "pece",
+    "pieec"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: piece. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-034"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "shiedl",
+    "sield",
+    "sheild",
+    "shield",
+    "shild"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: shield. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-035"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "height",
+    "hieght",
+    "heght",
+    "hegiht",
+    "heiht"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: height. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-036"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "yild",
+    "yield",
+    "yeild",
+    "yiled",
+    "yiedl"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: yield. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-037"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "forfeit",
+    "forfet",
+    "fofeit",
+    "forfeti",
+    "forfiet"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: forfeit. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-038"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "greivance",
+    "grievace",
+    "gievance",
+    "grievanec",
+    "grievance"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: grievance. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-039"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "varety",
+    "variety",
+    "vriety",
+    "varity",
+    "vareity"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: variety. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-040"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "efficient",
+    "efficint",
+    "efficinet",
+    "efficeint",
+    "effiient"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: efficient. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-041"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "decive",
+    "deceve",
+    "deceive",
+    "deecive",
+    "decieve"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: deceive. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-042"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "ieght",
+    "eigt",
+    "eight",
+    "eigth",
+    "eiht"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: eight. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-043"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "wierd",
+    "weidr",
+    "weird",
+    "werd",
+    "werid"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: weird. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-044"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "eiht",
+    "eight",
+    "ieght",
+    "eigth",
+    "egiht"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: eight. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-045"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "efficiet",
+    "efficeint",
+    "effiient",
+    "efficint",
+    "efficient"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: efficient. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-046"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "field",
+    "relief",
+    "piece",
+    "shield",
+    "reciept"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"reciept\" is misspelled. Correct spelling: receipt. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-047"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "foreign",
+    "yeild",
+    "deceive",
+    "financier",
+    "believe"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"yeild\" is misspelled. Correct spelling: yield. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-048"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "variety",
+    "receipt",
+    "ancient",
+    "retreive",
+    "conscience"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"retreive\" is misspelled. Correct spelling: retrieve. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-049"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "grievance",
+    "grieance",
+    "greivance",
+    "gievance",
+    "grievane"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: grievance. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-050"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "countrfeit",
+    "cuonterfeit",
+    "conterfeit",
+    "counterfiet",
+    "counterfeit"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: counterfeit. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-051"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "efficeint",
+    "achieve",
+    "field",
+    "height",
+    "financier"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"efficeint\" is misspelled. Correct spelling: efficient. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-052"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "ancient",
+    "wiegh",
+    "counterfeit",
+    "deceive",
+    "shield"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"wiegh\" is misspelled. Correct spelling: weigh. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-053"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "protein",
+    "frieght",
+    "variety",
+    "brief",
+    "seize"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"frieght\" is misspelled. Correct spelling: freight. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-054"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "wegh",
+    "wegih",
+    "wiegh",
+    "weigh",
+    "wigh"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: weigh. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-055"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "financier",
+    "finacnier",
+    "fianncier",
+    "financeir",
+    "finnacier"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: financier. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-056"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "weird",
+    "wird",
+    "werid",
+    "weidr",
+    "wierd"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: weird. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-057"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "receive",
+    "reeive",
+    "recieve",
+    "receiev",
+    "reecive"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: receive. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-058"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "sciety",
+    "society",
+    "socety",
+    "soiety",
+    "soceity"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: society. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-059"
+  },
+  {
+   "level": "both",
+   "skill": "ie / ei Words",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "weird",
+    "society",
+    "either",
+    "foriegn",
+    "leisure"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"foriegn\" is misspelled. Correct spelling: foreign. Remember \"i before e, except after c, or when sounded like ay (neighbor, weigh)\". Learn the exceptions: weird, seize, height, foreign, leisure.",
+   "id": "CLR-SPE-060"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "familiar",
+    "famoliar",
+    "familoar",
+    "fameliar",
+    "famaliar"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: familiar. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-061"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "grammar",
+    "grommar",
+    "grammir",
+    "grummar",
+    "gremmar"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: grammar. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-062"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "depindent",
+    "dependent",
+    "depondent",
+    "dapendent",
+    "dupendent"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: dependent. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-063"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "incidantally",
+    "incidintally",
+    "incudentally",
+    "incidontally",
+    "incidentally"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: incidentally. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-064"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "guaranteo",
+    "gearantee",
+    "guarantee",
+    "guarintee",
+    "guaruntee"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: guarantee. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-065"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "vicuum",
+    "vacuum",
+    "vacuem",
+    "vacuom",
+    "vucuum"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: vacuum. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-066"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "lecense",
+    "licinse",
+    "license",
+    "licunse",
+    "lucense"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: license. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-067"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "cenvenient",
+    "conveneent",
+    "convenient",
+    "convonient",
+    "conveniunt"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: convenient. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-068"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "desperato",
+    "dasperate",
+    "desperati",
+    "desperute",
+    "desperate"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: desperate. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-069"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "resestance",
+    "rasistance",
+    "resistance",
+    "resastance",
+    "resistanca"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: resistance. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-070"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "miniatere",
+    "miniatire",
+    "miniuture",
+    "miniature",
+    "miniatore"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: miniature. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-071"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "incadentally",
+    "incidentelly",
+    "incidentally",
+    "incidentolly",
+    "incedentally"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: incidentally. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-072"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "duspair",
+    "despuir",
+    "despeir",
+    "despair",
+    "dispair"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: despair. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-073"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "laboratory",
+    "laborotory",
+    "laborutory",
+    "laboratary",
+    "laburatory"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: laboratory. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-074"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "consistant",
+    "consustent",
+    "cansistent",
+    "consistent",
+    "consestent"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: consistent. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-075"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "persoverance",
+    "perseverance",
+    "perseverence",
+    "persaverance",
+    "perseveranci"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: perseverance. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-076"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "laboratory",
+    "leboratory",
+    "laborutory",
+    "laburatory",
+    "laborotory"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: laboratory. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-077"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "difinitely",
+    "definitely",
+    "definituly",
+    "definotely",
+    "definitily"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: definitely. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-078"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "sergeint",
+    "sergaant",
+    "sorgeant",
+    "sergeant",
+    "serguant"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: sergeant. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-079"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "labrary",
+    "library",
+    "librery",
+    "librury",
+    "lubrary"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: library. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-080"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "surprose",
+    "independent",
+    "maintenance",
+    "attendance",
+    "experience"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"surprose\" is misspelled. Correct spelling: surprise. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-081"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "existence",
+    "attendance",
+    "criticism",
+    "grummar",
+    "despair"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"grummar\" is misspelled. Correct spelling: grammar. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-082"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "cenvenient",
+    "conveniant",
+    "convunient",
+    "convenient",
+    "convenaent"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: convenient. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-083"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "relevant",
+    "emergoncy",
+    "license",
+    "dependent",
+    "beneficial"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"emergoncy\" is misspelled. Correct spelling: emergency. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-084"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "perseverance",
+    "independent",
+    "emirgency",
+    "license",
+    "vacuum"
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"emirgency\" is misspelled. Correct spelling: emergency. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-085"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "despair",
+    "grammar",
+    "beneficial",
+    "serguant",
+    "repetition"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"serguant\" is misspelled. Correct spelling: sergeant. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-086"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "desperate",
+    "independent",
+    "surprise",
+    "catagory",
+    "guarantee"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"catagory\" is misspelled. Correct spelling: category. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-087"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "expirience",
+    "consistent",
+    "guarantee",
+    "dependent",
+    "temperature"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"expirience\" is misspelled. Correct spelling: experience. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-088"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "conveniant",
+    "convunient",
+    "convinient",
+    "conveniont",
+    "convenient"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: convenient. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-089"
+  },
+  {
+   "level": "both",
+   "skill": "Vowel Confusion",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "resistancu",
+    "resistence",
+    "resistance",
+    "rusistance",
+    "resestance"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: resistance. Say the word slowly and check each vowel; unstressed vowels are easy to confuse.",
+   "id": "CLR-SPE-090"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "catle",
+    "caslte",
+    "casle",
+    "castle",
+    "castel"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: castle. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-091"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "miscievous",
+    "michievous",
+    "micshievous",
+    "mischievous",
+    "mischievos"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: mischievous. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-092"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "column",
+    "cloumn",
+    "colun",
+    "colmun",
+    "colunm"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: column. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-093"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "thoroguh",
+    "thoorugh",
+    "thoough",
+    "thorough",
+    "through"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: thorough. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-094"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "cmapaign",
+    "camaign",
+    "campaign",
+    "campign",
+    "capmaign"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: campaign. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-095"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "receit",
+    "recepit",
+    "receipt",
+    "recept",
+    "receitp"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: receipt. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-096"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "tempreament",
+    "temperamnet",
+    "tempearment",
+    "temperament",
+    "temerament"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: temperament. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-097"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 1,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "february",
+    "ferbuary",
+    "fbruary",
+    "februray",
+    "februay"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: february. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-098"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "rhytm",
+    "rythm",
+    "rhythm",
+    "rhytmh",
+    "ryhthm"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: rhythm. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-099"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "autun",
+    "autmn",
+    "autumn",
+    "atumn",
+    "auumn"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: autumn. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-100"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "psycohlogy",
+    "psycholoyg",
+    "psycholgy",
+    "psychology",
+    "psychoogy"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Correct spelling: psychology. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-101"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "exhilarate",
+    "exhliarate",
+    "ehilarate",
+    "exhilraate",
+    "exhilartae"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: exhilarate. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-102"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "atumn",
+    "atuumn",
+    "autumn",
+    "autunm",
+    "auumn"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: autumn. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-103"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "atumn",
+    "auutmn",
+    "autumn",
+    "autun",
+    "autmn"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Correct spelling: autumn. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-104"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "knolwedge",
+    "knowledge",
+    "knowldege",
+    "knowlegde",
+    "knwledge"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: knowledge. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-105"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 2,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "interseting",
+    "interestng",
+    "interetsing",
+    "interestign",
+    "interesting"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Correct spelling: interesting. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-106"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "mischievous",
+    "miscihevous",
+    "mischievosu",
+    "mishcievous",
+    "mischievus"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: mischievous. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-107"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "exhilarate",
+    "receipt",
+    "mortgage",
+    "restaurant",
+    "handkercheif"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"handkercheif\" is misspelled. Correct spelling: handkerchief. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-108"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "autumn",
+    "autmn",
+    "autmun",
+    "auutmn",
+    "atumn"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Correct spelling: autumn. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-109"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "rhyme",
+    "debt",
+    "doubt",
+    "knowledge",
+    "sublte"
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"sublte\" is misspelled. Correct spelling: subtle. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-110"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "campaign",
+    "sbutle",
+    "autumn",
+    "environment",
+    "comfortable"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"sbutle\" is misspelled. Correct spelling: subtle. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-111"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "thorough",
+    "colonel",
+    "subtle",
+    "schedle",
+    "government"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"schedle\" is misspelled. Correct spelling: schedule. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-112"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "exhlarate",
+    "business",
+    "rhythm",
+    "vegetable",
+    "listen"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"exhlarate\" is misspelled. Correct spelling: exhilarate. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-113"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 3,
+   "question": "Which word is misspelled?",
+   "options": [
+    "debt",
+    "mortgae",
+    "exhilarate",
+    "doubt",
+    "autumn"
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"mortgae\" is misspelled. Correct spelling: mortgage. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-114"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "anwser",
+    "answer",
+    "ansewr",
+    "answre",
+    "answr"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: answer. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-115"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Choose the correctly spelled word.",
+   "options": [
+    "whisle",
+    "whistle",
+    "whsitle",
+    "whiste",
+    "whislte"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Correct spelling: whistle. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-116"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "rhythm",
+    "interesting",
+    "exhilarate",
+    "busniess",
+    "answer"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"busniess\" is misspelled. Correct spelling: business. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-117"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "subtle",
+    "colonel",
+    "debt",
+    "restauratn",
+    "government"
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"restauratn\" is misspelled. Correct spelling: restaurant. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-118"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "conscientiosu",
+    "mischievous",
+    "judgment",
+    "campaign",
+    "autumn"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"conscientiosu\" is misspelled. Correct spelling: conscientious. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-119"
+  },
+  {
+   "level": "both",
+   "skill": "Silent & Tricky Letters",
+   "tier": 4,
+   "question": "Which word is misspelled?",
+   "options": [
+    "handkercihef",
+    "colonel",
+    "exhilarate",
+    "doubt",
+    "autumn"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"handkercihef\" is misspelled. Correct spelling: handkerchief. It has letters that are silent or easy to skip, so memorise the full spelling.",
+   "id": "CLR-SPE-120"
+  }
+ ]
+}

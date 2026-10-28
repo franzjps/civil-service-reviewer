@@ -1,0 +1,965 @@
+{
+  "module": "sentence-completion",
+  "questions": [
+    {
+      "id": "SCX-001",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 1,
+      "question": "Each of the clerks ____ responsible for filing the reports on time.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been",
+        "be"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Each” is singular, so it takes the singular verb “is,” regardless of the plural noun that follows."
+    },
+    {
+      "id": "SCX-002",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 1,
+      "question": "Neither the mayor nor the councilors ____ present at the hearing yesterday.",
+      "options": [
+        "was",
+        "is",
+        "has been",
+        "be",
+        "were"
+      ],
+      "correctAnswer": 4,
+      "explanation": "With “neither…nor,” the verb agrees with the nearer subject (“councilors”), which is plural; the past-time marker “yesterday” calls for “were.”"
+    },
+    {
+      "id": "SCX-003",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 1,
+      "question": "The group of employees ____ asked to submit their forms before noon.",
+      "options": [
+        "were",
+        "was",
+        "are",
+        "have been",
+        "be"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subject is the singular “group,” not “employees,” so the singular past verb “was” is correct."
+    },
+    {
+      "id": "SCX-004",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 1,
+      "question": "She ____ the application form last Monday.",
+      "options": [
+        "submit",
+        "submits",
+        "has submitted",
+        "submitted",
+        "submitting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The past-time phrase “last Monday” requires the simple past tense, “submitted.”"
+    },
+    {
+      "id": "SCX-005",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 2,
+      "question": "If the office ____ earlier, we would have avoided the long queue.",
+      "options": [
+        "had opened",
+        "opens",
+        "would open",
+        "has opened",
+        "opened"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A third conditional (would have + past participle) uses the past perfect in the if-clause: “had opened.”"
+    },
+    {
+      "id": "SCX-006",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 2,
+      "question": "The number of applicants ____ increased this year.",
+      "options": [
+        "have",
+        "are",
+        "has",
+        "were",
+        "having"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“The number of” takes a singular verb, so “has increased” is correct (unlike “a number of,” which is plural)."
+    },
+    {
+      "id": "SCX-007",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 2,
+      "question": "Ramon is the only one of the employees who ____ never been late.",
+      "options": [
+        "have",
+        "are",
+        "were",
+        "do",
+        "has"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Only one” is the antecedent of “who,” so the verb is singular: “has.”"
+    },
+    {
+      "id": "SCX-008",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 2,
+      "question": "By the time the director arrived, the meeting ____ already started.",
+      "options": [
+        "has",
+        "had",
+        "have",
+        "was",
+        "is"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An action completed before another past action uses the past perfect: “had already started.”"
+    },
+    {
+      "id": "SCX-009",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 3,
+      "question": "Not only the supervisor but also the staff members ____ invited to the seminar.",
+      "options": [
+        "was",
+        "is",
+        "has been",
+        "were",
+        "be"
+      ],
+      "correctAnswer": 3,
+      "explanation": "With “not only…but also,” the verb agrees with the nearer subject “staff members,” which is plural, so “were.”"
+    },
+    {
+      "id": "SCX-010",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 3,
+      "question": "It is essential that every applicant ____ a valid ID on the day of the exam.",
+      "options": [
+        "bring",
+        "brings",
+        "brought",
+        "will bring",
+        "is bringing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "After expressions of necessity such as “it is essential that,” the subjunctive uses the base verb: “bring.”"
+    },
+    {
+      "id": "SCX-011",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 3,
+      "question": "Hardly ____ the report when the power went out.",
+      "options": [
+        "she finished",
+        "she had finished",
+        "had she finished",
+        "did she finished",
+        "she has finished"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Hardly” at the start of a sentence triggers inversion with the past perfect: “had she finished.”"
+    },
+    {
+      "id": "SCX-012",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 3,
+      "question": "The committee, along with its advisers, ____ to meet next week.",
+      "options": [
+        "are scheduled",
+        "were scheduled",
+        "have scheduled",
+        "schedule",
+        "is scheduled"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Along with” phrases do not change the subject; the singular “committee” takes “is.”"
+    },
+    {
+      "id": "SCX-013",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 4,
+      "question": "Had the clerk verified the documents, the error ____ avoided.",
+      "options": [
+        "would be",
+        "would have been",
+        "will have been",
+        "had been",
+        "is"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“Had + past participle” is an inverted third conditional, so the result clause needs “would have been.”"
+    },
+    {
+      "id": "SCX-014",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 4,
+      "question": "The mayor, as well as the barangay captains, ____ expected to sign the agreement.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "is",
+        "be"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“As well as” does not make the subject plural; the singular “mayor” takes “is.”"
+    },
+    {
+      "id": "SCX-015",
+      "level": "both",
+      "skill": "Grammar & Verb Agreement",
+      "tier": 4,
+      "question": "Economics ____ one of the subjects tested in the examination.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have been",
+        "do"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Names of academic subjects ending in -ics (economics, mathematics) are singular, so “is.”"
+    },
+    {
+      "id": "SCX-016",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 1,
+      "question": "The new policy will take effect ____ January 1.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "by",
+        "to"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Use “on” with specific dates."
+    },
+    {
+      "id": "SCX-017",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 1,
+      "question": "She is very good ____ solving numerical problems.",
+      "options": [
+        "in",
+        "on",
+        "for",
+        "with",
+        "at"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The fixed adjective phrase is “good at” for a skill."
+    },
+    {
+      "id": "SCX-018",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 1,
+      "question": "The office is closed ____ weekends and holidays.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "during",
+        "to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“On weekends” is the standard phrase for recurring days."
+    },
+    {
+      "id": "SCX-019",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 2,
+      "question": "The manager insisted ____ reviewing every file personally.",
+      "options": [
+        "to",
+        "at",
+        "for",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The verb “insist” takes the preposition “on” (insist on doing something)."
+    },
+    {
+      "id": "SCX-020",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 2,
+      "question": "The funds were divided ____ the three departments.",
+      "options": [
+        "among",
+        "between",
+        "beside",
+        "within",
+        "along"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Among” is used for more than two parties; “between” is for two."
+    },
+    {
+      "id": "SCX-021",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 2,
+      "question": "He is allergic ____ seafood, so he avoided the buffet.",
+      "options": [
+        "of",
+        "at",
+        "to",
+        "with",
+        "from"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The adjective “allergic” is followed by “to.”"
+    },
+    {
+      "id": "SCX-022",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 2,
+      "question": "Please comply ____ the guidelines before submitting the form.",
+      "options": [
+        "to",
+        "on",
+        "for",
+        "at",
+        "with"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Comply” is followed by “with.”"
+    },
+    {
+      "id": "SCX-023",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 3,
+      "question": "The committee is composed ____ five senior officers.",
+      "options": [
+        "by",
+        "of",
+        "with",
+        "from",
+        "in"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“Composed of” is the correct phrase meaning made up of."
+    },
+    {
+      "id": "SCX-024",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 3,
+      "question": "She was appointed ____ the position of records officer last month.",
+      "options": [
+        "at",
+        "for",
+        "on",
+        "to",
+        "as"
+      ],
+      "correctAnswer": 3,
+      "explanation": "We are appointed “to” a position."
+    },
+    {
+      "id": "SCX-025",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 3,
+      "question": "The agency is accountable ____ the public for how it spends taxes.",
+      "options": [
+        "to",
+        "with",
+        "at",
+        "of",
+        "on"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One is accountable “to” a person or group (and “for” a thing); the blank precedes “the public,” so “to.”"
+    },
+    {
+      "id": "SCX-026",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 3,
+      "question": "The director took full responsibility ____ the delay.",
+      "options": [
+        "of",
+        "at",
+        "for",
+        "on",
+        "with"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Responsibility for” is the standard pairing."
+    },
+    {
+      "id": "SCX-027",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 4,
+      "question": "Veteran officials are often immune ____ criticism.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "at",
+        "to"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Immune” is followed by “to.”"
+    },
+    {
+      "id": "SCX-028",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 4,
+      "question": "The audit report differs significantly ____ last year's findings.",
+      "options": [
+        "to",
+        "from",
+        "than",
+        "with",
+        "by"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“Differ” takes “from” when comparing two things."
+    },
+    {
+      "id": "SCX-029",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 4,
+      "question": "The new rules are inconsistent ____ the existing code of conduct.",
+      "options": [
+        "to",
+        "for",
+        "on",
+        "with",
+        "about"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Inconsistent” is followed by “with.”"
+    },
+    {
+      "id": "SCX-030",
+      "level": "both",
+      "skill": "Prepositions & Phrases",
+      "tier": 4,
+      "question": "He was prevented ____ attending the training by a sudden illness.",
+      "options": [
+        "from",
+        "to",
+        "of",
+        "for",
+        "at"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Prevent someone from doing something” is the correct construction."
+    },
+    {
+      "id": "SCX-031",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 1,
+      "question": "The employee gave a ____ reason for his absence, so the HR office excused him.",
+      "options": [
+        "vacant",
+        "vivid",
+        "valid",
+        "pretentious",
+        "fatal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Valid” means acceptable and well-founded; the other choices do not describe a reason that would be excused."
+    },
+    {
+      "id": "SCX-032",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 1,
+      "question": "The new law will ____ the rights of workers in small businesses.",
+      "options": [
+        "protest",
+        "produce",
+        "prohibit",
+        "protrude",
+        "protect"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Protect” means to keep safe; it is the only option that makes sense with “rights of workers.”"
+    },
+    {
+      "id": "SCX-033",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 1,
+      "question": "The weather bureau issued a ____ about the approaching typhoon.",
+      "options": [
+        "warrant",
+        "warning",
+        "warranty",
+        "wariness",
+        "warden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A “warning” is an alert about danger; “warrant” and “warranty” have legal or commercial meanings."
+    },
+    {
+      "id": "SCX-034",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 2,
+      "question": "The mayor's speech was so ____ that many in the audience were moved to tears.",
+      "options": [
+        "tedious",
+        "trivial",
+        "arbitrary",
+        "poignant",
+        "frugal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Poignant” means deeply touching, which explains the tears."
+    },
+    {
+      "id": "SCX-035",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 2,
+      "question": "Because of the budget cuts, the agency must be ____ in its spending.",
+      "options": [
+        "frugal",
+        "lavish",
+        "reckless",
+        "negligent",
+        "idle"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Frugal” means careful with money, which suits budget cuts; the others imply waste or carelessness."
+    },
+    {
+      "id": "SCX-036",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 2,
+      "question": "The witness gave a ____ account, leaving out no important detail.",
+      "options": [
+        "brief",
+        "partial",
+        "comprehensive",
+        "vague",
+        "careless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Comprehensive” means complete and thorough, matching “leaving out no important detail.”"
+    },
+    {
+      "id": "SCX-037",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 2,
+      "question": "The official's ____ remarks offended many members of the community.",
+      "options": [
+        "tactful",
+        "candid",
+        "amiable",
+        "gracious",
+        "tactless"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Tactless” means lacking sensitivity, which explains why people were offended; the other options are positive or neutral."
+    },
+    {
+      "id": "SCX-038",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 3,
+      "question": "Her ____ to detail made her the best proofreader in the office.",
+      "options": [
+        "indifference",
+        "attention",
+        "aversion",
+        "reluctance",
+        "hostility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“Attention to detail” is the standard collocation, and it is the only positive choice that explains the praise."
+    },
+    {
+      "id": "SCX-039",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 3,
+      "question": "The board decided to ____ the old policy and replace it with a simpler one.",
+      "options": [
+        "revive",
+        "reinforce",
+        "retain",
+        "revoke",
+        "reiterate"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Revoke” means to officially cancel, which fits “replace it”; the others keep or strengthen the policy."
+    },
+    {
+      "id": "SCX-040",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 3,
+      "question": "The scandal had a ____ effect on public trust, damaging it for years.",
+      "options": [
+        "detrimental",
+        "beneficial",
+        "negligible",
+        "transient",
+        "neutral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Detrimental” means harmful, matching “damaging it for years.”"
+    },
+    {
+      "id": "SCX-041",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 3,
+      "question": "The lawyer's argument was ____, leaving the jury with no room for doubt.",
+      "options": [
+        "flimsy",
+        "ambiguous",
+        "cogent",
+        "trivial",
+        "evasive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Cogent” means clear, logical and convincing, which leaves no room for doubt."
+    },
+    {
+      "id": "SCX-042",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 4,
+      "question": "The minister's ____ stance on corruption earned him the respect of both allies and critics.",
+      "options": [
+        "equivocal",
+        "capricious",
+        "complacent",
+        "ephemeral",
+        "unwavering"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Unwavering” means steady and firm, which would earn respect; “equivocal” and “capricious” suggest indecision."
+    },
+    {
+      "id": "SCX-043",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 4,
+      "question": "The auditor's report was a ____ of the agency's wasteful practices, naming every offense.",
+      "options": [
+        "eulogy",
+        "indictment",
+        "paradox",
+        "sanction",
+        "commendation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An “indictment” is a strong accusation, fitting a report that names every offense."
+    },
+    {
+      "id": "SCX-044",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 4,
+      "question": "The two accounts of the incident were so ____ that investigators could not reconcile them.",
+      "options": [
+        "congruent",
+        "analogous",
+        "redundant",
+        "discrepant",
+        "identical"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Discrepant” means inconsistent; accounts that cannot be reconciled differ from each other."
+    },
+    {
+      "id": "SCX-045",
+      "level": "both",
+      "skill": "Word Choice",
+      "tier": 4,
+      "question": "The treasurer's ____ handling of funds ensured that no money was ever misplaced.",
+      "options": [
+        "meticulous",
+        "cursory",
+        "haphazard",
+        "lax",
+        "impulsive"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Meticulous” means extremely careful, which explains why no money was misplaced."
+    },
+    {
+      "id": "SCX-046",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 1,
+      "question": "The road was flooded; ____, the employees could not report for work.",
+      "options": [
+        "otherwise",
+        "moreover",
+        "therefore",
+        "however",
+        "instead"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Therefore” signals a result: the flooding caused the absence."
+    },
+    {
+      "id": "SCX-047",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 1,
+      "question": "The exam was difficult. ____, most of the examinees passed.",
+      "options": [
+        "Therefore",
+        "Likewise",
+        "Besides",
+        "Because",
+        "Nevertheless"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Nevertheless” signals contrast: passing was unexpected given the difficulty."
+    },
+    {
+      "id": "SCX-048",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 1,
+      "question": "Maria studied every night; ____, she passed the exam with a high score.",
+      "options": [
+        "however",
+        "as a result",
+        "in contrast",
+        "unless",
+        "although"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“As a result” introduces the consequence of studying every night."
+    },
+    {
+      "id": "SCX-049",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 1,
+      "question": "He wanted to attend the seminar ____ he had too much work.",
+      "options": [
+        "so",
+        "and",
+        "because",
+        "but",
+        "or"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“But” links two contrasting ideas: wanting to attend and being unable to."
+    },
+    {
+      "id": "SCX-050",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 2,
+      "question": "The company must cut costs. ____, it plans to freeze hiring for six months.",
+      "options": [
+        "To that end",
+        "Nevertheless",
+        "On the contrary",
+        "Even so",
+        "In spite of this"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“To that end” means for that purpose, linking the plan to the goal of cutting costs."
+    },
+    {
+      "id": "SCX-051",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 2,
+      "question": "____ the heavy rain, the ceremony proceeded as scheduled.",
+      "options": [
+        "Because of",
+        "Due to",
+        "Despite",
+        "Owing to",
+        "As a result of"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Despite” signals contrast; the other options introduce a cause, which does not fit the ceremony continuing."
+    },
+    {
+      "id": "SCX-052",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 2,
+      "question": "You will not receive your certificate ____ you complete all the requirements.",
+      "options": [
+        "until",
+        "although",
+        "since",
+        "whereas",
+        "unless"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Unless” means “if not,” which expresses the required condition."
+    },
+    {
+      "id": "SCX-053",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 2,
+      "question": "The first proposal was too costly; ____, the second was affordable.",
+      "options": [
+        "similarly",
+        "by contrast",
+        "in addition",
+        "therefore",
+        "for instance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“By contrast” signals the opposite relationship between the two proposals."
+    },
+    {
+      "id": "SCX-054",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 3,
+      "question": "Public servants are expected to be honest. ____, they must treat every citizen fairly.",
+      "options": [
+        "In contrast",
+        "Otherwise",
+        "Nevertheless",
+        "Furthermore",
+        "Conversely"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Furthermore” adds a related expectation; the other options signal contrast or an alternative."
+    },
+    {
+      "id": "SCX-055",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 3,
+      "question": "The project was completed ahead of schedule, ____ the shortage of staff.",
+      "options": [
+        "in spite of",
+        "because of",
+        "thanks to",
+        "owing to",
+        "in view of"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Finishing early despite a shortage is contrast, so “in spite of” is needed; the others imply cause."
+    },
+    {
+      "id": "SCX-056",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 3,
+      "question": "____ the new system is faster, many employees still prefer the old one.",
+      "options": [
+        "Because",
+        "Since",
+        "Although",
+        "So that",
+        "If"
+      ],
+      "correctAnswer": 2,
+      "explanation": "“Although” introduces a concession that contrasts with the main clause."
+    },
+    {
+      "id": "SCX-057",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 3,
+      "question": "Submit your requirements today; ____, your application will not be processed.",
+      "options": [
+        "moreover",
+        "therefore",
+        "similarly",
+        "for example",
+        "otherwise"
+      ],
+      "correctAnswer": 4,
+      "explanation": "“Otherwise” means “if you do not,” stating the consequence of failing to submit."
+    },
+    {
+      "id": "SCX-058",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 4,
+      "question": "The data seemed to support the hypothesis. ____, a closer analysis revealed serious errors in how it was collected.",
+      "options": [
+        "Accordingly",
+        "However",
+        "Likewise",
+        "Subsequently",
+        "Hence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "“However” marks the contrast between the apparent support and the flaws that were later found."
+    },
+    {
+      "id": "SCX-059",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 4,
+      "question": "The mayor is neither corrupt ____ incompetent.",
+      "options": [
+        "or",
+        "but",
+        "and",
+        "nor",
+        "yet"
+      ],
+      "correctAnswer": 3,
+      "explanation": "“Neither” is paired with “nor.”"
+    },
+    {
+      "id": "SCX-060",
+      "level": "both",
+      "skill": "Transitions & Logic",
+      "tier": 4,
+      "question": "Employees were told to arrive early; ____ the director's arrival was delayed until noon.",
+      "options": [
+        "ironically",
+        "consequently",
+        "accordingly",
+        "in addition",
+        "hence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "“Ironically” fits the unexpected outcome that the director himself was late; the others imply cause or addition."
+    }
+  ]
+}

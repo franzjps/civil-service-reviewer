@@ -1,0 +1,853 @@
+{
+ "module": "sentence-structure",
+ "questions": [
+  {
+   "id": "SSX-001",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "Which group of words is a dependent clause?",
+   "options": [
+    "Please approve the request",
+    "Unless the supervisor approves the request",
+    "Approve the request today",
+    "The supervisor approved the request",
+    "The request was approved"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A dependent clause has a subject and verb but begins with a subordinating word (unless), so it cannot stand alone. The other choices are independent clauses."
+  },
+  {
+   "id": "SSX-002",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "In \"She resigned because the salary was low,\" the clause \"because the salary was low\" is a(n):",
+   "options": [
+    "adjective clause",
+    "independent clause",
+    "adverb clause",
+    "prepositional phrase",
+    "noun clause"
+   ],
+   "correctAnswer": 2,
+   "explanation": "The clause tells why she resigned, so it modifies the verb and is an adverb (dependent) clause."
+  },
+  {
+   "id": "SSX-003",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "Which sentence contains only one independent clause?",
+   "options": [
+    "The bell rang; the students left.",
+    "The bell rang, and the students left.",
+    "The bell rang, but the students stayed.",
+    "When the bell rang, the students left the room.",
+    "The bell rang, so the students left."
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"When the bell rang\" is dependent, leaving only one independent clause. The others join two independent clauses."
+  },
+  {
+   "id": "SSX-004",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 1,
+   "question": "Which word begins an adjective (relative) clause?",
+   "options": [
+    "unless",
+    "while",
+    "because",
+    "although",
+    "who"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Relative pronouns such as who, which, and that start adjective clauses; the others are subordinating conjunctions that start adverb clauses."
+  },
+  {
+   "id": "SSX-005",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "Which sentence is a complex sentence?",
+   "options": [
+    "Although the road was flooded, the drivers continued their trip.",
+    "The road was flooded, but the drivers continued.",
+    "The road was flooded, and the drivers stopped.",
+    "The road was flooded; the drivers stopped.",
+    "The drivers continued and finished the trip."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A complex sentence has one independent clause and at least one dependent clause. Only the first has a dependent clause (Although...)."
+  },
+  {
+   "id": "SSX-006",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "In \"I know that she will pass the exam,\" the clause \"that she will pass the exam\" functions as a:",
+   "options": [
+    "independent clause",
+    "noun clause serving as the direct object of \"know\"",
+    "appositive phrase",
+    "adjective clause modifying \"I\"",
+    "adverb clause modifying \"pass\""
+   ],
+   "correctAnswer": 1,
+   "explanation": "The clause answers \"know what?\", so it acts as a noun (direct object); it is a dependent noun clause."
+  },
+  {
+   "id": "SSX-007",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "Which sentence uses a restrictive relative clause correctly?",
+   "options": [
+    "The employee who, won the award works in Cebu.",
+    "The employee whom won the award works in Cebu.",
+    "The employee who won the award works in Cebu.",
+    "The employee who won, the award works in Cebu.",
+    "The employee, who won the award works in Cebu."
+   ],
+   "correctAnswer": 2,
+   "explanation": "A restrictive clause identifies which employee and takes no commas; \"whom\" is wrong because the clause needs a subject form (who)."
+  },
+  {
+   "id": "SSX-008",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 2,
+   "question": "Which sentence is a compound sentence?",
+   "options": [
+    "Stamping the forms, the clerk smiled.",
+    "The clerk who stamped the forms left early.",
+    "The clerk stamped and signed the forms.",
+    "The clerk stamped the forms, and the officer signed them.",
+    "After the clerk stamped the forms, she left."
+   ],
+   "correctAnswer": 3,
+   "explanation": "A compound sentence joins two independent clauses with a coordinating conjunction (and). The others have a dependent clause or a compound predicate."
+  },
+  {
+   "id": "SSX-009",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "Which sentence correctly punctuates a nonrestrictive clause?",
+   "options": [
+    "My supervisor, who has served for twenty years will retire in June.",
+    "My supervisor who, has served for twenty years will retire in June.",
+    "My supervisor who has served for twenty years, will retire in June.",
+    "My supervisor; who has served for twenty years, will retire in June.",
+    "My supervisor, who has served for twenty years, will retire in June."
+   ],
+   "correctAnswer": 4,
+   "explanation": "A nonrestrictive clause adds extra information and must be set off by a pair of commas at both ends."
+  },
+  {
+   "id": "SSX-010",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "Which choice correctly joins the two independent clauses? \"The deadline was extended ___ some applicants still failed to submit.\"",
+   "options": [
+    "; however,",
+    " however,",
+    ", which",
+    ", because",
+    ", however,"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Two independent clauses joined by a conjunctive adverb (however) need a semicolon before it; a comma alone causes a comma splice."
+  },
+  {
+   "id": "SSX-012",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 3,
+   "question": "Which sentence contains an error in subject-verb agreement within a dependent clause?",
+   "options": [
+    "The files, which are old, belong to the director.",
+    "The file that is on the desk belongs to the director.",
+    "The files that is on the desk belong to the director.",
+    "The files on the desk belong to the director.",
+    "The files that are on the desk belong to the director."
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"That\" refers to the plural \"files,\" so the relative clause needs \"are\", not \"is\"."
+  },
+  {
+   "id": "SSX-013",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 4,
+   "question": "Which sentence correctly uses \"whom\" in a dependent clause?",
+   "options": [
+    "The applicant whom she is was hired.",
+    "The applicant whom is qualified was hired.",
+    "The applicant whom was interviewed was hired.",
+    "The applicant whom the panel interviewed was hired.",
+    "The applicant whom interviewed the panel was hired."
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"Whom\" is the object of \"interviewed\" in its clause (the panel interviewed whom). In the others, the pronoun would need to be the subject (who)."
+  },
+  {
+   "id": "SSX-014",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 4,
+   "question": "Which sentence has a misplaced relative clause?",
+   "options": [
+    "The report that was full of errors was given to the clerk.",
+    "The clerk received a report that was full of errors.",
+    "The manager gave the clerk a report that was full of errors.",
+    "The manager gave the clerk the report, which was full of errors.",
+    "The manager gave a report to the clerk that was full of errors."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"That was full of errors\" should sit beside \"report,\" not \"clerk.\" A relative clause must follow the word it modifies."
+  },
+  {
+   "id": "SSX-015",
+   "level": "both",
+   "skill": "Clauses",
+   "tier": 4,
+   "question": "In \"Whoever submits the form first will receive the slot,\" the clause \"Whoever submits the form first\" is a:",
+   "options": [
+    "noun clause serving as the subject",
+    "adverb clause of time",
+    "independent clause",
+    "adjective clause modifying \"form\"",
+    "noun clause serving as the object"
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Whoever submits the form first\" is the doer of \"will receive,\" so it is a dependent noun clause acting as subject."
+  },
+  {
+   "id": "SSX-016",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "Choose the parallel completion: \"The new employee is punctual, honest, and ___.\"",
+   "options": [
+    "works hard",
+    "hardworking",
+    "has been working hard",
+    "a hard worker",
+    "she works hard"
+   ],
+   "correctAnswer": 1,
+   "explanation": "A series must use the same grammatical form; punctual, honest, and hardworking are all adjectives."
+  },
+  {
+   "id": "SSX-017",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "Which sentence keeps its series of -ing words parallel?",
+   "options": [
+    "She enjoys cooking, jogging, and to paint.",
+    "She enjoys cook, jog, and painting.",
+    "She enjoys cooking, jogging, and painting.",
+    "She enjoys to cook, jogging, and painting.",
+    "She enjoys cooking, to jog, and painting."
+   ],
+   "correctAnswer": 2,
+   "explanation": "All three items are gerunds (-ing forms), so the series is parallel."
+  },
+  {
+   "id": "SSX-018",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "Choose the correct completion: \"You may pay in cash, by check, or ___.\"",
+   "options": [
+    "if you use a credit card",
+    "with a credit card being used",
+    "credit card",
+    "by credit card",
+    "using a credit card, too"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The phrases \"in cash,\" \"by check,\" and \"by credit card\" are all prepositional phrases, keeping the series parallel."
+  },
+  {
+   "id": "SSX-019",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 1,
+   "question": "Which sentence mixes nouns with a phrase in a series, making it faulty in parallelism?",
+   "options": [
+    "The job requires accuracy, speed, and care.",
+    "The job requires patience, accuracy, and punctuality.",
+    "The job requires patience and accuracy.",
+    "The job requires being patient, accurate, and punctual.",
+    "The job requires patience, accuracy, and being on time."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"Patience\" and \"accuracy\" are nouns, but \"being on time\" is a phrase. Use the noun \"punctuality\" to match."
+  },
+  {
+   "id": "SSX-020",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Choose the correct completion: \"The clerk not only typed the letter but also ___.\"",
+   "options": [
+    "mailed it",
+    "the mailing of it",
+    "was mailing it",
+    "he mailed it",
+    "it was mailed"
+   ],
+   "correctAnswer": 0,
+   "explanation": "After \"not only ... but also\" both parts must match; \"typed the letter\" and \"mailed it\" are both past-tense verb phrases."
+  },
+  {
+   "id": "SSX-021",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Which sentence keeps its list of commands parallel?",
+   "options": [
+    "Employees should arrive on time, wearing their IDs, and follow the rules.",
+    "Employees should arrive on time, wear their IDs, and follow the rules.",
+    "Employees should arrival on time, wear their IDs, and follow the rules.",
+    "Employees should arrive on time, to wear their IDs, and following the rules.",
+    "Employees should arrive on time, their IDs wear, and follow the rules."
+   ],
+   "correctAnswer": 1,
+   "explanation": "Arrive, wear, and follow are all base-form verbs with the same structure."
+  },
+  {
+   "id": "SSX-022",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Which sentence correctly uses correlative conjunctions?",
+   "options": [
+    "She is neither rude nor she is lazy.",
+    "She is neither rude or lazy.",
+    "She is neither rude nor lazy.",
+    "She is neither rude, or lazy.",
+    "She is neither rude nor working lazily."
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Neither\" must pair with \"nor,\" and the two items (rude, lazy) must be the same part of speech."
+  },
+  {
+   "id": "SSX-023",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 2,
+   "question": "Choose the parallel completion: \"Mr. Cruz is respected for his honesty, his skill, and ___.\"",
+   "options": [
+    "that he gives",
+    "being generous",
+    "generously",
+    "his generosity",
+    "he is generous"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The series uses \"his + noun\" (his honesty, his skill, his generosity)."
+  },
+  {
+   "id": "SSX-024",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Which sentence is NOT parallel in its series of clauses and nouns?",
+   "options": [
+    "The report was clearly written and accurate.",
+    "The report was clear, well organized, and accurate.",
+    "The report was clear, organized, and accurate.",
+    "The report was clear and accurate.",
+    "The report was clear, well organized, and it was accurate."
+   ],
+   "correctAnswer": 4,
+   "explanation": "Two adjectives are followed by a full clause (\"it was accurate\"). All items should be adjectives."
+  },
+  {
+   "id": "SSX-025",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Choose the best revision: \"The director wants to hire someone who is experienced and with a good attitude.\"",
+   "options": [
+    "The director wants to hire someone who is experienced and has a good attitude.",
+    "The director wants to hire someone with experience and has a good attitude.",
+    "The director wants to hire someone who is experienced and a good attitude.",
+    "The director wants to hire someone experienced and having a good attitude too.",
+    "The director wants to hire someone who is experienced and with having a good attitude."
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Who is experienced and has a good attitude\" gives two matching predicates joined by \"and,\" fixing the unbalanced adjective + phrase."
+  },
+  {
+   "id": "SSX-026",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Which sentence is parallel in a comparison?",
+   "options": [
+    "It is better for prevention than to correct a problem.",
+    "It is better to prevent a problem than to correct one.",
+    "It is better preventing a problem than to correct one.",
+    "It is better to prevent a problem than correction of one.",
+    "It is better to prevent a problem than correcting one."
+   ],
+   "correctAnswer": 1,
+   "explanation": "Comparisons require matching forms: \"to prevent\" is balanced with \"to correct.\""
+  },
+  {
+   "id": "SSX-027",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 3,
+   "question": "Which sentence is NOT parallel in its list of noun elements?",
+   "options": [
+    "The speaker explained what the policy covers, who may apply, and when to file.",
+    "The speaker explained the coverage, eligibility, and deadlines.",
+    "The speaker explained what the policy covers, who may apply, and the deadlines.",
+    "The speaker explained what is covered, who qualifies, and when to file.",
+    "The speaker explained the policy, the applicants, and the deadlines."
+   ],
+   "correctAnswer": 2,
+   "explanation": "Two noun clauses are followed by a bare noun (\"the deadlines\"). It should be a clause such as \"when the deadlines are.\""
+  },
+  {
+   "id": "SSX-028",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 4,
+   "question": "Choose the best revision: \"The committee reviewed the proposal, rejected the budget, and a new plan was requested.\"",
+   "options": [
+    "The committee reviewed the proposal, rejected the budget, and a new plan was requested by it.",
+    "The committee reviewed the proposal, the budget was rejected, and requested a new plan.",
+    "The committee reviewed the proposal, rejected the budget, and then a new plan.",
+    "The committee reviewed the proposal, rejected the budget, and requested a new plan.",
+    "The committee was reviewing the proposal, rejected the budget, and requests a new plan."
+   ],
+   "correctAnswer": 3,
+   "explanation": "The sentence shifts from active verbs to a passive clause. All three predicates should be active past-tense verbs with the same subject."
+  },
+  {
+   "id": "SSX-029",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 4,
+   "question": "Which sentence balances its either/or phrases in parallel form?",
+   "options": [
+    "Whether you apply online or to appear in person, you must bring a valid ID.",
+    "Whether applying online or you go in person, you must bring a valid ID.",
+    "Whether online application or you appear in person, you must bring a valid ID.",
+    "Whether you apply online or by going in person, you must bring a valid ID.",
+    "Whether you apply online or in person, you must bring a valid ID."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"Online\" and \"in person\" are both adverbial expressions of manner and balance each other."
+  },
+  {
+   "id": "SSX-030",
+   "level": "both",
+   "skill": "Parallelism",
+   "tier": 4,
+   "question": "Which sentence is NOT parallel in its list of criteria?",
+   "options": [
+    "Applicants will be judged on how well they write, their speaking ability, and how they solve problems.",
+    "Applicants will be judged on writing, speaking, and problem solving.",
+    "Applicants will be judged on how well they write, how well they speak, and how well they solve problems.",
+    "Applicants will be judged on their writing, their speaking, and their problem solving.",
+    "Applicants will be judged on how they write, speak, and solve problems."
+   ],
+   "correctAnswer": 0,
+   "explanation": "A noun clause, a noun phrase, and another noun clause are mixed. Items must all be clauses or all be noun phrases."
+  },
+  {
+   "id": "SSX-031",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 1,
+   "question": "Which sentence has a misplaced prepositional phrase?",
+   "options": [
+    "The clerk handed the blue folder to the applicant.",
+    "The clerk handed the form to the applicant with a blue folder.",
+    "The clerk handed the applicant the form.",
+    "The clerk handed the form to the applicant quickly.",
+    "The clerk with a blue folder handed the form to the applicant."
+   ],
+   "correctAnswer": 1,
+   "explanation": "\"With a blue folder\" is ambiguous; it is far from the noun it describes. Phrases should be placed next to the words they modify."
+  },
+  {
+   "id": "SSX-033",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 1,
+   "question": "In which sentence is the modifier correctly placed?",
+   "options": [
+    "I bought a loaf of fresh this morning bread.",
+    "I a fresh bought loaf of bread this morning.",
+    "I bought a loaf of bread fresh this morning.",
+    "I bought a fresh loaf of bread this morning.",
+    "Fresh, I bought a loaf of bread this morning."
+   ],
+   "correctAnswer": 3,
+   "explanation": "The adjective \"fresh\" belongs directly before the noun phrase it modifies."
+  },
+  {
+   "id": "SSX-034",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 1,
+   "question": "Which sentence uses \"only\" so that it means no one else attended?",
+   "options": [
+    "Ana attended only the seminar.",
+    "Ana attended the seminar only.",
+    "Ana only attended the seminar.",
+    "Ana attended the only seminar.",
+    "Only Ana attended the seminar."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"Only\" placed right before \"Ana\" limits the meaning to her alone. Moving it changes what it modifies."
+  },
+  {
+   "id": "SSX-036",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Choose the best revision: \"Covered in dust, the clerk found the old files.\"",
+   "options": [
+    "The clerk, covered in dust, finding the old files.",
+    "The clerk found the old files covered in dust.",
+    "The clerk found the old files, and covered in dust.",
+    "Covered in dust, the clerk found the old files.",
+    "Covered in dust, a clerk's old files were found."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The files were covered in dust, so the phrase must be next to \"files.\" Otherwise it misplaces the modifier on \"clerk.\""
+  },
+  {
+   "id": "SSX-037",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence means that the auditor examined just the ledger and nothing else?",
+   "options": [
+    "The auditor only examined the ledger.",
+    "The auditor examined the only ledger.",
+    "The auditor examined only the ledger.",
+    "Only the auditor examined the ledger.",
+    "The auditor examined the ledger, only."
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"Only\" placed directly before \"the ledger\" limits the object examined; other placements change what is limited (the verb, the doer, or the ledger count)."
+  },
+  {
+   "id": "SSX-038",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 2,
+   "question": "Which sentence has a squinting modifier?",
+   "options": [
+    "Employees who complain are often ignored.",
+    "Employees who complain get ignored often.",
+    "Employees who complain are ignored.",
+    "Employees who complain often get ignored.",
+    "Employees who often complain get ignored."
+   ],
+   "correctAnswer": 3,
+   "explanation": "\"Often\" could modify either \"complain\" or \"get ignored.\" A squinting modifier fits two words, making the meaning unclear."
+  },
+  {
+   "id": "SSX-039",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Choose the best revision: \"To get a better score, extra hours must be spent reviewing.\"",
+   "options": [
+    "To get a better score, extra hours reviewing must be spent.",
+    "To get a better score, reviewing is where extra hours go.",
+    "To get a better score, spending of extra hours is a must.",
+    "To get a better score, extra hours must be spent by reviewing.",
+    "To get a better score, you must spend extra hours reviewing."
+   ],
+   "correctAnswer": 4,
+   "explanation": "The infinitive phrase needs a doer as the subject (you). The original leaves the modifier dangling."
+  },
+  {
+   "id": "SSX-040",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which sentence correctly attaches its introductory participial phrase?",
+   "options": [
+    "Having completed the audit, the accountant submitted the findings.",
+    "Having completed the audit, the findings were submitted by the accountant.",
+    "Having completed the audit, submission of the findings was done.",
+    "Having completed the audit, it was the findings the accountant submitted.",
+    "Having completed the audit, the findings were submitted."
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Having completed\" must modify the one who did the completing (the accountant), who must be the subject of the main clause."
+  },
+  {
+   "id": "SSX-041",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which sentence is clear about who was wearing a uniform?",
+   "options": [
+    "The guard stopped the visitor, in a uniform.",
+    "The guard in a uniform stopped the visitor.",
+    "In a uniform, the visitor was stopped by the guard, clearly.",
+    "The guard stopped in a uniform the visitor.",
+    "The guard stopped the visitor and in a uniform."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The prepositional phrase \"in a uniform\" sits directly after \"guard,\" the noun it modifies, so there is no confusion."
+  },
+  {
+   "id": "SSX-042",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 3,
+   "question": "Which sentence has a misplaced modifier that changes who has the red marks?",
+   "options": [
+    "The teacher returned the marked papers to the students.",
+    "The teacher returned the students' papers, which had red marks.",
+    "The teacher returned the papers to the students with red marks.",
+    "The teacher returned the papers with red marks to the students.",
+    "With red marks, the papers were returned to the students."
+   ],
+   "correctAnswer": 2,
+   "explanation": "\"With red marks\" is next to \"students,\" suggesting the students had red marks; it should be next to \"papers.\""
+  },
+  {
+   "id": "SSX-043",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 4,
+   "question": "Choose the best revision: \"Driving through the province, the mountains were beautiful.\"",
+   "options": [
+    "The mountains were beautiful, driving through the province.",
+    "Driving through the province, the mountains were beautiful to see.",
+    "Driving through the province, the beautiful mountains were seen.",
+    "Driving through the province, we found the mountains beautiful.",
+    "Driving through the province, the mountains' beauty was clear."
+   ],
+   "correctAnswer": 3,
+   "explanation": "The participial phrase needs a human subject (we); \"the mountains\" cannot drive. Adding \"we\" fixes the dangling modifier."
+  },
+  {
+   "id": "SSX-044",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 4,
+   "question": "Which sentence has a properly attached opening phrase?",
+   "options": [
+    "Wanting to be fair, everyone's turn to speak was given.",
+    "Wanting to be fair, speaking turns were given out.",
+    "Wanting to be fair, a turn was given to everyone.",
+    "Wanting to be fair, everyone was given a turn by the rules.",
+    "Wanting to be fair, the director gave everyone a turn to speak."
+   ],
+   "correctAnswer": 4,
+   "explanation": "The subject \"the director\" is the one wanting to be fair, so the modifier is attached properly."
+  },
+  {
+   "id": "SSX-045",
+   "level": "both",
+   "skill": "Modifiers",
+   "tier": 4,
+   "question": "Which sentence expresses that only the report, and nothing else, was reviewed by the editor?",
+   "options": [
+    "The editor reviewed only the report.",
+    "The editor only reviewed the report.",
+    "The editor reviewed the report only yesterday.",
+    "The editor reviewed the only report.",
+    "Only the editor reviewed the report."
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"Only\" directly before \"the report\" limits the object reviewed. Other placements limit the editor, the verb, or the time."
+  },
+  {
+   "id": "SSX-049",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 1,
+   "question": "Which is a sentence fragment?",
+   "options": [
+    "The flight was delayed by the storm.",
+    "The storm delayed the flight.",
+    "Delayed by the storm, the flight arrived late.",
+    "The flight, delayed by the storm, arrived late.",
+    "Which was delayed by the storm."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"Which was delayed by the storm\" is a relative clause without a main clause. It cannot stand alone."
+  },
+  {
+   "id": "SSX-050",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which choice corrects the fragment \"After the training ended on Friday.\"?",
+   "options": [
+    "After the training ended on Friday, the participants went home.",
+    "After the training ended on Friday, going home.",
+    "After the training ended on Friday, which was long.",
+    "After the training ended on Friday and the participants.",
+    "After the training, which ended on Friday."
+   ],
+   "correctAnswer": 0,
+   "explanation": "Attaching an independent clause to the dependent clause makes a complete sentence."
+  },
+  {
+   "id": "SSX-052",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence is the most concise and clear?",
+   "options": [
+    "On the day of Monday, the committee is going to be meeting together.",
+    "The committee, it will meet on Monday.",
+    "The committee will meet on Monday.",
+    "There will be a meeting by the committee on Monday.",
+    "The committee will have a meeting that is on the day of Monday."
+   ],
+   "correctAnswer": 2,
+   "explanation": "Wordiness and redundancy are removed; the sentence says the same thing in fewer words."
+  },
+  {
+   "id": "SSX-053",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 2,
+   "question": "Which sentence correctly fixes the run-on \"I submitted the form the clerk lost it\"?",
+   "options": [
+    "I submitted the form, the clerk, lost it.",
+    "I submitted the form, the clerk lost it.",
+    "I submitted the form but, the clerk lost it.",
+    "I submitted the form, but the clerk lost it.",
+    "I submitted the form the clerk, lost it."
+   ],
+   "correctAnswer": 3,
+   "explanation": "A comma plus a coordinating conjunction (but) properly joins two independent clauses."
+  },
+  {
+   "id": "SSX-054",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which sentence has an ambiguous pronoun reference?",
+   "options": [
+    "The director announced the new policy when meeting the secretary.",
+    "When the director met her, the secretary announced the new policy.",
+    "The director met the secretary and announced the new policy.",
+    "When the director met the secretary, the director announced the new policy.",
+    "When the director met the secretary, she announced the new policy."
+   ],
+   "correctAnswer": 4,
+   "explanation": "\"She\" could refer to either the director or the secretary, so the pronoun reference is unclear; the other choices name the doer."
+  },
+  {
+   "id": "SSX-055",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which sentence handles neither/nor agreement correctly?",
+   "options": [
+    "Neither the manager nor the clerks were present at the meeting.",
+    "Neither the manager nor the clerks are were present at the meeting.",
+    "Neither the manager or the clerks were present at the meeting.",
+    "Neither the manager nor the clerks being present at the meeting.",
+    "Neither the manager nor the clerks was present at the meeting."
+   ],
+   "correctAnswer": 0,
+   "explanation": "With \"neither ... nor,\" the verb agrees with the nearer subject (clerks), which is plural, so \"were\" is correct."
+  },
+  {
+   "id": "SSX-056",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which is the best way to combine: \"The report was long. It was well written. It was ignored.\"?",
+   "options": [
+    "The report long, well written, and ignored it.",
+    "Although the report was long and well written, it was ignored.",
+    "Although the report was long and well written.",
+    "The report was long and was well written was ignored.",
+    "The report was long, it was well written, it was ignored."
+   ],
+   "correctAnswer": 1,
+   "explanation": "The best combination joins related ideas and uses a subordinate clause to show contrast, avoiding a comma splice or fragment."
+  },
+  {
+   "id": "SSX-057",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 3,
+   "question": "Which sentence uses a semicolon correctly?",
+   "options": [
+    "The exam; was long, nevertheless most of us finished.",
+    "The exam was long; because most of us finished.",
+    "The exam was long; nevertheless, most of us finished.",
+    "The exam was; long nevertheless, most of us finished.",
+    "The exam was long; and most of us finished."
+   ],
+   "correctAnswer": 2,
+   "explanation": "A semicolon joins two independent clauses; a conjunctive adverb such as \"nevertheless\" is followed by a comma."
+  },
+  {
+   "id": "SSX-058",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 4,
+   "question": "Which sentence is correct and most effective?",
+   "options": [
+    "The staff, who had worked overtime for weeks deserved the bonus.",
+    "The staff who, had worked overtime for weeks deserved the bonus.",
+    "The staff, who worked overtime for weeks, they deserved the bonus.",
+    "The staff, who had worked overtime for weeks, deserved the bonus.",
+    "The staff who had worked overtime for weeks, deserved the bonus."
+   ],
+   "correctAnswer": 3,
+   "explanation": "The nonrestrictive clause needs commas at both ends, and no extra pronoun (they) should repeat the subject."
+  },
+  {
+   "id": "SSX-059",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 4,
+   "question": "Which sentence has an inconsistent shift in person?",
+   "options": [
+    "If a person studies hard, he or she will pass the exam.",
+    "If you study hard, you will pass the exam.",
+    "If a student studies, the student will pass.",
+    "If people study hard, they will pass the exam.",
+    "If a person studies hard, you will pass the exam."
+   ],
+   "correctAnswer": 4,
+   "explanation": "The sentence shifts from third person (a person) to second person (you). Pronouns must stay consistent in person."
+  },
+  {
+   "id": "SSX-060",
+   "level": "both",
+   "skill": "Sentence Construction",
+   "tier": 4,
+   "question": "Which is the best revision of this sentence? \"The reason for the delay was because the truck broke down.\"",
+   "options": [
+    "The delay occurred because the truck broke down.",
+    "The reason why the delay was because the truck broke down.",
+    "Because the truck broke down was the reason for the delay.",
+    "The reason for the delay was because the truck broke down.",
+    "The delay was a reason because the truck broke down."
+   ],
+   "correctAnswer": 0,
+   "explanation": "\"The reason ... was because\" is redundant and faulty; \"because\" already means \"for the reason that,\" so a direct sentence is best."
+  }
+ ]
+}

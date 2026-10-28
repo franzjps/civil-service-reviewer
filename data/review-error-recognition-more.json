@@ -1,0 +1,1205 @@
+{
+  "module": "error-recognition",
+  "questions": [
+    {
+      "id": "ERX-001",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe boys in the yard plays soccer every afternoon.",
+      "options": [
+        "The boys in the yard",
+        "plays",
+        "soccer",
+        "every afternoon.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The subject \"boys\" is plural, so the verb should be \"play\", not \"plays\"."
+    },
+    {
+      "id": "ERX-002",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMy brother and sister is studying in Manila.",
+      "options": [
+        "My brother and sister",
+        "is",
+        "studying",
+        "in Manila.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A compound subject joined by \"and\" is plural, so use \"are\"."
+    },
+    {
+      "id": "ERX-003",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe dogs barks at strangers every night.",
+      "options": [
+        "The dogs",
+        "barks",
+        "at strangers",
+        "every night.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"Dogs\" is plural, so the verb should be \"bark\"."
+    },
+    {
+      "id": "ERX-004",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nEither the teacher or the students is responsible for the noise.",
+      "options": [
+        "Either the teacher or",
+        "the students",
+        "is responsible",
+        "for the noise.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "With \"either...or\", the verb agrees with the nearer subject, \"students\", so use \"are responsible\"."
+    },
+    {
+      "id": "ERX-005",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNeither of the answers are correct according to the key.",
+      "options": [
+        "Neither of the answers",
+        "are",
+        "correct",
+        "according to the key.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"Neither\" is singular, so the verb should be \"is\"."
+    },
+    {
+      "id": "ERX-006",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nEconomics are a required subject for all business students.",
+      "options": [
+        "Economics",
+        "are",
+        "a required subject",
+        "for all business students.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Names of subjects such as \"Economics\" take a singular verb: \"is\"."
+    },
+    {
+      "id": "ERX-007",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nHere are the documents you requested.",
+      "options": [
+        "Here",
+        "are",
+        "the documents",
+        "you requested.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The plural subject \"documents\" correctly takes \"are\" in the inverted sentence, so there is no error."
+    },
+    {
+      "id": "ERX-008",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe quality of the products sold in the market have improved lately.",
+      "options": [
+        "The quality of the products",
+        "sold in the market",
+        "have",
+        "improved lately.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The subject is the singular \"quality\", not \"products\", so the verb should be \"has\"."
+    },
+    {
+      "id": "ERX-009",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nOne of the reasons why she resigned were her low salary.",
+      "options": [
+        "One of the reasons",
+        "why she resigned",
+        "were",
+        "her low salary.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"One\" is the singular subject (and \"her low salary\" is singular), so the verb should be \"was\"."
+    },
+    {
+      "id": "ERX-010",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThere is several problems in the budget proposal.",
+      "options": [
+        "There",
+        "is",
+        "several problems",
+        "in the budget proposal.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The real subject \"problems\" is plural, so use \"are\" after \"There\"."
+    },
+    {
+      "id": "ERX-011",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nTen thousand pesos are too much for a pair of shoes.",
+      "options": [
+        "Ten thousand pesos",
+        "are",
+        "too much",
+        "for a pair of shoes.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A sum of money treated as a single amount takes a singular verb: \"is\"."
+    },
+    {
+      "id": "ERX-012",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe president, together with his cabinet members, are expected to attend the summit.",
+      "options": [
+        "The president, together with his cabinet members,",
+        "are",
+        "expected to attend",
+        "the summit.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phrases introduced by \"together with\" do not change the subject; \"president\" is singular, so use \"is\"."
+    },
+    {
+      "id": "ERX-013",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNot only the mayor but also the councilors was invited to the ceremony.",
+      "options": [
+        "Not only the mayor but also the councilors",
+        "was",
+        "invited",
+        "to the ceremony.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "With \"not only...but also\", the verb agrees with the nearer subject, \"councilors\", so use \"were\"."
+    },
+    {
+      "id": "ERX-014",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nA number of employees has requested a salary increase.",
+      "options": [
+        "A number of employees",
+        "has",
+        "requested",
+        "a salary increase.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"A number of\" takes a plural verb, so use \"have\"."
+    },
+    {
+      "id": "ERX-015",
+      "level": "both",
+      "skill": "Subject–Verb Agreement",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe number of applicants has increased this year.",
+      "options": [
+        "The number",
+        "of applicants",
+        "has increased",
+        "this year.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "\"The number of\" takes a singular verb, so \"has increased\" is correct."
+    },
+    {
+      "id": "ERX-016",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nLast week, we goes to the beach with our cousins.",
+      "options": [
+        "Last week,",
+        "we goes",
+        "to the beach",
+        "with our cousins.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A past time marker requires the simple past: \"went\"."
+    },
+    {
+      "id": "ERX-017",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nYesterday, he buy a new bag at the mall.",
+      "options": [
+        "Yesterday, he",
+        "buy",
+        "a new bag",
+        "at the mall.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"Yesterday\" signals the simple past: \"bought\"."
+    },
+    {
+      "id": "ERX-018",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThey have went to school already.",
+      "options": [
+        "They",
+        "have went",
+        "to school",
+        "already.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The present perfect needs the past participle \"gone\", not \"went\"."
+    },
+    {
+      "id": "ERX-019",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nI am living in Davao since 2015.",
+      "options": [
+        "I",
+        "am living",
+        "in Davao",
+        "since 2015.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"Since\" with a starting point requires the present perfect: \"have been living\" or \"have lived\"."
+    },
+    {
+      "id": "ERX-020",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWhen I was a child, I often play in the river.",
+      "options": [
+        "When I was a child,",
+        "I often",
+        "play",
+        "in the river.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The past habit needs the past tense: \"played\"."
+    },
+    {
+      "id": "ERX-021",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nRizal has written Noli Me Tangere in 1887.",
+      "options": [
+        "Rizal",
+        "has written",
+        "Noli Me Tangere",
+        "in 1887.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A finished action at a specific past time uses the simple past: \"wrote\"."
+    },
+    {
+      "id": "ERX-022",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe sun rises in the east every morning.",
+      "options": [
+        "The sun",
+        "rises",
+        "in the east",
+        "every morning.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "A general truth uses the simple present, so \"rises\" is correct."
+    },
+    {
+      "id": "ERX-023",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nAfter she had finished her homework, she watch television.",
+      "options": [
+        "After she had finished her homework,",
+        "she",
+        "watch",
+        "television.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sequence of past events needs the simple past: \"watched\"."
+    },
+    {
+      "id": "ERX-024",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nIf it rains tomorrow, the class would be cancelled.",
+      "options": [
+        "If it rains tomorrow,",
+        "the class",
+        "would be",
+        "cancelled.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A real future condition (\"rains\") takes \"will be\" in the result clause."
+    },
+    {
+      "id": "ERX-025",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe teacher asked why we are late for class yesterday.",
+      "options": [
+        "The teacher asked why",
+        "we are",
+        "late",
+        "for class yesterday.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After the past verb \"asked\", the clause shifts to the past: \"we were\"."
+    },
+    {
+      "id": "ERX-026",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWe are waiting for two hours when the bus finally arrived.",
+      "options": [
+        "We",
+        "are waiting",
+        "for two hours",
+        "when the bus finally arrived.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An action in progress before a past event requires the past perfect progressive: \"had been waiting\"."
+    },
+    {
+      "id": "ERX-027",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe is knowing the answer to the question.",
+      "options": [
+        "She",
+        "is knowing",
+        "the answer",
+        "to the question.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stative verbs like \"know\" are not used in the progressive; use \"knows\"."
+    },
+    {
+      "id": "ERX-028",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nIf she had studied harder, she would pass the exam.",
+      "options": [
+        "If she",
+        "had studied",
+        "harder,",
+        "she would pass the exam.",
+        "No error"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A past unreal condition (\"had studied\") needs \"would have passed\" in the result clause."
+    },
+    {
+      "id": "ERX-029",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBy the time the rescuers arrived, the survivors are waiting for three days.",
+      "options": [
+        "By the time the rescuers arrived,",
+        "the survivors",
+        "are waiting",
+        "for three days.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An action completed before a past point needs the past perfect progressive: \"had been waiting\"."
+    },
+    {
+      "id": "ERX-030",
+      "level": "both",
+      "skill": "Tenses",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nBy the time you arrive, we will have finished dinner.",
+      "options": [
+        "By the time you arrive,",
+        "we",
+        "will have finished",
+        "dinner.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The simple present in the time clause with the future perfect in the main clause is correct."
+    },
+    {
+      "id": "ERX-031",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nHer and I went to the market together.",
+      "options": [
+        "Her and I",
+        "went",
+        "to the market",
+        "together.",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A subject needs the subjective case: \"She and I\"."
+    },
+    {
+      "id": "ERX-032",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe teacher gave the books to he and his sister.",
+      "options": [
+        "The teacher gave",
+        "the books",
+        "to he",
+        "and his sister.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The object of the preposition \"to\" takes the objective case: \"him\"."
+    },
+    {
+      "id": "ERX-033",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMaria and him are good friends.",
+      "options": [
+        "Maria and him",
+        "are",
+        "good",
+        "friends.",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The compound subject needs the subjective case: \"Maria and he\"."
+    },
+    {
+      "id": "ERX-034",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nUs students are going on a field trip.",
+      "options": [
+        "Us",
+        "students",
+        "are going",
+        "on a field trip.",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The subject needs the subjective case: \"We students\"."
+    },
+    {
+      "id": "ERX-035",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe dog wagged it's tail happily.",
+      "options": [
+        "The dog wagged",
+        "it's",
+        "tail",
+        "happily.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "\"It's\" means \"it is\"; the possessive pronoun is \"its\"."
+    },
+    {
+      "id": "ERX-036",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe boy cut hisself with a knife.",
+      "options": [
+        "The boy",
+        "cut",
+        "hisself",
+        "with a knife.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The correct reflexive pronoun is \"himself\"; \"hisself\" is not standard."
+    },
+    {
+      "id": "ERX-037",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe principal praised Ramon and I for our hard work.",
+      "options": [
+        "The principal",
+        "praised",
+        "Ramon and I",
+        "for our hard work.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Ramon and I\" is the object of \"praised\", so use \"Ramon and me\"."
+    },
+    {
+      "id": "ERX-038",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe teacher gave Carlo and me extra homework.",
+      "options": [
+        "The teacher",
+        "gave",
+        "Carlo and me",
+        "extra homework.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "\"Carlo and me\" is correctly in the objective case as the indirect object."
+    },
+    {
+      "id": "ERX-039",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nMy sister and myself are going to Baguio.",
+      "options": [
+        "My sister and",
+        "myself",
+        "are going",
+        "to Baguio.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A reflexive pronoun cannot serve as the subject; use \"I\"."
+    },
+    {
+      "id": "ERX-040",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWhom is calling at this hour?",
+      "options": [
+        "Whom",
+        "is",
+        "calling",
+        "at this hour?",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "\"Who\" is the subject of \"is calling\", so the subjective case is needed."
+    },
+    {
+      "id": "ERX-041",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNeither of the girls brought her umbrella.",
+      "options": [
+        "Neither of the girls",
+        "brought",
+        "her",
+        "umbrella.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "\"Neither\" is singular and the girls are female, so \"her\" is correct."
+    },
+    {
+      "id": "ERX-042",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe shirt that I bought it yesterday is too small.",
+      "options": [
+        "The shirt",
+        "that I bought it",
+        "yesterday",
+        "is too small.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The relative pronoun \"that\" already stands for the object, so \"it\" is redundant."
+    },
+    {
+      "id": "ERX-043",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWhom do you think will win the election?",
+      "options": [
+        "Whom",
+        "do you",
+        "think",
+        "will win the election?",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "\"Who\" is the subject of \"will win\", despite the intervening \"do you think\"."
+    },
+    {
+      "id": "ERX-044",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe is the one whom I believe is the best candidate.",
+      "options": [
+        "She is",
+        "the one",
+        "whom",
+        "I believe is the best candidate.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Who\" is the subject of \"is the best candidate\"; \"I believe\" is parenthetical."
+    },
+    {
+      "id": "ERX-045",
+      "level": "both",
+      "skill": "Pronouns",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nHaving been invited by he and his wife, we brought a gift.",
+      "options": [
+        "Having been invited by",
+        "he and his wife,",
+        "we brought",
+        "a gift.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The object of the preposition \"by\" takes the objective case: \"him and his wife\"."
+    },
+    {
+      "id": "ERX-046",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe is very good in playing the piano.",
+      "options": [
+        "She is very good",
+        "in",
+        "playing",
+        "the piano.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct idiom is \"good at\"."
+    },
+    {
+      "id": "ERX-047",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe teacher explained me the lesson.",
+      "options": [
+        "The teacher",
+        "explained",
+        "me",
+        "the lesson.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Explain\" takes \"to\" before the person: \"explained to me the lesson\" or \"explained the lesson to me\"."
+    },
+    {
+      "id": "ERX-048",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 1,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nHe is more taller than his brother.",
+      "options": [
+        "He is",
+        "more taller",
+        "than",
+        "his brother.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Do not double the comparative; use \"taller\"."
+    },
+    {
+      "id": "ERX-049",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe is allergic at shrimp and crab.",
+      "options": [
+        "She is allergic",
+        "at",
+        "shrimp",
+        "and crab.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The correct idiom is \"allergic to\"."
+    },
+    {
+      "id": "ERX-050",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nWe discussed about the new policy during the meeting.",
+      "options": [
+        "We discussed about",
+        "the new policy",
+        "during",
+        "the meeting.",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "\"Discuss\" is transitive; omit \"about\"."
+    },
+    {
+      "id": "ERX-051",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nAna likes singing, dancing, and to draw.",
+      "options": [
+        "Ana likes",
+        "singing,",
+        "dancing,",
+        "and to draw.",
+        "No error"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parallelism: use \"drawing\" to match \"singing\" and \"dancing\"."
+    },
+    {
+      "id": "ERX-052",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 2,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe affect of the typhoon was devastating.",
+      "options": [
+        "The affect",
+        "of the typhoon",
+        "was",
+        "devastating.",
+        "No error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The noun meaning \"result\" is \"effect\", not \"affect\"."
+    },
+    {
+      "id": "ERX-053",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe new employee is hardworking, honest, and has dedication.",
+      "options": [
+        "The new employee is",
+        "hardworking,",
+        "honest,",
+        "and has dedication.",
+        "No error"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Parallelism: the adjectives need \"dedicated\" to match \"hardworking\" and \"honest\"."
+    },
+    {
+      "id": "ERX-054",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe report was neither accurate or complete.",
+      "options": [
+        "The report was",
+        "neither accurate",
+        "or",
+        "complete.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Neither\" pairs with \"nor\", not \"or\"."
+    },
+    {
+      "id": "ERX-055",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe number of less students this year worries the dean.",
+      "options": [
+        "The number of",
+        "less students",
+        "this year",
+        "worries the dean.",
+        "No error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Use \"fewer\" with countable nouns such as \"students\"."
+    },
+    {
+      "id": "ERX-056",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe prefers reading novels than watching movies.",
+      "options": [
+        "She prefers",
+        "reading novels",
+        "than",
+        "watching movies.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Prefer\" is followed by \"to\", not \"than\"."
+    },
+    {
+      "id": "ERX-057",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 3,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nShe is interested in learning how to cook and how to bake.",
+      "options": [
+        "She is interested",
+        "in learning",
+        "how to cook",
+        "and how to bake.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "The two \"how to\" phrases are parallel and the idiom \"interested in\" is correct."
+    },
+    {
+      "id": "ERX-058",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe proposal was rejected not because it was costly but because of it lacked clarity.",
+      "options": [
+        "The proposal was rejected not because it was costly",
+        "but",
+        "because of",
+        "it lacked clarity.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Parallelism: \"not because it was costly but because it lacked clarity\"."
+    },
+    {
+      "id": "ERX-059",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nThe pilot had to lay down after the long flight.",
+      "options": [
+        "The pilot",
+        "had to",
+        "lay",
+        "down after the long flight.",
+        "No error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The intransitive verb \"lie\" is needed; \"lay\" requires an object."
+    },
+    {
+      "id": "ERX-060",
+      "level": "both",
+      "skill": "Usage & Parallelism",
+      "tier": 4,
+      "question": "Choose the part of the sentence that needs correction. Choose \"No error\" if the sentence is correct.\nNobody was more surprised than I at the result.",
+      "options": [
+        "Nobody was",
+        "more surprised",
+        "than I",
+        "at the result.",
+        "No error"
+      ],
+      "correctAnswer": 4,
+      "explanation": "\"Than I\" is the correct formal comparison with the implied verb \"was\", so there is no error."
+    },
+    {
+      "id": "ERX-061",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 1,
+      "question": "Bumili si Ana ___ bagong damit.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ang \"ng\" ang pananda ng layon (\"bagong damit\") ng pandiwang \"bumili\"."
+    },
+    {
+      "id": "ERX-062",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 1,
+      "question": "Tumakbo siya ___ mabilis.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang \"nang\" ay pang-abay na naglalarawan ng paraan ng pagkilos (\"nang mabilis\")."
+    },
+    {
+      "id": "ERX-063",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 1,
+      "question": "Ang bahay ___ lola ay malaki.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ang \"ng\" ay pananda ng pag-aari (kay lola), katumbas ng \"of\"."
+    },
+    {
+      "id": "ERX-064",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 1,
+      "question": "Mabait ___ ang guro natin.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nagtatapos sa katinig (t) ang \"mabait\", kaya \"daw\" ang gamit."
+    },
+    {
+      "id": "ERX-065",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 2,
+      "question": "Maganda ___ ang palabas.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Nagtatapos sa patinig (a) ang \"maganda\", kaya \"raw\" ang gamit."
+    },
+    {
+      "id": "ERX-066",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 2,
+      "question": "Masaya ___ ang kaarawan ni Lola.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Nagtatapos sa patinig (a) ang \"masaya\", kaya \"raw\" ang gamit."
+    },
+    {
+      "id": "ERX-067",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 2,
+      "question": "Mag-aral ka ___ mabuti upang pumasa.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang \"nang\" ay pang-abay na naglalarawan kung paano ang pag-aaral (\"nang mabuti\")."
+    },
+    {
+      "id": "ERX-068",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 2,
+      "question": "Naghintay kami ___ ilang oras.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ang \"ng\" ay pananda ng layon (\"ilang oras\") ng pandiwang \"naghintay\"."
+    },
+    {
+      "id": "ERX-069",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 3,
+      "question": "Umiyak siya ___ umalis ang kanyang ina.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang \"nang\" ay katumbas ng \"noong\" o \"when\" sa pagsasaad ng panahon."
+    },
+    {
+      "id": "ERX-070",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 3,
+      "question": "Nagsikap siya ___ makapagtapos ng pag-aaral.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang \"nang\" ay nangangahulugang \"upang\" o \"so that\" sa pagpapahayag ng layunin."
+    },
+    {
+      "id": "ERX-071",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 3,
+      "question": "Darating ___ si Mayor bukas.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nagtatapos sa katinig (g) ang \"darating\", kaya \"daw\" ang gamit."
+    },
+    {
+      "id": "ERX-072",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 3,
+      "question": "Sino ___ ang nakakita sa kanya?",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Nagtatapos sa patinig (o) ang \"sino\", kaya \"raw\" ang gamit."
+    },
+    {
+      "id": "ERX-073",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 4,
+      "question": "Tuloy ___ ang pista sa Sabado.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Nagtatapos sa y ang \"tuloy\", at ginagamit ang \"raw\" kapag ang huling tunog ay patinig o w/y."
+    },
+    {
+      "id": "ERX-074",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 4,
+      "question": "Umalis siya ___ hindi nagpaalam.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ang \"nang\" ay nangangahulugang \"without/when\" bilang pangatnig sa \"nang hindi nagpaalam\"."
+    },
+    {
+      "id": "ERX-075",
+      "level": "both",
+      "skill": "Ng/Nang & Daw/Raw",
+      "tier": 4,
+      "question": "Bawal ___ ang pumasok dito.",
+      "options": [
+        "ng",
+        "nang",
+        "ngan",
+        "daw",
+        "raw"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Nagtatapos sa katinig (l) ang \"bawal\", kaya \"daw\" ang gamit."
+    }
+  ]
+}

@@ -1,0 +1,1925 @@
+{
+ "module": "alphabet-number-skills",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 2 places after J in the alphabet?",
+   "options": [
+    "M",
+    "K",
+    "L",
+    "J",
+    "N"
+   ],
+   "correctAnswer": 2,
+   "explanation": "J is letter 10. 10 + 2 = 12, and letter 12 is L.",
+   "id": "CLR-ALP-001"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 4 places before O in the alphabet?",
+   "options": [
+    "I",
+    "L",
+    "M",
+    "K",
+    "J"
+   ],
+   "correctAnswer": 3,
+   "explanation": "O is letter 15. 15 − 4 = 11, and letter 11 is K.",
+   "id": "CLR-ALP-002"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 3 places after S in the alphabet?",
+   "options": [
+    "V",
+    "T",
+    "U",
+    "W",
+    "X"
+   ],
+   "correctAnswer": 0,
+   "explanation": "S is letter 19. 19 + 3 = 22, and letter 22 is V.",
+   "id": "CLR-ALP-003"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 2 places after E in the alphabet?",
+   "options": [
+    "I",
+    "H",
+    "F",
+    "G",
+    "E"
+   ],
+   "correctAnswer": 3,
+   "explanation": "E is letter 5. 5 + 2 = 7, and letter 7 is G.",
+   "id": "CLR-ALP-004"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 4 places before I in the alphabet?",
+   "options": [
+    "G",
+    "F",
+    "D",
+    "E",
+    "C"
+   ],
+   "correctAnswer": 3,
+   "explanation": "I is letter 9. 9 − 4 = 5, and letter 5 is E.",
+   "id": "CLR-ALP-005"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 2 places before L in the alphabet?",
+   "options": [
+    "I",
+    "H",
+    "J",
+    "L",
+    "K"
+   ],
+   "correctAnswer": 2,
+   "explanation": "L is letter 12. 12 − 2 = 10, and letter 10 is J.",
+   "id": "CLR-ALP-006"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 3 places before Z in the alphabet?",
+   "options": [
+    "V",
+    "U",
+    "Y",
+    "W",
+    "X"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Z is letter 26. 26 − 3 = 23, and letter 23 is W.",
+   "id": "CLR-ALP-007"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 1,
+   "question": "Which letter is 6 places after I in the alphabet?",
+   "options": [
+    "Q",
+    "N",
+    "P",
+    "M",
+    "O"
+   ],
+   "correctAnswer": 4,
+   "explanation": "I is letter 9. 9 + 6 = 15, and letter 15 is O.",
+   "id": "CLR-ALP-008"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between I and Q in the alphabet?",
+   "options": [
+    "6 letters",
+    "7 letters",
+    "8 letters",
+    "9 letters",
+    "10 letters"
+   ],
+   "correctAnswer": 1,
+   "explanation": "I is letter 9 and Q is letter 17. Letters between them: 17 − 9 − 1 = 7.",
+   "id": "CLR-ALP-009"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between I and N in the alphabet?",
+   "options": [
+    "2 letters",
+    "3 letters",
+    "4 letters",
+    "5 letters",
+    "6 letters"
+   ],
+   "correctAnswer": 2,
+   "explanation": "I is letter 9 and N is letter 14. Letters between them: 14 − 9 − 1 = 4.",
+   "id": "CLR-ALP-010"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between N and R in the alphabet?",
+   "options": [
+    "1 letter",
+    "2 letters",
+    "3 letters",
+    "4 letters",
+    "5 letters"
+   ],
+   "correctAnswer": 2,
+   "explanation": "N is letter 14 and R is letter 18. Letters between them: 18 − 14 − 1 = 3.",
+   "id": "CLR-ALP-011"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between K and S in the alphabet?",
+   "options": [
+    "6 letters",
+    "7 letters",
+    "8 letters",
+    "9 letters",
+    "10 letters"
+   ],
+   "correctAnswer": 1,
+   "explanation": "K is letter 11 and S is letter 19. Letters between them: 19 − 11 − 1 = 7.",
+   "id": "CLR-ALP-012"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between E and I in the alphabet?",
+   "options": [
+    "1 letter",
+    "2 letters",
+    "3 letters",
+    "4 letters",
+    "5 letters"
+   ],
+   "correctAnswer": 2,
+   "explanation": "E is letter 5 and I is letter 9. Letters between them: 9 − 5 − 1 = 3.",
+   "id": "CLR-ALP-013"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between L and T in the alphabet?",
+   "options": [
+    "7 letters",
+    "8 letters",
+    "9 letters",
+    "10 letters",
+    "11 letters"
+   ],
+   "correctAnswer": 0,
+   "explanation": "L is letter 12 and T is letter 20. Letters between them: 20 − 12 − 1 = 7.",
+   "id": "CLR-ALP-014"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between O and V in the alphabet?",
+   "options": [
+    "4 letters",
+    "5 letters",
+    "6 letters",
+    "7 letters",
+    "8 letters"
+   ],
+   "correctAnswer": 2,
+   "explanation": "O is letter 15 and V is letter 22. Letters between them: 22 − 15 − 1 = 6.",
+   "id": "CLR-ALP-015"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 2,
+   "question": "How many letters are there between P and X in the alphabet?",
+   "options": [
+    "6 letters",
+    "7 letters",
+    "8 letters",
+    "9 letters",
+    "10 letters"
+   ],
+   "correctAnswer": 1,
+   "explanation": "P is letter 16 and X is letter 24. Letters between them: 24 − 16 − 1 = 7.",
+   "id": "CLR-ALP-016"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after P as H is after B in the alphabet?",
+   "options": [
+    "T",
+    "X",
+    "V",
+    "U",
+    "W"
+   ],
+   "correctAnswer": 2,
+   "explanation": "H (8) is 8 − 2 = 6 places after B (2). 6 places after P (16) is 22, the letter V.",
+   "id": "CLR-ALP-017"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after L as H is after A in the alphabet?",
+   "options": [
+    "S",
+    "T",
+    "Q",
+    "U",
+    "R"
+   ],
+   "correctAnswer": 0,
+   "explanation": "H (8) is 8 − 1 = 7 places after A (1). 7 places after L (12) is 19, the letter S.",
+   "id": "CLR-ALP-018"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after Q as U is after Q in the alphabet?",
+   "options": [
+    "W",
+    "V",
+    "T",
+    "U",
+    "S"
+   ],
+   "correctAnswer": 3,
+   "explanation": "U (21) is 21 − 17 = 4 places after Q (17). 4 places after Q (17) is 21, the letter U.",
+   "id": "CLR-ALP-019"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after P as I is after C in the alphabet?",
+   "options": [
+    "W",
+    "U",
+    "V",
+    "T",
+    "X"
+   ],
+   "correctAnswer": 2,
+   "explanation": "I (9) is 9 − 3 = 6 places after C (3). 6 places after P (16) is 22, the letter V.",
+   "id": "CLR-ALP-020"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after K as H is after D in the alphabet?",
+   "options": [
+    "N",
+    "O",
+    "P",
+    "Q",
+    "M"
+   ],
+   "correctAnswer": 1,
+   "explanation": "H (8) is 8 − 4 = 4 places after D (4). 4 places after K (11) is 15, the letter O.",
+   "id": "CLR-ALP-021"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after P as J is after D in the alphabet?",
+   "options": [
+    "X",
+    "W",
+    "U",
+    "V",
+    "T"
+   ],
+   "correctAnswer": 3,
+   "explanation": "J (10) is 10 − 4 = 6 places after D (4). 6 places after P (16) is 22, the letter V.",
+   "id": "CLR-ALP-022"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after F as N is after I in the alphabet?",
+   "options": [
+    "L",
+    "M",
+    "K",
+    "I",
+    "J"
+   ],
+   "correctAnswer": 2,
+   "explanation": "N (14) is 14 − 9 = 5 places after I (9). 5 places after F (6) is 11, the letter K.",
+   "id": "CLR-ALP-023"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 3,
+   "question": "Which letter is as far after C as P is after J in the alphabet?",
+   "options": [
+    "G",
+    "K",
+    "H",
+    "I",
+    "J"
+   ],
+   "correctAnswer": 3,
+   "explanation": "P (16) is 16 − 10 = 6 places after J (10). 6 places after C (3) is 9, the letter I.",
+   "id": "CLR-ALP-024"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Counting from the start of the alphabet (A is 1st), R is in place 18. Which letter is in place 18 counting from the end (Z is 1st)?",
+   "options": [
+    "H",
+    "K",
+    "J",
+    "G",
+    "I"
+   ],
+   "correctAnswer": 4,
+   "explanation": "The 18th letter from the end is letter 27 − 18 = 9, which is I.",
+   "id": "CLR-ALP-025"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Counting from the start of the alphabet (A is 1st), Q is in place 17. Which letter is in place 17 counting from the end (Z is 1st)?",
+   "options": [
+    "K",
+    "H",
+    "I",
+    "J",
+    "L"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The 17th letter from the end is letter 27 − 17 = 10, which is J.",
+   "id": "CLR-ALP-026"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Which letter is exactly halfway between G and K in the alphabet?",
+   "options": [
+    "H",
+    "G",
+    "J",
+    "K",
+    "I"
+   ],
+   "correctAnswer": 4,
+   "explanation": "G = 7 and K = 11. Halfway is (7 + 11) ÷ 2 = 9, the letter I.",
+   "id": "CLR-ALP-027"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Counting from the start of the alphabet (A is 1st), D is in place 4. Which letter is in place 4 counting from the end (Z is 1st)?",
+   "options": [
+    "X",
+    "V",
+    "Y",
+    "W",
+    "U"
+   ],
+   "correctAnswer": 3,
+   "explanation": "The 4th letter from the end is letter 27 − 4 = 23, which is W.",
+   "id": "CLR-ALP-028"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Which letter is exactly halfway between A and K in the alphabet?",
+   "options": [
+    "D",
+    "H",
+    "F",
+    "E",
+    "G"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A = 1 and K = 11. Halfway is (1 + 11) ÷ 2 = 6, the letter F.",
+   "id": "CLR-ALP-029"
+  },
+  {
+   "level": "both",
+   "skill": "Alphabet Positions",
+   "tier": 4,
+   "question": "Which letter is exactly halfway between J and V in the alphabet?",
+   "options": [
+    "R",
+    "O",
+    "P",
+    "Q",
+    "N"
+   ],
+   "correctAnswer": 2,
+   "explanation": "J = 10 and V = 22. Halfway is (10 + 22) ÷ 2 = 16, the letter P.",
+   "id": "CLR-ALP-030"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 0 appear in the following number?\n04033202213554413110",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Count each 0: it appears 4 time(s).",
+   "id": "CLR-ALP-031"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 3 appear in the following number?\n13023255515041445543",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Count each 3: it appears 3 time(s).",
+   "id": "CLR-ALP-032"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 1 appear in the following number?\n20220144240211350244",
+   "options": [
+    "3 times",
+    "4 times",
+    "5 times",
+    "6 times",
+    "7 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Count each 1: it appears 3 time(s).",
+   "id": "CLR-ALP-033"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 0 appear in the following number?\n34354441055023140405",
+   "options": [
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times",
+    "6 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Count each 0: it appears 4 time(s).",
+   "id": "CLR-ALP-034"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 1 appear in the following number?\n51414543323152402015",
+   "options": [
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times",
+    "6 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Count each 1: it appears 4 time(s).",
+   "id": "CLR-ALP-035"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 3 appear in the following number?\n34001343014043440050",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Count each 3: it appears 4 time(s).",
+   "id": "CLR-ALP-036"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 1 appear in the following number?\n23422055444540515445",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Count each 1: it appears 1 time(s).",
+   "id": "CLR-ALP-037"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 1,
+   "question": "How many times does the digit 0 appear in the following number?\n33341310310000015323",
+   "options": [
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times",
+    "6 times"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Count each 0: it appears 6 time(s).",
+   "id": "CLR-ALP-038"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 1 come just after 2 in the following number?\n33414321664222164414114513",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Look for the pair \"21\". It occurs 2 time(s).",
+   "id": "CLR-ALP-039"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 2 come just after 6 in the following number?\n34565351644556262113444163",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Look for the pair \"62\". It occurs 2 time(s).",
+   "id": "CLR-ALP-040"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 3 come just after 4 in the following number?\n43113625622463224244165441",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"43\". It occurs 1 time(s).",
+   "id": "CLR-ALP-041"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 3 come just after 1 in the following number?\n43143335466551332164246164",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"13\". It occurs 1 time(s).",
+   "id": "CLR-ALP-042"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 2 come just after 1 in the following number?\n46233343166154612656152262",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"12\". It occurs 1 time(s).",
+   "id": "CLR-ALP-043"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 2 come just after 3 in the following number?\n32343526221445341656343555",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"32\". It occurs 1 time(s).",
+   "id": "CLR-ALP-044"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 1 come just after 3 in the following number?\n24255151144421524254211313",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Look for the pair \"31\". It occurs 1 time(s).",
+   "id": "CLR-ALP-045"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 2,
+   "question": "How many times does 3 come just after 4 in the following number?\n55225651645641634431513242",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"43\". It occurs 1 time(s).",
+   "id": "CLR-ALP-046"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter D come just before the letter C in the following letters?\nFCABECDABBCBBFECAAFABBBDCEBB",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"DC\". It occurs 1 time(s).",
+   "id": "CLR-ALP-047"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter A come just before the letter E in the following letters?\nACABFBEAAECCCBDFFFBBBBAEDBBC",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Look for the pair \"AE\". It occurs 2 time(s).",
+   "id": "CLR-ALP-048"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter C come just before the letter B in the following letters?\nBABEDDABBDAFCACBDFCEDEBBBBCF",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"CB\". It occurs 1 time(s).",
+   "id": "CLR-ALP-049"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter C come just before the letter D in the following letters?\nCDBCACABABECCDFBEFEDBEADBFBB",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Look for the pair \"CD\". It occurs 2 time(s).",
+   "id": "CLR-ALP-050"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter E come just before the letter A in the following letters?\nCDBFEEEEAAEFCECBDDDFBEFAECDD",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Look for the pair \"EA\". It occurs 1 time(s).",
+   "id": "CLR-ALP-051"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter E come just before the letter D in the following letters?\nDFEADFCCDFDFEDECEADABECDAFEF",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Look for the pair \"ED\". It occurs 1 time(s).",
+   "id": "CLR-ALP-052"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter B come just before the letter D in the following letters?\nEBDEAABAEFBFBAECFDFCAACFDBAF",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Look for the pair \"BD\". It occurs 1 time(s).",
+   "id": "CLR-ALP-053"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 3,
+   "question": "How many times does the letter D come just before the letter E in the following letters?\nBDAFEFFDEEDFEECBEAFBFCAEACFC",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Look for the pair \"DE\". It occurs 1 time(s).",
+   "id": "CLR-ALP-054"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 1 come just after 6 when 6 comes just after an even number?\n747142131375545525312746155275",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find every \"61\" that is preceded by an even digit. Matches: 461. That is 1.",
+   "id": "CLR-ALP-055"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 2 come just after 4 when 4 comes just after an odd number?\n342633332752642576121126635647",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find every \"42\" that is preceded by an odd digit. Matches: 342. That is 1.",
+   "id": "CLR-ALP-056"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 5 come just after 7 when 7 comes just after an even number?\n475256135422422445554131434115",
+   "options": [
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 times"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Find every \"75\" that is preceded by an even digit. Matches: 475. That is 1.",
+   "id": "CLR-ALP-057"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 5 come just after 6 when 6 comes just after an odd number?\n717371135677354512446373136571",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find every \"65\" that is preceded by an odd digit. Matches: 365. That is 1.",
+   "id": "CLR-ALP-058"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 2 come just after 7 when 7 comes just after an even number?\n375214162471642641367224322314",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find every \"72\" that is preceded by an even digit. Matches: 672. That is 1.",
+   "id": "CLR-ALP-059"
+  },
+  {
+   "level": "both",
+   "skill": "Counting in Strings",
+   "tier": 4,
+   "question": "In the following number, how many times does 4 come just after 1 when 1 comes just after an even number?\n442713773771236141541536416137",
+   "options": [
+    "0 times",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Find every \"14\" that is preceded by an even digit. Matches: 614. That is 1.",
+   "id": "CLR-ALP-060"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Which is the least number?\n6733, 9183, 7255, 2956, 7116",
+   "options": [
+    "7116",
+    "6733",
+    "9183",
+    "7255",
+    "2956"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Compare the numbers: the least is 2956.",
+   "id": "CLR-ALP-061"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Which is the greatest number?\n5611, 3531, 5277, 480, 2109",
+   "options": [
+    "2109",
+    "3531",
+    "5611",
+    "480",
+    "5277"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Compare the numbers: the greatest is 5611.",
+   "id": "CLR-ALP-062"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Which is the greatest number?\n5712, 4184, 5264, 8882, 5029",
+   "options": [
+    "5029",
+    "8882",
+    "4184",
+    "5712",
+    "5264"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Compare the numbers: the greatest is 8882.",
+   "id": "CLR-ALP-063"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Which is the greatest number?\n2468, 2327, 1885, 2515, 2534",
+   "options": [
+    "2468",
+    "2327",
+    "2515",
+    "2534",
+    "1885"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare the numbers: the greatest is 2534.",
+   "id": "CLR-ALP-064"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Arrange the numbers from least to greatest.\n1) 5566, 2) 5956, 3) 61, 4) 628, 5) 9358\nWhich is the correct arrangement?",
+   "options": [
+    "45123",
+    "21435",
+    "34125",
+    "54132",
+    "41253"
+   ],
+   "correctAnswer": 2,
+   "explanation": "34125. 3) 61 → 4) 628 → 1) 5566 → 2) 5956 → 5) 9358",
+   "id": "CLR-ALP-065"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Arrange the numbers from greatest to least.\n1) 2141, 2) 4468, 3) 6548, 4) 4005, 5) 7666\nWhich is the correct arrangement?",
+   "options": [
+    "15423",
+    "51342",
+    "53241",
+    "43521",
+    "35241"
+   ],
+   "correctAnswer": 2,
+   "explanation": "53241. 5) 7666 → 3) 6548 → 2) 4468 → 4) 4005 → 1) 2141",
+   "id": "CLR-ALP-066"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Which is the least number?\n5738, 8139, 5075, 8216, 1951",
+   "options": [
+    "5738",
+    "8139",
+    "8216",
+    "1951",
+    "5075"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Compare the numbers: the least is 1951.",
+   "id": "CLR-ALP-067"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 1,
+   "question": "Arrange the numbers from least to greatest.\n1) 5946, 2) 7764, 3) 9875, 4) 9589, 5) 732\nWhich is the correct arrangement?",
+   "options": [
+    "35214",
+    "25134",
+    "51423",
+    "51243",
+    "54321"
+   ],
+   "correctAnswer": 3,
+   "explanation": "51243. 5) 732 → 1) 5946 → 2) 7764 → 4) 9589 → 3) 9875",
+   "id": "CLR-ALP-068"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from greatest to least.\n1) 30.3, 2) 99.7, 3) 94.1, 4) 61.7, 5) 36.2\nWhich is the correct arrangement?",
+   "options": [
+    "23415",
+    "23451",
+    "23541",
+    "24351",
+    "54312"
+   ],
+   "correctAnswer": 1,
+   "explanation": "23451. 2) 99.7 → 3) 94.1 → 4) 61.7 → 5) 36.2 → 1) 30.3",
+   "id": "CLR-ALP-069"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from least to greatest.\n1) 9, 2) 78.9, 3) 34.9, 4) 48.7, 5) 58.7\nWhich is the correct arrangement?",
+   "options": [
+    "14352",
+    "13452",
+    "42531",
+    "41523",
+    "15342"
+   ],
+   "correctAnswer": 1,
+   "explanation": "13452. 1) 9 → 3) 34.9 → 4) 48.7 → 5) 58.7 → 2) 78.9",
+   "id": "CLR-ALP-070"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from least to greatest.\n1) 98.8, 2) 18.2, 3) 35.4, 4) 50.7, 5) 88.3\nWhich is the correct arrangement?",
+   "options": [
+    "23415",
+    "41325",
+    "52413",
+    "23451",
+    "24351"
+   ],
+   "correctAnswer": 3,
+   "explanation": "23451. 2) 18.2 → 3) 35.4 → 4) 50.7 → 5) 88.3 → 1) 98.8",
+   "id": "CLR-ALP-071"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from least to greatest.\n1) 48.9, 2) 40.5, 3) 56.2, 4) 29.5, 5) 38\nWhich is the correct arrangement?",
+   "options": [
+    "51234",
+    "31425",
+    "45231",
+    "45213",
+    "42513"
+   ],
+   "correctAnswer": 3,
+   "explanation": "45213. 4) 29.5 → 5) 38 → 2) 40.5 → 1) 48.9 → 3) 56.2",
+   "id": "CLR-ALP-072"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from least to greatest.\n1) 19.8, 2) 20.8, 3) 55.6, 4) 8.4, 5) 34\nWhich is the correct arrangement?",
+   "options": [
+    "12435",
+    "41253",
+    "14253",
+    "53214",
+    "52413"
+   ],
+   "correctAnswer": 1,
+   "explanation": "41253. 4) 8.4 → 1) 19.8 → 2) 20.8 → 5) 34 → 3) 55.6",
+   "id": "CLR-ALP-073"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from greatest to least.\n1) 79, 2) 7.3, 3) 34.5, 4) 69, 5) 56.5\nWhich is the correct arrangement?",
+   "options": [
+    "23541",
+    "35214",
+    "14532",
+    "24135",
+    "15432"
+   ],
+   "correctAnswer": 2,
+   "explanation": "14532. 1) 79 → 4) 69 → 5) 56.5 → 3) 34.5 → 2) 7.3",
+   "id": "CLR-ALP-074"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from least to greatest.\n1) 70.9, 2) 71.2, 3) 98.9, 4) 53, 5) 49.1\nWhich is the correct arrangement?",
+   "options": [
+    "34251",
+    "24153",
+    "51423",
+    "53241",
+    "54123"
+   ],
+   "correctAnswer": 4,
+   "explanation": "54123. 5) 49.1 → 4) 53 → 1) 70.9 → 2) 71.2 → 3) 98.9",
+   "id": "CLR-ALP-075"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 2,
+   "question": "Arrange the numbers from greatest to least.\n1) 89.9, 2) 49.8, 3) 81, 4) 74.4, 5) 66.3\nWhich is the correct arrangement?",
+   "options": [
+    "15432",
+    "54321",
+    "31452",
+    "24513",
+    "13452"
+   ],
+   "correctAnswer": 4,
+   "explanation": "13452. 1) 89.9 → 3) 81 → 4) 74.4 → 5) 66.3 → 2) 49.8",
+   "id": "CLR-ALP-076"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from least to greatest.\n1) 754.73, 2) 45.377, 3) 7.5374, 4) 7.7354, 5) 4.5377\nWhich is the correct arrangement?",
+   "options": [
+    "24153",
+    "54321",
+    "24315",
+    "53421",
+    "12435"
+   ],
+   "correctAnswer": 3,
+   "explanation": "53421. 5) 4.5377 → 3) 7.5374 → 4) 7.7354 → 2) 45.377 → 1) 754.73",
+   "id": "CLR-ALP-077"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from greatest to least.\n1) 3769.9, 2) 799.63, 3) 79.693, 4) 39.976, 5) 679.93\nWhich is the correct arrangement?",
+   "options": [
+    "12354",
+    "12534",
+    "21534",
+    "14235",
+    "43521"
+   ],
+   "correctAnswer": 1,
+   "explanation": "12534. 1) 3769.9 → 2) 799.63 → 5) 679.93 → 3) 79.693 → 4) 39.976",
+   "id": "CLR-ALP-078"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from least to greatest.\n1) 336.82, 2) 6323.8, 3) 8.6233, 4) 2836.3, 5) 6.3832\nWhich is the correct arrangement?",
+   "options": [
+    "51342",
+    "53241",
+    "53142",
+    "52314",
+    "35124"
+   ],
+   "correctAnswer": 2,
+   "explanation": "53142. 5) 6.3832 → 3) 8.6233 → 1) 336.82 → 4) 2836.3 → 2) 6323.8",
+   "id": "CLR-ALP-079"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from greatest to least.\n1) 362.66, 2) 266.63, 3) 2366.6, 4) 2.6366, 5) 6266.3\nWhich is the correct arrangement?",
+   "options": [
+    "21453",
+    "53142",
+    "12345",
+    "31245",
+    "53124"
+   ],
+   "correctAnswer": 4,
+   "explanation": "53124. 5) 6266.3 → 3) 2366.6 → 1) 362.66 → 2) 266.63 → 4) 2.6366",
+   "id": "CLR-ALP-080"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from greatest to least.\n1) 6.295, 2) 6925, 3) 296.5, 4) 9.5206, 5) 6502.9\nWhich is the correct arrangement?",
+   "options": [
+    "52341",
+    "52413",
+    "25431",
+    "34152",
+    "25341"
+   ],
+   "correctAnswer": 4,
+   "explanation": "25341. 2) 6925 → 5) 6502.9 → 3) 296.5 → 4) 9.5206 → 1) 6.295",
+   "id": "CLR-ALP-081"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from least to greatest.\n1) 8401, 2) 80.014, 3) 1040.8, 4) 1.84, 5) 14.8\nWhich is the correct arrangement?",
+   "options": [
+    "14532",
+    "24135",
+    "45321",
+    "13254",
+    "45231"
+   ],
+   "correctAnswer": 4,
+   "explanation": "45231. 4) 1.84 → 5) 14.8 → 2) 80.014 → 3) 1040.8 → 1) 8401",
+   "id": "CLR-ALP-082"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from greatest to least.\n1) 822.545, 2) 28255.4, 3) 2.25845, 4) 5824.52, 5) 225.854\nWhich is the correct arrangement?",
+   "options": [
+    "32154",
+    "14235",
+    "24153",
+    "24351",
+    "25341"
+   ],
+   "correctAnswer": 2,
+   "explanation": "24153. 2) 28255.4 → 4) 5824.52 → 1) 822.545 → 5) 225.854 → 3) 2.25845",
+   "id": "CLR-ALP-083"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 3,
+   "question": "Arrange the numbers from greatest to least.\n1) 4.3114, 2) 3404.11, 3) 1434.1, 4) 4341.01, 5) 1414.3\nWhich is the correct arrangement?",
+   "options": [
+    "42351",
+    "24351",
+    "24315",
+    "41235",
+    "43251"
+   ],
+   "correctAnswer": 0,
+   "explanation": "42351. 4) 4341.01 → 2) 3404.11 → 3) 1434.1 → 5) 1414.3 → 1) 4.3114",
+   "id": "CLR-ALP-084"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from least to greatest.\n1) −9.32, 2) 72.01, 3) −32.95, 4) −6.99, 5) −73.87\nWhich is the correct arrangement?",
+   "options": [
+    "23514",
+    "25134",
+    "14325",
+    "53124",
+    "53142"
+   ],
+   "correctAnswer": 4,
+   "explanation": "53142. 5) −73.87 → 3) −32.95 → 1) −9.32 → 4) −6.99 → 2) 72.01",
+   "id": "CLR-ALP-085"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from greatest to least.\n1) 35.46, 2) 54.35, 3) −37.69, 4) −34.38, 5) −67.69\nWhich is the correct arrangement?",
+   "options": [
+    "24135",
+    "14325",
+    "21345",
+    "21435",
+    "51243"
+   ],
+   "correctAnswer": 3,
+   "explanation": "21435. 2) 54.35 → 1) 35.46 → 4) −34.38 → 3) −37.69 → 5) −67.69",
+   "id": "CLR-ALP-086"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from greatest to least.\n1) −75.11, 2) 84.26, 3) −1.03, 4) −49.15, 5) −68.27\nWhich is the correct arrangement?",
+   "options": [
+    "23451",
+    "43512",
+    "31425",
+    "23541",
+    "23415"
+   ],
+   "correctAnswer": 0,
+   "explanation": "23451. 2) 84.26 → 3) −1.03 → 4) −49.15 → 5) −68.27 → 1) −75.11",
+   "id": "CLR-ALP-087"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from greatest to least.\n1) −5.29, 2) −91.51, 3) −16.46, 4) −19.54, 5) 88.63\nWhich is the correct arrangement?",
+   "options": [
+    "35214",
+    "51324",
+    "31542",
+    "35412",
+    "51342"
+   ],
+   "correctAnswer": 4,
+   "explanation": "51342. 5) 88.63 → 1) −5.29 → 3) −16.46 → 4) −19.54 → 2) −91.51",
+   "id": "CLR-ALP-088"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from greatest to least.\n1) −15.08, 2) −43.6, 3) 19.06, 4) −71.75, 5) 44.06\nWhich is the correct arrangement?",
+   "options": [
+    "51324",
+    "53124",
+    "13425",
+    "25134",
+    "42531"
+   ],
+   "correctAnswer": 1,
+   "explanation": "53124. 5) 44.06 → 3) 19.06 → 1) −15.08 → 2) −43.6 → 4) −71.75",
+   "id": "CLR-ALP-089"
+  },
+  {
+   "level": "both",
+   "skill": "Ordering Numbers",
+   "tier": 4,
+   "question": "Arrange the numbers from least to greatest.\n1) −14.81, 2) −24.55, 3) −69.99, 4) 91.21, 5) 39.4\nWhich is the correct arrangement?",
+   "options": [
+    "51234",
+    "41532",
+    "34521",
+    "43251",
+    "32154"
+   ],
+   "correctAnswer": 4,
+   "explanation": "32154. 3) −69.99 → 2) −24.55 → 1) −14.81 → 5) 39.4 → 4) 91.21",
+   "id": "CLR-ALP-090"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word TRAY?",
+   "options": [
+    "62",
+    "63",
+    "61",
+    "64",
+    "65"
+   ],
+   "correctAnswer": 3,
+   "explanation": "With A = 1, B = 2, …, Z = 26: T(20) + R(18) + A(1) + Y(25) = 64.",
+   "id": "CLR-ALP-091"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word FILE?",
+   "options": [
+    "32",
+    "29",
+    "31",
+    "33",
+    "30"
+   ],
+   "correctAnswer": 0,
+   "explanation": "With A = 1, B = 2, …, Z = 26: F(6) + I(9) + L(12) + E(5) = 32.",
+   "id": "CLR-ALP-092"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word FORM?",
+   "options": [
+    "51",
+    "53",
+    "49",
+    "52",
+    "50"
+   ],
+   "correctAnswer": 3,
+   "explanation": "With A = 1, B = 2, …, Z = 26: F(6) + O(15) + R(18) + M(13) = 52.",
+   "id": "CLR-ALP-093"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word DATA?",
+   "options": [
+    "24",
+    "27",
+    "26",
+    "23",
+    "25"
+   ],
+   "correctAnswer": 2,
+   "explanation": "With A = 1, B = 2, …, Z = 26: D(4) + A(1) + T(20) + A(1) = 26.",
+   "id": "CLR-ALP-094"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word SIGN?",
+   "options": [
+    "48",
+    "47",
+    "46",
+    "50",
+    "49"
+   ],
+   "correctAnswer": 4,
+   "explanation": "With A = 1, B = 2, …, Z = 26: S(19) + I(9) + G(7) + N(14) = 49.",
+   "id": "CLR-ALP-095"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word CODE?",
+   "options": [
+    "27",
+    "26",
+    "24",
+    "28",
+    "25"
+   ],
+   "correctAnswer": 0,
+   "explanation": "With A = 1, B = 2, …, Z = 26: C(3) + O(15) + D(4) + E(5) = 27.",
+   "id": "CLR-ALP-096"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word DESK?",
+   "options": [
+    "37",
+    "39",
+    "38",
+    "36",
+    "40"
+   ],
+   "correctAnswer": 1,
+   "explanation": "With A = 1, B = 2, …, Z = 26: D(4) + E(5) + S(19) + K(11) = 39.",
+   "id": "CLR-ALP-097"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 1,
+   "question": "If A = 1, B = 2, C = 3, … , Z = 26, what is the sum of the letter values in the word PEN?",
+   "options": [
+    "36",
+    "34",
+    "32",
+    "35",
+    "33"
+   ],
+   "correctAnswer": 3,
+   "explanation": "With A = 1, B = 2, …, Z = 26: P(16) + E(5) + N(14) = 35.",
+   "id": "CLR-ALP-098"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 2 places after it in the alphabet. How is CLERK written in this code?",
+   "options": [
+    "MTGNE",
+    "FOHUN",
+    "ENGTM",
+    "AJCPI",
+    "DMFSL"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Move each letter 2 place(s) forward: C→E, L→N, E→G, R→T, K→M. The code is ENGTM.",
+   "id": "CLR-ALP-099"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 3 places after it in the alphabet. How is ORDER written in this code?",
+   "options": [
+    "SVHIV",
+    "LOABO",
+    "UHGUR",
+    "RUGHU",
+    "QTFGT"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Move each letter 3 place(s) forward: O→R, R→U, D→G, E→H, R→U. The code is RUGHU.",
+   "id": "CLR-ALP-100"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 1 place after it in the alphabet. How is STAPLE written in this code?",
+   "options": [
+    "FMQBUT",
+    "VWDSOH",
+    "UVCRNG",
+    "WXETPI",
+    "TUBQMF"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Move each letter 1 place(s) forward: S→T, T→U, A→B, P→Q, L→M, E→F. The code is TUBQMF.",
+   "id": "CLR-ALP-101"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 3 places after it in the alphabet. How is MEMO written in this code?",
+   "options": [
+    "QIQS",
+    "RPHP",
+    "PHPR",
+    "JBJL",
+    "OGOQ"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Move each letter 3 place(s) forward: M→P, E→H, M→P, O→R. The code is PHPR.",
+   "id": "CLR-ALP-102"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 1 place after it in the alphabet. How is COPY written in this code?",
+   "options": [
+    "ZQPD",
+    "BNOX",
+    "EQR[",
+    "DPQZ",
+    "FRS\\"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Move each letter 1 place(s) forward: C→D, O→P, P→Q, Y→Z. The code is DPQZ.",
+   "id": "CLR-ALP-103"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 2 places after it in the alphabet. How is DATA written in this code?",
+   "options": [
+    "FCVC",
+    "GDWD",
+    "IFYF",
+    "CVCF",
+    "EBUB"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Move each letter 2 place(s) forward: D→F, A→C, T→V, A→C. The code is FCVC.",
+   "id": "CLR-ALP-104"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 2 places after it in the alphabet. How is FOLDER written in this code?",
+   "options": [
+    "TGFNQH",
+    "HQNFGT",
+    "IROGHU",
+    "DMJBCP",
+    "GPMEFS"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Move each letter 2 place(s) forward: F→H, O→Q, L→N, D→F, E→G, R→T. The code is HQNFGT.",
+   "id": "CLR-ALP-105"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 2,
+   "question": "In a code, each letter is replaced by the letter 2 places after it in the alphabet. How is ORDER written in this code?",
+   "options": [
+    "QTFGT",
+    "TGFTQ",
+    "PSEFS",
+    "RUGHU",
+    "MPBCP"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Move each letter 2 place(s) forward: O→Q, R→T, D→F, E→G, R→T. The code is QTFGT.",
+   "id": "CLR-ALP-106"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 5 places forward in the alphabet. What does the coded word WJHTWI stand for?",
+   "options": [
+    "WJHTWI",
+    "SFDPSE",
+    "QDBNQC",
+    "RECORD",
+    "DROCER"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Reverse the code: move each letter 5 places back. W→R, J→E, H→C, T→O, W→R, I→D. The word is RECORD.",
+   "id": "CLR-ALP-107"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 3 places forward in the alphabet. What does the coded word IROGHU stand for?",
+   "options": [
+    "GPMEFS",
+    "ENKCDQ",
+    "IROGHU",
+    "CLIABO",
+    "FOLDER"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reverse the code: move each letter 3 places back. I→F, R→O, O→L, G→D, H→E, U→R. The word is FOLDER.",
+   "id": "CLR-ALP-108"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 5 places forward in the alphabet. What does the coded word XNLS stand for?",
+   "options": [
+    "SIGN",
+    "RHFM",
+    "XNLS",
+    "NDBI",
+    "TJHO"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Reverse the code: move each letter 5 places back. X→S, N→I, L→G, S→N. The word is SIGN.",
+   "id": "CLR-ALP-109"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 3 places forward in the alphabet. What does the coded word RUGHU stand for?",
+   "options": [
+    "ORDER",
+    "PSEFS",
+    "RUGHU",
+    "NQCDQ",
+    "LOABO"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Reverse the code: move each letter 3 places back. R→O, U→R, G→D, H→E, U→R. The word is ORDER.",
+   "id": "CLR-ALP-110"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 3 places forward in the alphabet. What does the coded word VWDSOH stand for?",
+   "options": [
+    "TUBQMF",
+    "VWDSOH",
+    "ELPATS",
+    "RS@OKD",
+    "STAPLE"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reverse the code: move each letter 3 places back. V→S, W→T, D→A, S→P, O→L, H→E. The word is STAPLE.",
+   "id": "CLR-ALP-111"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 3 places forward in the alphabet. What does the coded word OHGJHU stand for?",
+   "options": [
+    "MFEHFS",
+    "OHGJHU",
+    "IBADBO",
+    "KDCFDQ",
+    "LEDGER"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reverse the code: move each letter 3 places back. O→L, H→E, G→D, J→G, H→E, U→R. The word is LEDGER.",
+   "id": "CLR-ALP-112"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 5 places forward in the alphabet. What does the coded word ITL stand for?",
+   "options": [
+    "EPH",
+    "ITL",
+    "GOD",
+    "CNF",
+    "DOG"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reverse the code: move each letter 5 places back. I→D, T→O, L→G. The word is DOG.",
+   "id": "CLR-ALP-113"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 3,
+   "question": "In a code, each letter is moved 4 places forward in the alphabet. What does the coded word WMKR stand for?",
+   "options": [
+    "OECJ",
+    "TJHO",
+    "RHFM",
+    "WMKR",
+    "SIGN"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Reverse the code: move each letter 4 places back. W→S, M→I, K→G, R→N. The word is SIGN.",
+   "id": "CLR-ALP-114"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the least sum of letter values?\nSTAMP, CLERK, RECORD, PEN, PAPER",
+   "options": [
+    "PAPER",
+    "CLERK",
+    "STAMP",
+    "RECORD",
+    "PEN"
+   ],
+   "correctAnswer": 4,
+   "explanation": "With A = 1, … , Z = 26 the sums are: STAMP = 69, CLERK = 49, RECORD = 63, PEN = 35, PAPER = 56. The least is PEN (35).",
+   "id": "CLR-ALP-115"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the least sum of letter values?\nFILE, PEN, BOOK, RECORD, FOLDER",
+   "options": [
+    "PEN",
+    "RECORD",
+    "FOLDER",
+    "BOOK",
+    "FILE"
+   ],
+   "correctAnswer": 4,
+   "explanation": "With A = 1, … , Z = 26 the sums are: FILE = 32, PEN = 35, BOOK = 43, RECORD = 63, FOLDER = 60. The least is FILE (32).",
+   "id": "CLR-ALP-116"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the greatest sum of letter values?\nFORM, BOOK, DATA, MEMO, CHART",
+   "options": [
+    "BOOK",
+    "MEMO",
+    "CHART",
+    "DATA",
+    "FORM"
+   ],
+   "correctAnswer": 4,
+   "explanation": "With A = 1, … , Z = 26 the sums are: FORM = 52, BOOK = 43, DATA = 26, MEMO = 46, CHART = 50. The greatest is FORM (52).",
+   "id": "CLR-ALP-117"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the greatest sum of letter values?\nFORM, BOOK, INDEX, COPY, ORDER",
+   "options": [
+    "INDEX",
+    "FORM",
+    "ORDER",
+    "BOOK",
+    "COPY"
+   ],
+   "correctAnswer": 2,
+   "explanation": "With A = 1, … , Z = 26 the sums are: FORM = 52, BOOK = 43, INDEX = 56, COPY = 59, ORDER = 60. The greatest is ORDER (60).",
+   "id": "CLR-ALP-118"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the least sum of letter values?\nMEMO, CHART, FORM, PEN, INDEX",
+   "options": [
+    "FORM",
+    "CHART",
+    "MEMO",
+    "PEN",
+    "INDEX"
+   ],
+   "correctAnswer": 3,
+   "explanation": "With A = 1, … , Z = 26 the sums are: MEMO = 46, CHART = 50, FORM = 52, PEN = 35, INDEX = 56. The least is PEN (35).",
+   "id": "CLR-ALP-119"
+  },
+  {
+   "level": "both",
+   "skill": "Letter Codes",
+   "tier": 4,
+   "question": "If A = 1, B = 2, … , Z = 26, which word has the least sum of letter values?\nSTAMP, BOOK, DESK, LEDGER, CLERK",
+   "options": [
+    "DESK",
+    "LEDGER",
+    "BOOK",
+    "CLERK",
+    "STAMP"
+   ],
+   "correctAnswer": 0,
+   "explanation": "With A = 1, … , Z = 26 the sums are: STAMP = 69, BOOK = 43, DESK = 39, LEDGER = 51, CLERK = 49. The least is DESK (39).",
+   "id": "CLR-ALP-120"
+  }
+ ]
+}

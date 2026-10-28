@@ -1,0 +1,1925 @@
+{
+ "module": "ratio-proportion-average",
+ "questions": [
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 35:14.",
+   "options": [
+    "6:2",
+    "35:2",
+    "2:5",
+    "5:3",
+    "5:2"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Divide both terms by 7.",
+   "id": "NUM-RAT-001"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 12:28.",
+   "options": [
+    "4:7",
+    "3:7",
+    "7:3",
+    "3:8",
+    "12:7"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide both terms by 4.",
+   "id": "NUM-RAT-002"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 20:12.",
+   "options": [
+    "6:3",
+    "20:3",
+    "5:4",
+    "3:5",
+    "5:3"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Divide both terms by 4.",
+   "id": "NUM-RAT-003"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 15:20.",
+   "options": [
+    "3:5",
+    "4:3",
+    "15:4",
+    "3:4",
+    "4:4"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide both terms by 5.",
+   "id": "NUM-RAT-004"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 12:30.",
+   "options": [
+    "3:5",
+    "2:6",
+    "5:2",
+    "2:5",
+    "12:5"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Divide both terms by 6.",
+   "id": "NUM-RAT-005"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 28:12.",
+   "options": [
+    "8:3",
+    "7:3",
+    "3:7",
+    "28:3",
+    "7:4"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Divide both terms by 4.",
+   "id": "NUM-RAT-006"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 35:25.",
+   "options": [
+    "8:5",
+    "35:5",
+    "7:5",
+    "7:6",
+    "5:7"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Divide both terms by 5.",
+   "id": "NUM-RAT-007"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 1,
+   "question": "Simplify the ratio 21:15.",
+   "options": [
+    "21:5",
+    "5:7",
+    "8:5",
+    "7:6",
+    "7:5"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Divide both terms by 3.",
+   "id": "NUM-RAT-008"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱40 is divided in the ratio 2:3. What is the bigger share?",
+   "options": [
+    "30",
+    "8",
+    "16",
+    "24",
+    "26"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total parts = 5; one part = 40 ÷ 5 = 8; the bigger share = 3 × 8 = 24.",
+   "id": "NUM-RAT-009"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱105 is divided in the ratio 3:4. What is the bigger share?",
+   "options": [
+    "56",
+    "80",
+    "45",
+    "60",
+    "15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total parts = 7; one part = 105 ÷ 7 = 15; the bigger share = 4 × 15 = 60.",
+   "id": "NUM-RAT-010"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱75 is divided in the ratio 2:3. What is the smaller share?",
+   "options": [
+    "27",
+    "45",
+    "15",
+    "30",
+    "60"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total parts = 5; one part = 75 ÷ 5 = 15; the smaller share = 2 × 15 = 30.",
+   "id": "NUM-RAT-011"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱42 is divided in the ratio 3:4. What is the bigger share?",
+   "options": [
+    "24",
+    "6",
+    "30",
+    "18",
+    "44"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total parts = 7; one part = 42 ÷ 7 = 6; the bigger share = 4 × 6 = 24.",
+   "id": "NUM-RAT-012"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱49 is divided in the ratio 3:4. What is the smaller share?",
+   "options": [
+    "7",
+    "28",
+    "35",
+    "18",
+    "21"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Total parts = 7; one part = 49 ÷ 7 = 7; the smaller share = 3 × 7 = 21.",
+   "id": "NUM-RAT-013"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱55 is divided in the ratio 2:3. What is the bigger share?",
+   "options": [
+    "40",
+    "32",
+    "33",
+    "11",
+    "22"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total parts = 5; one part = 55 ÷ 5 = 11; the bigger share = 3 × 11 = 33.",
+   "id": "NUM-RAT-014"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱105 is divided in the ratio 3:4. What is the smaller share?",
+   "options": [
+    "43",
+    "75",
+    "45",
+    "15",
+    "60"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total parts = 7; one part = 105 ÷ 7 = 15; the smaller share = 3 × 15 = 45.",
+   "id": "NUM-RAT-015"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 2,
+   "question": "₱60 is divided in the ratio 2:3. What is the smaller share?",
+   "options": [
+    "20",
+    "24",
+    "48",
+    "12",
+    "36"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Total parts = 5; one part = 60 ÷ 5 = 12; the smaller share = 2 × 12 = 24.",
+   "id": "NUM-RAT-016"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:4:6 and their total is 120. What is B?",
+   "options": [
+    "42",
+    "38",
+    "60",
+    "20",
+    "40"
+   ],
+   "correctAnswer": 4,
+   "explanation": "One part = 120 ÷ 12 = 10; B = 4 × 10 = 40.",
+   "id": "NUM-RAT-017"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:3:8 and their total is 91. What is B?",
+   "options": [
+    "21",
+    "18",
+    "56",
+    "14",
+    "25"
+   ],
+   "correctAnswer": 0,
+   "explanation": "One part = 91 ÷ 13 = 7; B = 3 × 7 = 21.",
+   "id": "NUM-RAT-018"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:3:6 and their total is 99. What is B?",
+   "options": [
+    "54",
+    "27",
+    "30",
+    "18",
+    "29"
+   ],
+   "correctAnswer": 1,
+   "explanation": "One part = 99 ÷ 11 = 9; B = 3 × 9 = 27.",
+   "id": "NUM-RAT-019"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:4:8 and their total is 84. What is B?",
+   "options": [
+    "22",
+    "28",
+    "48",
+    "24",
+    "12"
+   ],
+   "correctAnswer": 3,
+   "explanation": "One part = 84 ÷ 14 = 6; B = 4 × 6 = 24.",
+   "id": "NUM-RAT-020"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:5:6 and their total is 78. What is B?",
+   "options": [
+    "29",
+    "30",
+    "36",
+    "20",
+    "12"
+   ],
+   "correctAnswer": 1,
+   "explanation": "One part = 78 ÷ 13 = 6; B = 5 × 6 = 30.",
+   "id": "NUM-RAT-021"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:3:7 and their total is 60. What is B?",
+   "options": [
+    "35",
+    "15",
+    "14",
+    "13",
+    "10"
+   ],
+   "correctAnswer": 1,
+   "explanation": "One part = 60 ÷ 12 = 5; B = 3 × 5 = 15.",
+   "id": "NUM-RAT-022"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:5:8 and their total is 90. What is B?",
+   "options": [
+    "33",
+    "12",
+    "30",
+    "40",
+    "48"
+   ],
+   "correctAnswer": 2,
+   "explanation": "One part = 90 ÷ 15 = 6; B = 5 × 6 = 30.",
+   "id": "NUM-RAT-023"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 3,
+   "question": "The ratio of A:B:C is 2:4:6 and their total is 72. What is B?",
+   "options": [
+    "12",
+    "24",
+    "31",
+    "36",
+    "26"
+   ],
+   "correctAnswer": 1,
+   "explanation": "One part = 72 ÷ 12 = 6; B = 4 × 6 = 24.",
+   "id": "NUM-RAT-024"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 6:7 and B:C = 5:2, what is A:C?",
+   "options": [
+    "16:7",
+    "6:2",
+    "15:7",
+    "12:35",
+    "7:15"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Make B equal in both ratios, then multiply across: (6×5):(7×2) = 15:7.",
+   "id": "NUM-RAT-025"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 3:5 and B:C = 2:7, what is A:C?",
+   "options": [
+    "3:7",
+    "7:35",
+    "35:6",
+    "6:35",
+    "21:10"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Make B equal in both ratios, then multiply across: (3×2):(5×7) = 6:35.",
+   "id": "NUM-RAT-026"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 1:6 and B:C = 1:6, what is A:C?",
+   "options": [
+    "1:36",
+    "1:6",
+    "2:36",
+    "6:6",
+    "36:1"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Make B equal in both ratios, then multiply across: (1×1):(6×6) = 1:36.",
+   "id": "NUM-RAT-027"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 4:1 and B:C = 3:2, what is A:C?",
+   "options": [
+    "7:1",
+    "1:6",
+    "6:1",
+    "8:3",
+    "4:2"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Make B equal in both ratios, then multiply across: (4×3):(1×2) = 6:1.",
+   "id": "NUM-RAT-028"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 6:1 and B:C = 3:7, what is A:C?",
+   "options": [
+    "7:18",
+    "42:3",
+    "19:7",
+    "6:7",
+    "18:7"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Make B equal in both ratios, then multiply across: (6×3):(1×7) = 18:7.",
+   "id": "NUM-RAT-029"
+  },
+  {
+   "level": "both",
+   "skill": "Ratio",
+   "tier": 4,
+   "question": "If A:B = 6:5 and B:C = 3:1, what is A:C?",
+   "options": [
+    "6:1",
+    "18:5",
+    "19:5",
+    "5:18",
+    "6:15"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Make B equal in both ratios, then multiply across: (6×3):(5×1) = 18:5.",
+   "id": "NUM-RAT-030"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 2/4 = x/12",
+   "options": [
+    "5",
+    "6",
+    "12",
+    "13",
+    "3"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Cross-multiply: x = 2 × 12 ÷ 4 = 6.",
+   "id": "NUM-RAT-031"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 9/7 = x/14",
+   "options": [
+    "11",
+    "18",
+    "21",
+    "15",
+    "14"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Cross-multiply: x = 9 × 14 ÷ 7 = 18.",
+   "id": "NUM-RAT-032"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 7/8 = x/48",
+   "options": [
+    "43",
+    "42",
+    "13",
+    "38",
+    "48"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Cross-multiply: x = 7 × 48 ÷ 8 = 42.",
+   "id": "NUM-RAT-033"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 9/3 = x/18",
+   "options": [
+    "18",
+    "64",
+    "54",
+    "49",
+    "15"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Cross-multiply: x = 9 × 18 ÷ 3 = 54.",
+   "id": "NUM-RAT-034"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 6/5 = x/25",
+   "options": [
+    "31",
+    "35",
+    "11",
+    "25",
+    "30"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Cross-multiply: x = 6 × 25 ÷ 5 = 30.",
+   "id": "NUM-RAT-035"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 9/4 = x/8",
+   "options": [
+    "25",
+    "11",
+    "18",
+    "20",
+    "8"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Cross-multiply: x = 9 × 8 ÷ 4 = 18.",
+   "id": "NUM-RAT-036"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 4/3 = x/6",
+   "options": [
+    "6",
+    "18",
+    "8",
+    "28",
+    "10"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Cross-multiply: x = 4 × 6 ÷ 3 = 8.",
+   "id": "NUM-RAT-037"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 1,
+   "question": "Solve for x: 7/9 = x/45",
+   "options": [
+    "35",
+    "40",
+    "31",
+    "45",
+    "12"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Cross-multiply: x = 7 × 45 ÷ 9 = 35.",
+   "id": "NUM-RAT-038"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 6 notebooks cost ₱108, how much do 17 notebooks cost?",
+   "options": [
+    "306",
+    "302",
+    "301",
+    "198",
+    "125"
+   ],
+   "correctAnswer": 0,
+   "explanation": "One notebook costs 18; 17 cost 17 × 18 = ₱306.",
+   "id": "NUM-RAT-039"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 4 notebooks cost ₱60, how much do 10 notebooks cost?",
+   "options": [
+    "70",
+    "90",
+    "157",
+    "152",
+    "150"
+   ],
+   "correctAnswer": 4,
+   "explanation": "One notebook costs 15; 10 cost 10 × 15 = ₱150.",
+   "id": "NUM-RAT-040"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 6 notebooks cost ₱72, how much do 14 notebooks cost?",
+   "options": [
+    "163",
+    "96",
+    "86",
+    "174",
+    "168"
+   ],
+   "correctAnswer": 4,
+   "explanation": "One notebook costs 12; 14 cost 14 × 12 = ₱168.",
+   "id": "NUM-RAT-041"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 3 notebooks cost ₱54, how much do 9 notebooks cost?",
+   "options": [
+    "162",
+    "157",
+    "142",
+    "63",
+    "108"
+   ],
+   "correctAnswer": 0,
+   "explanation": "One notebook costs 18; 9 cost 9 × 18 = ₱162.",
+   "id": "NUM-RAT-042"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 8 notebooks cost ₱144, how much do 13 notebooks cost?",
+   "options": [
+    "235",
+    "254",
+    "157",
+    "90",
+    "234"
+   ],
+   "correctAnswer": 4,
+   "explanation": "One notebook costs 18; 13 cost 13 × 18 = ₱234.",
+   "id": "NUM-RAT-043"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 6 notebooks cost ₱108, how much do 11 notebooks cost?",
+   "options": [
+    "178",
+    "198",
+    "208",
+    "119",
+    "90"
+   ],
+   "correctAnswer": 1,
+   "explanation": "One notebook costs 18; 11 cost 11 × 18 = ₱198.",
+   "id": "NUM-RAT-044"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 6 notebooks cost ₱108, how much do 12 notebooks cost?",
+   "options": [
+    "236",
+    "108",
+    "218",
+    "216",
+    "120"
+   ],
+   "correctAnswer": 3,
+   "explanation": "One notebook costs 18; 12 cost 12 × 18 = ₱216.",
+   "id": "NUM-RAT-045"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 2,
+   "question": "If 4 notebooks cost ₱80, how much do 17 notebooks cost?",
+   "options": [
+    "336",
+    "260",
+    "335",
+    "97",
+    "340"
+   ],
+   "correctAnswer": 4,
+   "explanation": "One notebook costs 20; 17 cost 17 × 20 = ₱340.",
+   "id": "NUM-RAT-046"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "7 workers finish a job in 5 days. How many days will 5 workers (same pace) need?",
+   "options": [
+    "12",
+    "7",
+    "6",
+    "8",
+    "5"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Total work = 7 × 5 = 35 worker-days; ÷ 5 = 7 days (more workers, fewer days).",
+   "id": "NUM-RAT-047"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "3 workers finish a job in 12 days. How many days will 18 workers (same pace) need?",
+   "options": [
+    "2",
+    "6",
+    "12",
+    "7",
+    "72"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total work = 3 × 12 = 36 worker-days; ÷ 18 = 2 days (more workers, fewer days).",
+   "id": "NUM-RAT-048"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "4 workers finish a job in 5 days. How many days will 20 workers (same pace) need?",
+   "options": [
+    "8",
+    "6",
+    "1",
+    "3",
+    "25"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total work = 4 × 5 = 20 worker-days; ÷ 20 = 1 days (more workers, fewer days).",
+   "id": "NUM-RAT-049"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "12 workers finish a job in 13 days. How many days will 4 workers (same pace) need?",
+   "options": [
+    "5",
+    "41",
+    "59",
+    "39",
+    "35"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total work = 12 × 13 = 156 worker-days; ÷ 4 = 39 days (more workers, fewer days).",
+   "id": "NUM-RAT-050"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "7 workers finish a job in 18 days. How many days will 6 workers (same pace) need?",
+   "options": [
+    "21",
+    "16",
+    "41",
+    "23",
+    "5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total work = 7 × 18 = 126 worker-days; ÷ 6 = 21 days (more workers, fewer days).",
+   "id": "NUM-RAT-051"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "6 workers finish a job in 12 days. How many days will 3 workers (same pace) need?",
+   "options": [
+    "24",
+    "31",
+    "25",
+    "6",
+    "27"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total work = 6 × 12 = 72 worker-days; ÷ 3 = 24 days (more workers, fewer days).",
+   "id": "NUM-RAT-052"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "4 workers finish a job in 10 days. How many days will 2 workers (same pace) need?",
+   "options": [
+    "10",
+    "27",
+    "5",
+    "20",
+    "23"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total work = 4 × 10 = 40 worker-days; ÷ 2 = 20 days (more workers, fewer days).",
+   "id": "NUM-RAT-053"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 3,
+   "question": "12 workers finish a job in 15 days. How many days will 18 workers (same pace) need?",
+   "options": [
+    "12",
+    "8",
+    "10",
+    "5",
+    "7"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total work = 12 × 15 = 180 worker-days; ÷ 18 = 10 days (more workers, fewer days).",
+   "id": "NUM-RAT-054"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 10 km. Two cities are 14 cm apart on the map. What is the actual distance?",
+   "options": [
+    "150 km",
+    "24 km",
+    "140 km",
+    "70 km",
+    "280 km"
+   ],
+   "correctAnswer": 2,
+   "explanation": "14 × 10 = 140 km.",
+   "id": "NUM-RAT-055"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 40 km. Two cities are 8 cm apart on the map. What is the actual distance?",
+   "options": [
+    "360 km",
+    "48 km",
+    "640 km",
+    "320 km",
+    "160 km"
+   ],
+   "correctAnswer": 3,
+   "explanation": "8 × 40 = 320 km.",
+   "id": "NUM-RAT-056"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 5 km. Two cities are 3 cm apart on the map. What is the actual distance?",
+   "options": [
+    "8 km",
+    "15 km",
+    "30 km",
+    "7 km",
+    "20 km"
+   ],
+   "correctAnswer": 1,
+   "explanation": "3 × 5 = 15 km.",
+   "id": "NUM-RAT-057"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 50 km. Two cities are 5 cm apart on the map. What is the actual distance?",
+   "options": [
+    "55 km",
+    "500 km",
+    "300 km",
+    "250 km",
+    "125 km"
+   ],
+   "correctAnswer": 3,
+   "explanation": "5 × 50 = 250 km.",
+   "id": "NUM-RAT-058"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 100 km. Two cities are 8 cm apart on the map. What is the actual distance?",
+   "options": [
+    "108 km",
+    "800 km",
+    "400 km",
+    "1600 km",
+    "900 km"
+   ],
+   "correctAnswer": 1,
+   "explanation": "8 × 100 = 800 km.",
+   "id": "NUM-RAT-059"
+  },
+  {
+   "level": "both",
+   "skill": "Proportion",
+   "tier": 4,
+   "question": "On a map, 1 cm represents 100 km. Two cities are 14 cm apart on the map. What is the actual distance?",
+   "options": [
+    "1500 km",
+    "2800 km",
+    "1400 km",
+    "114 km",
+    "700 km"
+   ],
+   "correctAnswer": 2,
+   "explanation": "14 × 100 = 1400 km.",
+   "id": "NUM-RAT-060"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 75, 79, 90, 70, 71?",
+   "options": [
+    "77",
+    "73",
+    "67",
+    "80",
+    "385"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Sum = 385; ÷ 5 = 77.",
+   "id": "NUM-RAT-061"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 67, 74, 84, 91?",
+   "options": [
+    "79",
+    "77",
+    "316",
+    "74",
+    "99"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Sum = 316; ÷ 4 = 79.",
+   "id": "NUM-RAT-062"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 90, 90, 65, 91, 88, 68?",
+   "options": [
+    "89",
+    "102",
+    "82",
+    "492",
+    "85"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sum = 492; ÷ 6 = 82.",
+   "id": "NUM-RAT-063"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 89, 73, 75, 95?",
+   "options": [
+    "63",
+    "81",
+    "83",
+    "332",
+    "93"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sum = 332; ÷ 4 = 83.",
+   "id": "NUM-RAT-064"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 93, 80, 79, 72, 91?",
+   "options": [
+    "87",
+    "90",
+    "83",
+    "84",
+    "415"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sum = 415; ÷ 5 = 83.",
+   "id": "NUM-RAT-065"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 87, 65, 75, 81?",
+   "options": [
+    "87",
+    "78",
+    "84",
+    "308",
+    "77"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Sum = 308; ÷ 4 = 77.",
+   "id": "NUM-RAT-066"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 77, 98, 62, 75?",
+   "options": [
+    "98",
+    "77",
+    "312",
+    "78",
+    "58"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Sum = 312; ÷ 4 = 78.",
+   "id": "NUM-RAT-067"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 1,
+   "question": "What is the average of 90, 98, 74, 74?",
+   "options": [
+    "87",
+    "91",
+    "84",
+    "81",
+    "336"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Sum = 336; ÷ 4 = 84.",
+   "id": "NUM-RAT-068"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 79, 89, 77, 86. What score on the next test gives an average of 81?",
+   "options": [
+    "77",
+    "78",
+    "94",
+    "74",
+    "81"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Needed total = 81 × 5 = 405; minus 331 = 74.",
+   "id": "NUM-RAT-069"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 93, 88, 80. What score on the next test gives an average of 88?",
+   "options": [
+    "91",
+    "88",
+    "93",
+    "98",
+    "111"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Needed total = 88 × 4 = 352; minus 261 = 91.",
+   "id": "NUM-RAT-070"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 91, 86, 78, 90. What score on the next test gives an average of 85?",
+   "options": [
+    "100",
+    "83",
+    "85",
+    "90",
+    "80"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Needed total = 85 × 5 = 425; minus 345 = 80.",
+   "id": "NUM-RAT-071"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 89, 77, 92, 88. What score on the next test gives an average of 85?",
+   "options": [
+    "75",
+    "79",
+    "77",
+    "85",
+    "84"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Needed total = 85 × 5 = 425; minus 346 = 79.",
+   "id": "NUM-RAT-072"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 84, 77, 76. What score on the next test gives an average of 82?",
+   "options": [
+    "88",
+    "91",
+    "71",
+    "92",
+    "82"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Needed total = 82 × 4 = 328; minus 237 = 91.",
+   "id": "NUM-RAT-073"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 80, 78, 74, 87. What score on the next test gives an average of 81?",
+   "options": [
+    "86",
+    "76",
+    "81",
+    "92",
+    "87"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Needed total = 81 × 5 = 405; minus 319 = 86.",
+   "id": "NUM-RAT-074"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 79, 86, 82, 83. What score on the next test gives an average of 85?",
+   "options": [
+    "95",
+    "94",
+    "75",
+    "90",
+    "85"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Needed total = 85 × 5 = 425; minus 330 = 95.",
+   "id": "NUM-RAT-075"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 2,
+   "question": "A student has scores 82, 96, 82, 90. What score on the next test gives an average of 89?",
+   "options": [
+    "91",
+    "97",
+    "95",
+    "99",
+    "89"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Needed total = 89 × 5 = 445; minus 350 = 95.",
+   "id": "NUM-RAT-076"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 4 numbers is 89. When a new number, 79, is added, what is the new average?",
+   "options": [
+    "91",
+    "92",
+    "87",
+    "89",
+    "84"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Old total = 89 × 4 = 356; new total = 435; ÷ 5 = 87.",
+   "id": "NUM-RAT-077"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 9 numbers is 86. When a new number, 96, is added, what is the new average?",
+   "options": [
+    "87",
+    "92",
+    "85",
+    "86",
+    "91"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Old total = 86 × 9 = 774; new total = 870; ÷ 10 = 87.",
+   "id": "NUM-RAT-078"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 4 numbers is 74. When a new number, 64, is added, what is the new average?",
+   "options": [
+    "74",
+    "69",
+    "72",
+    "76",
+    "75"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Old total = 74 × 4 = 296; new total = 360; ÷ 5 = 72.",
+   "id": "NUM-RAT-079"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 4 numbers is 75. When a new number, 85, is added, what is the new average?",
+   "options": [
+    "79",
+    "75",
+    "77",
+    "80",
+    "67"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Old total = 75 × 4 = 300; new total = 385; ÷ 5 = 77.",
+   "id": "NUM-RAT-080"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 4 numbers is 90. When a new number, 80, is added, what is the new average?",
+   "options": [
+    "88",
+    "90",
+    "85",
+    "108",
+    "98"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Old total = 90 × 4 = 360; new total = 440; ÷ 5 = 88.",
+   "id": "NUM-RAT-081"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 9 numbers is 74. When a new number, 84, is added, what is the new average?",
+   "options": [
+    "55",
+    "75",
+    "74",
+    "76",
+    "79"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Old total = 74 × 9 = 666; new total = 750; ÷ 10 = 75.",
+   "id": "NUM-RAT-082"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 9 numbers is 78. When a new number, 88, is added, what is the new average?",
+   "options": [
+    "78",
+    "76",
+    "83",
+    "79",
+    "80"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Old total = 78 × 9 = 702; new total = 790; ÷ 10 = 79.",
+   "id": "NUM-RAT-083"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 3,
+   "question": "The average of 9 numbers is 75. When a new number, 65, is added, what is the new average?",
+   "options": [
+    "70",
+    "74",
+    "75",
+    "54",
+    "84"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Old total = 75 × 9 = 675; new total = 740; ÷ 10 = 74.",
+   "id": "NUM-RAT-084"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 12 students averaging 73; Section B has 18 students averaging 83. What is the combined average?",
+   "options": [
+    "79",
+    "80",
+    "78.5",
+    "78",
+    "79.5"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Total points = 12×73 + 18×83 = 2370; ÷ 30 students = 79.",
+   "id": "NUM-RAT-085"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 34 students averaging 61; Section B has 24 students averaging 90. What is the combined average?",
+   "options": [
+    "72.5",
+    "73.5",
+    "73",
+    "75",
+    "74"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total points = 34×61 + 24×90 = 4234; ÷ 58 students = 73.",
+   "id": "NUM-RAT-086"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 16 students averaging 77; Section B has 10 students averaging 90. What is the combined average?",
+   "options": [
+    "83",
+    "82.5",
+    "81",
+    "82",
+    "81.5"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Total points = 16×77 + 10×90 = 2132; ÷ 26 students = 82.",
+   "id": "NUM-RAT-087"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 32 students averaging 93; Section B has 16 students averaging 81. What is the combined average?",
+   "options": [
+    "89.5",
+    "89",
+    "90",
+    "88.5",
+    "87"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Total points = 32×93 + 16×81 = 4272; ÷ 48 students = 89.",
+   "id": "NUM-RAT-088"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 12 students averaging 66; Section B has 12 students averaging 86. What is the combined average?",
+   "options": [
+    "77",
+    "75.5",
+    "76",
+    "76.5",
+    "75"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Total points = 12×66 + 12×86 = 1824; ÷ 24 students = 76.",
+   "id": "NUM-RAT-089"
+  },
+  {
+   "level": "both",
+   "skill": "Average (Mean)",
+   "tier": 4,
+   "question": "Section A has 17 students averaging 75; Section B has 34 students averaging 87. What is the combined average?",
+   "options": [
+    "83.5",
+    "84",
+    "81",
+    "82.5",
+    "83"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Total points = 17×75 + 34×87 = 4233; ÷ 51 students = 83.",
+   "id": "NUM-RAT-090"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 6, 36, 5, 38, 10.",
+   "options": [
+    "17",
+    "5",
+    "11",
+    "19",
+    "10"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Arrange in order: 5, 6, 10, 36, 38; the middle value is 10.",
+   "id": "NUM-RAT-091"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 19, 18, 21, 26, 6.",
+   "options": [
+    "18",
+    "21",
+    "19",
+    "24",
+    "26"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Arrange in order: 6, 18, 19, 21, 26; the middle value is 19.",
+   "id": "NUM-RAT-092"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 4, 16, 27, 6, 36.",
+   "options": [
+    "26",
+    "16",
+    "17",
+    "11",
+    "27"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Arrange in order: 4, 6, 16, 27, 36; the middle value is 16.",
+   "id": "NUM-RAT-093"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 22, 9, 7, 33, 35.",
+   "options": [
+    "21",
+    "7",
+    "22",
+    "2",
+    "19"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Arrange in order: 7, 9, 22, 33, 35; the middle value is 22.",
+   "id": "NUM-RAT-094"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 30, 21, 2, 23, 9.",
+   "options": [
+    "28",
+    "21",
+    "24",
+    "2",
+    "17"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Arrange in order: 2, 9, 21, 23, 30; the middle value is 21.",
+   "id": "NUM-RAT-095"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 10, 26, 2, 37, 3.",
+   "options": [
+    "15",
+    "10",
+    "2",
+    "6",
+    "8"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Arrange in order: 2, 3, 10, 26, 37; the middle value is 10.",
+   "id": "NUM-RAT-096"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 33, 29, 24, 21, 28.",
+   "options": [
+    "27",
+    "24",
+    "33",
+    "28",
+    "23"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Arrange in order: 21, 24, 28, 29, 33; the middle value is 28.",
+   "id": "NUM-RAT-097"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 1,
+   "question": "Find the median of 6, 7, 19, 12, 26.",
+   "options": [
+    "9",
+    "19",
+    "14",
+    "12",
+    "15"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Arrange in order: 6, 7, 12, 19, 26; the middle value is 12.",
+   "id": "NUM-RAT-098"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 20, 23, 38, 47, 24, 22.",
+   "options": [
+    "21",
+    "24",
+    "43",
+    "23.5",
+    "26"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ordered: 20, 22, 23, 24, 38, 47. Average the two middle values 23 and 24.",
+   "id": "NUM-RAT-099"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 25, 8, 49, 6, 21, 11.",
+   "options": [
+    "31",
+    "21",
+    "16",
+    "6",
+    "12"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ordered: 6, 8, 11, 21, 25, 49. Average the two middle values 11 and 21.",
+   "id": "NUM-RAT-100"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 10, 22, 19, 42, 24, 4.",
+   "options": [
+    "20.5",
+    "22",
+    "17",
+    "20",
+    "16"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ordered: 4, 10, 19, 22, 24, 42. Average the two middle values 19 and 22.",
+   "id": "NUM-RAT-101"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 26, 6, 43, 31, 14, 10.",
+   "options": [
+    "26",
+    "15",
+    "20",
+    "10",
+    "11"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Ordered: 6, 10, 14, 26, 31, 43. Average the two middle values 14 and 26.",
+   "id": "NUM-RAT-102"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 27, 12, 36, 46, 38, 21.",
+   "options": [
+    "30",
+    "31.5",
+    "28",
+    "36",
+    "24"
+   ],
+   "correctAnswer": 1,
+   "explanation": "Ordered: 12, 21, 27, 36, 38, 46. Average the two middle values 27 and 36.",
+   "id": "NUM-RAT-103"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 39, 8, 15, 28, 36, 27.",
+   "options": [
+    "28",
+    "47",
+    "32",
+    "27.5",
+    "30"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Ordered: 8, 15, 27, 28, 36, 39. Average the two middle values 27 and 28.",
+   "id": "NUM-RAT-104"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 29, 47, 43, 40, 11, 5.",
+   "options": [
+    "34.5",
+    "24",
+    "40",
+    "30",
+    "33"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Ordered: 5, 11, 29, 40, 43, 47. Average the two middle values 29 and 40.",
+   "id": "NUM-RAT-105"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 2,
+   "question": "Find the median of 26, 2, 32, 25, 39, 21.",
+   "options": [
+    "29",
+    "26",
+    "32",
+    "21",
+    "25.5"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Ordered: 2, 21, 25, 26, 32, 39. Average the two middle values 25 and 26.",
+   "id": "NUM-RAT-106"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 21, 13, 12, 10, 4, 4?",
+   "options": [
+    "13",
+    "4",
+    "12",
+    "9",
+    "5"
+   ],
+   "correctAnswer": 1,
+   "explanation": "4 appears most often.",
+   "id": "NUM-RAT-107"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 25, 10, 11, 10, 20, 24, 10?",
+   "options": [
+    "11",
+    "10",
+    "24",
+    "9",
+    "14"
+   ],
+   "correctAnswer": 1,
+   "explanation": "10 appears most often.",
+   "id": "NUM-RAT-108"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 10, 28, 17, 8, 29, 8?",
+   "options": [
+    "28",
+    "13",
+    "8",
+    "7",
+    "29"
+   ],
+   "correctAnswer": 2,
+   "explanation": "8 appears most often.",
+   "id": "NUM-RAT-109"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 22, 16, 16, 18, 28, 16, 9?",
+   "options": [
+    "15",
+    "17",
+    "18",
+    "28",
+    "16"
+   ],
+   "correctAnswer": 4,
+   "explanation": "16 appears most often.",
+   "id": "NUM-RAT-110"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 15, 28, 18, 18, 6, 18, 11?",
+   "options": [
+    "28",
+    "18",
+    "21",
+    "22",
+    "6"
+   ],
+   "correctAnswer": 1,
+   "explanation": "18 appears most often.",
+   "id": "NUM-RAT-111"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 8, 28, 15, 7, 14, 7, 7?",
+   "options": [
+    "3",
+    "14",
+    "7",
+    "17",
+    "8"
+   ],
+   "correctAnswer": 2,
+   "explanation": "7 appears most often.",
+   "id": "NUM-RAT-112"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 2, 12, 12, 5, 8, 6?",
+   "options": [
+    "8",
+    "12",
+    "2",
+    "7",
+    "18"
+   ],
+   "correctAnswer": 1,
+   "explanation": "12 appears most often.",
+   "id": "NUM-RAT-113"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 3,
+   "question": "What is the mode of 23, 16, 16, 19, 14, 16, 6?",
+   "options": [
+    "19",
+    "23",
+    "11",
+    "16",
+    "22"
+   ],
+   "correctAnswer": 3,
+   "explanation": "16 appears most often.",
+   "id": "NUM-RAT-114"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 51, 39, 45, 40, 15, what is the range plus the median?",
+   "options": [
+    "76",
+    "79",
+    "36",
+    "37",
+    "40"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Range = 51 − 15 = 36; median = 40; sum = 76.",
+   "id": "NUM-RAT-115"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 43, 57, 4, 16, 23, what is the range plus the median?",
+   "options": [
+    "23",
+    "79",
+    "76",
+    "53",
+    "30"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Range = 57 − 4 = 53; median = 23; sum = 76.",
+   "id": "NUM-RAT-116"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 27, 25, 32, 20, 28, what is the range plus the median?",
+   "options": [
+    "38",
+    "12",
+    "27",
+    "13",
+    "39"
+   ],
+   "correctAnswer": 4,
+   "explanation": "Range = 32 − 20 = 12; median = 27; sum = 39.",
+   "id": "NUM-RAT-117"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 12, 4, 30, 3, 18, what is the range plus the median?",
+   "options": [
+    "46",
+    "27",
+    "39",
+    "12",
+    "15"
+   ],
+   "correctAnswer": 2,
+   "explanation": "Range = 30 − 3 = 27; median = 12; sum = 39.",
+   "id": "NUM-RAT-118"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 16, 21, 36, 53, 37, what is the range plus the median?",
+   "options": [
+    "73",
+    "1",
+    "69",
+    "36",
+    "37"
+   ],
+   "correctAnswer": 0,
+   "explanation": "Range = 53 − 16 = 37; median = 36; sum = 73.",
+   "id": "NUM-RAT-119"
+  },
+  {
+   "level": "both",
+   "skill": "Median, Mode & Range",
+   "tier": 4,
+   "question": "For the data 20, 13, 8, 4, 14, what is the range plus the median?",
+   "options": [
+    "16",
+    "30",
+    "13",
+    "29",
+    "3"
+   ],
+   "correctAnswer": 3,
+   "explanation": "Range = 20 − 4 = 16; median = 13; sum = 29.",
+   "id": "NUM-RAT-120"
+  }
+ ]
+}
